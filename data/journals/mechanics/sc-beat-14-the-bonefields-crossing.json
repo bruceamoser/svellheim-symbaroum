@@ -1,0 +1,52 @@
+{
+  "_id": "bpPzfqrD8dqonk6Z",
+  "name": "Montage: Beat 14 — The Bone-Fields Crossing",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391003999,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "abmE6sHAVygdJebb",
+      "name": "Beat 14 — The Bone-Fields Crossing",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1>Beat 14 — The Bone-Fields Crossing</h1>\n<p><strong>Act:</strong> Act 2 | <strong>Type:</strong> Montage Scene</p>\n<hr><h2>Overview</h2><p>The Bone-Fields: a vast ancient battlefield where the bones of giants and soldiers have calcified into the landscape itself. The party must cross this terrain — sterile snow, calcified bone-white ground, enormous rib-cages arching overhead, small human bones underfoot. Failure triggers the Barrow-Draugr + Bone-Singer combat scene. Success determines whether the party crosses undiscovered. Read-aloud: \"You are stepping onto a landscape of white. Not pristine white, but the white of calcified bone.\"</p>\n<hr><h2>Running This Scene</h2>\n<p>This is a <strong>narrative montage</strong> — a series of challenges the party faces as a group. Rather than a single roll, play this out as a sequence of scenes where each character contributes.</p>\n<h3>GM Guidance</h3>\n<ul>\n<li>Go around the table and ask each player how their character is helping.</li>\n<li>Call for ability checks as appropriate — suggested modified [Resolute←15] (hard).</li>\n<li>Let creative approaches succeed with good roleplaying, even without a roll.</li>\n<li>Use the complications below as prompts — not every one needs to come up.</li>\n<li>The goal is collaborative storytelling, not a pass/fail test.</li>\n</ul>\n<p><strong>Relevant Skills:</strong></p><ul>\n<li>Strong</li>\n<li>Quick or Discreet</li>\n<li>Cunning or Cunning</li>\n<li>Vigilant, Vigilant, or Vigilant</li>\n<li>Persuasive, Persuasive, or Persuasive</li>\n</ul>\n<hr><h2>Complications &amp; Challenges</h2>\n<p>Use these as dramatic beats during the montage. Present them as situations the party must navigate together.</p>\n<p>Navigation in the Bone-Fields is disorienting — every direction looks the same. Enormous calcified ribcages and femurs serve as landmarks but also as ambush concealment. The party must keep moving north while managing the psychological weight of the landscape. The grass here simply stopped growing. The snow is sterile and strange.</p><ul><li><strong>Reason:</strong> Navigate by stellar or geological markers (the sky is overcast — this is hard; the Bone-Fields have no reliable landmarks).</li><li><strong>Intuition:</strong> Sense disturbances in the field — vibrations from bones starting to shift underfoot as the Barrow-Draugr begin to wake to the heat of living creatures.</li><li><strong>Might:</strong> Clear a path through a section of calcified bone-shelf collapse (enormous bones, some still sharp).</li><li><strong>Presence:</strong> One hero must keep the group's morale intact. The Bone-Fields are oppressively wrong — the smell of age, the silence, the knowledge that these were people once.</li></ul>\n<h3>Escalation</h3>\n<p>If the scene needs more tension, introduce these additional complications:</p>\n<p>Midway through, the party hears it: a wail from the northern rise. Not wind — the Bone-Singer. The party must move quickly and carefully before the Singer fully awakens and Barrow-Draugr begin rising from the ground around them. Kaelen says: \"Don't stop. Don't stop walking.\"</p><ul><li><strong>Agility:</strong> Sprint across an open bone-plate section, moving too fast for the Barrow-Draugr to track the vibration source.</li><li><strong>Intuition:</strong> Identify from the Singer's wail direction whether it has fully awoken them or is still searching — threading the gap.</li><li><strong>Reason:</strong> Recall that Root-Rune symbols on some of the giant bones might serve as wards — if activated (Reason, hard), the Barrow-Draugr near one section go dormant again.</li><li><strong>Presence:</strong> The Singer's wail causes dread. Keep the party focused and moving rather than freezing or scattering.</li></ul>\n<hr><h2>Outcomes</h2>\n<p>Based on how the party performed, use the following as a guide:</p>\n<p><strong>Total Success R1:</strong> The party navigates cleanly through the first third of the Bone-Fields. No Barrow-Draugr have stirred yet. Kaelen notes: \"The Rot is very old here. These bones have been rotting for centuries — slowly. Someone is accelerating it now.\"<br><strong>Partial Success R1:</strong> The party moves but takes a wrong turning. Add 2 hours to crossing time. One hero takes 3 psychic damage from the oppressive wrongness of the terrain.<br><strong>Failure R1:</strong> The party disturbs a bone-shelf, making significant noise. Underground, Barrow-Draugr stir. Count 1 toward failure track.</p>\n<p><strong>Total Success:</strong> The party clears the Bone-Fields before the Barrow-Draugr fully rise. The Singer's wail fades behind them. To the north: the faint outline of the Ivory Tower. No combat. Kaelen: \"Someone is using the Rot to accelerate what should be slow. Something is weaponizing death itself.\"<br><strong>Partial Success:</strong> The party makes it through but three Barrow-Draugr fully rise and pursue them to the Fields' second chance (two rolls, take best). They can run (Agility vs. Barrow-Draugr Might, party escapes without combat) or fight (2 Barrow-Draugr + 1 Bone-Singer — the Singer hangs back).<br><strong>Failure:</strong> The Bone-Singer's wail triggers the full scene. Combat begins: 4 Barrow-Draugr rise from the ground to the south, 1 Bone-Singer on the northern rise. Director reads the Round 1 Interlude combat intro.</p>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391003999,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,790 @@
+{
+  "_id": "rko8Md8wAbEMUKfx",
+  "name": "Bone-Singer",
+  "type": "monster",
+  "img": "icons/magic/death/undead-skeleton-deformed-red.webp",
+  "system": {
+    "attributes": {
+      "strong": {
+        "value": 15,
+        "bonus": 0,
+        "total": 15,
+        "modifier": -5,
+        "temporaryMod": 0
+      },
+      "quick": {
+        "value": 13,
+        "bonus": 0,
+        "total": 13,
+        "modifier": -3,
+        "temporaryMod": 0
+      },
+      "cunning": {
+        "value": 12,
+        "bonus": 0,
+        "total": 12,
+        "modifier": -2,
+        "temporaryMod": 0
+      },
+      "vigilant": {
+        "value": 13,
+        "bonus": 0,
+        "total": 13,
+        "modifier": -3,
+        "temporaryMod": 0
+      },
+      "persuasive": {
+        "value": 9,
+        "bonus": 0,
+        "total": 9,
+        "modifier": 1,
+        "temporaryMod": 0
+      },
+      "accurate": {
+        "value": 14,
+        "bonus": 0,
+        "total": 14,
+        "modifier": -4,
+        "temporaryMod": 0
+      },
+      "discreet": {
+        "value": 10,
+        "bonus": 0,
+        "total": 10,
+        "modifier": 0,
+        "temporaryMod": 0
+      },
+      "resolute": {
+        "value": 11,
+        "bonus": 0,
+        "total": 11,
+        "modifier": -1,
+        "temporaryMod": 0
+      }
+    },
+    "health": {
+      "toughness": {
+        "value": 30,
+        "max": 30,
+        "threshold": 15
+      },
+      "corruption": {
+        "value": 0,
+        "max": 0,
+        "threshold": 0
+      }
+    },
+    "combat": {
+      "baseProtection": "0",
+      "bonusProtection": "",
+      "qualities": {},
+      "cost": "",
+      "state": "other",
+      "impeding": 0
+    },
+    "bio": {
+      "race": "Undead",
+      "occupation": "Controller",
+      "quote": "",
+      "shadow": "A large Undead of DS level 4 (horde)",
+      "manner": ""
+    },
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "experience": {
+      "total": 0,
+      "artifactrr": 0,
+      "spent": 0,
+      "available": 0
+    },
+    "nbrOfFailedDeathRoll": 0,
+    "isMonster": true
+  },
+  "items": [
+    {
+      "_id": "1ai3ojfHIsSzqIjn",
+      "name": "Lethe",
+      "type": "trait",
+      "img": "icons/creatures/abilities/dragon-fire-breath-orange.webp",
+      "system": {
+        "description": "<p>While the bone-singer is winded, they gain an advantage (second chance) on strikes, and any strike made against them gains an advantage (second chance).</p>",
+        "reference": "",
+        "novice": {
+          "isActive": false,
+          "action": "P",
+          "description": "<p>While the bone-singer is winded, they gain an advantage (second chance) on strikes, and any strike made against them gains an advantage (second chance).</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456667,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "UQLbQJ2WmuzOg7tA",
+      "name": "Soulsight",
+      "type": "trait",
+      "img": "icons/creatures/abilities/dragon-fire-breath-orange.webp",
+      "system": {
+        "description": "<p>Any creature within 2 meters of the bone-singer can't be hidden from them.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": false,
+          "action": "P",
+          "description": "<p>Any creature within 2 meters of the bone-singer can't be hidden from them.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456667,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1Jzbo3lCVQknJ5UT",
+      "name": "Bilious Expulsion",
+      "type": "weapon",
+      "img": "icons/skills/melee/strike-polearm-glowing-white.webp",
+      "system": {
+        "description": "<p>The ground and any surfaces in the area pool with slime. The slime is difficult terrain for enemies, and any enemy is bleeding while in the area.</p>",
+        "attribute": "strong",
+        "reference": "ranged",
+        "baseDamage": "1d8",
+        "bonusDamage": "",
+        "alternativeDamage": "",
+        "cost": "",
+        "number": 1,
+        "isArtifact": false,
+        "quality": "",
+        "qualities": {},
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "power": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456667,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1T08bZ4N1gu3ePv2",
+      "name": "Spew Slide",
+      "type": "ability",
+      "img": "icons/magic/air/air-wave-gust-blue.webp",
+      "system": {
+        "description": "<p>The bone-singer vomits with great corruption, letting them shift up to their speed and ignore any additional effects from the strike. The space the bone-singer occupied before the shift is covered in slime that is difficult terrain for enemies. Additionally, any enemy is bleeding while in the slime.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>The bone-singer vomits with great corruption, letting them shift up to their speed and ignore any additional effects from the strike. The space the bone-singer occupied before the shift is covered in slime that is difficult terrain for enemies. Additionally, any enemy is bleeding while in the slime.</p>"
+        },
+        "adept": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456668,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1ToEdQaM54ZlP4pM",
+      "name": "Abyssal Jaunt",
+      "type": "ability",
+      "img": "icons/magic/unholy/orb-swirling-teal.webp",
+      "system": {
+        "description": "<p>One demon acting this turn folds space around them, temporarily slipping in and out of the Abyssal Wasteland. Until the start of the demon’s next turn, they ignore difficult terrain, can move through solid matter, and don’t provoke opportunity attacks by moving. If the demon ends their turn inside solid matter, they are shunted out into the space from which they entered it.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>One demon acting this turn folds space around them, temporarily slipping in and out of the Abyssal Wasteland. Until the start of the demon’s next turn, they ignore difficult terrain, can move through solid matter, and don’t provoke opportunity attacks by moving. If the demon ends their turn inside solid matter, they are shunted out into the space from which they entered it.</p>"
+        },
+        "adept": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456668,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "CW9VNAxHMNEg7iOf",
+      "name": "undead",
+      "type": "trait",
+      "img": "systems/symbaroum/asset/image/trait.png",
+      "system": {
+        "description": "",
+        "reference": "undead",
+        "novice": {
+          "isActive": true,
+          "action": "P",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456668,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "rofMSITHrTAKtXD5",
+      "name": "gravelycold",
+      "type": "trait",
+      "img": "systems/symbaroum/asset/image/trait.png",
+      "system": {
+        "description": "",
+        "reference": "gravelycold",
+        "novice": {
+          "isActive": true,
+          "action": "P",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456668,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "TEryFYv3wslIz7t2",
+      "name": "Enthrall",
+      "type": "trait",
+      "img": "systems/symbaroum/asset/image/trait.png",
+      "system": {
+        "description": "",
+        "reference": "enthrall",
+        "novice": {
+          "isActive": true,
+          "action": "P",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456668,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Bone-Singer",
+    "displayName": 20,
+    "actorLink": false,
+    "disposition": -1,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/magic/death/undead-skeleton-deformed-red.webp",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "health.toughness"
+    },
+    "bar2": {
+      "attribute": "health.corruption"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919456668,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

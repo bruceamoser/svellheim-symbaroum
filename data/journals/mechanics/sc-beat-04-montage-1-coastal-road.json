@@ -1,0 +1,52 @@
+{
+  "_id": "yqrY5J0IEvoEZW9L",
+  "name": "Montage: Beat 4a \\u2014 The Coastal Road",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391003993,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "1OA3ESLpJuHOR54n",
+      "name": "Beat 4a \\u2014 The Coastal Road",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1>Beat 4a \\u2014 The Coastal Road</h1>\n<p><strong>Act:</strong> Act 1 | <strong>Type:</strong> Montage Scene</p>\n<hr><h2>Overview</h2><p>The party has left Hrafnborg before dawn with forged papers and the King's supplies. Ahead: the Lantern Road north through frozen farmland, the treacherous Frostfen Marshes, and the refugee-choked Herdweg junction — roughly 100 miles and 4–5 days on failing roads through the Fimbulwinter.</p><p>This montage test covers the first leg of the journey to Stairwatch: from the city gates to the edge of Midgard's Shield foothills, before the Chainwarden Toll at Greypass.</p>\n<hr><h2>Running This Scene</h2>\n<p>This is a <strong>narrative montage</strong> — a series of challenges the party faces as a group. Rather than a single roll, play this out as a sequence of scenes where each character contributes.</p>\n<h3>GM Guidance</h3>\n<ul>\n<li>Go around the table and ask each player how their character is helping.</li>\n<li>Call for ability checks as appropriate — suggested modified [Resolute←15] (hard).</li>\n<li>Let creative approaches succeed with good roleplaying, even without a roll.</li>\n<li>Use the complications below as prompts — not every one needs to come up.</li>\n<li>The goal is collaborative storytelling, not a pass/fail test.</li>\n</ul>\n<p><strong>Relevant Skills:</strong></p><ul>\n<li>Strong</li>\n<li>Quick or Discreet</li>\n<li>Cunning or Cunning</li>\n<li>Vigilant, Vigilant, or Vigilant</li>\n<li>Persuasive, Persuasive, or Persuasive</li>\n</ul>\n<hr><h2>Complications &amp; Challenges</h2>\n<p>Use these as dramatic beats during the montage. Present them as situations the party must navigate together.</p>\n<p><strong>Round 1: The Lantern Road and the Frostfen</strong></p><p>The road is failing. Mile-markers are buried or stolen. Chainwarden patrols demand papers from northbound travelers. Ahead, the Frostfen Marshes: thin ice over black water, a half-collapsed causeway, and a cold that feels wrong — wetter, heavier, like the land itself is exhaling.</p><ul><li><strong>Navigate the Lantern Road</strong> (Cunning or Cunning, modified [Resolute←15]) — Read buried markers, plot detours around collapsed sections, choose the right fork when the road splits.</li><li><strong>Endure the cold and ration supplies</strong> (Strong, modified [Resolute←15]) — Resist frostbite, carry gear through snowdrifts, ford frozen streams. Supplies must last ten days.</li><li><strong>Deceive early Chainwarden patrols</strong> (Persuasive, Persuasive, or Persuasive, modified [Resolute←15]) — Talk past a roving patrol with forged papers; explain why you're heading north when everyone else goes south.</li><li><strong>Scout safe passage through the Frostfen</strong> (Vigilant, Vigilant, or Vigilant, modified [Resolute←15]) — Find the old causeway stones buried under frost. Avoid thin ice hiding black water beneath.</li><li><strong>Navigate the Frostfen at night</strong> (Quick or Discreet, modified [Resolute←15]) — Cross the worst section after dark on ice-slick stones. Balance, leap tussocks, avoid the thin spots.</li><li><strong>Read weather signs to avoid a squall</strong> (Vigilant, Vigilant, or Vigilant, modified [Resolute←15]) — A Fimbulwinter squall drops visibility to arm's length in minutes. Read the cloud-patterns and wind-shift before it hits.</li></ul>\n<h3>Escalation</h3>\n<p>If the scene needs more tension, introduce these additional complications:</p>\n<p><strong>Round 2: The Frostfen Margins and the Refugee Road</strong></p><p>Beyond the worst of the marsh, the road meets the Herdweg — the old drovers' highway running east from the Interior Belt. The junction is choked with refugees fleeing south toward Hrafnborg. The party is heading north. Questions will be asked.</p><ul><li><strong>Find shelter in the Frostfen margins</strong> (Cunning or Cunning, modified [Resolute←15]) — The flat marshland offers no natural shelter. Locate an old peat-cutter's hut, an overturned barge, or reed-banks thick enough to break the wind.</li><li><strong>Cross the Herdweg junction without attention</strong> (Presence or Agility) — Push north through southbound refugee flow without drawing questions. Why are healthy travelers heading toward the danger?</li><li><strong>Resist marsh-sickness</strong> (Strong, modified [Resolute←15]) — The Frostfen's air carries something foul — not disease, but a heaviness in the lungs. A failed character wakes the next morning with a rattling cough (−1 to Might tests until a warm extended rest).</li><li><strong>Avoid refugee columns</strong> (Presence or Agility) — Avoid drawing attention from desperate column families who may turn dangerous if they think you're hoarding supplies.</li><li><strong>Calm a panicked pack-mule</strong> (Persuasive, Persuasive, or Persuasive, modified [Resolute←15]) — The mule balks at a frozen corpse on the road and threatens to bolt with half the supplies.</li><li><strong>Keep morale up at camp</strong> (Persuasive, Persuasive, or Persuasive, modified [Resolute←15]) — Four days of grey-white emptiness and freezing wind. Keep each other from despair with stories, songs, small comforts.</li></ul>\n<hr><h2>Outcomes</h2>\n<p>Based on how the party performed, use the following as a guide:</p>\n<p><strong>Interlude: The Extinguished Shrine</strong></p><p>By the roadside, a cairn of stacked stones stands waist-high. Its centre is hollow — a bowl where a flame should burn. The ash is cold. Dead wildflowers, frost-brittle, lie scattered around the base. The keystone is carved with a single runic word: <em>Remember.</em></p><p>If any PC makes an offering (even just a breath warmed and placed in the basin), the keystone warms for just a moment, then goes cold again. Yggdrasil is listening — but too weak to answer.</p><p>No mechanical effect. This is a moment to feel the weight of what is failing.</p>\n<p><strong>Interlude: The Drowned Village</strong></p><p>The road crosses what was once a shallow lake. Rooftops jut from the ice at the lake's centre. A market feet (2 m), a temple spire, streets and doorways — and movement below. Something with hands.</p><p>The PCs should not investigate. If they do: the ice creaks, and whatever is below tracks their movement. An easy Reason test identifies this as a draugr nest — the village died and the residents didn't leave.</p><p>If they move on: they gain a grim truth. The dead are everywhere. The Frostfen is a cemetery that doesn't know it's dead.</p><p><strong>Total Success (5+ successes):</strong> 2 Milestones. Arrive at the Herdweg junction intact, supplies holding, morale manageable. Delay first Grafvitnir Pressure Check by one scene.</p><p><strong>Partial Success (3–4 successes):</strong> 1 Victory. Arrive at cost — choose one: (1) −1 day's rations lost navigating Frostfen; (2) one PC has persistent cough (−1 Might tests until warm extended rest); or (3) a refugee recognised the King's seal on the papers (+1 to future Grafvitnir Pressure Checks).</p><p><strong>Total Failure (2 failures before 5 successes):</strong> 0 Milestones. Arrive compromised: lose 2 days' rations, one PC has marsh-sickness, Grafvitnir agents know exact position (next Pressure Check triggers automatically at 5+). Director gains 3 Malice for the next scene.</p>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391003993,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "_id": "vn3zHwGm48QZCTuL",
+  "name": "Dreyfus's Eye",
+  "type": "artifact",
+  "img": "icons/commodities/gems/gem-faceted-radiant-red.webp",
+  "system": {
+    "description": "<p>A perfectly ordinary golden disc, cold to the touch, that catches light from impossible angles. No light seems to escape from it. Where Dreyfus collapsed, the snow was stained with shadow that slowly took the shape of this single golden eye.</p><h3>Properties</h3><p><strong>Wyrd-sight (1/encounter):</strong> Once per encounter, the wielder can spend a Experience to activate this item. For 1 minute, the wielder sees through any active deception, disguise, or shape-change within Close Burst 5. Illusions shimmer and show their true forms. Lies are visible as distortions in the air around the speaker.</p><p>After the power is used, the eye goes dark and ordinary. It is no longer magical, but remains a memorial to the thing it once saw.</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>ACQUISITION:</strong> Beat 24 — conditional loot dropped by Dreyfus after his final defeat in the Shape-Walker's Road. Only obtained if the party defeats Dreyfus and loots the eye.</p><p><strong>MECHANICS:</strong> Single-use Wyrd-sight ability. After activation, the eye goes dark permanently and becomes a non-magical memorial object. Not attuned — any hero can carry it, but only a hero who has earned trust can use its power without suffering backlash.</p><p><strong>FICTION:</strong> This is the physical manifestation of Dreyfus's power of sight — his ability to perceive and report. It did not dissolve when he fell. It is cold, golden, and deeply unsettling to hold.</p></section></section>",
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "isArtifact": true,
+    "power": {
+      "description": "<p>A perfectly ordinary golden disc, cold to the touch, that catches light from impossible angles. No light seems to escape from it. Where Dreyfus collapsed, the snow was stained with shadow that slowly took the shape of this single golden eye.</p><h3>Properties</h3><p><strong>Wyrd-sight (1/encounter):</strong> Once per encounter, the wielder can spend a Experience to activate this item. For 1 minute, the wielder sees through any active deception, disguise, or shape-change within Close Burst 5. Illusions shimmer and show their true forms. Lies are visible as distortions in the air around the speaker.</p><p>After the power is used, the eye goes dark and ordinary. It is no longer magical, but remains a memorial to the thing it once saw.</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>ACQUISITION:</strong> Beat 24 — conditional loot dropped by Dreyfus after his final defeat in the Shape-Walker's Road. Only obtained if the party defeats Dreyfus and loots the eye.</p><p><strong>MECHANICS:</strong> Single-use Wyrd-sight ability. After activation, the eye goes dark permanently and becomes a non-magical memorial object. Not attuned — any hero can carry it, but only a hero who has earned trust can use its power without suffering backlash.</p><p><strong>FICTION:</strong> This is the physical manifestation of Dreyfus's power of sight — his ability to perceive and report. It did not dissolve when he fell. It is cold, golden, and deeply unsettling to hold.</p></section></section>",
+      "action": "A"
+    },
+    "qualities": {},
+    "marker": "",
+    "state": "other",
+    "corruptionDescription": "Using this artifact costs 2 temporary corruption."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919475025,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

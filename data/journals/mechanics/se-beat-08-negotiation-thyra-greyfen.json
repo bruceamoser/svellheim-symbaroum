@@ -1,0 +1,52 @@
+{
+  "_id": "ixQt6uJYXMcwEhro",
+  "name": "Negotiation: The Holdfast at Greyfen",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391004033,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "haKRlHQVdXwDL4Ex",
+      "name": "The Holdfast at Greyfen",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1>The Holdfast at Greyfen</h1>\n<p><strong>Act:</strong> Act 1 | <strong>Type:</strong> Social Scene</p>\n<hr><h2>The Scene</h2><h2>The Holdfast at Greyfen</h2><p><strong>Level:</strong> 1 | <strong>Beat:</strong> 8 | <strong>Location:</strong> Greyfen ruins, return journey (between Round 2 and Round 3 of the return montage)</p><p>The village of Greyfen was empty when the heroes passed outbound. Now, on the return, barricades of furniture, carts, and sharpened timber fill every gap between the buildings. A woman stands atop a hay-bale fortification with a woodcutter's maul across her shoulders. About thirty people are visible behind the makeshift wall — terrified, determined, ready to die for what little they have.</p><p>“You're not dead,” she says — not a greeting. An observation. “Turn around. Find another way.”</p><p>This is <strong>Thyra Blackhand</strong>, former Chainwarden sergeant, deserter, survivor. She gathered these people. She doesn't trust the King, the Wardens, or the system that left them to freeze. She has nothing left to lose.</p><hr><h3>GM Notes: What the PCs Want</h3><ul><li><strong>Passage</strong> — the barricades block the direct road to Titan's Stair; going around adds 2 days to the journey.</li><li><strong>Information</strong> — Thyra knows current conditions on the mountain pass.</li><li><strong>Supplies</strong> — the holdfast raided a granary before it was lost; they're better provisioned than expected (up to 3 days' rations).</li></ul><h3>What Thyra Wants</h3><ul><li>News from the south — nothing has reached them for weeks beyond the Interior Belt.</li><li>Confirmation that Hrafnborg still stands — if the city has fallen, evacuating north is pointless.</li><li>A solution for the approaching draugr column — she expects it within 24 hours, and she's not certain the barricades will hold.</li></ul><h3>Special: The Ember-Mark (Auto-Success Trigger)</h3><p>If <strong>Kaelen reveals her ember-mark</strong>, the negotiation ends immediately in success. The effect is visceral: people weep, one elderly man drops to his knees, Thyra stares for a long moment before ordering the gate opened. Her only words: “An Ember-Keeper. Walking south. In Fimbulwinter. Maybe we're not done yet.”</p><h3>Special: Authority Backfires</h3><p>Invoking the King, the Chainwardens, or any institutional authority loses 1 Patience. She deserted — she knows what institutions do when supplies run thin.</p><h3>Recurring NPC Potential</h3><p>If the PCs help materially (fire tactics against the draugr, honest news, genuine aid), Thyra survives the column and leads her people south to Hrafnborg. In Act 2 she becomes a military contact who understands how to fight the dead. If the negotiation fails badly or the PCs harm refugees, the holdfast falls — the heroes may find the aftermath.</p>\n<hr><h2>Running This Scene</h2>\n<p>This is a <strong>narrative social scene</strong> — a dramatic conversation with stakes. Play it out as roleplay, calling for ability checks only when the outcome is uncertain.</p>\n<h3>GM Guidance</h3>\n<ul>\n<li>Let the players drive the conversation. Only call for rolls at key turning points.</li>\n<li>Use the NPC's motivations and pitfalls below to guide their reactions.</li>\n<li>Reward clever roleplay — if a player makes a compelling argument that hits a motivation, let it succeed.</li>\n<li>The NPC's starting attitude sets the tone, but good or bad roleplay should shift it naturally.</li>\n</ul>\n<hr><h2>Thyra Blackhand</h2>\n<p><em>Holdfast Commander, Greyfen</em></p>\n<p>Former Chainwarden sergeant, deserter, survivor. She has no faith in kings, wardens, or institutions — she watched those things fail. She responds to hope (Green Heart, ember-mark), pragmatism (actual help with the draugr problem), and honesty. She will shut down at the first whiff of authority being invoked. Kaelen revealing her ember-mark is a hard override — skip the rest of the negotiation, open the gate. She is a potential recurring NPC who can become a military ally in Act 2 if the heroes treat her people with genuine respect.</p>\n<h3>At a Glance</h3>\n<ul>\n<li><strong>Starting Attitude:</strong> Indifferent</li>\n<li><strong>Suggested DC:</strong> 18 (if you need a check)</li>\n<li><strong>Vigilant DC:</strong> 16 (to read motivations/pitfalls)</li>\n</ul>\n<h3>What They Want (Motivations)</h3>\n<p>If the PCs appeal to these, the NPC warms to them. Grant second chance (two rolls, take best) on a check or simply have the NPC concede the point.</p><ul>\n<li><strong>Hope (the Green Heart lives / Kaelen's ember-mark)</strong></li>\n<li><strong>Pragmatism (tactical aid, fire tactics, real help)</strong></li>\n<li><strong>Kaelen Reveals the Ember-Mark (+2 Interest, triggers success)</strong></li>\n</ul>\n<h3>What Offends Them (Pitfalls)</h3>\n<p>If the PCs trigger these, the NPC becomes defensive or hostile. Impose second chance (two rolls, take worst) on a check or have the NPC shut down.</p><ul>\n<li><strong>Invoking Institutional Authority (King, Wardens)</strong></li>\n<li><strong>Threats / Persuasive (-2 Patience, triggers hostility)</strong></li>\n</ul>\n<hr><h2>Outcomes</h2>\n<p>Based on how the conversation goes:</p>\n<h3>Success (Interest filled)</h3><p>Thyra orders the gate opened. The heroes receive: free passage on the direct road; 3 days of trail rations; and Thyra's intelligence — Titan's Stair is passable but treacherous (ice on the upper switchbacks, a rockslide has narrowed the pass to single file). Her parting warning: “The dead aren't random. They're converging. Everything's flowing toward Hrafnborg like water downhill. Get to the city. Get to the Ember. And hold it.”</p>\n<h3>Partial Success (Patience exhausted, Interest partially filled)</h3><p>Thyra lets a reduced group through on a handshake — she respects the attempt. The PCs take the direct road but receive no rations and no mountain intelligence. They are reminded the detour is still an option if they change their minds.</p>\n<h3>Failure (Patience exhausted by threats or contempt)</h3><p>Thyra has her people ready to die before they give up what little they have. Armed barricade defence forces the PCs to find the long way around — adding 2 days to the journey with no supplies and no intelligence. <strong>If the PCs harm any refugees:</strong> they earn no Milestones from this Beat and lose 1 Victory.</p>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004033,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

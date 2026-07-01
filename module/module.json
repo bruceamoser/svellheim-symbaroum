@@ -1,0 +1,102 @@
+{
+  "id": "svellheim-symbaroum",
+  "title": "Svellheim: Era of Embers (Symbaroum)",
+  "description": "The complete Era of Embers campaign adapted for the Symbaroum RPG system. Includes monsters, NPCs, items, beat journals, world lore, challenge scenes, social encounters, and downtime projects — converted from the Draw Steel Svellheim campaign.",
+  "url": "https://github.com/bruceamoser/svellheim-symbaroum",
+  "manifest": "https://github.com/bruceamoser/svellheim-symbaroum/releases/latest/download/module.json",
+  "download": "https://github.com/bruceamoser/svellheim-symbaroum/releases/download/v0.1.0/svellheim-symbaroum-v0.1.0.zip",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "Bruce A. Moser"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "symbaroum",
+        "type": "system",
+        "compatibility": {
+          "minimum": "6.0.0"
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "svellheim-symbaroum-monsters",
+      "label": "Svellheim Monsters",
+      "path": "packs/svellheim-symbaroum-monsters",
+      "type": "Actor",
+      "system": "symbaroum"
+    },
+    {
+      "name": "svellheim-symbaroum-npcs",
+      "label": "Svellheim NPCs",
+      "path": "packs/svellheim-symbaroum-npcs",
+      "type": "Actor",
+      "system": "symbaroum"
+    },
+    {
+      "name": "svellheim-symbaroum-items",
+      "label": "Svellheim Items & Artifacts",
+      "path": "packs/svellheim-symbaroum-items",
+      "type": "Item",
+      "system": "symbaroum"
+    },
+    {
+      "name": "svellheim-symbaroum-world-lore",
+      "label": "Svellheim World Lore",
+      "path": "packs/svellheim-symbaroum-world-lore",
+      "type": "JournalEntry",
+      "system": "symbaroum"
+    },
+    {
+      "name": "svellheim-symbaroum-act1",
+      "label": "Svellheim Act 1: The Gathering",
+      "path": "packs/svellheim-symbaroum-act1",
+      "type": "JournalEntry",
+      "system": "symbaroum"
+    },
+    {
+      "name": "svellheim-symbaroum-act2",
+      "label": "Svellheim Act 2: The Northern Road",
+      "path": "packs/svellheim-symbaroum-act2",
+      "type": "JournalEntry",
+      "system": "symbaroum"
+    },
+    {
+      "name": "svellheim-symbaroum-act3",
+      "label": "Svellheim Act 3: The Burning",
+      "path": "packs/svellheim-symbaroum-act3",
+      "type": "JournalEntry",
+      "system": "symbaroum"
+    },
+    {
+      "name": "svellheim-symbaroum-mechanics",
+      "label": "Svellheim Challenge Scenes & Social Encounters",
+      "path": "packs/svellheim-symbaroum-mechanics",
+      "type": "JournalEntry",
+      "system": "symbaroum"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Svellheim",
+      "packs": [
+        "svellheim-symbaroum-monsters",
+        "svellheim-symbaroum-npcs",
+        "svellheim-symbaroum-items",
+        "svellheim-symbaroum-world-lore",
+        "svellheim-symbaroum-act1",
+        "svellheim-symbaroum-act2",
+        "svellheim-symbaroum-act3",
+        "svellheim-symbaroum-mechanics"
+      ]
+    }
+  ]
+}

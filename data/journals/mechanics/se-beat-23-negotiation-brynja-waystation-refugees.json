@@ -1,0 +1,52 @@
+{
+  "_id": "12iqGtqQo4RnLWYc",
+  "name": "Negotiation: Beat 23 — Brynja Steinsdóttir / Waystation Refugees",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391004035,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "1ZeS50obfvkXdTZb",
+      "name": "Beat 23 — Brynja Steinsdóttir / Waystation Refugees",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1>Beat 23 — Brynja Steinsdóttir / Waystation Refugees</h1>\n<p><strong>Act:</strong> Act 3 | <strong>Type:</strong> Social Scene</p>\n<hr><h2>The Scene</h2><p>On the edge of the interior lowlands, the party encounters a barn converted into a makeshift camp. Forty refugees — families, children, elderly, traders — led by Brynja Steinsdóttir, a former trade-caravan warden. An old man recognizes the party from earlier kindnesses (tie to a specific Act 1 or 2 event).</p><p>This is a <strong>light negotiation</strong> — prose-structured rather than fully mechanical. Brynja does the deciding; the old man vouches for the party. The key question: Will the refugees trust the party? Will they travel with them to Hrafnborg?</p><p><strong>Difficulty:</strong> Moderate. This is a social scene with real consequences — refugees who travel with the party slow movement by 1 day and add 40+ people to the group entering a besieged city.</p><p><strong>Consequence on Success:</strong> If Brynja is fully convinced (Interest 4+), the refugees' organized logistics grant <strong>+1 to one Beat 25 Three-Crisis test</strong> of the party's choice.</p><p><strong>Oath Interactions:</strong> If the party swore Vigmund's Advocacy Oath (Beat 13), these refugees are the living embodiment of that promise. If they also swore the Silence Oath (Beat 17), the conflict sharpens — they know about a warm refuge and cannot speak of it.</p>\n<hr><h2>Running This Scene</h2>\n<p>This is a <strong>narrative social scene</strong> — a dramatic conversation with stakes. Play it out as roleplay, calling for ability checks only when the outcome is uncertain.</p>\n<h3>GM Guidance</h3>\n<ul>\n<li>Let the players drive the conversation. Only call for rolls at key turning points.</li>\n<li>Use the NPC's motivations and pitfalls below to guide their reactions.</li>\n<li>Reward clever roleplay — if a player makes a compelling argument that hits a motivation, let it succeed.</li>\n<li>The NPC's starting attitude sets the tone, but good or bad roleplay should shift it naturally.</li>\n</ul>\n<hr><h2>Brynja Steinsdóttir (Refugee Leader)</h2>\n<p>Former trade-caravan warden. Broad-shouldered, calloused hands, steady voice. Hasn't slept in days. Patience for empty reassurance is zero. She is the decider — the old man vouches for the party but she makes the call.</p>\n<h3>At a Glance</h3>\n<ul>\n<li><strong>Starting Attitude:</strong> Unfriendly</li>\n<li><strong>Suggested DC:</strong> 15 (if you need a check)</li>\n<li><strong>Vigilant DC:</strong> 13 (to read motivations/pitfalls)</li>\n</ul>\n<h3>What They Want (Motivations)</h3>\n<p>If the PCs appeal to these, the NPC warms to them. Grant second chance (two rolls, take best) on a check or simply have the NPC concede the point.</p><ul>\n<li><strong>Truth about what's happening at Hrafnborg — honest assessment, not reassurance</strong></li>\n<li><strong>Safety for the children — concrete plan, not vague promises</strong></li>\n<li><strong>Confirmation that the northern lights (Green Heart glow) mean what they hope — that the Ever-Ember is renewed</strong></li>\n</ul>\n<h3>What Offends Them (Pitfalls)</h3>\n<p>If the PCs trigger these, the NPC becomes defensive or hostile. Impose second chance (two rolls, take worst) on a check or have the NPC shut down.</p><ul>\n<li><strong>Empty reassurance — 'It'll be fine' (she has heard too many promises from people who fled)</strong></li>\n<li><strong>Dismissiveness of their fear — minimizing what 40 people have survived for two weeks</strong></li>\n<li><strong>Urgency that tramples their need to be sure — rushing them into a decision they aren't ready for</strong></li>\n</ul>\n<hr><h2>Outcomes</h2>\n<p>Based on how the conversation goes:</p>\n<p><strong>Full Success (Interest reaches 4+):</strong> Brynja commits the refugees to the party's guidance. Forty people — organized, disciplined under Brynja's logistics — join the march to Hrafnborg. They slow the party by 1 day but their skills and organized morale grant <strong>+1 to one Beat 25 Three-Crisis test</strong>. Brynja becomes a named ally at Hrafnborg.</p>\n<p><strong>Partial Success (Interest reaches 3):</strong> Brynja agrees to travel in the same direction but does not commit to the party's leadership. The refugees follow at a distance, arriving at Hrafnborg independently. No mechanical bonus, but the refugees are present in the siege — adding emotional weight and future hit die potential.</p>\n<p><strong>Failure (Interest stays at 2 or lower):</strong> Brynja declines. The refugees continue on their own path — slower, more cautious, avoiding the siege ring entirely. They may arrive at Hrafnborg eventually, but not in time for the siege. No mechanical consequence, but the party has missed an opportunity to build their coalition before the walls.</p>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004035,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

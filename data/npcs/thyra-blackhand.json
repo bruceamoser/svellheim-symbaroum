@@ -1,0 +1,3318 @@
+{
+  "_id": "dO0t4S2gGAg3foiV",
+  "name": "Thyra Blackhand",
+  "type": "monster",
+  "img": "modules/svellheim-symbaroum/assets/icons/npc-images/thyra-blackhand.png",
+  "system": {
+    "attributes": {
+      "strong": {
+        "value": 15,
+        "bonus": 0,
+        "total": 15,
+        "modifier": -5,
+        "temporaryMod": 0
+      },
+      "quick": {
+        "value": 10,
+        "bonus": 0,
+        "total": 10,
+        "modifier": 0,
+        "temporaryMod": 0
+      },
+      "cunning": {
+        "value": 15,
+        "bonus": 0,
+        "total": 15,
+        "modifier": -5,
+        "temporaryMod": 0
+      },
+      "vigilant": {
+        "value": 10,
+        "bonus": 0,
+        "total": 10,
+        "modifier": 0,
+        "temporaryMod": 0
+      },
+      "persuasive": {
+        "value": 12,
+        "bonus": 0,
+        "total": 12,
+        "modifier": -2,
+        "temporaryMod": 0
+      },
+      "accurate": {
+        "value": 13,
+        "bonus": 0,
+        "total": 13,
+        "modifier": -3,
+        "temporaryMod": 0
+      },
+      "discreet": {
+        "value": 10,
+        "bonus": 0,
+        "total": 10,
+        "modifier": 0,
+        "temporaryMod": 0
+      },
+      "resolute": {
+        "value": 14,
+        "bonus": 0,
+        "total": 14,
+        "modifier": -4,
+        "temporaryMod": 0
+      }
+    },
+    "health": {
+      "toughness": {
+        "value": 40,
+        "max": 40,
+        "threshold": 20
+      },
+      "corruption": {
+        "value": 0,
+        "max": 0,
+        "threshold": 0
+      }
+    },
+    "combat": {
+      "baseProtection": "0",
+      "bonusProtection": "",
+      "qualities": {},
+      "cost": "",
+      "state": "other",
+      "impeding": 0
+    },
+    "bio": {
+      "race": "Human",
+      "occupation": "NPC",
+      "quote": "Thyra Blackhand is a former Chainwarden Sergeant who deserted her post when the dead began moving. She leads approximately 30 civilians behind fortified barricades at the Greyfen Holdfast&mdash;a ruin",
+      "shadow": "",
+      "manner": ""
+    },
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "experience": {
+      "total": 0,
+      "artifactrr": 0,
+      "spent": 0,
+      "available": 0
+    },
+    "nbrOfFailedDeathRoll": 0,
+    "isMonster": true
+  },
+  "items": [
+    {
+      "_id": "2Yhogn1fqM21cCud",
+      "name": "Hearthborn",
+      "type": "ability",
+      "img": "modules/svellheim-character-options/assets/icons/ancestry.svg",
+      "system": {
+        "description": "<p>Humans</p><p>Stereotype: Quick to build, quick to die, quick to break their word.</p><p>Size: 1M; Speed: 5; Resistance: 0</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>Humans</p><p>Stereotype: Quick to build, quick to die, quick to break their word.</p><p>Size: 1M; Speed: 5; Resistance: 0</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472246,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "wUgG44RjAVoEMSdy",
+      "name": "Detect the Supernatural",
+      "type": "ability",
+      "img": "modules/svellheim-character-options/assets/icons/trait.svg",
+      "system": {
+        "description": "<p>As a free action, you can open your awareness to detect supernatural creatures and phenomena. Until the end of your next turn, you know the location of any supernatural object, or any undead, construct, or creature from another world within 5 meters, even if you don't have line of effect. You know if you're detecting an item or a creature, and its nature.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>As a free action, you can open your awareness to detect supernatural creatures and phenomena. Until the end of your next turn, you know the location of any supernatural object, or any undead, construct, or creature from another world within 5 meters, even if you don't have line of effect. You know if you're detecting an item or a creature, and its nature.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472246,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "17jcZBksKG6kWWsy",
+      "name": "Can't Take Hold",
+      "type": "ability",
+      "img": "modules/svellheim-character-options/assets/icons/trait.svg",
+      "system": {
+        "description": "<p>Ignore temporary difficult terrain created by magic/psionics. Reduce forced movement from such sources by 1.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>Ignore temporary difficult terrain created by magic/psionics. Reduce forced movement from such sources by 1.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472246,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1PVzj4uWOBJPvnPC",
+      "name": "Perseverance",
+      "type": "ability",
+      "img": "modules/svellheim-character-options/assets/icons/trait.svg",
+      "system": {
+        "description": "<p>Advantage (Second Chance) on Endurance tests. Your *slowed* speed is 3 instead of 2.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>Advantage (Second Chance) on Endurance tests. Your *slowed* speed is 3 instead of 2.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472246,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1TdtEy6IA7hczMgR",
+      "name": "Team Player",
+      "type": "ability",
+      "img": "modules/svellheim-character-options/assets/icons/trait.svg",
+      "system": {
+        "description": "<p>When you take the Help action, the bonus granted is +2 instead of +1.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>When you take the Help action, the bonus granted is +2 instead of +1.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472246,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "fOBnCBjeEHMpv79S",
+      "name": "Ashen Front Charcoal Company",
+      "type": "ability",
+      "img": "modules/svellheim-character-options/assets/icons/culture.svg",
+      "system": {
+        "description": "<p>A chartered frontier company that works the ash-woods and burned margins: disciplined patrols, quotas, and the grim etiquette of boundary law.</p><p>Language: Askeskogsmål</p><p>Environment: Wilderness; Organization: Bureaucratic; Upbringing: Martial</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>A chartered frontier company that works the ash-woods and burned margins: disciplined patrols, quotas, and the grim etiquette of boundary law.</p><p>Language: Askeskogsmål</p><p>Environment: Wilderness; Organization: Bureaucratic; Upbringing: Martial</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472246,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "ghj180CaJqhpHD3T",
+      "name": "Huscarl",
+      "type": "ability",
+      "img": "modules/svellheim-character-options/assets/icons/career.svg",
+      "system": {
+        "description": "<p>Skills: Vigilant, Strong, Persuasive.</p><p>Languages: No additional languages.</p><p>Renown: 1; Wealth: 0; Project Points: 50</p><p>Perk: *Take the Hit*. Once per encounter, when an ally nearby would suffer the consequences of a hazard or complication, you can step in to take it instead.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>Skills: Vigilant, Strong, Persuasive.</p><p>Languages: No additional languages.</p><p>Renown: 1; Wealth: 0; Project Points: 50</p><p>Perk: *Take the Hit*. Once per encounter, when an ally nearby would suffer the consequences of a hazard or complication, you can step in to take it instead.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472246,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "dgvBzIaHrINQzOw2",
+      "name": "Monster Whisperer",
+      "type": "ability",
+      "img": "icons/creatures/unholy/demons-horned-glowing-pink.webp",
+      "system": {
+        "description": "<p>You can use the Handle Animals skill to interact with nonsapient creatures who are not animals.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>You can use the Handle Animals skill to interact with nonsapient creatures who are not animals.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472246,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "bxgckVen6L3HxJB0",
+      "name": "Tactician",
+      "type": "ability",
+      "img": "icons/skills/melee/strike-weapons-orange.webp",
+      "system": {
+        "description": "<p>Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw of battle, barking out commands that inspire your fellow heroes to move faster and strike more precisely. All the while, you stand between your compatriots and death, taunting the followers of evil to best you if they can.</p><p>As a tactician, you have abilities that heal your allies and grant them increased damage, movement, and attacks, even as you leave your enemies struggling to respond.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw of battle, barking out commands that inspire your fellow heroes to move faster and strike more precisely. All the while, you stand between your compatriots and death, taunting the followers of evil to best you if they can.</p><p>As a tactician, you have abilities that heal your allies and grant them increased damage, movement, and attacks, even as you leave your enemies struggling to respond.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472246,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "k2x44dZTnVYSt0IY",
+      "name": "Improved Field Arsenal",
+      "type": "ability",
+      "img": "icons/skills/melee/spear-tips-triple-orange.webp",
+      "system": {
+        "description": "<p>Your expertise with weapons has grown. Whenever you use a signature ability from one of your equipped kits or make a Free Attack using a weapon from one of your equipped kits, you gain an advantage (second chance).</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>Your expertise with weapons has grown. Whenever you use a signature ability from one of your equipped kits or make a Free Attack using a weapon from one of your equipped kits, you gain an advantage (second chance).</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472246,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1XnM8KzQIAlfZU2l",
+      "name": "Focus on Their Weakness",
+      "type": "ability",
+      "img": "icons/creatures/eyes/human-single-brown.webp",
+      "system": {
+        "description": "<p>The first time each combat round that you or any ally damages a target marked by you, you gain 2 focus instead of 1.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>The first time each combat round that you or any ally damages a target marked by you, you gain 2 focus instead of 1.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472246,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "H4N8Nr6ZJhfmUNa0",
+      "name": "Field Arsenal",
+      "type": "ability",
+      "img": "icons/skills/melee/spear-tips-quintuple-orange.webp",
+      "system": {
+        "description": "<p>You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: Kits for more information. (<em>Quick Build:</em> Shining Armor, Sniper.)</p><p>If both kits grant you the same benefit, you take one or the other and can’t change your choice until you finish a extended rest. (This usually means taking the higher of two bonuses.)</p><p>For example, if you take the Shining Armor and Sniper kits, you gain the following benefits overall:</p><ul><li><p>Toughness Bonus: +12 per echelon</p></li><li><p>Resistance Bonus: +1</p></li><li><p>Melee Damage Bonus: +2/+2/+2</p></li><li><p>Ranged Damage Bonus: +0/+0/+4</p></li><li><p>Speed Bonus: +1</p></li><li><p>Ranged Distance Bonus: +10</p></li><li><p>Disengage Bonus: +1</p></li><li><p>You can use the Patient Shot and Protective Attack signature abilities.</p></li></ul><p>Kit signature abilities have their kit’s bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the Martial Artist kit, which gives a melee weapon damage bonus of +2/+2/+2, and the Mountain kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the Mountain kit’s damage bonus, then the Battle Grace signature ability from the Martial Artist kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the Mountain kit to deal 3/6/13 damage.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their signature abilities. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: Kits for more information. (<em>Quick Build:</em> Shining Armor, Sniper.)</p><p>If both kits grant you the same benefit, you take one or the other and can’t change your choice until you finish a extended rest. (This usually means taking the higher of two bonuses.)</p><p>For example, if you take the Shining Armor and Sniper kits, you gain the following benefits overall:</p><ul><li><p>Toughness Bonus: +12 per echelon</p></li><li><p>Resistance Bonus: +1</p></li><li><p>Melee Damage Bonus: +2/+2/+2</p></li><li><p>Ranged Damage Bonus: +0/+0/+4</p></li><li><p>Speed Bonus: +1</p></li><li><p>Ranged Distance Bonus: +10</p></li><li><p>Disengage Bonus: +1</p></li><li><p>You can use the Patient Shot and Protective Attack signature abilities.</p></li></ul><p>Kit signature abilities have their kit’s bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the Martial Artist kit, which gives a melee weapon damage bonus of +2/+2/+2, and the Mountain kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the Mountain kit’s damage bonus, then the Battle Grace signature ability from the Martial Artist kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the Mountain kit to deal 3/6/13 damage.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472246,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "cxvqP5hEvY3PL12Y",
+      "name": "Ranger",
+      "type": "ability",
+      "img": "icons/weapons/bows/bow-ornamental-silver-black.webp",
+      "system": {
+        "description": "<p>The Ranger kit outfits you with light armor and weapons for every challenge, letting you easily switch between melee and ranged combat. This kit provides a good balance of bonuses to defense and offense to create a hero who is a jack-of-all-trades.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>The Ranger kit outfits you with light armor and weapons for every challenge, letting you easily switch between melee and ranged combat. This kit provides a good balance of bonuses to defense and offense to create a hero who is a jack-of-all-trades.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472246,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1R5HgxIufO6mysbo",
+      "name": "Hamstring Shot",
+      "type": "ability",
+      "img": "icons/skills/wounds/bone-broken-knee-beam.webp",
+      "system": {
+        "description": "",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472246,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "dTR88VPmtOYnbBWH",
+      "name": "Swashbuckler",
+      "type": "ability",
+      "img": "icons/weapons/swords/scimitar-broad.webp",
+      "system": {
+        "description": "<p>If you want to be mobile and deal a lot of damage with melee strikes, then you should reach for the Swashbuckler kit. This is a great kit for heroes who want to be master duelists.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>If you want to be mobile and deal a lot of damage with melee strikes, then you should reach for the Swashbuckler kit. This is a great kit for heroes who want to be master duelists.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472246,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1O95UpuYVFydkQZJ",
+      "name": "Fancy Footwork",
+      "type": "ability",
+      "img": "icons/skills/movement/feet-winged-boots-brown.webp",
+      "system": {
+        "description": "",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472246,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "LLKOUREnw1vWEUVc",
+      "name": "Focus",
+      "type": "ability",
+      "img": "icons/magic/perception/eye-ringed-glow-angry-red.webp",
+      "system": {
+        "description": "<p>The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called focus.</p><h4>Focus in Combat</h4><p>At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain focus equal to your Milestones. At the start of each of your turns during combat, you gain 2 focus.</p><p>Additionally, the first time each combat round that you or any ally damages a creature marked by you (see @UUID[Compendium.draw-steel.abilities.Item.zyd6C7phOZr6EAQ9]{Mark}), you gain 1 focus. The first time in a combat round that any ally within 10 meters of you uses a heroic ability, you gain 1 focus.</p><p>You lose any remaining focus at the end of the encounter.</p><h4>Focus Outside of Combat</h4><p>Though you can’t gain focus outside of combat, you can use your heroic abilities and effects that cost focus without spending it. Whenever you use an ability or effect outside of combat that costs focus, you can’t use that same ability or effect outside of combat again until you earn 1 or more Milestones or finish a extended rest.</p><p>When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Milestones.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called focus.</p><h4>Focus in Combat</h4><p>At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain focus equal to your Milestones. At the start of each of your turns during combat, you gain 2 focus.</p><p>Additionally, the first time each combat round that you or any ally damages a creature marked by you (see @UUID[Compendium.draw-steel.abilities.Item.zyd6C7phOZr6EAQ9]{Mark}), you gain 1 focus. The first time in a combat round that any ally within 10 meters of you uses a heroic ability, you gain 1 focus.</p><p>You lose any remaining focus at the end of the encounter.</p><h4>Focus Outside of Combat</h4><p>Though you can’t gain focus outside of combat, you can use your heroic abilities and effects that cost focus without spending it. Whenever you use an ability or effect outside of combat that costs focus, you can’t use that same ability or effect outside of combat again until you earn 1 or more Milestones or finish a extended rest.</p><p>When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Milestones.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1ZbPvQO8v0mllxF1",
+      "name": "Mark",
+      "type": "ability",
+      "img": "icons/skills/targeting/crosshair-pointed-orange.webp",
+      "system": {
+        "description": "",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "agrnPrSVhaoW2mKJ",
+      "name": "Out of Position",
+      "type": "ability",
+      "img": "icons/sundries/gaming/chess-pawn-white-pink.webp",
+      "system": {
+        "description": "<p>Even before battle begins, your enemies struggle to keep up with your tactics. At the start of an encounter, you can use a free triggered action to use your Mark ability against one enemy you have line of effect to, even if you are surprised. You can then slide the marked target up to 3 meters, ignoring resistance. The target can’t be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>Even before battle begins, your enemies struggle to keep up with your tactics. At the start of an encounter, you can use a free triggered action to use your Mark ability against one enemy you have line of effect to, even if you are surprised. You can then slide the marked target up to 3 meters, ignoring resistance. The target can’t be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "pqvmBvnmfqa1H3HV",
+      "name": "Team Leader",
+      "type": "ability",
+      "img": "icons/magic/control/control-influence-crown-gold.webp",
+      "system": {
+        "description": "<p>At the start of a group test or montage test, you can spend a Experience. If you do, all participants make tests as if they also had any skill you have from the exploration group.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>At the start of a group test or montage test, you can spend a Experience. If you do, all participants make tests as if they also had any skill you have from the exploration group.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "15BEigX6klO7EaeB",
+      "name": "Forgettable Face",
+      "type": "ability",
+      "img": "icons/magic/control/fear-fright-white.webp",
+      "system": {
+        "description": "<p>If you spend 10 minutes or less interacting with a creature who hasn’t met you before, you can cause them to forget your face when you part. If asked to describe you, the creature gives only a vague, blank, and unhelpful description. </p><p>Additionally, if you spend 1 hour or more assembling a disguise, you automatically obtain a tier 2 outcome on any test that could make use of the Disguise skill. If you have the Disguise skill, you automatically obtain a tier 3 outcome on the test.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>If you spend 10 minutes or less interacting with a creature who hasn’t met you before, you can cause them to forget your face when you part. If asked to describe you, the creature gives only a vague, blank, and unhelpful description. </p><p>Additionally, if you spend 1 hour or more assembling a disguise, you automatically obtain a tier 2 outcome on any test that could make use of the Disguise skill. If you have the Disguise skill, you automatically obtain a tier 3 outcome on the test.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "rc31uQb6IuUPueUP",
+      "name": "\"Strike Now!\"",
+      "type": "ability",
+      "img": "icons/skills/targeting/target-strike-triple-blue.webp",
+      "system": {
+        "description": "",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1PpiRNfEHcLEuGm6",
+      "name": "Insurgent",
+      "type": "ability",
+      "img": "icons/magic/perception/silhouette-stealth-shadow.webp",
+      "system": {
+        "description": "<p>Doing your duty, playing fair, and dying honorably in battle is your opponent’s job. You’ll do whatever it takes to keep your allies alive. You gain a skill from the intrigue skill group.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>Doing your duty, playing fair, and dying honorably in battle is your opponent’s job. You’ll do whatever it takes to keep your allies alive. You gain a skill from the intrigue skill group.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1IuKTtWrrGx8l8Nk",
+      "name": "Covert Operations",
+      "type": "ability",
+      "img": "icons/magic/unholy/silhouette-robe-evil-power.webp",
+      "system": {
+        "description": "<p>While in your presence or working according to your plans, each of your allies gains an advantage (second chance) on tests using any skill from the intrigue skill group. Additionally, you can use the Lead skill to assist another creature with any test made using a skill from the intrigue group.</p><p>At the Director’s discretion, you and your allies can use skills from the intrigue skill group to attempt research or reconnaissance during a negotiation instead of outside of a negotiation.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>While in your presence or working according to your plans, each of your allies gains an advantage (second chance) on tests using any skill from the intrigue skill group. Additionally, you can use the Lead skill to assist another creature with any test made using a skill from the intrigue group.</p><p>At the Director’s discretion, you and your allies can use skills from the intrigue skill group to attempt research or reconnaissance during a negotiation instead of outside of a negotiation.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "XmwiARMAxjcJEJpp",
+      "name": "Infiltration Tactics",
+      "type": "ability",
+      "img": "icons/magic/nature/stealth-hide-eyes-green.webp",
+      "system": {
+        "description": "<p>You have trained your squad to work together, stay silent, and wait for the opportune time to strike. Whenever you or any ally within 10 meters of you becomes hidden, that creature gains 1 surge.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>You have trained your squad to work together, stay silent, and wait for the opportune time to strike. Whenever you or any ally within 10 meters of you becomes hidden, that creature gains 1 surge.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "87vKlrKNAPCuLff6",
+      "name": "Fog of War",
+      "type": "ability",
+      "img": "icons/magic/air/fog-gas-smoke-dense-white.webp",
+      "system": {
+        "description": "",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "2aPQnatq6fLMoRCl",
+      "name": "Advanced Tactics",
+      "type": "ability",
+      "img": "icons/sundries/gaming/chess-knight-white-glass.webp",
+      "system": {
+        "description": "",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "19C1cWdy4kWYjVuY",
+      "name": "Inspiring Strike",
+      "type": "ability",
+      "img": "icons/skills/melee/strike-polearm-light-orange.webp",
+      "system": {
+        "description": "",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "2LjTLUZeilfdzi87",
+      "name": "Hammer And Anvil",
+      "type": "ability",
+      "img": "icons/skills/trades/smithing-anvil-silver-red.webp",
+      "system": {
+        "description": "",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "UX5suOGwzzo0xPtm",
+      "name": "Frontal Assault",
+      "type": "ability",
+      "img": "icons/weapons/artillery/cannon-engraved-gold.webp",
+      "system": {
+        "description": "",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "Kzxb1iGdNnVrr3YA",
+      "name": "Aid Attack",
+      "type": "ability",
+      "img": "icons/skills/social/diplomacy-handshake-blue.webp",
+      "system": {
+        "description": "",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "KSCdvu41Eddi9KmX",
+      "name": "Catch Breath",
+      "type": "ability",
+      "img": "icons/magic/life/heart-hand-gold-green-light.webp",
+      "system": {
+        "description": "",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1TXPBCDlKNJ8VUd5",
+      "name": "Charge",
+      "type": "ability",
+      "img": "icons/skills/movement/feet-bladed-boots-fire.webp",
+      "system": {
+        "description": "",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1DwUSX6d4KHkuGbc",
+      "name": "Defend",
+      "type": "ability",
+      "img": "icons/skills/melee/shield-block-fire-orange.webp",
+      "system": {
+        "description": "",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1DQwdYMRgo4UtAx3",
+      "name": "Escape Grab",
+      "type": "ability",
+      "img": "icons/magic/unholy/hand-claw-fog-green.webp",
+      "system": {
+        "description": "",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1WE9apZtxKd8GsHS",
+      "name": "Grab",
+      "type": "ability",
+      "img": "icons/magic/control/debuff-chains-shackle-movement-red.webp",
+      "system": {
+        "description": "",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "wkxyy013LEr3RK1L",
+      "name": "Heal",
+      "type": "ability",
+      "img": "icons/magic/life/cross-beam-green.webp",
+      "system": {
+        "description": "",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "11tJl5wpVepfw8Np",
+      "name": "Knockback",
+      "type": "ability",
+      "img": "icons/skills/melee/shield-block-bash-yellow.webp",
+      "system": {
+        "description": "",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "yKjpiOZye1ZLvKrP",
+      "name": "Melee Free Strike",
+      "type": "ability",
+      "img": "icons/skills/melee/hand-grip-sword-strike-orange.webp",
+      "system": {
+        "description": "",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "MGSd46Sok4IVEb14",
+      "name": "Ranged Free Strike",
+      "type": "ability",
+      "img": "icons/skills/ranged/arrow-barbed-flying-gray.webp",
+      "system": {
+        "description": "",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1MFo6HuKZN8LO7L2",
+      "name": "Stand Up",
+      "type": "ability",
+      "img": "icons/skills/movement/figure-running-gray.webp",
+      "system": {
+        "description": "",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "bZI5OUAdxRHFBMf3",
+      "name": "Advance",
+      "type": "ability",
+      "img": "icons/skills/movement/feet-bladed-boots-fire.webp",
+      "system": {
+        "description": "",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "Xr1auBekgJDNTdSz",
+      "name": "Disengage",
+      "type": "ability",
+      "img": "icons/skills/movement/feet-spurred-boots-brown.webp",
+      "system": {
+        "description": "",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "pYZcJUL5wW3I8HnZ",
+      "name": "Ride",
+      "type": "ability",
+      "img": "icons/environment/people/cavalry.webp",
+      "system": {
+        "description": "",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919472247,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Thyra Blackhand",
+    "displayName": 20,
+    "actorLink": false,
+    "disposition": -1,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "modules/svellheim-symbaroum/assets/icons/npc-images/thyra-blackhand.png",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "health.toughness"
+    },
+    "bar2": {
+      "attribute": "health.corruption"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919472247,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,574 @@
+{
+  "_id": "1RVhmc6YxjRQEF1f",
+  "name": "Act 3 — The Burning (Player Handouts)",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391004105,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "JFJKc79foSPxIeQC",
+      "name": "Beat 20 — Dawn at Surt's Forge",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>Dawn breaks cold over the high peaks of Surt's Forge. The Emberwell shrine stands behind you now — already distant, its light no longer visible past the ridge. The snow crunches under your boots with that particular squeaking sound that means it's cold enough to be brittle, almost resonant.</p><p>Kaelen walks beside Lew, one hand on his arm. She is upright, moving under her own power, but there is a fragility to her steps that was not there yesterday. Her skin has a faint golden undertone — visible where the morning light catches her cheek, her hands, the hollow of her throat. Her ember-mark glows on her forehead, steady and warm, brighter than it has ever been.</p><p>She is radiating heat. Not dramatically — not a furnace, not a bonfire. But the air around her is warmer than it should be, and the snow melts in a narrow trail behind her boots. Lew walks close enough that his cloak steams faintly where it touches her shoulder.</p><p>She looks at you. Her eyes are still hers — brown, sharp, the same eyes that argued theology at the Ivory Tower and held back tears in the deep places. But there are gold flecks in them now, like embers caught in amber. She smiles, and it is the saddest smile you have ever seen.</p><p>\"I can still feel it,\" she says. \"The seed. It's behind us now, but it's still <em>there</em>, in the roots. And the roots go south.\"</p><p>No one answers. No one knows how to answer. But Lew tightens his grip on her arm, and the party begins to walk.</p></div><hr><p style=\"color:#a0a0a0; font-size:0.9em; text-align:right;\">Beat 20 — Into the Cold</p>",
+        "format": 1
+      },
+      "sort": 10,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004105,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "5SPskFOA5TXmjHAF",
+      "name": "Beat 20 — The Disturbed Cairns",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>The cairn field opens before you — a memorial ground from a journey that feels like years ago, though it was only months. The stones rise in careful stacks, ancient and patient. Or they did. Now, many are broken. Scattered. There is a deliberate quality to the destruction — not random decay, but <em>searching</em>. As if something has been moving through here, overturning stones, looking for something underneath.</p><p>Kaelen stops walking. Her ember-mark flares. She stands very still, staring at the broken cairns, and for a moment her eyes are sharp and present — fully lucid.</p><p>\"They were looking for root-lines,\" she says quietly. \"The old burial grounds follow the roots. Grafvitnir's agents are mapping them. They're trying to find where the network converges.\"</p><p>She touches her own forehead, where the ember-mark burns. \"I can feel the roots here. Under the stones. They're still alive. Still connected.\"</p><p>Then the lucidity fades, and she blinks, confused, as if she has forgotten where she is. Lew takes her arm and guides her forward.</p><p>In the undisturbed snow between the cairns, you find tracks — many tracks, moving in organized columns heading southwest. Not staggering, not random. <em>Marching.</em> The dead are still moving toward Hrafnborg. And they have been here, walking past these stones, following their own imperative.</p></div><hr><p style=\"color:#a0a0a0; font-size:0.9em; text-align:right;\">Beat 20 — Into the Cold</p>",
+        "format": 1
+      },
+      "sort": 20,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004105,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1Aiy0Vw0gHdzhpS2",
+      "name": "Beat 20 — The Heitfolk Reunion",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>By late afternoon, the thermal vents become visible on the horizon. Steam rises in white pillars against the grey sky — impossible warmth in an impossible cold. The settlement should be bustling with Heitfolk activity, the deep tunnels working, smoke from forges visible even from a distance.</p><p>But something is different.</p><p>The steam rises in organized patterns now — not the random roiling of geothermal vents, but something <em>shaped</em>. Deliberate. Almost like a signal. And there are fewer lights than you remember from weeks ago.</p><p>The Heitfolk settlement is quieter. Prepared. Waiting.</p><p>Hildvarð Bruneson meets you at the tunnel mouth. She is exactly as you remember — direct, unsentimental, the kind of person who has been carrying responsibility for so long it has become invisible. She looks at Kaelen and goes very still.</p><p>\"You're carrying something,\" she says. \"We felt it. We felt <em>her</em>. Two days ago, the deep roots hummed. Not Grafvitnir's call. Something else. Something calling <em>downward</em> instead of up. The roots answered.\"</p><p>She studies Kaelen — swaying slightly, Lew's hand on her arm, ember-mark pulsing in the torchlight. Then Hildvarð nods, as if confirming something she already knew.</p><p>\"We are mobilizing. Not for defense. For <em>movement</em>. When she finishes what she's begun and the root-lines stabilize — we want to be where it matters. We want to be at Hrafnborg, guarding the bindings.\"</p><p>She extends her hand in the Heitfolk salute — fist over heart.</p><p>\"We're with you. Not your war. Her war. And our war. Same thing now.\"</p></div><hr><p style=\"color:#a0a0a0; font-size:0.9em; text-align:right;\">Beat 20 — Into the Cold &nbsp;|&nbsp; Level-Up to 6</p>",
+        "format": 1
+      },
+      "sort": 30,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004105,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "BFjUW4KX7603CPKY",
+      "name": "Beat 21 — The Abandoned Stronghold",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>The stronghold sits in a shallow depression between two bone ridges — low stone walls, a timber gate hanging open, the remains of a watch-fire still warm. Someone was here recently. Someone left in a hurry, but not in panic. The evacuation was orderly. Deliberate.</p><p>Inside, the halls are stripped bare. Everything of value has been taken — weapons, food, blankets, tools. What remains is the architecture itself: thick walls built for defense, narrow corridors designed for ambush, and in the central chamber, a floor that has been carved.</p><p>The carving is a map. Root-lines — dozens of them — are etched into the stone in precise, almost beautiful patterns. They converge at a single point, and beside that point, someone has scratched a word in angular runes: <em>Hrafnborg</em>. Beneath the convergence, another word: <em>Grafvitnir</em>.</p><p>A parchment fragment lies in the corner, half-burned. The surviving text reads: <em>\"...when the opening comes, the great hall must be held from above while the roots are severed from below. The beast will do the rest. We need only ensure the lock-keeper never reaches the Heart...\"</em></p><p>Lew crouches beside the diagram. His Wyrd-eye blazes — brighter than you have ever seen it, the amber light casting sharp shadows across the carved stone. He traces the root-lines with his finger, following their paths, and his expression changes from curiosity to understanding to something that looks very much like grief.</p><p>\"They know,\" he says quietly. \"They know exactly what's coming. And they're ready for it.\"</p></div><hr><p style=\"color:#a0a0a0; font-size:0.9em; text-align:right;\">Beat 21 — Through the Graveyard</p>",
+        "format": 1
+      },
+      "sort": 40,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004105,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "6jt4A56oGur7NYLE",
+      "name": "Beat 21 — The Green Heart Appears",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>Through a break in the bone-haze, you see it.</p><p>A grove of trees, impossibly tall, rising from the Bone-Fields like something from a different world. Their canopy glows with faint amber light — not reflected, not external, but <em>within</em> the leaves themselves. The trunks are massive, ancient beyond reckoning, and even from this distance you can feel the warmth they radiate. It pushes back the cold, the Rot, the grey weight of the Bone-Fields — a circle of living green in a landscape of death.</p><p>The Green Heart.</p><p>Kaelen stops mid-stride. Her ember-mark flares so brightly that Lew flinches away, shielding his human eye. She stands upright — no longer stumbling, no longer needing support, no longer drifting. Her posture is straight and certain. Her eyes are fixed on the grove with an expression you cannot read — something between recognition and surrender.</p><p>She begins walking. Not stumbling. Not being guided. <em>Walking</em> — with the steady, purposeful tread of someone who knows exactly where they are going and has known for a long time. She does not speak. She does not look back.</p><p>Lew watches her go three steps ahead, then follows. His Wyrd-eye burns steady amber, matching the light in the distant trees.</p></div><hr><p style=\"color:#a0a0a0; font-size:0.9em; text-align:right;\">Beat 21 — Through the Graveyard</p>",
+        "format": 1
+      },
+      "sort": 50,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004106,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1WnsxSQggfzc6CXz",
+      "name": "Beat 21 — At the Threshold",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>The bone-haze parts. The air clears. And the Green Heart rises before you — trees hundreds of feet tall, roots above ground glowing with amber light, the air warm and alive with the scent of growing things. After days in the grey death of the Bone-Fields, it is almost unbearable.</p><p>Kaelen stands at the threshold between the dead ground and the living grove. Her skin blazes gold — not faintly, not subtly, but <em>blazing</em>, as if there is a fire inside her that has finally found its purpose. The ember-mark on her forehead pulses in time with the amber glow in the roots. They are responding to each other. They are the same light.</p><p>Lew stands beside her. His Wyrd-eye burns steady. He raises one hand, palm out, and the root-lines become visible — threads of amber light woven through the earth, converging from every direction, all meeting here. All passing through her.</p><p>When he speaks, his voice is quiet and steady and <em>certain</em> in a way you have never heard:</p><p>\"I can see it. Through her. The root-lines — they're all converging here. Every one of them. From Surt's Forge, from the Emberwell, from places I don't have names for. They all lead to <em>this grove</em>. And they all pass through <em>her</em>.\"</p><p>He lowers his hand. The eye dims slightly, as if he has learned to control its brightness, or it has learned to trust him.</p><p>\"She's still Kaelen. She's still <em>her</em>. But when she steps into that grove and touches the central tree... she won't be anymore. She'll become the lock itself. Every root-line in the world connected to Yggdrasil, every Wyrd-channel, every binding on Grafvitnir's prison — they will all be held by her.\"</p><p>He looks at you. His human eye is wet.</p><p>\"She knows. She's known since the Emberwell. And she's walking in anyway.\"</p><p>He turns back to where Kaelen stands, waiting at the tree-line. Still human. Still herself. For a few more hours.</p><p>\"And then... then we have to defend her while she holds.\"</p></div><hr><p style=\"color:#a0a0a0; font-size:0.9em; text-align:right;\">Beat 21 — Through the Graveyard</p>",
+        "format": 1
+      },
+      "sort": 60,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004106,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1WbfWTZoNKXa0W89",
+      "name": "Beat 22 — Arrival at the Green Heart",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h2>Arrival at the Green Heart</h2><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>The thorn-wall shifts. Not opens — <em>shifts</em>. The brambles pull apart like fingers unclenching, leaving a gap just wide enough for one person at a time.</p><p>Inside, the Green Heart breathes.</p><p>The clearing opens at the center: perhaps a hundred feet across, ringed by ancient oaks whose canopies interlock overhead, forming a living ceiling. Moss carpets the ground, warm and alive. A stream runs through the clearing's center — clear, unfrozen, impossible in this age of cold — and the water is warm. You can see the warmth rising from it in thin ribbons of steam.</p><p>The central tree — the oldest of the oaks, the one that stands at the heart of the grove — is lit. Not lit by fire. Lit from <em>within</em>. The wood glows faint gold. The bark seems to pulse with internal light. And the roots above ground — enormous things, thick as a person's torso, curling through the moss — glow in patterns, as if light is traveling through them from somewhere deep below.</p><p>The elves are here.</p><p>Three of them step out of the canopy shadows. They are ancient — in the specific way of things that have always been here and never needed to go anywhere. Their skin has the color of deep bark. Their eyes are gold, like the light in the tree.</p><p>One of them speaks. Her voice is like wind through leaves — not unkind, but not warm either. Observant. Waiting.</p><p>\"You bring the Seventh. We have been watching. We have been waiting to see who would come, and what she would do when she arrived.\"</p><p>She looks past the party, directly at Kaelen. Kaelen meets her gaze. Neither flinches.</p><p>\"Welcome to the Green Heart. I am Grénvörðr, keeper of the grove's threshold. These are Síl and Þrúðr, holders of the root-song. We have tended this place since before your kingdoms had names. We will know, before you speak, whether you come to save or to steal.\"</p></div><hr><p style=\"color:#a0a0a0; font-size:0.9em; text-align:right;\">Beat 22 — The Green Heart</p>",
+        "format": 1
+      },
+      "sort": 70,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004106,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "hlmOsVeimWUChjd2",
+      "name": "Beat 22 — The Transformation",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h2>The Transformation</h2><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>The moment has come.</p><p>The party stands at the edges of the clearing. Kaelen stands in the center of the grove, ten paces from the tree, looking at it.</p><p>She is still human. She is still herself — golden-skinned, ember-marked, warm as a hearth in winter. Her eyes are clear. Her hands are steady.</p><p>She turns to the party. She looks at each of them in turn — not quickly, not nervously, but <em>deliberately</em>, memorizing faces the way Lew memorized the grove. She is making a record of the people who brought her here.</p><p>\"I want you to know,\" she says, \"that I am not afraid. I was, for a long time. But I'm not now.\"</p><p>She looks at Lew. Lew looks back. Neither of them speaks. They do not need to.</p><p>She turns to face the central tree. She walks toward it — steady, purposeful, each step leaving a faint golden footprint in the moss. The warmth from her body intensifies as she crosses the clearing, and the roots in the ground begin to glow in response, amber light chasing outward from where her feet touch the earth.</p><p>She reaches the tree. She places both hands flat against the bark.</p><p>And the world holds its breath.</p></div><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>The transformation does not pour or rush or explode. It <em>arrives</em>. Like dawn — not sudden, but inevitable, and once it has begun, unstoppable.</p><p>Golden light flows from Kaelen's hands into the bark of the central tree. Not as flame — as <em>radiance</em>. The light runs down through the wood, into the roots, spreading across the surface of the earth in branching lines of gold. Root by root by root, the glow travels outward from the central tree in all directions. The Green Heart becomes alight.</p><p>Kaelen's hands do not move from the bark. But her body begins to change.</p><p>The golden undertone in her skin deepens. The ember-mark on her collarbone blazes white-gold. Her hair lifts as if caught in a wind that touches nothing else. The light in her veins — visible now, mapping her circulatory system in threads of gold — grows brighter and brighter until she is luminous, incandescent, a figure of light shaped like a woman with her hands on a tree.</p><p>Every tree in the clearing begins to glow from within. The stream's water becomes luminous. The moss beneath the party's feet glows soft gold, as if the entire grove has been waiting for a spark, and now that spark has arrived, everything is <em>remembering</em> how to live.</p><p>And in that steadied, slowed, blessed moment — Kaelen speaks. Whatever she says, she says it while looking over her shoulder at the party. Her voice is her own — warm, steady, certain.</p><p>She speaks her final words as a person.</p><p>And then the light takes her.</p><p>It is not violent. It is not painful. It is like watching someone step into warm water and sink beneath the surface — not drowning, but <em>dissolving</em>, <em>becoming</em>, merging with something so vast that a single body can no longer contain it.</p><p>Kaelen's outline remains for a moment — a figure of pure golden light, hands on the bark, head turned toward the people she loved — and then the outline softens, blurs, and flows into the tree.</p><p>The glow in the roots blazes once — a single, enormous pulse, like a heartbeat beginning — and the party feels it in their bones, in the stone beneath their feet, in the very air.</p><p>It is Kaelen, settling in. It is Yggdrasil, accepting her. It is the moment when one person becomes part of the world itself.</p><p>Where Kaelen stood, there is only moss and warm earth. At the base of the tree, a small root-fragment has grown — hardened and darkened, warm to the touch, glowing faintly gold. A remnant.</p></div><hr><p style=\"color:#a0a0a0; font-size:0.9em; text-align:right;\">Beat 22 — The Green Heart</p>",
+        "format": 1
+      },
+      "sort": 80,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004106,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "UkzA8kAmjqoqPGsQ",
+      "name": "Beat 22 — Lew's Farewell & Departure",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h2>Lew's Farewell</h2><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>Lew stands at the edge of the clearing. He doesn't move toward the party. He doesn't move away. He just stands there, and the party can see what he's doing — what he's <em>been</em> doing since the moment Kaelen placed her hands on the bark — he's <em>memorizing</em>.</p><p>The shape of the grove the way you memorize the shape of a face. The angle of the central tree. The sound of the roots moving in the earth beneath the glow. The warmth of the light on his skin — the light that was a person and is now forever.</p><p>His Wyrd-eye is still alight, but dimmer now — as if he has learned to control it, or as if Kaelen has learned to be gentle with it.</p><p>He speaks. His voice is steady. Quiet. <em>Certain.</em></p><p>\"She's already asking. Someone needs to find them and say yes on her behalf. Someone needs to walk the roots with her — in the world above. Tell them what she's done. Tell them what she needs them to do.\"</p><p>He looks at the party, then back at the tree.</p><p>\"I know where the dwarves of High-Hall winter. Hildvarð and his people — they've already heard her calling through the tunnels. The elves here — they've already begun to prepare. There's a network of people and settlements and old treaties that the party might not know about. People who will care when they hear what Kaelen has done. I'm going to find them.\"</p><p>He picks up his pack.</p><p>\"I'm going to walk the roots with her, in the way that only people with Wyrd-eyes can do. I'm going to tell the Singing Islands. I'm going to confirm what High-Hall already knows. I'm going to find every debt and every promise and every person who said they'd fight when the moment came. I'm going to gather them. And when the siege at Hrafnborg is at its worst — when the locks are holding but the pressure is greatest — I'm going to arrive with the largest coalition this world has seen in centuries.\"</p><p>He turns to face the party one last time.</p><p>\"She doesn't know I'm leaving. But she will. She'll feel it through the roots — that I've chosen to serve her the only way I know how. By running. By moving. By being the part of her that still walks in the daylight.\"</p><p>He pauses.</p><p>\"I need you to hold Hrafnborg. When the dead come, when Grafvitnir pushes against the locks, when it seems like the binding will break — you hold. You keep the shrine standing. You keep the Ever-Embers burning. You give me time to gather what I've promised to gather. And you give the dwarves and the elves and every other force moving toward that hall time to arrive.\"</p><p>\"Can you do that?\"</p></div><h2>Departure from the Green Heart</h2><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>The party stands at the edge of the clearing. The central tree glows gold from within. The roots pulse with light. The stream runs warm and luminous through the moss.</p><p>They can stay here as long as they need. But they know — without being told — that they have been here long enough. That the ritual is complete. That Kaelen is no longer someone they can carry or protect or speak to.</p><p>She is the Green Heart now. She is the roots. She is the lock that holds.</p><p>On the southern horizon, beyond the edge of the grove, the sky is darker. The Rot-clouds are heavier to the west. Somewhere under Hrafnborg, something has been waiting for a very long time.</p><p>When the party turns toward the edge of the grove and the path that leads west toward Hrafnborg, they look back once.</p><p>The trees are beautiful and terrible and alive.</p><p>And then they turn again, and they walk.</p><p>Behind them, the Green Heart burns with golden light — not fire, not threat, but <em>seal</em>. A lock. A promise. A person who will never sleep, never rest, never know anything but the endless work of holding the world's breaking together, root by root by root, forever.</p><p>The party has more road ahead. The siege is waiting.</p><p>But for this moment, they walk in silence and carry only what they can bear.</p></div><hr><p style=\"color:#a0a0a0; font-size:0.9em; text-align:right;\">Beat 22 — The Green Heart</p>",
+        "format": 1
+      },
+      "sort": 90,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004106,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "qANfhv9Nn9KIagCY",
+      "name": "Beat 23 — The Ashen Road: Departure & Ashen Woods",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h2>The Ashen Road — Departure</h2><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\">The Green Heart's glow fades behind you — a pale green memory between the treetops, then nothing. The woods close in. For the first time since Stairwatch, there is no one ahead of you on the trail. No soft pad of wolf-paws. No low chuff warning you about thin ice or a wrong turn.<br><br>Just the four of you, the creak of packs, and the long walk west.</div><h2>The Ashen Woods — Recognition</h2><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\">You know these woods. You crossed them weeks ago, when the world was merely cold and the Rot was a distant rumor. Now the landmarks have changed.<br><br>A hollow tree you sheltered near — scored with claw scratches too high for any animal you know.<br><br>A cairn that marked a crossroads — shifted, its guiding rune defaced by something deliberate. Not weather. Not accident.<br><br>Ice over a ford you crossed easily before — thinner now, and beneath it, you can make out tracks. Heavy. Two-legged. Recent.<br><br>The woods remember you. But something else has been through here since.</div><hr><p style=\"color:#a0a0a0; font-size:0.9em; text-align:right;\">Beat 23 — The Ashen Road</p>",
+        "format": 1
+      },
+      "sort": 100,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004106,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "mwaPXO3YUhqWdfUb",
+      "name": "Beat 23 — The Ashen Road: Waystation & Approach",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h2>The Waystation</h2><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\">Smoke from a different source — not siege-smoke, but cookfire. Thin, careful, someone trying not to be seen. You find it: a long barn set back from the road, its walls patched with hides and frozen mud. The doors are barred from inside.<br><br>When they open — cautiously, a hand axe visible behind the door — you see forty people. Families. Children wrapped in everything their parents own. Elderly huddled near a central fire that gives more smoke than heat. A few traders with empty packs.<br><br>A broad-shouldered woman steps forward. Calloused hands. A voice that hasn't rested in days but hasn't broken either.<br><br>\"You're armed. You're moving with purpose. That's more than we've seen in two weeks.\" She studies you. \"I'm Brynja. I keep these people alive. Who are you, and where are you going?\"<br><br>Behind her, an old man pushes through the crowd. His eyes widen. He grips your arm — or your sleeve, or whatever he can reach. \"I know them,\" he says to Brynja. \"These are the ones. From before. They helped us.\"<br><br>Brynja's expression doesn't change, but something behind her eyes shifts. \"Is that so.\"</div><h2>The Approach to Hrafnborg</h2><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\">The smoke is closer now. Not cookfire smoke — siege smoke. Black and oily, fed by something that shouldn't burn. The walls of Hrafnborg are visible on the horizon, dark against the grey sky.<br><br>And between you and those walls: movement. Organized. Undead — not shambling, not wandering, but <em>rotating</em>. Patrols moving in timed patterns around the city's perimeter. The smell of cold iron reaches you even at this distance.<br><br>Behind you, the last glow of the Green Heart is a memory. Ahead, Hrafnborg waits — besieged, burning, but not yet fallen.<br><br>One more road to walk.</div><hr><p style=\"color:#a0a0a0; font-size:0.9em; text-align:right;\">Beat 23 — The Ashen Road</p>",
+        "format": 1
+      },
+      "sort": 110,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004106,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "Csic8nbl5xLzG4f8",
+      "name": "Beat 24 — The Shape-Walker's Road: Confrontation",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h2>The Shape-Walker's Road — Dreyfus</h2><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\">You are still a mile from the Djupá valley when you see him.<br><br>He's standing in the road. Human form. Waiting. The afternoon light is grey and failing, and he is standing in it like a thing that has been standing in grey light for a very long time.<br><br>You recognize him immediately. Gold unblinking eyes. Skin the colour of old ivory. But something is <em>wrong</em> with him. The edges of him flicker, like a candle in a draft. His shifting is less clean than it was. Less sure.<br><br>When he speaks, his voice is the same — that specific quality of perfect civility masking absolute malice.<br><br>\"You cleared the Emberwell,\" he says. \"She gave herself to the Green Heart. I know because the root-channels have been singing since she took hold — it's all I can hear when I try to reach my contacts.\"<br><br>A pause. A flicker in his eyes that might be pain, might be rage, might be something else.<br><br>\"Grafvitnir knows too. He's been below Hrafnborg for eleven days. Your spy-clearing exercise was charming. It just didn't help.\"<br><br>His form shifts. Not the full transformation — just a hint of it. Muscle and fur and something darker than either.<br><br>\"I was going to come at you quiet. I was going to wait for the perfect moment. I was going to make you <em>choose</em>, the way I made the King choose at Hrafnborg.\"<br><br>His hands become claws. His mouth becomes fangs.<br><br>\"But I'm tired, and I don't care anymore about perfect. I care about the fact that you're in my way.\"<br><br>He attacks.</div><h2>Aftermath</h2><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\">The road is quiet.<br><br>Dreyfus's shadow-remains dissolve into the snow. There's no body to bury. There's no echo of him left in the world except the absence where he was.<br><br>As the shadow-form dissolves, something that might be Dreyfus's voice remains in the cold air:<br><br>\"The Djupá valley. Northern approach. The siege ring hasn't reached it yet. You have perhaps twelve hours before it closes.\"<br><br>Then silence. The voice is gone.</div><hr><p style=\"color:#a0a0a0; font-size:0.9em; text-align:right;\">Beat 24 — The Shape-Walker's Road</p>",
+        "format": 1
+      },
+      "sort": 120,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004106,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "QRN74ACQh2NxDVMG",
+      "name": "Beat 24 — The Shape-Walker's Road: Hrafnborg Arrival",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h2>The Gate Opens</h2><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\">The gate opens. Two guards who have been awake for thirty hours pull it wide, barely. Their faces are frostbitten and hollow. They see you coming and they understand immediately what is happening.<br><br>\"Run,\" one of them mouths, though you can't hear it over the sound of siege.<br><br>Either way: you are through.<br><br>The gate closes behind you. The cold outside is replaced by the relative warmth of the city. Smoke and ash and the smell of sweat and blood and human bodies in proximity.<br><br>You made it.</div><h2>Hrafnborg</h2><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\">You stand inside Hrafnborg's walls for the first time since you left them at the beginning of Act 2.<br><br>It is worse than you remember.<br><br>The walls are scarred. The streets show signs of desperate evacuation — abandoned carts, lost items, blood on the cobblestones. The sound is the sound of a city under assault: organized movement, the rhythmic crash of siege equipment, the snap of arrows, the deeper sound of defenders trying to hold positions they've held for days without relief.<br><br>Smoke rises from three locations in the city. The siege is not just pressing the walls — it's found weak points, burning supplies, creating chaos.<br><br>But the great hall is visible from the main street. And inside the great hall, visible through the high windows: the Ever-Ember. Still burning. Still gold. Still warm.<br><br>Harald on the walls, visible from where you stand — he sees you. His face is haggard, ten years older than Act 1, but when he sees you arrive, he nods. Once. The way a man nods when he has been waiting for something and it has finally arrived.<br><br>The weight he carries doesn't ease. But his shoulders don't slump. He is still standing.<br><br>Hrafnborg is still burning.</div><hr><p style=\"color:#a0a0a0; font-size:0.9em; text-align:right;\">Beat 24 — The Shape-Walker's Road</p>",
+        "format": 1
+      },
+      "sort": 130,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004106,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "PuyhIu2kEbZ5pdPc",
+      "name": "Beat 25 — The City on Fire",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>The city is on fire in places you didn't know it could burn.</p><p>The east gate — you can hear it from the main street — is under organised assault. The sound of the gate brace groaning under repeated impacts, the rhythm of a siege engine being operated by creatures that understand leverage and patience.</p><p>From the west wall tower, a runner comes sprinting toward you, her breath ragged: \"The basement. The stone is —\" She stops. She's been awake too long. Words won't come. She just gestures, and then she's running back.</p><p>The main gate: a bone-and-timber ramming device, assembled from battlefield debris and the bones of things that shouldn't have bones. Twelve undead in perfect synchronisation move it in timed strikes. Each strike is a percussion note in the rhythm of siege.</p><p>And above all of it, from the great hall visible through the smoke and organised movement: the Ever-Ember, burning gold in the afternoon light.</p><p>The city is still standing. But it is fraying.</p></div><h2>Harald's Briefing</h2><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>Harald is exactly where you'd expect him — on the walls, visible, organised. But he looks ten years older than the last time you saw him. His beard is full of ash. His eyes are still clear, but it is the clarity of a man running on final reserves.</p><p>He explains the situation without complaint. Three crises. Nine defenders on the walls. He looks at you and says:</p><p>\"I have nine able defenders on the walls. Tell me what to do.\"</p><p>It's not a request. It's a statement of fact. He needs orders. He needs to know where the resources should go.</p></div><h2>Söldís at the Shrine</h2><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>On the second day, a cart arrives through a coastal route from the south. Söldís Glóðfari drives it like she does everything: with complete conviction that this is exactly where she is meant to be.</p><p>She parks in the great hall courtyard. She opens the back of her cart. She pulls out a clay pot — simple, sealed, ancient. She sits down next to the shrine entrance, pot in her hands, and waits.</p><p>When asked what she's doing, she simply says: \"Keeping it company. Every flame burns better when it knows it's not alone.\"</p></div><hr><p style=\"color:#a0a0a0; font-size:0.9em; text-align:right;\">Beat 25 — The Last Flame</p>",
+        "format": 1
+      },
+      "sort": 140,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004106,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1OBGn2lsuWy1HxWB",
+      "name": "Beat 25 — Three Things at Once",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>Three things happen at once.</p><p>A runner from the east gate — a young defender with frost-bitten ears: \"The column is pushing synchronised now — they hit the gate in waves, thirty seconds apart. We can't hold the brace pattern. We're going to lose it.\"</p><p>From below, through the floor of the great hall itself: a sound. Low. Rhythmic. Like something very large eating stone from the inside. The Ever-Ember flickers — not in light, but in the way a flame flickers when something moves beneath it.</p><p>And from the main gate tower: a horn. The Wight-Commander's ram has made contact. The main gate shudders — a percussion note that echoes through the city.</p><p>Harald looks at you. Nine defenders on the walls. Three crises. He doesn't say anything. He doesn't have to.</p><p>Söldís is still there by the shrine, her clay pot in her hands. She hasn't moved. She's watching the floor where the sound came from.</p></div><h2>The Siege Holds — or Doesn't</h2><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>Then: from below the great hall, the sound stops.</p><p>The silence is worse than the sound.</p><p>The floor begins to crack.</p><p>The Ever-Ember burns in the great hall. Its guards are at the door, watching the cracking floor. Söldís is still there, her clay pot in her hands. She hasn't moved since the crisis began. Her ember and the Ever-Ember, close together, flame speaking to flame.</p><p>The cracks spread from the centre of the room outward. They spread in patterns that look almost like roots.</p><p>The silence after the sound is absolute.</p></div><hr><p style=\"color:#a0a0a0; font-size:0.9em; text-align:right;\">Beat 25 — The Last Flame</p>",
+        "format": 1
+      },
+      "sort": 150,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004106,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "JWt45JymtH7zvJn4",
+      "name": "Beat 26 — Grafvitnir Rises",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>The floor splits.</p><p>From below, roots — black, enormous, Rot-dark — punch through the flagstones like fists breaking through ice. What follows them is the shape of hunger given form.</p><p>Grafvitnir comes through the floor of Hrafnborg's great hall the way a nightmare comes through the floor of a dream: all at once, too fast, too large.</p><p>He is a wolf. He has always been a wolf — this is the shape he wore when the First Keepers faced him and bound him, and it is the shape he returns to first. He is the size of a longhouse. His fur is black and matted with centuries of Rot. His eyes are the colour of the last thing that burns before it goes dark.</p><p>He does not acknowledge you. You are nothing to him yet.</p><p>He goes immediately for the Ever-Ember shrine.</p></div><h2>The Grave-Wolf</h2><p>He is sixty, seventy feet long from nose to tail. He moves toward the Ever-Ember shrine with the specific purpose of something that has been waiting for a thousand years and knows exactly what it wants.</p><p>You stand between him and the flame.</p><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>He falls.</p><p>Not like a defeated thing — like a thing that has changed its mind about shape. The wolf dissolves into the floor, into the cracks, into the roots that erupted with him.</p><p>For three seconds the great hall is completely silent.</p><p>Then the roots begin to rise. More of them. From every crack, every split in the stone. They reach the ceiling. They begin to find each other. They begin to build.</p><p>Out of the tangle of roots, a shape begins to form. A shape that keeps shifting because it cannot decide what it wants to be.</p></div><hr><p style=\"color:#a0a0a0; font-size:0.9em; text-align:right;\">Beat 26 — Grafvitnir Rises</p>",
+        "format": 1
+      },
+      "sort": 160,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004106,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "13yktsmO8kU4muO9",
+      "name": "Beat 26 — The Seal Closes",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>What rises from the roots is not a wolf anymore and has not decided what it wants to be.</p><p>Too many joints. Proportions that keep shifting. A face appears in one location and then another. Limbs emerge and dissolve. It is Grafvitnir wearing every shape he has worn in a thousand years of imprisonment, all at once, unable to choose.</p><p>It is enormously powerful and deeply wrong.</p><p>And through the broken ceiling of the great hall, to the east: the Green Heart. A pillar of warm light touching the clouds. Growing brighter.</p></div><h2>Söldís's Moment</h2><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>One tendril — thin as a wrist, precise as intent — crosses the great hall and wraps around the Ever-Ember shrine.</p><p>The flame goes out.</p><p>The great hall goes dark. Not gradually — all at once, like a sound cutting off. The cold comes in immediately. Not the cold of weather. The cold of a door opening into somewhere that has never been warm.</p></div><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>She opens the clay pot.</p><p>Söldís has carried it for twenty-two years. Through the worst of Fimbulwinter, through floods and storms and every bad year that came after the last bad year. An ember from a village that no longer exists, kept alive because she could not find a reason to let it die.</p><p>She tilts it over the shrine.</p><p>The flame does not light. It <em>ignites</em>. It fills the shrine, rises up the walls, reaches for the ceiling, warm and huge and specifically, unmistakably <em>alive</em> in the way that only something kept alive by absolute refusal for twenty-two years can be alive.</p></div><h2>The Hunger Made Manifest</h2><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>Grafvitnir's howl shakes the city. The walls crack further. He grows, and the roots pull more mass from the ground. The ceiling breaks apart. The sky is visible above.</p><p>He is no longer any shape. He is the space where a shape should be. He fills the great hall and the sky above it.</p><p>But through the hole in the ceiling, to the east: the Green Heart. A pillar of warm light, blazing, growing brighter. Growing <em>stronger</em>.</p><p>For the first time, Grafvitnir is uncertain.</p></div><h2>The Seal Closes</h2><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>The light from the east is white now. Not the warm gold it has been growing toward — white, clean, absolute. It comes through the broken ceiling and touches the roots in the floor and the roots <em>RECOIL</em>. All at once. Fast. The way burned things recoil.</p><p>Grafvitnir makes no sound this time. He is simply… <em>pulled</em>. The roots drag him downward. He goes back through the floor. The cracks seal, one by one, from the inside out, until the flagstones of Hrafnborg's great hall are whole again.</p><p>The undead outside the walls stop. Not violently. They simply stop. Like puppets when the hand opens. The siege is over.</p><p>The cold retreats. The natural cold of Svellheim in winter remains — the cold that keeps the world turning, the cold that is part of the land's nature. But the other cold — the cold that came up from below and tasted like something that had never been warm, had never been <em>meant</em> to be warm — that goes.</p><p>The Ever-Ember burns in the shrine. Kaelen's work burns in the east. Both of them. Together.</p><p>Hrafnborg is warm.</p></div><hr><p style=\"color:#a0a0a0; font-size:0.9em; text-align:right;\">Beat 26 — Grafvitnir Rises</p>",
+        "format": 1
+      },
+      "sort": 170,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004106,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "KqCdKVJYJroWrCIl",
+      "name": "Beat 27 — The Morning After",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>The morning after. What Hrafnborg looks like when the siege is over and the walls have held.</p><p>The outer wards are littered with fallen undead that are now just fallen — no longer moving, no longer animate, just bodies returning to the stillness they should have kept. The siege engines are abandoned. The bone-and-timber ram sits motionless near the broken main gate.</p><p>People are emerging from shelters. From the lower city, from the warehouses where families huddled, from the great hall where they watched the Ever-Ember burn and waited to see if it would hold.</p><p>Someone is laughing — brief, surprised, from genuine joy. The sound is startling after days of siege.</p><p>Fires are being built. Not siege-fires — ordinary, warming fires. Smoke from the chimneys of Hrafnborg rises into a sky that, for the first time in what feels like a very long time, looks like it might clear.</p><p>The city is alive.</p></div><h2>Harald</h2><p>Harald stands at the Ever-Ember shrine. Not praying — just standing there. He looks at the flame, the scorch-marks, the whole flagstones. After what feels like a very long time, he nods. Once. To the flame, to himself, to something that he has kept faith with. Then he turns away and starts working.</p><h2>Söldís</h2><p>Her clay pot sits on a shelf in the great hall, next to the shrine. Empty. Ordinary. She sits next to it for one morning. Then she gets up. She loads her cart. Her caravan assembles. She is leaving.</p><p>Before she goes, she kneels in front of the Ever-Ember shrine. Not a prayer — acknowledgment. Goodbye.</p><p>She offers each of you something — a small carved token, a charm, a piece of advice. \"You held when holding was the only thing that mattered.\"</p><p>Her caravan leaves with six new people it didn't have before. For the first time in twenty-two years, Söldís travels light.</p><hr><p style=\"color:#a0a0a0; font-size:0.9em; text-align:right;\">Beat 27 — Epilogue</p>",
+        "format": 1
+      },
+      "sort": 180,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004106,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "Z5sNBcUyJgd1swwT",
+      "name": "Beat 27 — The Final Image",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h2>The Green Heart</h2><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>The grove is changed. The trees are lit gold from within — not burning, but <em>living</em> in a way that is visible, undeniable. The inner bark of the massive central tree glows. The warmth radiates from it.</p><p>The snow melts within fifty feet of the central tree. Not to slush — to clear, bare ground where grass might grow again in spring. The air smells like growing things, like life-return.</p><p>Grénvörðr, if approached, is reserved but not unkind.</p><p>\"She is learning,\" he says. \"To be a flame. To be a root. To be both and neither. She will be learning for a long time. Do not mistake silence for absence.\"</p><p>The central tree's light pulses, in response to your presence. It is not speech — but it is communication. In the language of warmth, of rhythm, of flame-pulse, something says: <em>I remember you.</em></p></div><h2>Lew</h2><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>One evening, you find him sitting on the north wall, looking east. The Green Heart's light is visible on a clear night — a steady warmth on the eastern horizon.</p><p>He doesn't speak. He's been quiet for days, but this quiet is different. This is the quiet of someone listening to something far away.</p><p>After a few days, he's gone. He left his spare pack — the one you gave him in Act 1. He left his cooking knife. He left a note in careful script: \"Tell them I came back.\"</p><p>He is gone toward the Green Heart, toward Kaelen.</p></div><h2>The Final Image</h2><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>On quiet nights, from the north wall of Hrafnborg, people say they can see a light moving in the Green Heart.</p><p>Not a torch — torches gutter and spark and have the specific restlessness of things that will go out. This light moves steadily, follows no path, never hurries. It pulses, sometimes. Once. The way a heartbeat answers another heartbeat across a room.</p><p>Nobody has gone to look for it.</p><p>Lew has.</p></div><hr><p style=\"color:#a0a0a0; font-size:0.9em; text-align:right;\">Beat 27 — Epilogue</p>",
+        "format": 1
+      },
+      "sort": 190,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004106,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

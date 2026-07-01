@@ -1,0 +1,139 @@
+{
+  "_id": "pbaVuWzsKxbN3B0y",
+  "name": "Act 1 — Restore the Flame (Player Handouts)",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391004081,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "nikzAKFycLEC6BZO",
+      "name": "Greypass (Chainwarden Toll)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>A fortified toll checkpoint in the Midgard's Shield foothills, where the Lantern Road narrows into a series of switchbacks before climbing toward the Titan's Stair. Smoke rises from braziers on either side of a timber-and-stone gatehouse.</em></p>\n\n<hr>\n\n<h2>Public Knowledge</h2>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Type:</strong> Chainwarden fortified toll checkpoint.</li>\n<li><strong>Commander:</strong> Warden-Sergeant Eirik Greyhand.</li>\n<li><strong>Garrison:</strong> ~8 Chainwardens, rotated monthly (in theory).</li>\n<li><strong>Purpose:</strong> Tax travel in <em>Heat</em> and <em>Word</em>. Control passage between the Coastal and Interior Belts.</li>\n</ul>\n</div>\n\n<h3>What You See</h3>\n<p>Cold-bitten armour, furs over mail, a timber gatehouse built across the narrowest point of the road. Braziers flank the gate; the fire is low. A ledger-desk sits under a hide awning where a clerk (when one exists) records names, cargo, and toll payments. The checkpoint has good sightlines up and down the road—approaching unseen is nearly impossible.</p>\n\n<h3>What It Costs</h3>\n<p>Passage through Greypass costs <strong>Heat</strong> (fuel or rations) or <strong>Word</strong> (proper travel papers, authorised permits, or a recognisable Chainwarden toll-token). Silver is accepted but worth less than warmth.</p>\n\n<hr>\n\n<h2>Director Notes</h2>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ How to Run Greypass</h4>\n<p>Greypass is a <strong>Moderate Negotiation scene</strong> with Eirik Greyhand (Interest 2, Patience 3). The key dynamics:</p>\n<ul>\n<li><strong>Papers work:</strong> Presenting forged merchants' papers is a Presence test. moderate roll+ passes clean.</li>\n<li><strong>Fuel buys friendship:</strong> Offering rations or fuel earns 2 Interest immediately.</li>\n<li><strong>News earns trust:</strong> Eirik has family in Hrafnborg. Any reliable news softens him.</li>\n<li><strong>Threats are catastrophic:</strong> 8 wardens behind fortifications. −2 Patience instantly.</li>\n<li><strong>Bryn's token:</strong> One free passage, plus Eirik asks after her.</li>\n</ul>\n<p>On the return journey (Beat 8), the toll-post is dark. Eirik has evacuated. A note reads: <em>'Recalled to Hrafnborg. Orders of the King.'</em></p>\n</div>\n</section>\n</section>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004081,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1Mwqw78iun9ByX2I",
+      "name": "The Charcoal Cathedral",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>A natural vault of interlocking charred trunks deep in the Ashen Woods. The burned trees have fallen together into an accidental architecture—arches, pillars, and a vaulted 'ceiling' of blackened wood that filters grey light like stained glass made of ash.</em></p>\n\n<hr>\n\n<h2>Public Knowledge</h2>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Deep in the Ashen Woods (Greenweald), east of the Interior Belt.</li>\n<li><strong>Type:</strong> Natural landmark and offering site.</li>\n<li><strong>Significance:</strong> One of the few places in the Ashen Woods where the silence feels <em>sacred</em> rather than dead.</li>\n</ul>\n</div>\n\n<h3>What You See</h3>\n<p>The burned trunks form intersecting arches 40 feet overhead. Charcoal dust covers the floor in a fine, undisturbed layer—except around a flat stone at the centre that serves as an altar. Offerings have been left here: a carved stick, a handful of dried berries, a strip of cloth tied to a charred branch. Someone tends this place.</p>\n\n<hr>\n\n<h2>Director Notes</h2>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Solveig's Territory</h4>\n<p>The Charcoal Cathedral is Solveig the Burner's domain. She tends the offerings and uses the cathedral as a waypoint in her charcoal-burning routes.</p>\n<ul>\n<li><strong>Trigger:</strong> If the PCs leave an offering at the altar stone, Solveig shows herself. If they take offerings or damage the site, she never appears.</li>\n<li><strong>Atmosphere:</strong> Silence. Not the dead silence of the Ashen Woods, but a <em>held</em> silence—like a breath not yet released. The air smells of old charcoal and something faintly sweet, like tree sap long since dried.</li>\n<li><strong>Shortcut:</strong> Solveig knows a path through the cathedral's sub-structure (collapsed root tunnels) that saves time. +1 second chance (two rolls, take best) on one test in Montage Round 3.</li>\n</ul>\n<p>On the return journey (Beat 8), the offering spot is empty. A charcoal stick broken in half is left: <em>'Either she's moved on, or she's telling us to.'</em></p>\n</div>\n</section>\n</section>",
+        "format": 1
+      },
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004082,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "A3t7ohNAovMhPzSa",
+      "name": "Greyfen Holdfast",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>A ruined village fortified with sharpened stakes, overturned carts, and desperate ingenuity. Smoke from a single communal fire rises above the barricades. Thirty people live here—refugees, deserters, and the stubborn. They are not welcoming.</em></p>\n\n<hr>\n\n<h2>Public Knowledge</h2>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> On the most direct road between the Interior Belt and the Titan's Stair pass.</li>\n<li><strong>Type:</strong> Improvised refugee fortification in a ruined village.</li>\n<li><strong>Leader:</strong> Thyra Blackhand, former Chainwarden Sergeant.</li>\n<li><strong>Population:</strong> ~30 civilians, including children and elderly.</li>\n</ul>\n</div>\n\n<h3>Defences</h3>\n<p>Barricades of overturned carts, sharpened stakes, and stone rubble from collapsed buildings. A single narrow gate controlled by armed sentries. Fire-pits at the perimeter—the refugees know fire slows the dead. The holdfast is defensible against small groups of draugr but will not survive a sustained assault.</p>\n\n<hr>\n\n<h2>Director Notes</h2>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Negotiation Scene (Beat 8)</h4>\n<p>Greyfen is a <strong>Moderate Negotiation</strong> with Thyra Blackhand (Interest 3, Patience 2). Key dynamics:</p>\n<ul>\n<li><strong>Hope:</strong> Sharing that the Green Heart lives, or that Kaelen bears the Ember-mark → +1 Interest.</li>\n<li><strong>Pragmatism:</strong> Tactics against draugr, fire as weapon, reinforcing barricades → +1 Interest.</li>\n<li><strong>Authority:</strong> King's name or official rank → +0 Interest, −1 Patience.</li>\n<li><strong>Threats:</strong> −2 Patience. Any attempt to force passage triggers hostility.</li>\n<li><strong>Kaelen's Mark:</strong> If Kaelen reveals her ember-mark → +2 Interest. Refugees weep. Gate opens.</li>\n</ul>\n<p><strong>Success:</strong> Gate opens, 3 days' rations, intelligence about Titan's Stair (ice, rockslide, converging dead). Thyra becomes Act 2 military contact.</p>\n<p><strong>Failure:</strong> Ordered away. +2 days' detour. Fighting costs 1 Victory.</p>\n<p><strong>Stakes:</strong> If PCs help materially, Thyra's people survive the approaching draugr column and reach Hrafnborg. If not, the holdfast falls.</p>\n</div>\n</section>\n</section>",
+        "format": 1
+      },
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004082,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1Hvl9ZtUtZ6EmmjH",
+      "name": "The Broken Stair Inn",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>The only inn in Stairwatch: a low stone building with a slate roof, a crooked chimney leaking smoke, and a sign so weathered that the painted staircase has become an abstract smear. Inside, it smells of wet wool, watered ale, and the particular sadness of dried fish.</em></p>\n\n<hr>\n\n<h2>Public Knowledge</h2>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Stairwatch, at the foot of Titan's Stair.</li>\n<li><strong>Type:</strong> Waystation inn—the only lodging in town.</li>\n<li><strong>Innkeeper:</strong> Hild, a Dwarf who asks no questions and waters the ale 'just enough to be annoying.'</li>\n<li><strong>Prices:</strong> Fair. Payment in silver, barter, or useful news.</li>\n</ul>\n</div>\n\n<h3>Layout</h3>\n<ul>\n<li><strong>Common room:</strong> Long tables, a stone hearth, and benches worn smooth by generations of travellers. A hunting trophy (unidentifiable antlers) hangs over the bar.</li>\n<li><strong>Upstairs rooms:</strong> Small, cold, and clean enough. Lew Tosferd rents one 'when he bothers to sleep here.'</li>\n<li><strong>Kitchen:</strong> Hild's domain. Dried fish, hard bread, and a suspiciously good turnip stew.</li>\n</ul>\n\n<hr>\n\n<h2>Director Notes</h2>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ The Inn as Social Hub</h4>\n<p>The Broken Stair is where the PCs meet Hild, get directions to Lew, and experience Stairwatch's atmosphere. Use it for:</p>\n<ul>\n<li><strong>Information:</strong> Hild knows everything. She won't volunteer it, but she'll trade it for courtesy.</li>\n<li><strong>Comic relief:</strong> Hild on Lew: 'The Finder? More likely at the chandler's. He owes me three nights' lodging.'</li>\n<li><strong>Grafvitnir tension:</strong> A stranger at the Bone Market asks Hild about the PCs' destination. She says nothing but warns the PCs.</li>\n<li><strong>Departure gift:</strong> If PCs helped with tasks, Hild packs extra rations: 'Bring that one-eyed bastard back alive. He owes me.'</li>\n</ul>\n</div>\n</section>\n</section>",
+        "format": 1
+      },
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004082,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

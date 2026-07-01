@@ -1,0 +1,52 @@
+{
+  "_id": "1I07VrlCEkL23Qvy",
+  "name": "Montage: Beat 17 — The Throat of the World (Blizzard Crossing)",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391004000,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "10fjqrV3qUhKprlh",
+      "name": "Beat 17 — The Throat of the World (Blizzard Crossing)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1>Beat 17 — The Throat of the World (Blizzard Crossing)</h1>\n<p><strong>Act:</strong> Act 2 | <strong>Type:</strong> Montage Scene</p>\n<hr><h2>Overview</h2><p>The Throat of the World: the final mountain crossing before Surt's Forge. A blizzard crossing through exposed high passes. The wind is a physical force. The cold is lethal. The route is unfamiliar and visibility drops to near-zero. Success means arriving ready to fight. Failure means arrival separated, frostbitten, or with someone critically hurt. There is a false clarity moment — Surt's Forge becomes visible for approximately five minutes, then the white closes again. Use this as a director beat mid-montage: the party sees their destination, then loses it.</p><p><strong>False Clarity Read-Aloud (between rounds):</strong> \"The blizzard parts. Just for a moment — five seconds, ten — and there it is. Warm amber light in the frozen distance. Surt's Forge. Then the white closes, and you cannot tell if it was real.\"</p>\n<hr><h2>Running This Scene</h2>\n<p>This is a <strong>narrative montage</strong> — a series of challenges the party faces as a group. Rather than a single roll, play this out as a sequence of scenes where each character contributes.</p>\n<h3>GM Guidance</h3>\n<ul>\n<li>Go around the table and ask each player how their character is helping.</li>\n<li>Call for ability checks as appropriate — suggested modified [Resolute←15] (hard).</li>\n<li>Let creative approaches succeed with good roleplaying, even without a roll.</li>\n<li>Use the complications below as prompts — not every one needs to come up.</li>\n<li>The goal is collaborative storytelling, not a pass/fail test.</li>\n</ul>\n<p><strong>Relevant Skills:</strong></p><ul>\n<li>Strong</li>\n<li>Quick or Discreet</li>\n<li>Cunning or Cunning</li>\n<li>Vigilant, Vigilant, or Vigilant</li>\n<li>Persuasive, Persuasive, or Persuasive</li>\n</ul>\n<hr><h2>Complications &amp; Challenges</h2>\n<p>Use these as dramatic beats during the montage. Present them as situations the party must navigate together.</p>\n<p>The approach to the Throat is already brutal. Wind cuts through every layer. The route from the Heitfolk tunnel exit is exposed ridge-line for the first two miles. Navigation is nearly impossible — the tunnel exit puts the party on the sheltered side, but they still need to reach the pass. The blizzard is building.</p><ul><li><strong>Reason:</strong> Navigate the ridge approach using geological features (the Heitfolk tunnels gave a bearing — recall or map it). Moderate DC in worsening conditions.</li><li><strong>Might:</strong> Push through wind-walls — sections where the wind is a physical barrier requiring force to move through without losing footing.</li><li><strong>Agility:</strong> Cross an iced section of ridge without falling — narrow path, 13 m drop on one side, blizzard reducing visibility to 3 m</li><li><strong>Intuition:</strong> Read the storm — determine where the blizzard will be thinnest in the next hour and route toward that gap rather than through the heaviest exposure.</li></ul>\n<h3>Escalation</h3>\n<p>If the scene needs more tension, introduce these additional complications:</p>\n<p>The high pass: the worst of it. Wind strong enough to knock heroes off their feet. Temperature critical. The party must make the final push to the lee side of the last ridge before someone freezes. Kaelen is using her ember-mark to produce warmth — not combat warmth but a low constant heat, visible as a faint amber glow. It is helping. It is also making her visibly exhausted.</p><ul><li><strong>Might:</strong> Traverse the high pass in force — anchor the group physically, prevent someone from being blown from the path.</li><li><strong>Agility:</strong> Find purchase on ice-sheeted rock faces in the final approach — the path narrows to a traverse here.</li><li><strong>Presence:</strong> Keep everyone moving when the cold and exposure create the urge to stop. A hero who stops for more than a minute risks frostbite (moderate DC, failure = weakened until next breather).</li><li><strong>Reason:</strong> The Root-Rune markers Kaelen identified are here in the rock. Read them to find the correct route — one direction leads to exposed plateau (deadly), the other to the sheltered descent.</li></ul>\n<hr><h2>Outcomes</h2>\n<p>Based on how the party performed, use the following as a guide:</p>\n<p><strong>Total Success R1:</strong> The party reaches the Throat's main body in good order. Kaelen has been reading Root-Rune carvings in the rock as they climb — markers left by old Keepers who made this crossing before. \"We're on the route. People have done this.\" The False Clarity moment triggers now.<br><strong>Partial Success R1:</strong> The party makes progress but the wind separates them momentarily. Two heroes must spend a movement combat action re-establishing contact with each other at the start of Round 2. The False Clarity moment still triggers.<br><strong>Failure R1:</strong> One hero goes down — frostbite or a fall. They are stable but need to be supported through Round 2. Another hero must spend their actions helping rather than aiding the group's navigation. The False Clarity moment triggers but feels more distant.</p>\n<p><strong>Total Success:</strong> \"The blizzard suddenly stops. As if you've passed through an invisible barrier.\" The party emerges onto the sheltered side of the Throat, and there it is: Surt's Forge. Warm amber light, air shimmering, snow melting nearby. Kaelen puts her hand out and catches a snowflake that becomes a droplet before it hits her palm. \"We're here.\" Everyone arrives ready to fight. No frostbite. No injuries.<br><strong>Partial Success:</strong> The party makes it through but arrives exhausted. Each hero loses 1 Hit Die from the crossing. One hero has mild frostbite (second chance (two rolls, take worst) on Might tests until they complete a extended rest in warm conditions).<br><strong>Failure:</strong> The crossing goes badly. One hero arrives critically hurt (0 SP, stable) and must be brought down the other side. All heroes lose 2 recovery test. The party arrives at Surt's Forge depleted and exposed — and the Pale Maw Strike Team has had more time to position.</p>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004000,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

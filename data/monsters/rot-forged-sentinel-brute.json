@@ -1,0 +1,930 @@
+{
+  "_id": "vyIP1XWwSFQf091s",
+  "name": "Rot-Forged Sentinel (Brute)",
+  "type": "monster",
+  "img": "systems/draw-steel/assets/roles/brute.webp",
+  "system": {
+    "attributes": {
+      "strong": {
+        "value": 15,
+        "bonus": 0,
+        "total": 15,
+        "modifier": -5,
+        "temporaryMod": 0
+      },
+      "quick": {
+        "value": 12,
+        "bonus": 0,
+        "total": 12,
+        "modifier": -2,
+        "temporaryMod": 0
+      },
+      "cunning": {
+        "value": 7,
+        "bonus": 0,
+        "total": 7,
+        "modifier": 3,
+        "temporaryMod": 0
+      },
+      "vigilant": {
+        "value": 7,
+        "bonus": 0,
+        "total": 7,
+        "modifier": 3,
+        "temporaryMod": 0
+      },
+      "persuasive": {
+        "value": 10,
+        "bonus": 0,
+        "total": 10,
+        "modifier": 0,
+        "temporaryMod": 0
+      },
+      "accurate": {
+        "value": 14,
+        "bonus": 0,
+        "total": 14,
+        "modifier": -4,
+        "temporaryMod": 0
+      },
+      "discreet": {
+        "value": 10,
+        "bonus": 0,
+        "total": 10,
+        "modifier": 0,
+        "temporaryMod": 0
+      },
+      "resolute": {
+        "value": 9,
+        "bonus": 0,
+        "total": 9,
+        "modifier": 1,
+        "temporaryMod": 0
+      }
+    },
+    "health": {
+      "toughness": {
+        "value": 40,
+        "max": 40,
+        "threshold": 20
+      },
+      "corruption": {
+        "value": 0,
+        "max": 0,
+        "threshold": 0
+      }
+    },
+    "combat": {
+      "baseProtection": "0",
+      "bonusProtection": "",
+      "qualities": {},
+      "cost": "",
+      "state": "other",
+      "impeding": 0
+    },
+    "bio": {
+      "race": "Construct",
+      "occupation": "Brute",
+      "quote": "",
+      "shadow": "A large Construct of DS level 6 (elite)",
+      "manner": ""
+    },
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "experience": {
+      "total": 0,
+      "artifactrr": 0,
+      "spent": 0,
+      "available": 0
+    },
+    "nbrOfFailedDeathRoll": 0,
+    "isMonster": true
+  },
+  "items": [
+    {
+      "_id": "6XGUs5T7uF5KVZcz",
+      "name": "Biceps to Spare",
+      "type": "trait",
+      "img": "icons/creatures/abilities/dragon-breath-purple.webp",
+      "system": {
+        "description": "<p>The rot-forged sentinel (brute) can carry up to four size 1 creatures they have grabbed, and takes no penalty to their speed while doing so.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": false,
+          "action": "P",
+          "description": "<p>The rot-forged sentinel (brute) can carry up to four size 1 creatures they have grabbed, and takes no penalty to their speed while doing so.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456708,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "iit5Ab96AwBsA5XH",
+      "name": "Psionic Conductor",
+      "type": "trait",
+      "img": "icons/creatures/abilities/dragon-fire-breath-orange.webp",
+      "system": {
+        "description": "<p>Whenever a non-minion voiceless talker within 5 meters of the rot-forged sentinel (brute) uses a psionic ability, they can do so as if they were in the rot-forged sentinel (brute)'s space.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": false,
+          "action": "P",
+          "description": "<p>Whenever a non-minion voiceless talker within 5 meters of the rot-forged sentinel (brute) uses a psionic ability, they can do so as if they were in the rot-forged sentinel (brute)'s space.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456708,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1exJmYLRUsLWQr5m",
+      "name": "Four-Way Grasp",
+      "type": "weapon",
+      "img": "icons/skills/melee/strike-polearm-light-orange.webp",
+      "system": {
+        "description": "<p><strong>Special:</strong> The rot-forged sentinel (brute) can have up to four size 1 creatures grabbed.</p>",
+        "attribute": "strong",
+        "reference": "1handed",
+        "baseDamage": "1d10",
+        "bonusDamage": "",
+        "alternativeDamage": "",
+        "cost": "",
+        "number": 1,
+        "isArtifact": false,
+        "quality": "",
+        "qualities": {},
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "power": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456708,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1BQHFsJGtUDiEW1N",
+      "name": "Lumber",
+      "type": "ability",
+      "img": "icons/skills/movement/arrow-upward-yellow.webp",
+      "system": {
+        "description": "<p>The rot-forged sentinel (brute) shifts up to 4 meters, ignoring difficult terrain.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>The rot-forged sentinel (brute) shifts up to 4 meters, ignoring difficult terrain.</p>"
+        },
+        "adept": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456708,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "dTE0MQPvNYrBOW0Q",
+      "name": "Brawny Buffer",
+      "type": "ability",
+      "img": "icons/magic/air/air-wave-gust-blue.webp",
+      "system": {
+        "description": "<p>The rot-forged sentinel (brute) shifts adjacent to the ally and becomes the new target of the ability.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>The rot-forged sentinel (brute) shifts adjacent to the ally and becomes the new target of the ability.</p>"
+        },
+        "adept": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456708,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "Kzp6fLPBkw6HirZS",
+      "name": "Evolutionary Circuit",
+      "type": "ability",
+      "img": "icons/magic/unholy/orb-swirling-teal.webp",
+      "system": {
+        "description": "<p>All voiceless talkers link their minds, creating a circuit that the encounter. While this circuit is active, any psionic strike made by a voiceless talker deals an extra  damage. Additionally, when a non-minion voiceless talker takes damage, they can use a free triggered action to swap places with any voiceless talker minion on the encounter map. The minion takes the damage instead.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>All voiceless talkers link their minds, creating a circuit that the encounter. While this circuit is active, any psionic strike made by a voiceless talker deals an extra  damage. Additionally, when a non-minion voiceless talker takes damage, they can use a free triggered action to swap places with any voiceless talker minion on the encounter map. The minion takes the damage instead.</p>"
+        },
+        "adept": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456708,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "Sb5wDIJyY6fiRfOH",
+      "name": "Guise",
+      "type": "ability",
+      "img": "icons/magic/unholy/orb-swirling-teal.webp",
+      "system": {
+        "description": "<p>One non-minion voiceless talker projects a psionic screen over their body, preventing other creatures from treating them as an enemy until the end of the voiceless talker’s next turn.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>One non-minion voiceless talker projects a psionic screen over their body, preventing other creatures from treating them as an enemy until the end of the voiceless talker’s next turn.</p>"
+        },
+        "adept": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456708,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "MS87Wj2sblpr3YmC",
+      "name": "Memory Thief",
+      "type": "trait",
+      "img": "icons/magic/unholy/orb-swirling-teal.webp",
+      "system": {
+        "description": "<p><strong>Special:</strong> This ability can’t be used by a minion.</p>",
+        "reference": "alternativedamage",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p><strong>Special:</strong> This ability can’t be used by a minion.</p>"
+        },
+        "adept": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456708,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "EvErcSjZmXeDOLUS",
+      "name": "armored",
+      "type": "trait",
+      "img": "systems/symbaroum/asset/image/trait.png",
+      "system": {
+        "description": "",
+        "reference": "armored",
+        "novice": {
+          "isActive": true,
+          "action": "P",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456708,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "XyntrQjcEX1R3DtY",
+      "name": "robust",
+      "type": "trait",
+      "img": "systems/symbaroum/asset/image/trait.png",
+      "system": {
+        "description": "",
+        "reference": "robust",
+        "novice": {
+          "isActive": true,
+          "action": "P",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456708,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Rot-Forged Sentinel (Brute)",
+    "displayName": 20,
+    "actorLink": false,
+    "disposition": -1,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "systems/draw-steel/assets/roles/brute.webp",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "health.toughness"
+    },
+    "bar2": {
+      "attribute": "health.corruption"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919456708,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_id": "1K1UEXQe4uJlrZum",
+  "name": "Montage: Beat 10 — Cave Entrance Preparation",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391003997,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "1YFCnFuuTFMjPUp7",
+      "name": "Beat 10 — Cave Entrance Preparation",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1>Beat 10 — Cave Entrance Preparation</h1>\n<p><strong>Act:</strong> Act 2 | <strong>Type:</strong> Montage Scene</p>\n<hr><h2>Overview</h2><p>The Echoing Caves are tidal. The party must time their approach correctly, gather equipment, and prepare for the descent into a passage that fills with seawater when the tide rises. Lysandre the Fishwife (if the party spoke with her) can advise on timing and the carved figure of Líf inside. The party has a narrow window between tides.</p>\n<hr><h2>Running This Scene</h2>\n<p>This is a <strong>narrative montage</strong> — a series of challenges the party faces as a group. Rather than a single roll, play this out as a sequence of scenes where each character contributes.</p>\n<h3>GM Guidance</h3>\n<ul>\n<li>Go around the table and ask each player how their character is helping.</li>\n<li>Call for ability checks as appropriate — suggested modified [Resolute←13] (moderate).</li>\n<li>Let creative approaches succeed with good roleplaying, even without a roll.</li>\n<li>Use the complications below as prompts — not every one needs to come up.</li>\n<li>The goal is collaborative storytelling, not a pass/fail test.</li>\n</ul>\n<p><strong>Relevant Skills:</strong></p><ul>\n<li>Strong</li>\n<li>Quick or Discreet</li>\n<li>Cunning or Cunning</li>\n<li>Vigilant, Vigilant, or Vigilant</li>\n<li>Persuasive, Persuasive, or Persuasive</li>\n</ul>\n<hr><h2>Complications &amp; Challenges</h2>\n<p>Use these as dramatic beats during the montage. Present them as situations the party must navigate together.</p>\n<p>The tide window is narrowing. Scouts and preparation tests must be made quickly. Low tide lasts approximately two hours. Characters must assess the entrance, secure ropes, and prepare for the descent.</p><ul><li><strong>Reason:</strong> Estimate the tidal schedule from wave patterns and rock staining (moderately difficult).</li><li><strong>Agility:</strong> Climb the slick rock face to secure an anchor point for the group's descent rope.</li><li><strong>Intuition:</strong> Read the Vanir carvings near the entrance to understand what the passage is for.</li><li><strong>Presence:</strong> Rally the group's focus and calm nerves before entering a tight, tide-threatened space.</li></ul>\n<h3>Escalation</h3>\n<p>If the scene needs more tension, introduce these additional complications:</p>\n<p>Inside the cave, the passage narrows and the sound of water amplifies strangely — the caves are beginning to fill. The party must move efficiently through the carved stone corridor toward the figure of Líf before the water rises.</p><ul><li><strong>Might:</strong> Force a stone door or squeeze through a collapsed section of passage.</li><li><strong>Agility:</strong> Move through rising ankle-deep water without losing footing.</li><li><strong>Intuition:</strong> Find the hand-carved figure of Líf and determine how to interact with the water from her hands.</li><li><strong>Reason:</strong> Recall knowledge of Vanir ritual sites to understand what the figure triggers.</li></ul>\n<hr><h2>Outcomes</h2>\n<p>Based on how the party performed, use the following as a guide:</p>\n<p><strong>Total Success R1:</strong> Ropes secured, tidal schedule confirmed, carvings partially understood. The party enters with time to spare and a sense of the cave's purpose. +1 to Round 2 tests from preparation.<br><strong>Partial Success R1:</strong> Ropes secured. Tidal estimate uncertain — may have less time than believed.<br><strong>Failure R1:</strong> The party scrambles. The first characters through have to improvise rope anchors under pressure. Someone starts Round 2 with the slowed condition from a cold-water stumble.</p>\n<p><strong>Total Success:</strong> The party reaches the figure of Líf with time to spare, understands the Vanir ritual significance, and descends safely as the tide begins rising behind them. They enter the cave complex prepared and oriented.<br><strong>Partial Success:</strong> The party gets through, but wet and rushed. One hero takes 4 cold damage from a slip into deeper water.<br><strong>Failure:</strong> The party scrambles through the tidal surge. At least one hero takes 8 cold damage and loses a piece of light equipment (food, torch) to the water. The passage is blocked until the next tide window (6 hours). If already at the figure, it activates incompletely.</p>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391003997,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "_id": "n8yPD43r3kWqqfUX",
+  "name": "Hildvarð's Sealed Iron Canteen",
+  "type": "equipment",
+  "img": "icons/consumables/potions/potion-bottle-corked-labeled-red.webp",
+  "system": {
+    "description": "<p>A small iron canteen, completely sealed by a forge-welded cap, warm to the touch even in the coldest passage. Inside, geothermal water from the Heitfolk vents holds its heat through a Djúpdvergr preservation technique. When the seal is broken, the stored warmth escapes — enough to heat a small shelter for several hours. A personal gift from Hildvarð Bruneson to Kaelen. One use only.</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>ACQUISITION:</strong> Personal gift from Hildvarð Bruneson (Djúpdvergr Forgemaster) to Kaelen specifically, Beat 17. Given as thanks for helping repair the vent network. One canteen total — cannot be duplicated.</p><p><strong>MECHANICS (One-Use Consumable):</strong></p><ul><li>The canteen is forged-welded shut — it cannot be opened normally without destroying it. To use: apply force to the seal (any hero can do this as a free action).</li><li>On breaking the seal: the geothermal water inside releases its stored warmth in a spreading wave.</li><li>Effect: Entire small enclosed space (shelter, tent, small cave chamber, 20ft radius) is warmed to comfortable temperature for 4–6 hours. Removes cold-environment penalties within the space. Characters who were hypothermic gain 1 Recovery Test as the warmth stabilizes them.</li><li>Cannot be used outdoors in open wind — warmth dissipates too quickly.</li></ul><p><strong>FICTION:</strong> Hildvarð forged this canteen himself. The metal was worked with runes that allow it to hold geothermal heat far longer than physics should allow. He gives it to Kaelen: “You’ll need warmth at some point that matters. Save it.”</p></section></section>",
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "isArtifact": false,
+    "power": {},
+    "qualities": {},
+    "marker": "",
+    "state": "other",
+    "cost": "",
+    "number": 1
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919475030,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "_id": "hinnzoJMdK1DkgPu",
+  "name": "Jardúttr's Gift",
+  "type": "artifact",
+  "img": "icons/magic/nature/beam-hand-leaves-green.webp",
+  "system": {
+    "description": "<p>A spiritual imprint left by the Jardúttr — the ancient geothermal spirit guardian of the Echoing Caves. It is not an object but a mark of recognition, carried in the bearer’s awareness. Those who showed mercy to the Jardúttr find that old, deep places seem less hostile; passages reveal themselves; ancient wards hesitate before closing.</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>ACQUISITION:</strong> Granted only on the mercy path in Beat 10. If the party defeats but spares the Jardúttr instead of killing it, the Jardúttr acknowledges their restraint and leaves a spiritual imprint on the party.</p><p><strong>EFFECT (Passive, permanent for Act 2):</strong> The bearer gains an advantage (second chance) on Intuition and Reason tests related to: navigation in cave and underground environments, ancient sacred places and ruins, geothermal or volcanic terrain, and passages used by non-human beings (Vanir, creatures, spirits). This imprint fades when Act 2 concludes.</p><p><strong>FICTION:</strong> This is not a physical object. The Jardúttr leaves a mark of recognition — a deep-earth attunement that helps those who showed mercy to find their way through old places. Kaelen describes it as “walking with something large just ahead, clearing the path.”</p></section></section>",
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "isArtifact": true,
+    "power": {
+      "description": "<p>A spiritual imprint left by the Jardúttr — the ancient geothermal spirit guardian of the Echoing Caves. It is not an object but a mark of recognition, carried in the bearer’s awareness. Those who showed mercy to the Jardúttr find that old, deep places seem less hostile; passages reveal themselves; ancient wards hesitate before closing.</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>ACQUISITION:</strong> Granted only on the mercy path in Beat 10. If the party defeats but spares the Jardúttr instead of killing it, the Jardúttr acknowledges their restraint and leaves a spiritual imprint on the party.</p><p><strong>EFFECT (Passive, permanent for Act 2):</strong> The bearer gains an advantage (second chance) on Intuition and Reason tests related to: navigation in cave and underground environments, ancient sacred places and ruins, geothermal or volcanic terrain, and passages used by non-human beings (Vanir, creatures, spirits). This imprint fades when Act 2 concludes.</p><p><strong>FICTION:</strong> This is not a physical object. The Jardúttr leaves a mark of recognition — a deep-earth attunement that helps those who showed mercy to find their way through old places. Kaelen describes it as “walking with something large just ahead, clearing the path.”</p></section></section>",
+      "action": "A"
+    },
+    "qualities": {},
+    "marker": "",
+    "state": "other",
+    "corruptionDescription": "Using this artifact costs 1 temporary corruption."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919475032,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

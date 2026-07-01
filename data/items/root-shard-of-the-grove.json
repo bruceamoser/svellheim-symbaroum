@@ -1,0 +1,59 @@
+{
+  "_id": "bvtVnouOZj6MO6XQ",
+  "name": "Root-Shard of the Grove",
+  "type": "artifact",
+  "img": "icons/commodities/gems/gem-rough-oval-green.webp",
+  "system": {
+    "description": "<p>A fragment of the Green Heart's root-network, crystallized with Kaelen's warmth-light during her transformation. The shard is warm to the touch, humming very slightly — a subsonic resonance. The surface is polished by age and attention. Inside, faint golden light moves like slow flame.</p><p><em>\"The root remembers everything it has touched. She has touched us before. Now you carry a piece of that memory.\"</em></p>",
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "isArtifact": true,
+    "power": {
+      "description": "<p>A fragment of the Green Heart's root-network, crystallized with Kaelen's warmth-light during her transformation. The shard is warm to the touch, humming very slightly — a subsonic resonance. The surface is polished by age and attention. Inside, faint golden light moves like slow flame.</p><p><em>\"The root remembers everything it has touched. She has touched us before. Now you carry a piece of that memory.\"</em></p>",
+      "action": "A"
+    },
+    "qualities": {},
+    "marker": "",
+    "state": "other",
+    "corruptionDescription": "Using this artifact costs 2 temporary corruption."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919475033,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

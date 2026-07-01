@@ -1,0 +1,650 @@
+{
+  "_id": "S8hPYfRsj28dgJxK",
+  "name": "Chainwarden Enforcer",
+  "type": "monster",
+  "img": "modules/svellheim-symbaroum/assets/icons/monster-images/chainwarden-enforcer.png",
+  "system": {
+    "attributes": {
+      "strong": {
+        "value": 10,
+        "bonus": 0,
+        "total": 10,
+        "modifier": 0,
+        "temporaryMod": 0
+      },
+      "quick": {
+        "value": 13,
+        "bonus": 0,
+        "total": 13,
+        "modifier": -3,
+        "temporaryMod": 0
+      },
+      "cunning": {
+        "value": 10,
+        "bonus": 0,
+        "total": 10,
+        "modifier": 0,
+        "temporaryMod": 0
+      },
+      "vigilant": {
+        "value": 10,
+        "bonus": 0,
+        "total": 10,
+        "modifier": 0,
+        "temporaryMod": 0
+      },
+      "persuasive": {
+        "value": 12,
+        "bonus": 0,
+        "total": 12,
+        "modifier": -2,
+        "temporaryMod": 0
+      },
+      "accurate": {
+        "value": 12,
+        "bonus": 0,
+        "total": 12,
+        "modifier": -2,
+        "temporaryMod": 0
+      },
+      "discreet": {
+        "value": 10,
+        "bonus": 0,
+        "total": 10,
+        "modifier": 0,
+        "temporaryMod": 0
+      },
+      "resolute": {
+        "value": 11,
+        "bonus": 0,
+        "total": 11,
+        "modifier": -1,
+        "temporaryMod": 0
+      }
+    },
+    "health": {
+      "toughness": {
+        "value": 40,
+        "max": 40,
+        "threshold": 20
+      },
+      "corruption": {
+        "value": 0,
+        "max": 0,
+        "threshold": 0
+      }
+    },
+    "combat": {
+      "baseProtection": "0",
+      "bonusProtection": "",
+      "qualities": {},
+      "cost": "",
+      "state": "other",
+      "impeding": 0
+    },
+    "bio": {
+      "race": "Humanoid",
+      "occupation": "Defender",
+      "quote": "",
+      "shadow": "A medium Humanoid of DS level 1 (platoon)",
+      "manner": ""
+    },
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "experience": {
+      "total": 0,
+      "artifactrr": 0,
+      "spent": 0,
+      "available": 0
+    },
+    "nbrOfFailedDeathRoll": 0,
+    "isMonster": true
+  },
+  "items": [
+    {
+      "_id": "ZwvQ1atEPD1UemrU",
+      "name": "Masking Glamor",
+      "type": "trait",
+      "img": "icons/creatures/abilities/dragon-fire-breath-orange.webp",
+      "system": {
+        "description": "<p>Abilities targeting the greenskeeper that would take a disadvantage (second chance) from cover or concealment have a double disadvantage (second chance) instead.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": false,
+          "action": "P",
+          "description": "<p>Abilities targeting the greenskeeper that would take a disadvantage (second chance) from cover or concealment have a double disadvantage (second chance) instead.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456669,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "2Lo2aIUdiBJP9O9u",
+      "name": "Growing Longsword",
+      "type": "weapon",
+      "img": "icons/skills/melee/strike-polearm-glowing-white.webp",
+      "system": {
+        "description": "<p>The target is taunted until the end of their next turn, and the greenskeeper shifts up to 3 meters</p>",
+        "attribute": "quick",
+        "reference": "1handed",
+        "baseDamage": "1d8",
+        "bonusDamage": "",
+        "alternativeDamage": "",
+        "cost": "",
+        "number": 1,
+        "isArtifact": false,
+        "quality": "",
+        "qualities": {},
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "power": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456669,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "4sY7UkgpYRNNkCot",
+      "name": "Overgrowth",
+      "type": "trait",
+      "img": "icons/magic/air/air-pressure-shield-blue.webp",
+      "system": {
+        "description": "<p>The area is overgrown with heavy brush and brambles until the end of the encounter, providing cover and concealment for the greenskeeper and their allies. The area is difficult terrain for enemies and any enemy who starts their turn in the area takes  damage.</p>",
+        "reference": "deadlybreath",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>The area is overgrown with heavy brush and brambles until the end of the encounter, providing cover and concealment for the greenskeeper and their allies. The area is difficult terrain for enemies and any enemy who starts their turn in the area takes  damage.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456670,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "LhP9EJx9jXqWnxVt",
+      "name": "Forest Network",
+      "type": "ability",
+      "img": "icons/magic/air/air-pressure-shield-blue.webp",
+      "system": {
+        "description": "<p>Each wode elf who ends this turn hidden can shift up to their speed while remaining hidden.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>Each wode elf who ends this turn hidden can shift up to their speed while remaining hidden.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456670,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "zwrAcGvHjM5xsCYE",
+      "name": "Punishing Regrowth",
+      "type": "ability",
+      "img": "icons/magic/unholy/silhouette-robe-evil-power.webp",
+      "system": {
+        "description": "<p>Until the end of the round, each wode elf gains an advantage (second chance) on abili ties, and their strikes can slide a target up to 2 meters in addition to their usual effects. If a strike already imposes forced movement, this slide happens after that forced movement. A creature force moved by a wode elf’s strike who ends this forced movement in difficult terrain is restrained until the end of their next turn.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>Until the end of the round, each wode elf gains an advantage (second chance) on abili ties, and their strikes can slide a target up to 2 meters in addition to their usual effects. If a strike already imposes forced movement, this slide happens after that forced movement. A creature force moved by a wode elf’s strike who ends this forced movement in difficult terrain is restrained until the end of their next turn.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456670,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1CGF5qSx5KDKSOr2",
+      "name": "Vines Everywhere",
+      "type": "ability",
+      "img": "icons/magic/air/air-pressure-shield-blue.webp",
+      "system": {
+        "description": "<p>Vines rapidly grow across the entire encounter map. Each enemy in the encounter makes an <strong>Agility test.</strong></p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>Vines rapidly grow across the entire encounter map. Each enemy in the encounter makes an <strong>Agility test.</strong></p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456670,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Chainwarden Enforcer",
+    "displayName": 20,
+    "actorLink": false,
+    "disposition": -1,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "modules/svellheim-symbaroum/assets/icons/monster-images/chainwarden-enforcer.png",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "health.toughness"
+    },
+    "bar2": {
+      "attribute": "health.corruption"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919456670,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

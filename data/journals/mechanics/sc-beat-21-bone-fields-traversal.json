@@ -1,0 +1,52 @@
+{
+  "_id": "1NNoGkt5stcH6OV1",
+  "name": "Montage: Beat 21 — Bone-Fields Traversal",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391004000,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "1Ag0YNl1Hy4FMtzl",
+      "name": "Beat 21 — Bone-Fields Traversal",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1>Beat 21 — Bone-Fields Traversal</h1>\n<p><strong>Act:</strong> Act 3 | <strong>Type:</strong> Montage Scene</p>\n<hr><h2>Overview</h2><p>The party crosses the Bone-Fields — a vast expanse of calcified remains, exposed root-lines, and Rot-corrupted terrain between the Steam-Oasis and the Green Heart. The landscape is treacherous: ankle-breaking bone ridges, bone-haze reducing visibility, wind carrying the stench of corruption, and scattered undead remnants moving through the fog. The organized draugr columns have already passed through, leaving stragglers and Drowned Wolves in their wake.</p><p><strong>NPC Assistance:</strong> Lew contributes once per round (Intuition +3 or Reason +2). His Wyrd-eye is sharper now — he can see the root-lines converging toward the Green Heart and uses this to guide the party through the worst terrain.</p><p><strong>Second Chance (two rolls, take best):</strong> Kaelen's warmth continues to suppress cold-based conditions in Close Burst 4. However, her growing luminosity is now a <em>liability</em> — her golden glow attracts attention from draugr stragglers.</p>\n<hr><h2>Running This Scene</h2>\n<p>This is a <strong>narrative montage</strong> — a series of challenges the party faces as a group. Rather than a single roll, play this out as a sequence of scenes where each character contributes.</p>\n<h3>GM Guidance</h3>\n<ul>\n<li>Go around the table and ask each player how their character is helping.</li>\n<li>Call for ability checks as appropriate — suggested modified [Resolute←15] (hard).</li>\n<li>Let creative approaches succeed with good roleplaying, even without a roll.</li>\n<li>Use the complications below as prompts — not every one needs to come up.</li>\n<li>The goal is collaborative storytelling, not a pass/fail test.</li>\n</ul>\n<p><strong>Relevant Skills:</strong></p><ul>\n<li>Strong</li>\n<li>Quick or Discreet</li>\n<li>Cunning or Cunning</li>\n<li>Vigilant, Vigilant, or Vigilant</li>\n<li>Persuasive, Persuasive, or Persuasive</li>\n</ul>\n<hr><h2>Complications &amp; Challenges</h2>\n<p>Use these as dramatic beats during the montage. Present them as situations the party must navigate together.</p>\n<p><strong>Round 1: The Rot-Corrupted Fields — Upper Bone-Fields.</strong> The terrain shifts from snow to calcified bone and exposed root-lines. The air is thick with bone-haze — fine particulate from centuries of decomposition, stirred by the Rot's advance. Visibility is poor and footing is treacherous.</p><ul><li><strong>Navigate the calcified terrain (Reason TN 13 or Agility TN 14):</strong> The ground is a labyrinth of bone ridges, narrow gullies, and half-buried root-lines. Route-finding requires either careful analysis or nimble footwork.</li><li><strong>Watch over Kaelen in draugr territory (Presence TN 12):</strong> Kaelen's ember-mark blazes in the haze, drawing attention. Someone must stay close, redirect her during drift-periods, and shield her glow when shapes move in the fog.</li><li><strong>Resist the Rot's corruption (Might TN 13):</strong> Thick spore-clouds rise from the corrupted ground. Failure: Sickened condition (−1 to all tests until warm rest).</li><li><strong>Spot dangers in the bone-haze (Intuition TN 14):</strong> Drowned Wolves and draugr stragglers lurk in the haze. Detecting them before they detect the party is critical.</li><li><strong>Move parallel to draugr columns (Agility TN 14 or Intuition TN 13):</strong> Organized undead marched through hours ago, leaving trails. Follow the trails (faster but riskier) or skirt around them (slower but safer).</li><li><strong>Maintain resilience against the horror (Presence TN 12):</strong> The Bone-Fields are a vast open grave. Morale erodes with every step. Someone must keep the group focused.</li></ul><p><strong>Round 1 Interlude: The Green Heart Appears.</strong> Through a break in the bone-haze, the party sees it for the first time — a distant grove of enormous trees, their canopy glowing with faint amber light. The Green Heart. Kaelen stops mid-stride. Her ember-mark blazes. She stands upright — no longer stumbling, no longer needing support — and begins walking toward it with absolute certainty. She does not speak. She does not look back. She simply <em>knows where she is going.</em></p>\n<h3>Escalation</h3>\n<p>If the scene needs more tension, introduce these additional complications:</p>\n<p><strong>Round 2: The Deeper Bone-Fields — Approaching the Green Heart.</strong> The terrain worsens as the party draws closer to the Green Heart. The bone ridges give way to an open field of scattered remains and half-exposed root-lines that pulse with faint amber light. The roots are responding to Kaelen. The air is warmer.</p><ul><li><strong>Navigate the deeper Bone-Fields (Reason TN 13 or Agility TN 14):</strong> The terrain is more complex near the Green Heart — root-lines create natural barriers and the ground shifts unpredictably.</li><li><strong>Avoid draugr stragglers (Agility TN 14 or Intuition TN 13):</strong> Remnants of the organized columns — slower, less coordinated, but still dangerous. Drowned Wolves circle at the edges.</li><li><strong>Shield Kaelen's glow from attention (Presence TN 13):</strong> Kaelen's golden light is now visible through the haze. Every undead in the area can sense her. The party must draw attention away or conceal her radiance.</li><li><strong>Read the root-line patterns (Reason TN 14 or Intuition TN 13):</strong> The exposed root-lines form patterns that reveal the safest paths forward — and the locations of the worst concentrations of undead.</li><li><strong>Find safe passage through the final stretch (Reason TN 13):</strong> The last half-mile before the Green Heart's tree-line is open ground with minimal cover. Planning the approach carefully is essential.</li><li><strong>Hold focus against the Green Heart's pull (Presence TN 12):</strong> The grove exerts a psychic gravity — not hostile, but <em>immense</em>. Even heroes feel drawn toward it. Maintaining discipline is harder than expected.</li></ul><p><strong>Round 2 Interlude: At the Green Heart's Second Chance (two rolls, take best).</strong> The party breaks through the final bone-haze into clear air. The Green Heart rises before them — trees hundreds of feet tall, roots above ground glowing with amber light, the air warm and alive. Kaelen stands at the threshold. Her skin blazes gold. The roots are moving — slowly, purposefully — reaching toward her. She turns back to look at the party one last time with her own eyes. Then she faces the grove and waits.</p>\n<hr><h2>Outcomes</h2>\n<p>Based on how the party performed, use the following as a guide:</p>\n<p><strong>Hard Success (6+ successes, 0–1 failures):</strong> The party crosses the Bone-Fields swiftly and without incident. They arrive at the Green Heart fresh and strong, with time to prepare. Gain <strong>2 Milestones</strong>.</p><p><strong>Success (6+ successes, 2 failures):</strong> The party reaches the Green Heart with minor costs — 1 Heat consumed or one PC takes Sickened. Gain <strong>1 Victory</strong>.</p>\n<p><strong>Partial Failure (4–5 successes, 3 failures):</strong> The party arrives at the Green Heart battered. Lose <strong>2 Heat</strong>. Additionally, 1–2 Drowned Wolf stragglers follow the party to the threshold — they must be dealt with before entering the grove.</p><p><strong>Hard Failure (fewer than 4 successes):</strong> The party is exhausted and pursued. All PCs <strong>lose 1 Hit Die</strong>. A contingent <strong>Threshold Skirmish</strong> occurs — 2–4 Drowned Wolves and 1–2 Barrow-Draugr attack at the Green Heart's second chance (two rolls, take best). The dryads within the grove require a negotiation before admitting the party (rather than welcoming them freely).</p>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004000,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

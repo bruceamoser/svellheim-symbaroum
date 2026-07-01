@@ -1,0 +1,284 @@
+{
+  "_id": "VI31fPuA3L0Juv9U",
+  "name": "Svellheim Gazetteer — Northern Belt",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391004115,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "1Q5JMOpJzvOnCSwN",
+      "name": "The White Waste",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>The end of the map. Beyond the Interior Belt, the ice wins. The White Waste is not a place people live—it is a place that erases the idea of living. The glacier advances a mile every year, and nothing stops it.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Region:</strong> Northern Belt. The advancing glacier that defines the northern limit of the habitable world.</li>\n<li><strong>Atmosphere:</strong> Absolute silence. Cold that bypasses fur and hits the bone. The sky is white. The ground is white. Direction ceases to have meaning.</li>\n<li><strong>What people know:</strong> The ice grows. It swallows everything in its path. It has been advancing since the Fimbulwinter began.</li>\n<li><strong>Notable landmarks:</strong> The Frozen City (visible inside a glacier wall), the Aurora Spire (a crystal formation that draws the Northern Lights).</li>\n</ul>\n</div>\n<h3>Landscape</h3>\n<p>The White Waste is not a snowfield—it is a glacier. A living, grinding wall of ice hundreds of feet thick at its leading second chance (two rolls, take best), stretching back to the pole in a featureless white plane. The edge of the glacier is a cliff-face of blue-white ice: cracking, calving, and advancing. Behind the second chance (two rolls, take best), the surface is a maze of crevasses, pressure ridges, and wind-polished ice that reflects the sky until the horizon and the ground become indistinguishable.</p>\n<h3>The Advance</h3>\n<p>The glacier grows approximately one mile per year. In human terms, this is slow. In geological terms, it is terrifyingly fast. Settlements once safely south of the ice are now buried. The land ahead of the advancing second chance (two rolls, take best) is scoured by cold winds that freeze soil solid and kill vegetation months before the ice arrives.</p>\n<h3>Travel</h3>\n<ul>\n<li><strong>Navigation:</strong> impossible by conventional means. The featureless white defeats compasses, landmarks, and depth perception.</li>\n<li><strong>Crevasses:</strong> hidden by snow-bridges that hold until they don't. Roped travel is mandatory.</li>\n<li><strong>Time distortion:</strong> the constant white light and silence produce disorientation. Travelers lose track of hours, then days.</li>\n<li><strong>Cold:</strong> beyond survivable without magical aid, alchemical preparation, or geothermal shelter.</li>\n</ul>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Death Zone</h4>\n<p>The White Waste is where <strong>the rules of survival break down</strong>. Normal cold-weather gear isn't enough. Normal rations aren't enough. The party must prepare specifically for this environment or die. This is intentional—the White Waste is the campaign's crucible.</p>\n<ul>\n<li><strong>Resource pressure:</strong> heat sources, food, and navigation are all existential problems here. Every rest costs fuel.</li>\n<li><strong>Sensory deprivation:</strong> the whiteness and silence are psychologically corrosive. Use it to create tension even without enemies.</li>\n<li><strong>Physics begins to fail:</strong> the Atlas says this explicitly. Near the glacier's heart, distances are wrong. Sound travels strangely. Things frozen in the ice move when observed from different angles.</li>\n<li><strong>Gate to the endgame:</strong> the party must cross the White Waste to reach the Throat of the World and the Emberwell. The crossing itself is meant to be the hardest travel challenge in the campaign.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Advance warning:</strong> a settlement on the glacier's path has one season left. They need to evacuate or find a way to slow the ice.</li>\n<li><strong>Lost expedition:</strong> a previous Emberwell-seeking party entered the Waste and never returned. Their trail is still visible—frozen footprints in the ice, leading north.</li>\n<li><strong>Brine-Ice field:</strong> a stretch of salt-saturated ice that burns skin on contact blocks the direct route. Go around (days of detour) or find a way through.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004115,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "bmPGTUKPiGWTHBIw",
+      "name": "The Frozen City",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>It's inside the glacier. You can see it through the ice: towers, walls, streets—perfectly preserved, perfectly unreachable. A city built by something that wasn't human, frozen in time and transparent blue ice. It watches you looking at it.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Visible through the glacier wall in the western White Waste.</li>\n<li><strong>What it is:</strong> A pre-human ruin of unknown origin, sealed inside hundreds of feet of transparent ice.</li>\n<li><strong>Status:</strong> Inaccessible. The ice cannot be cut, melted, or tunneled through by any known means.</li>\n</ul>\n</div>\n<h3>What Can Be Seen</h3>\n<p>The glacier wall in this region is unusually clear—almost glass-like. Through it, the outlines of a city are visible: spires, domes, stepped structures, and what appear to be streets laid in geometric patterns. The architecture is alien—curved where human buildings are angular, organic where stone should be rigid. No two observers describe the same layout. Sketches drawn by different people don't match.</p>\n<h3>The Ice</h3>\n<p>The ice encasing the Frozen City is different from the surrounding glacier. It is harder, clearer, and colder. Tools that cut normal ice shatter against it. Fire applied to the surface produces no melt—the heat simply vanishes. The ice is not merely frozen water; it is something else wearing water's shape.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The City Outside Time</h4>\n<p>The Frozen City is a <strong>deep-mystery location</strong>—one of the oldest things in the world, sealed away before human memory. It connects to the pre-human civilizations hinted at throughout Svellheim (the Ring Fortress at Urdvatn, the Ivory Tower, High-Hall).</p>\n<ul>\n<li><strong>Inconsistent observation:</strong> the city looks different from different angles because it exists in more than three dimensions. The ice isn't just a barrier—it's a lens.</li>\n<li><strong>Yggdrasil connection:</strong> the city was built around (or on top of) a root-node. Its inhabitants were the root's caretakers before humans existed.</li>\n<li><strong>Access condition:</strong> the ice may respond to specific stimuli: the sound from the Aurora Spire, a frequency from the Ivory Tower's carvings, or the presence of Yggdrasil's fire (an Ever-Ember or the Need-Fire).</li>\n<li><strong>Late-campaign potential:</strong> entering the Frozen City could be a major story beat—providing knowledge, artifacts, or a shortcut to the Emberwell.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>The city moves:</strong> on consecutive days, the visible buildings have shifted position. It's not the observers—the city is rearranging behind the ice.</li>\n<li><strong>Light from inside:</strong> a faint glow appears deep in the city, pulsing in a rhythm that matches a heartbeat. Then it stops.</li>\n<li><strong>Ice thins:</strong> in one spot, the glacier wall is only inches thick. Breath fogs on its surface. Something on the other side breathes back.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004115,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "xsn0rjITp3054B02",
+      "name": "The Aurora Spire",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>A crystal formation the height of a cathedral nave, rising from the glacier surface like a frozen flame. The Northern Lights gather here—drawn, pulled, funneled into the crystal until it rings. Magic cast within its shadow behaves like a living thing.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Eastern White Waste, visible for miles in clear conditions.</li>\n<li><strong>What it is:</strong> A natural crystal formation that attracts and concentrates the Northern Lights (aurora borealis).</li>\n<li><strong>Known effect:</strong> Magic cast here is <strong>Wild</strong>—unpredictable, amplified, and dangerous.</li>\n</ul>\n</div>\n<h3>The Crystal</h3>\n<p>The Aurora Spire is a single crystal formation—or appears to be. It rises from the glacier in a spiral, faceted and translucent, refracting light into spectra that shouldn't exist. At its peak, the crystal narrows to a point that seems to pierce the sky itself.</p>\n<h3>The Aurora Effect</h3>\n<p>When the Northern Lights appear, they bend toward the Spire. Curtains of green and violet light funnel into the crystal, concentrating until the entire formation glows and produces a low, resonant tone—felt more than heard. The ground vibrates. The air tastes of ozone and copper.</p>\n<h3>Wild Magic</h3>\n<p>Anyone casting magic within the Spire's shadow finds their abilities amplified and distorted. Effects are stronger, less controllable, and occasionally manifest in ways the caster did not intend. Experienced practitioners approach the Spire with extreme caution. The reckless do not approach twice.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Amplifier</h4>\n<p>The Aurora Spire is a <strong>magical set-piece location</strong>. Use it when the party needs power they can't normally access—at a cost.</p>\n<ul>\n<li><strong>Wild Magic table:</strong> any ability used near the Spire triggers a bonus effect (roll on a custom table: healing surges, elemental bursts, time-skips, or worse).</li>\n<li><strong>Ritual amplification:</strong> rituals performed here are dramatically more powerful. The Need-Fire ritual, if attempted here, would produce a signal visible across Svellheim—and attract everything watching.</li>\n<li><strong>Resonance:</strong> the Spire's tone when active matches the frequency described in High-Hall's astronomical symbols. The two locations are connected.</li>\n<li><strong>Frozen City link:</strong> the Spire may be the key that unlocks the Frozen City's ice—applying the aurora-frequency to the glacier wall.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Forced ritual:</strong> an enemy faction is trying to use the Spire to power a ritual of their own. The party must stop them or the aurora itself becomes a weapon.</li>\n<li><strong>Crystal fracture:</strong> a crack appears in the Spire's base. If it shatters, the wild magic zone could expand uncontrollably across the glacier.</li>\n<li><strong>Communication:</strong> a party member touching the crystal during an aurora receives a vision—images of the Frozen City as it was when inhabited, and a voice speaking in a language that feels familiar despite being unknown.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004116,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "q3D7h8ClDQb2ezbr",
+      "name": "The Throat of the World",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Beyond the glacier, the world catches fire. The Throat of the World is a volcanic plateau surrounded by ice—the hottest place in Svellheim, ringed by the coldest. Steam, lava, ash, and the smell of sulfur. The roots of the world break the ice here.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Region:</strong> Northern Belt (deep north, beyond the White Waste). An active volcanic plateau surrounded by glacier on all sides.</li>\n<li><strong>Atmosphere:</strong> Fire and ice. Steam clouds, lava rivers shielded by ash, and geothermal heat that keeps the immediate area free of glacier.</li>\n<li><strong>What people know:</strong> Legend speaks of a volcanic plateau where \"the roots of the world break the ice.\" Most believe the Throat exists; few claim to have reached it.</li>\n<li><strong>Notable landmarks:</strong> <strong>Surt's Forge</strong> (an active caldera), the <strong>Steam-Oasis</strong> (a valley of hot springs).</li>\n</ul>\n</div>\n<h3>Landscape</h3>\n<p>The Throat of the World is a paradox made geographic: a region of volcanic activity so intense that it holds the glacier at bay. The transition is violent—walls of ice give way to bare rock, steam, and heat within the span of a hundred paces. Lava flows carve channels through the permafrost. Geysers erupt on unpredictable schedules. The air shifts from lethal cold to oppressive heat and back again.</p>\n<h3>The Approach</h3>\n<ul>\n<li><strong>Through the White Waste:</strong> the only route is across the glacier. There are no roads, no way-stations, and no shelter until the volcanic heat begins.</li>\n<li><strong>The Melt-Zone:</strong> where glacier meets volcanic heat, the ice collapses into unstable terrain—ice-bridges over lava, steam-filled crevasses, and boiling meltwater rivers.</li>\n<li><strong>The Ash-Barrier:</strong> volcanic ash settles on the glacier second chance (two rolls, take best), creating a grey margin of treacherous footing.</li>\n</ul>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Endgame Arena</h4>\n<p>The Throat of the World is the <strong>campaign's final landscape</strong>. Everything the party has learned about survival, politics, and Yggdrasil converges here. The Emberwell—the campaign's ultimate destination—lies beneath this volcanic plateau.</p>\n<ul>\n<li><strong>Campaign geography:</strong> The Throat is the visible landmark. The Steam-Oasis is the survivable shell and staging ground. The Emberwell is the sealed chamber below—half geothermal engine, half root-knot.</li>\n<li><strong>Environmental extremes:</strong> fire and ice simultaneously. The party must manage burns and frostbite in the same scene. Lava on one side, glacier on the other.</li>\n<li><strong>Fire Giants:</strong> Surt's Forge is occupied. The Fire Giants are not necessarily enemies—but they are territorial, ancient, and know things about the Emberwell.</li>\n<li><strong>Scale:</strong> the volcanic features here are enormous. Calderas the size of cities. Lava rivers wide as the Ormá. The campaign's finale should match the landscape in grandeur.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Melt-zone collapse:</strong> the approach route caves in. The party must find an alternate path through collapsing ice over active lava.</li>\n<li><strong>Volcanic tremor:</strong> the ground shakes. A new fissure opens. The plateau is becoming more active—something beneath is stirring.</li>\n<li><strong>Grafvitnir's presence:</strong> the closer the party gets to the Emberwell, the more Grafvitnir's influence manifests: whispers in the steam, shadows in the lava, and agents who arrived here first.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004116,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "KUtEbIIYaOOJid1j",
+      "name": "Surt's Forge",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>An active caldera that glows red at night, visible from the glacier's second chance (two rolls, take best). The Fire Giants who dwell here are not myth. They are old, patient, and unimpressed by mortal urgency.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> The largest active caldera in the Throat of the World.</li>\n<li><strong>What people say:</strong> Fire Giants dwell here, forging weapons in magma. The glow is their furnace.</li>\n<li><strong>Reputation:</strong> Sacred, forbidden, and suicide to approach uninvited.</li>\n</ul>\n</div>\n<h3>The Caldera</h3>\n<p>Surt's Forge is a caldera a mile across, its rim rising like a broken crown above the volcanic plateau. Inside, a lake of magma churns and glows, casting red-orange light across the ash-clouds above. The heat is visible—the air shimmers and warps, and the stone of the rim is too hot to touch with bare hands even at the second chance (two rolls, take best).</p>\n<h3>The Giants</h3>\n<p>Accounts differ. Some name them as Fire Giants—Jotun of the old stories, twenty feet tall, forging in the magma itself. Others say no one has survived close enough to confirm anything. The glow, the rhythmic hammering sound that carries for miles, and the shaped obsidian fragments found near the caldera's base all suggest something intelligent works here.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Old Smiths</h4>\n<p>The Fire Giants are real and ancient. They are <strong>not enemies by default</strong>—but they are not allies either. They are craftsmen who have been forging since before human settlement. They know the Emberwell exists because they helped build part of it.</p>\n<ul>\n<li><strong>Negotiation scene:</strong> the Giants can be parlayed with, but they respect craft, endurance, and knowledge—not titles or threats.</li>\n<li><strong>Emberwell knowledge:</strong> the Giants know the Emberwell's location and its condition. They may share this for a price: a task, a tribute, or proof the party is worthy.</li>\n<li><strong>Forge services:</strong> if the party earns trust, the Giants can reforge weapons, repair artifacts, or create items no mortal smith can produce.</li>\n<li><strong>Grafvitnir history:</strong> the Giants remember when Grafvitnir was imprisoned. They have opinions about what happens if it escapes.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Hammering stops:</strong> the rhythmic forging sound that has echoed for centuries goes silent. Something has changed inside the caldera.</li>\n<li><strong>Giant emissary:</strong> a Fire Giant appears at the Steam-Oasis and speaks to the party directly. Its message: \"You are expected. Bring the flame.\"</li>\n<li><strong>Grafvitnir's agent:</strong> someone has reached the Forge first and poisoned the Giants' goodwill. The party must undo the damage before seeking aid.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004116,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "Z4jyAd2CDHJ3iYBj",
+      "name": "The Steam-Oasis",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>A valley of hot springs, hidden between volcanic ridges. The air is warm, the water is clean, and the truce is sacred. Everyone who reaches this place is too exhausted to fight—so they bathe, and they talk, and they rest. Even monsters.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> A sheltered valley in the Throat of the World.</li>\n<li><strong>What it is:</strong> A cluster of geothermal hot springs producing heat, clean water, and a microclimate warm enough to sustain life.</li>\n<li><strong>The Truce:</strong> By ancient custom, the Steam-Oasis is neutral ground. Violence here is forbidden by tradition enforced by everyone present.</li>\n</ul>\n</div>\n<h3>The Valley</h3>\n<p>The Steam-Oasis is a natural bowl between volcanic ridges, fed by dozens of hot springs that range from pleasantly warm to scalding. Steam rises perpetually, creating a humid microclimate where moss, lichen, and even a few hardy plants survive. The ground is warm underfoot. After the White Waste and the Melt-Zone, it feels like a miracle.</p>\n<h3>The Truce</h3>\n<p>The Steam-Oasis has been neutral ground for longer than anyone can remember. Travelers, factions, creatures, and beings that would kill each other anywhere else set down weapons at the valley's second chance (two rolls, take best). The truce is enforced not by guards but by collective exhaustion and mutual need: anyone who reaches this place has survived enough to value rest over revenge.</p>\n<h3>Services</h3>\n<ul>\n<li><strong>Water:</strong> clean, hot, and abundant. The rarest luxury in the Northern Belt.</li>\n<li><strong>Warmth:</strong> the valley maintains comfortable temperatures year-round.</li>\n<li><strong>Information:</strong> the truce makes the Oasis a trading post for knowledge. Creatures and factions share intelligence here that they would guard with violence elsewhere.</li>\n</ul>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Staging Ground</h4>\n<p>The Steam-Oasis is the <strong>campaign's final safe harbor</strong>. It's where the party rests, plans, gathers intelligence, and prepares for the assault on the Emberwell. It is also where <strong>negotiation encounters</strong> happen with factions that have their own interest in the Emberwell.</p>\n<ul>\n<li><strong>Negotiation hub:</strong> \"Gaining access to the Steam-Oasis\" is listed as a Phase 4 negotiation scene. Treat the Oasis as a diplomatic arena.</li>\n<li><strong>Monster truce:</strong> lean into the strangeness. A frost troll and a human refugee share a hot spring. An elemental creature barters information. The truce makes the impossible normal.</li>\n<li><strong>Emberwell access:</strong> the Oasis sits above or adjacent to the Emberwell entrance. Getting in requires knowledge, tools, or permission obtained here.</li>\n<li><strong>Final prep:</strong> this is where the party should have their last extended rest, their last supply check, and their last conversations before the climax.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Truce violation:</strong> someone breaks the truce. The entire Oasis turns hostile—not to the party, but to the violator. The party must decide whether to intervene.</li>\n<li><strong>Emberwell guide:</strong> a creature at the Oasis claims to know the way into the Emberwell. Its price is not gold but a promise—one the party may not want to keep.</li>\n<li><strong>Grafvitnir's last move:</strong> an agent of Grafvitnir is already at the Oasis, posing as a weary traveler. They're mapping the Emberwell entrance.</li>\n<li><strong>Hot springs fail:</strong> one by one, the springs cool. The geothermal source is weakening—the Emberwell below is dying.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004116,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "OXoM2q7Jh0TJXow9",
+      "name": "The Emberwell",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>The First Hearth. The deepest root. The place where someone—the stories don't say who—lit the first flame and the Embers spread outward through Yggdrasil's roots to every settlement. If the World-Tree can be renewed anywhere, it is here. If it cannot be renewed… this is where the world's last warmth dies.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Beneath the Throat of the World, below the Steam-Oasis.</li>\n<li><strong>What people believe:</strong> \"Where warmth comes from.\" \"Where the world's last hearth still breathes.\"</li>\n<li><strong>The Need-Fire:</strong> An old rite that <em>might</em> help—a ritual of renewal tied to the Emberwell's function.</li>\n<li><strong>Status:</strong> No one alive has been inside. The path is sealed, and the knowledge to open it is scattered across Svellheim.</li>\n</ul>\n</div>\n<h3>Legend</h3>\n<p>The Emberwell is spoken of in the oldest Skald-songs: a place where Yggdrasil's deepest root surfaces, where the first fire was kindled, and where the Ever-Embers were born. Every hearth in Svellheim is a distant descendant of that first flame. When the Embers fade, it is because the Emberwell's fire is failing.</p>\n<h3>The Journey</h3>\n<p>Reaching the Emberwell requires crossing the White Waste, navigating the Throat of the World's volcanic hazards, and finding the sealed entrance beneath the Steam-Oasis. Every step of this journey is lethal without preparation, allies, and knowledge gathered across the party's travels.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Campaign Keystone</h4>\n<p>The Emberwell is the <strong>campaign's ultimate destination</strong>. It is not a public location on a map—it is a deep infrastructure-knot where Yggdrasil's circulation still <em>almost</em> holds.</p>\n<ul>\n<li><strong>Three layers:</strong> The Throat of the World is the visible landmark. The Steam-Oasis is the survivable shell and staging ground. The Emberwell is the sealed chamber below—half geothermal engine, half root-knot.</li>\n<li><strong>What is true:</strong> The Emberwell is a failing junction in Yggdrasil's root-network. The Need-Fire is the correct approach, but performing it requires components, knowledge, and sacrifice gathered throughout the campaign.</li>\n<li><strong>Grafvitnir:</strong> The serpent has been imprisoned in the roots since the First Kindling. Every Ember that dies is a lock that opens. The Emberwell is both the place of renewal and the cage's keystone.</li>\n<li><strong>Climax design:</strong> The final scenes should combine ritual (the Need-Fire), combat (Grafvitnir's forces trying to stop or corrupt the ritual), and sacrifice (what must the party give up to rekindle the flame?).</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>The chamber:</strong> the Emberwell is vaster than expected—a cathedral-sized cavern where a root of Yggdrasil, thick as a river, glows with fading amber light.</li>\n<li><strong>Grafvitnir stirs:</strong> the serpent's coils are visible in the root—dark shapes moving beneath the bark. The closer the party gets, the more active it becomes.</li>\n<li><strong>The choice:</strong> the Need-Fire requires fuel. The ritual's final component is not a material—it's a sacrifice that changes whoever makes it.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004116,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "qUjwp3Z9uqAfmh2N",
+      "name": "Vanaheim's Joy (The Hidden Valley)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Perpetual summer in a world of permanent winter. Green grass, warm sun, birdsong, and the sweet smell of flowers that have been extinct for years everywhere else. It's the most beautiful place in Svellheim. It is a trap.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Somewhere in the Northern Belt. Its exact position is unknown—it moves, or the world moves around it.</li>\n<li><strong>What people believe:</strong> A legendary valley protected by the Vanir where it is perpetual summer.</li>\n<li><strong>Status:</strong> Every year, dozens of expeditions leave to find it. None return.</li>\n</ul>\n</div>\n<h3>The Myth</h3>\n<p>Vanaheim's Joy is the most persistent legend in Svellheim: a hidden valley where the Fimbulwinter never reached, where the Vanir gods maintain an eternal summer. Crops grow, rivers flow warm, and the sky is blue. Every starving settlement, every frozen refugee, every desperate soul has heard the story. Some believe. Some search.</p>\n<h3>The Expeditions</h3>\n<p>Groups leave every year—sometimes organized, sometimes desperate. They head north into the White Waste, following directions extracted from old songs, fever-dreams, and dying prophets. Occasionally, searchers return with stories of having glimpsed green through the ice, or smelled flowers on the wind. They go back in. They don't return again.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Time-Trap</h4>\n<p><strong>Vanaheim's Joy is real. It is also a trap.</strong></p>\n<p>A day spent in Vanaheim's Joy is a year in the outside world. The valley exists in a time-dilated pocket—protected by Vanir magic that slows time to a crawl within its borders. Those who enter experience paradise: rest, warmth, food, beauty. When they leave (if they leave), the world has aged beyond recognition.</p>\n<ul>\n<li><strong>The danger:</strong> the party may find Vanaheim's Joy accidentally or deliberately. The temptation to rest is enormous—especially after the White Waste. Every hour spent inside costs weeks outside.</li>\n<li><strong>Time-skip consequences:</strong> if the party stays even briefly, they emerge to find the campaign has advanced: settlements fallen, allies dead or scattered, Grafvitnir's plans further along.</li>\n<li><strong>The Vanir:</strong> the valley's guardians are not malicious. They created the pocket to preserve something—a seed-bank, a memory, a last garden. They don't understand (or don't care) that visitors can't afford the time cost.</li>\n<li><strong>Escape:</strong> leaving Vanaheim's Joy requires realizing the trap and choosing to walk back into the cold. The valley makes this emotionally agonizing.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Accidental entry:</strong> the party stumbles into the valley while crossing the White Waste. Everything is suddenly warm and green. It feels like salvation.</li>\n<li><strong>Time-check:</strong> a PC notices the sun doesn't move. Or the stars are wrong. Or their rations haven't been touched despite \"days\" of eating.</li>\n<li><strong>Previous expeditions:</strong> inside the valley, the party finds members of previous search parties. They arrived \"yesterday\"—but their clothing is decades old.</li>\n<li><strong>The seed-bank:</strong> the Vanir offer the party something genuinely valuable: seeds, cuttings, or knowledge that could rebuild the world's agriculture. But the price is time.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004116,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "RRdCwsd2NUO3OpNJ",
+      "name": "Northern Belt: Landmarks & Hazards",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>The Northern Belt plays by different rules. The cold is not weather—it is a force. The light lies. The ground breaks open. Know these hazards or join the dead who didn't.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>Environmental Reference</strong></p>\n<p>The Northern Belt's unique hazards and phenomena. Any traveler heading north of the Interior Belt should know these by reputation, if not experience.</p>\n</div>\n<h3>Brine-Ice</h3>\n<p>Coastal ice saturated with salt. It doesn't freeze cleanly—it forms a rough, granular surface that burns exposed skin on contact, like pressing bare hands to a salt-crusted hot pan. <strong>Difficult terrain. Contact deals damage.</strong></p>\n<h3>Wyrd-Fog</h3>\n<p>Thick, unnatural fog that appears without meteorological cause. Visibility drops to arm's length. Navigation becomes guesswork. The fog carries sounds: voices that mimic loved ones, children crying, names called in familiar tones. Following the voices leads deeper into the fog and further from safety. <strong>Second Chance (two rolls, take worst) on navigation. Wisdom saves to resist following voices.</strong></p>\n<h3>Sun-Dogs</h3>\n<p>An atmospheric illusion of three suns—the real sun flanked by two bright mirrors. Beautiful and ominous: sun-dogs are the sign of an approaching super-storm, a \"Wolf's Breath.\" When sun-dogs appear, experienced travelers have six to twelve hours to find shelter. <strong>Storm warning. Drop everything and dig in.</strong></p>\n<h3>Geothermal Vents</h3>\n<p>Breaks in the permafrost where volcanic heat reaches the surface. Precious sources of warmth in the frozen north, but often claimed by monsters, factions, or territorial creatures. Approaching a vent may mean negotiation or combat before the party can rest. <strong>Heat source. Contested territory.</strong></p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Using Hazards</h4>\n<ul>\n<li><strong>Brine-Ice:</strong> use as terrain in combat or as a barrier forcing route decisions. It can't be crossed quickly without protection (thick hide wrappings, alchemical coating).</li>\n<li><strong>Wyrd-Fog:</strong> use for horror and isolation scenes. Separate the party. Make each PC hear a different voice. The fog is not intelligent—but it doesn't need to be.</li>\n<li><strong>Sun-Dogs:</strong> use as a countdown timer. The party sees three suns and must complete their current objective or reach shelter before the Wolf's Breath hits.</li>\n<li><strong>Geothermal Vents:</strong> use as rest points with complications. The warmth is real but the occupants are territorial. A vent scene can be combat, negotiation, or stealth.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004116,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

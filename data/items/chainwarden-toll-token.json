@@ -1,0 +1,59 @@
+{
+  "_id": "1Am0xvBfbJ3xXxj9",
+  "name": "Chainwarden Toll-Token",
+  "type": "artifact",
+  "img": "icons/commodities/currency/coin-embossed-skull-silver.webp",
+  "system": {
+    "description": "<p><em>A heavy iron disc stamped with the Chainwarden crest — a chain link enclosing a mountain pass. These tokens are issued to authorised travellers and toll-collectors. Presenting one at a Chainwarden checkpoint guarantees passage for one person, no questions asked.</em></p><p><strong>Effect:</strong> When presented at a Chainwarden checkpoint, this token grants one party member free passage without negotiation, bribery, or paperwork. The token is surrendered upon use.</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>Found:</strong> Beat 4a (The Road to Stairwatch) — given by Bryn Ketilsdottir at the Hollow Waystation if the PCs share food with her. She insists on giving them 'her last useful possession.'</p><p><strong>Alternative source:</strong> If the PCs defeat the optional Chainwarden Patrol encounter, Chain-Warden road tokens are found on the guards' bodies — useful for bluffing through future checkpoints.</p><p>If presented to Warden-Sergeant Eirik Greyhand at the Greypass Toll (Beat 4b), he recognises it and asks after Bryn (‘How’s Bryn? Still at the waystation?’). This does not spend a negotiation action — he simply lets one person through for free.</p></section></section>",
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "isArtifact": true,
+    "power": {
+      "description": "<p><em>A heavy iron disc stamped with the Chainwarden crest — a chain link enclosing a mountain pass. These tokens are issued to authorised travellers and toll-collectors. Presenting one at a Chainwarden checkpoint guarantees passage for one person, no questions asked.</em></p><p><strong>Effect:</strong> When presented at a Chainwarden checkpoint, this token grants one party member free passage without negotiation, bribery, or paperwork. The token is surrendered upon use.</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>Found:</strong> Beat 4a (The Road to Stairwatch) — given by Bryn Ketilsdottir at the Hollow Waystation if the PCs share food with her. She insists on giving them 'her last useful possession.'</p><p><strong>Alternative source:</strong> If the PCs defeat the optional Chainwarden Patrol encounter, Chain-Warden road tokens are found on the guards' bodies — useful for bluffing through future checkpoints.</p><p>If presented to Warden-Sergeant Eirik Greyhand at the Greypass Toll (Beat 4b), he recognises it and asks after Bryn (‘How’s Bryn? Still at the waystation?’). This does not spend a negotiation action — he simply lets one person through for free.</p></section></section>",
+      "action": "A"
+    },
+    "qualities": {},
+    "marker": "",
+    "state": "other",
+    "corruptionDescription": "Using this artifact costs 1 temporary corruption."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919475024,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "scripts": {
+    "convert:monsters": "node tools/convert-monsters.js",
+    "convert:npcs": "node tools/convert-npcs.js",
+    "convert:items": "node tools/convert-items.js",
+    "convert:journals": "node tools/convert-journals.js",
+    "convert:all": "npm run convert:monsters && npm run convert:npcs && npm run convert:items && npm run convert:journals",
+    "build": "node tools/build-packs.js",
+    "full": "npm run convert:all && npm run build"
+  },
+  "dependencies": {
+    "classic-level": "^3.0.0"
+  }
+}

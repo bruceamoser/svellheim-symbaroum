@@ -1,0 +1,59 @@
+{
+  "_id": "eNiI0hDSXf9aTsZ5",
+  "name": "Chainwarden's Confiscated Dagger",
+  "type": "artifact",
+  "img": "icons/weapons/daggers/dagger-ritual-crooked-crystal.webp",
+  "system": {
+    "description": "<p><em>A well-balanced steel dagger with a chain-link pommel. The Chainwarden motto is etched along the blade: “Order Weighs More Than Want.” The blade has been sharpened to a fine advantage (second chance) and treated with an alchemical coating that glows faintly blue in cold air.</em></p><p><strong>1st Echelon:</strong> Any weapon ability that deals rolled damage using this weapon gains a +1 damage bonus. Once per encounter, when you hit a creature with a strike using this dagger, you can call out <em>Warden’s Authority</em> as a free free action — the target is taunted (save ends). Works against humanoids and undead.</p><p><strong>2nd Echelon:</strong> The damage bonus increases to +2. While carrying this dagger, you gain an advantage (second chance) on Presence tests to deceive or negotiate with Chainwardens and law-enforcement figures. The chain-link pommel hums with institutional authority — even if yours is borrowed.</p><p><strong>3rd Echelon:</strong> The damage bonus increases to +3. Warden’s Authority can be used twice per encounter and affects all creature types.</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>Found:</strong> Beat 4 — The Greypass Toll negotiation (Beat 4b) or the optional Chainwarden Patrol failure encounter. If the PCs negotiate successfully at Greypass, Eirik Greyhand may offer this as a gesture of grudging respect. If the PCs fight the patrol, it's found on Warden-Captain Halvard's body.</p><p><strong>Alternative:</strong> Beat 5, Stairwatch — if the PCs help Lew with the Debt Collector task, Lew may offer this as partial payment.</p></section></section>",
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "isArtifact": true,
+    "power": {
+      "description": "<p><em>A well-balanced steel dagger with a chain-link pommel. The Chainwarden motto is etched along the blade: “Order Weighs More Than Want.” The blade has been sharpened to a fine advantage (second chance) and treated with an alchemical coating that glows faintly blue in cold air.</em></p><p><strong>1st Echelon:</strong> Any weapon ability that deals rolled damage using this weapon gains a +1 damage bonus. Once per encounter, when you hit a creature with a strike using this dagger, you can call out <em>Warden’s Authority</em> as a free free action — the target is taunted (save ends). Works against humanoids and undead.</p><p><strong>2nd Echelon:</strong> The damage bonus increases to +2. While carrying this dagger, you gain an advantage (second chance) on Presence tests to deceive or negotiate with Chainwardens and law-enforcement figures. The chain-link pommel hums with institutional authority — even if yours is borrowed.</p><p><strong>3rd Echelon:</strong> The damage bonus increases to +3. Warden’s Authority can be used twice per encounter and affects all creature types.</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>Found:</strong> Beat 4 — The Greypass Toll negotiation (Beat 4b) or the optional Chainwarden Patrol failure encounter. If the PCs negotiate successfully at Greypass, Eirik Greyhand may offer this as a gesture of grudging respect. If the PCs fight the patrol, it's found on Warden-Captain Halvard's body.</p><p><strong>Alternative:</strong> Beat 5, Stairwatch — if the PCs help Lew with the Debt Collector task, Lew may offer this as partial payment.</p></section></section>",
+      "action": "A"
+    },
+    "qualities": {},
+    "marker": "",
+    "state": "other",
+    "corruptionDescription": "Using this artifact costs 1 temporary corruption."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919475024,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

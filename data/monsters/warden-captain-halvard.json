@@ -1,0 +1,860 @@
+{
+  "_id": "1e1FN9znEvVRfGyo",
+  "name": "Warden-Captain Halvard",
+  "type": "monster",
+  "img": "modules/svellheim-symbaroum/assets/icons/monster-images/warden-captain-halvard.png",
+  "system": {
+    "attributes": {
+      "strong": {
+        "value": 15,
+        "bonus": 0,
+        "total": 15,
+        "modifier": -5,
+        "temporaryMod": 0
+      },
+      "quick": {
+        "value": 13,
+        "bonus": 0,
+        "total": 13,
+        "modifier": -3,
+        "temporaryMod": 0
+      },
+      "cunning": {
+        "value": 13,
+        "bonus": 0,
+        "total": 13,
+        "modifier": -3,
+        "temporaryMod": 0
+      },
+      "vigilant": {
+        "value": 10,
+        "bonus": 0,
+        "total": 10,
+        "modifier": 0,
+        "temporaryMod": 0
+      },
+      "persuasive": {
+        "value": 13,
+        "bonus": 0,
+        "total": 13,
+        "modifier": -3,
+        "temporaryMod": 0
+      },
+      "accurate": {
+        "value": 14,
+        "bonus": 0,
+        "total": 14,
+        "modifier": -4,
+        "temporaryMod": 0
+      },
+      "discreet": {
+        "value": 10,
+        "bonus": 0,
+        "total": 10,
+        "modifier": 0,
+        "temporaryMod": 0
+      },
+      "resolute": {
+        "value": 13,
+        "bonus": 0,
+        "total": 13,
+        "modifier": -3,
+        "temporaryMod": 0
+      }
+    },
+    "health": {
+      "toughness": {
+        "value": 40,
+        "max": 40,
+        "threshold": 20
+      },
+      "corruption": {
+        "value": 0,
+        "max": 0,
+        "threshold": 0
+      }
+    },
+    "combat": {
+      "baseProtection": "0",
+      "bonusProtection": "",
+      "qualities": {},
+      "cost": "",
+      "state": "other",
+      "impeding": 0
+    },
+    "bio": {
+      "race": "Humanoid",
+      "occupation": "Brute",
+      "quote": "",
+      "shadow": "A medium Humanoid of DS level 1 (leader)",
+      "manner": ""
+    },
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "experience": {
+      "total": 0,
+      "artifactrr": 0,
+      "spent": 0,
+      "available": 0
+    },
+    "nbrOfFailedDeathRoll": 0,
+    "isMonster": true
+  },
+  "items": [
+    {
+      "_id": "qTweEGica5yUFHVu",
+      "name": "End Effect",
+      "type": "trait",
+      "img": "systems/draw-steel/assets/roles/solo.webp",
+      "system": {
+        "description": "<p>At the end of each of their turns, the Warden-Captain can take  damage to end one effect on them that can be ended by a attribute test. This damage can’t be reduced in any way.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": false,
+          "action": "P",
+          "description": "<p>At the end of each of their turns, the Warden-Captain can take  damage to end one effect on them that can be ended by a attribute test. This damage can’t be reduced in any way.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456713,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "P4wkGkKxuhE7KedH",
+      "name": "Supernatural Insight",
+      "type": "trait",
+      "img": "icons/creatures/abilities/dragon-fire-breath-orange.webp",
+      "system": {
+        "description": "<p>The Warden-Captain ignores concealment if it’s granted by a supernatural effect.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": false,
+          "action": "P",
+          "description": "<p>The Warden-Captain ignores concealment if it’s granted by a supernatural effect.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456713,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "v8BrYAuUCYC1WVCG",
+      "name": "Chain-Flail Sweep",
+      "type": "weapon",
+      "img": "icons/weapons/melee/flail-studded-grey.webp",
+      "system": {
+        "description": "<p>11 or lower: The target is also slowed (Might test vs. 1, save ends).<br>12-16: The target is also slowed (Might test vs. 2, save ends).<br>17+: The target is also slowed (Might test vs. 3, save ends).<br>One ally within 10 meters can make a Free Attack.<br><strong>1 Malice:</strong> One ally within 10 meters can use their signature ability instead.</p>",
+        "attribute": "strong",
+        "reference": "1handed",
+        "baseDamage": "1d8",
+        "bonusDamage": "",
+        "alternativeDamage": "",
+        "cost": "",
+        "number": 1,
+        "isArtifact": false,
+        "quality": "",
+        "qualities": {},
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "power": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456713,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "vJVrWVjgQniyOXlI",
+      "name": "Warden's Warrant",
+      "type": "ability",
+      "img": "icons/skills/melee/strike-polearm-light-orange.webp",
+      "system": {
+        "description": "<p>The target is marked until the start of the captain's next turn. The captain and each of their allies gain an advantage (second chance) on abilities used against targets marked by the captain.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>The target is marked until the start of the captain's next turn. The captain and each of their allies gain an advantage (second chance) on abilities used against targets marked by the captain.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456713,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1W94IGh2duRkPAi7",
+      "name": "Shield Wall",
+      "type": "ability",
+      "img": "icons/equipment/shield/tower-wooden-worn-brown.webp",
+      "system": {
+        "description": "<p>The damage is halved.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": "<p>The damage is halved.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456713,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "SrvjgRji5L0ty29X",
+      "name": "Form Up!",
+      "type": "ability",
+      "img": "icons/skills/movement/feet-winged-boots-brown.webp",
+      "system": {
+        "description": "<p>The captain shifts up to their speed. During or after this movement, they can use Chain-Flail Sweep twice.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "S",
+          "description": "<p>The captain shifts up to their speed. During or after this movement, they can use Chain-Flail Sweep twice.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "S",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "S",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456713,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "KzMMvDp9JORrPYT7",
+      "name": "Disperse!",
+      "type": "trait",
+      "img": "icons/magic/air/wind-swirl-pink.webp",
+      "system": {
+        "description": "<p>The captain slides each target up to 5 meters.</p>",
+        "reference": "deadlybreath",
+        "novice": {
+          "isActive": true,
+          "action": "S",
+          "description": "<p>The captain slides each target up to 5 meters.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "S",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "S",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456713,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "11vgmw4Jx5k1sKng",
+      "name": "By Authority of the Chain!",
+      "type": "ability",
+      "img": "icons/skills/social/diplomacy-handshake.webp",
+      "system": {
+        "description": "<p>Each ally within 10 meters can move up to their speed and make a Free Attack.</p>",
+        "reference": "",
+        "novice": {
+          "isActive": true,
+          "action": "S",
+          "description": "<p>Each ally within 10 meters can move up to their speed and make a Free Attack.</p>"
+        },
+        "adept": {
+          "isActive": false,
+          "action": "S",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "S",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456713,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1JngY8Gt1sQTMNrv",
+      "name": "Robust",
+      "type": "trait",
+      "img": "systems/symbaroum/asset/image/trait.png",
+      "system": {
+        "description": "",
+        "reference": "robust",
+        "novice": {
+          "isActive": true,
+          "action": "P",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782919456713,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Warden-Captain Halvard",
+    "displayName": 20,
+    "actorLink": false,
+    "disposition": -1,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "modules/svellheim-symbaroum/assets/icons/monster-images/warden-captain-halvard.png",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": true,
+    "rotation": 0,
+    "alpha": 1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "health.toughness"
+    },
+    "bar2": {
+      "attribute": "health.corruption"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919456713,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

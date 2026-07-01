@@ -1,0 +1,52 @@
+{
+  "_id": "1Ms291lQRwWfiIDr",
+  "name": "Montage: Beat 4b — Midgard's Shield & Titan's Stair",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391003994,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "qPIsd7gmZY4un0ee",
+      "name": "Beat 4b — Midgard's Shield & Titan's Stair",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1>Beat 4b — Midgard's Shield & Titan's Stair</h1>\n<p><strong>Act:</strong> Act 1 | <strong>Type:</strong> Montage Scene</p>\n<hr><h2>Overview</h2><p>Days 5–10 of the journey: from the Greypass toll through the mountain road, over the Titan's Stair, and down to Stairwatch. The terrain shifts from political obstacles to environmental ones — altitude, rockfalls, gorge crossings, blizzards, and the sheer grinding endurance of the Stair itself.</p><p>By the time the party crests the Stair, they should feel every one of the two hundred miles behind them.</p>\n<hr><h2>Running This Scene</h2>\n<p>This is a <strong>narrative montage</strong> — a series of challenges the party faces as a group. Rather than a single roll, play this out as a sequence of scenes where each character contributes.</p>\n<h3>GM Guidance</h3>\n<ul>\n<li>Go around the table and ask each player how their character is helping.</li>\n<li>Call for ability checks as appropriate — suggested modified [Resolute←15] (hard).</li>\n<li>Let creative approaches succeed with good roleplaying, even without a roll.</li>\n<li>Use the complications below as prompts — not every one needs to come up.</li>\n<li>The goal is collaborative storytelling, not a pass/fail test.</li>\n</ul>\n<p><strong>Relevant Skills:</strong></p><ul>\n<li>Strong</li>\n<li>Quick or Discreet</li>\n<li>Cunning or Cunning</li>\n<li>Vigilant, Vigilant, or Vigilant</li>\n<li>Persuasive, Persuasive, or Persuasive</li>\n</ul>\n<hr><h2>Complications &amp; Challenges</h2>\n<p>Use these as dramatic beats during the montage. Present them as situations the party must navigate together.</p>\n<p><strong>Round 1 — The Mountain Road (Days 5–8)</strong></p><p>The party leaves the Greypass toll behind and climbs into the Midgard's Shield foothills. Choose any of these tests:</p><ul><li><strong>Navigate around the rockfalls:</strong> Eirik warned of two rockfalls. The first is minor (scramble over rubble). The second, near Kross-stead, requires a full detour through an unmarked goat-track.</li><li><strong>Endure altitude and thinning air:</strong> The mountains are high and the air is thin. Headaches, nosebleeds, and shortness of breath. Pace management matters.</li><li><strong>Cross the Gorge Bridge:</strong> A stone bridge spans a gorge 60 feet deep. The western footing has shifted — the bridge tilts slightly, and stones crumble with each step. Cross quickly, test balance, or find an anchor-line solution.</li><li><strong>Find shelter from a mountain storm:</strong> A storm sweeps in without warning. Whiteout conditions, wind strong enough to push characters off the path.</li><li><strong>Spot and avoid an avalanche zone:</strong> The slope above is loaded with snow. The vibration of footsteps could trigger a slide.</li><li><strong>Improvise a bridge across a collapsed road section:</strong> A 3 meters gap over nothing. Use timber, rope, and ingenuity.</li></ul>\n<h3>Escalation</h3>\n<p>If the scene needs more tension, introduce these additional complications:</p>\n<p><strong>Round 2 — Titan's Stair (Days 9–10)</strong></p><p>The party reaches the Stair itself — ice-slick switchbacks carved into the mountain face, narrowing to two abreast, with a sheer drop on one side. Choose any of these tests:</p><ul><li><strong>Traverse the Titan's Stair switchbacks:</strong> Ice-slick switchbacks, sheer drop, two abreast at best. One slip means a very long fall.</li><li><strong>Keep the group moving through exhaustion:</strong> Day 9. Everyone is tired, cold, running low on supplies. Moral strength matters as much as physical.</li><li><strong>Handle the ice-bridge at the summit:</strong> A natural ice-bridge over the top of the pass. It groans underfoot. Test the ice (Cunning or Cunning, modified [Resolute←15]) for safest path or trust balance (Quick or Discreet, modified [Resolute←15]) and move fast.</li><li><strong>Descend safely to the Interior Belt:</strong> Steep and loose — scree, ice-melt channels, treacherous footing. A controlled descent requires skill; rushed invites broken ankles.</li><li><strong>Scout for threats on the descent:</strong> From the heights, spot Stairwatch below and potentially anyone waiting for the party's arrival.</li><li><strong>Forage for emergency supplies:</strong> Slim pickings: mountain hare, snowberry bushes, frozen lichen. Enough to survive, not to thrive.</li></ul>\n<hr><h2>Outcomes</h2>\n<p>Based on how the party performed, use the following as a guide:</p>\n<p><strong>Interlude: The Watched Feeling</strong></p><p>As the party crests a hill, a feeling settles over the group — a prickling at the back of the neck. Not a sound. Not a movement. Just the unmistakable sense that <em>something</em> out there knows where you are. The ridge to the northwest is empty. The sky is grey. Nothing moves. But the feeling doesn't leave.</p><p>This is the first effect of Grafvitnir's network. Intelligence from Hrafnborg has reached agents in the field. The PCs are being tracked by corrupted couriers, compromised Chainwarden posts, and Wyrd-touched carrion birds with silver eyes. If anyone uses magic to scan: nothing registers. Grafvitnir's agents are mortal.</p><p><strong>Point of Interest — Kross-stead (Day 7–8):</strong> An evacuated mining settlement. The shaft-head is open; warm air rises. The walls in the lower shafts are veined with a dark, root-like growth that pulses with amber light — connected to Yggdrasil's root system, though the PCs cannot know this yet. Anyone who touches the growth feels a vibration: like a heartbeat, very slow, very deep. The last logbook entry reads: <em>\"The walls of the lower gallery are warm to the touch. Supervisor Alrek says it's geothermal. Alrek is an idiot. Trees don't grow underground.\"</em></p>\n<p><strong>Interlude: The Cairn Field</strong></p><p>Near the summit of Titan's Stair, the path widens into a flat plateau. Dozens of cairns stand here — rough-stacked stone pillars from knee-height to taller than a person. Each marked with runes. These are travel-cairns — monuments left by generations of survivors. The tradition: add a stone and speak a name for safe passage. Some are recent. One is barely a day old — a small stack with a child's mitten tucked between the stones.</p><p>The newest cairn has no runes. Just a word scratched into the topstone with a knife: <strong>HELP.</strong></p><p>If any PC adds a stone to the cairn field, the wind drops for exactly one minute — long enough to feel the sun's warmth through the clouds, faint but real.</p><hr><p><strong>Montage 2 Outcomes:</strong></p><p><strong>Total Success (5+ before failure limit):</strong> 2 Milestones. Arrive in Stairwatch with supplies and energy. The party is harder than when they left.</p><p><strong>Partial Success (failure limit hit, 2+ more successes than failures):</strong> 1 Victory. Choose one cost: Heat (lose 2 days' rations), Weight (one PC's equipment damaged, needs repair), or Word (+1 to future Grafvitnir Pressure Checks — spotted on the descent).</p><p><strong>Total Failure:</strong> 0 Milestones. Lose remaining rations AND one piece of equipment breaks. Grafvitnir's agents know exactly where the party is — the next Pressure Check triggers automatically at 5+. One PC arrives with a condition (exhausted, frostbitten, or rattled). Director gains 3 Malice for the next combat.</p><p><strong>Optional Goblin Ambush:</strong> Triggers on Total Failure or at Director's discretion on Partial Success. See goblin-monarch, goblin-warrior, goblin-runner stat blocks. Negotiation possible (hard Presence test) — goblins accept half remaining rations in exchange for passage and provide a crude cave-bark map showing something driving creatures out of the mountains toward the southwest.</p>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391003994,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

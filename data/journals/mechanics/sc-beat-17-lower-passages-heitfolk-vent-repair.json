@@ -1,0 +1,52 @@
+{
+  "_id": "1NQOUE0q2vew26bU",
+  "name": "Montage: Beat 17 — Lower Passages (Heit­folk Vent Repair)",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391003999,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "16nuZWgvwjdH5qXw",
+      "name": "Beat 17 — Lower Passages (Heit­folk Vent Repair)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1>Beat 17 — Lower Passages (Heit­folk Vent Repair)</h1>\n<p><strong>Act:</strong> Act 2 | <strong>Type:</strong> Montage Scene</p>\n<hr><h2>Overview</h2><p>The party descends into the Heitfolk lower passages to repair Rot-infected geothermal vent channels. This is the task Hildvarð Bruneson has set in exchange for safe passage through the tunnels. The passages are warm, forge-lit, and deeply old. Kaelen's ember-mark actively responds to the Rot-corruption here — she can purify it but it costs recovery test. Success determines how many warmth channels are restored and how long the Oasis heat lasts.</p><p><strong>Kaelen mechanic:</strong> She spends 2 recovery test during this montage participating (the ember-mark suppresses Rot-corruption on contact). She cannot opt out if she wants the tunnels restored.</p>\n<hr><h2>Running This Scene</h2>\n<p>This is a <strong>narrative montage</strong> — a series of challenges the party faces as a group. Rather than a single roll, play this out as a sequence of scenes where each character contributes.</p>\n<h3>GM Guidance</h3>\n<ul>\n<li>Go around the table and ask each player how their character is helping.</li>\n<li>Call for ability checks as appropriate — suggested modified [Resolute←13] (moderate).</li>\n<li>Let creative approaches succeed with good roleplaying, even without a roll.</li>\n<li>Use the complications below as prompts — not every one needs to come up.</li>\n<li>The goal is collaborative storytelling, not a pass/fail test.</li>\n</ul>\n<p><strong>Relevant Skills:</strong></p><ul>\n<li>Strong</li>\n<li>Quick or Discreet</li>\n<li>Cunning or Cunning</li>\n<li>Vigilant, Vigilant, or Vigilant</li>\n<li>Persuasive, Persuasive, or Persuasive</li>\n</ul>\n<hr><h2>Complications &amp; Challenges</h2>\n<p>Use these as dramatic beats during the montage. Present them as situations the party must navigate together.</p>\n<p>The first two vent channels are deep in the lower passages — ancient carved stone channels that normally carry hot water from the geothermal vents to the living areas above. Both are choked with Rot-corruption: black crystalline growths blocking the flow, Root-Runes on the walls screaming silently. Kaelen places her hands on the wall and the ember-mark blazes.</p><ul><li><strong>Reason:</strong> Analyze the channel blockage architecture — determine where the primary obstruction is to maximize Kaelen's purification efficiency. If successful, Kaelen needs only one contact point instead of three.</li><li><strong>Might:</strong> Clear the physical crystalline Rot-growth from the channel mouth (it's brittle but requires force — safety goggles recommended; failure means shards).</li><li><strong>Intuition:</strong> Sense which sections of Rot-growth are load-bearing for the corruption network vs. which are dormant. Destroying the wrong section triggers a collapse.</li><li><strong>Presence:</strong> The Djúpdvergr workers watching are frightened of Kaelen's ember-mark. Keep the collaboration working — they need to trust her enough to hold the secondary channels open while she purifies.</li></ul>\n<h3>Escalation</h3>\n<p>If the scene needs more tension, introduce these additional complications:</p>\n<p>The third channel is the deepest — Hildvarð's son died in this section three years ago. The channel is still partially blocked by a collapse, not just Rot. It requires both physical clearing and purification simultaneously. Kaelen goes quiet when they pass through this section. Hildvarð, from the entrance: \"Leave that one if it's too much.\"</p><ul><li><strong>Might:</strong> Clear the physical collapse debris (heavy stone — two heroes working in tandem have second chance (two rolls, take best)).</li><li><strong>Reason:</strong> Identify the structural risk before clearing — removing the wrong stone brings down the ceiling.</li><li><strong>Intuition:</strong> Sense whether the Rot in this channel is connected to a deeper source. If it is, purifying here alerts something. Determine whether to purify fully or just enough to restore flow.</li><li><strong>Presence:</strong> Kaelen is visibly affected by this section (the memories in old stone reach her ember-mark). Keep her focused and functional while she works.</li></ul>\n<hr><h2>Outcomes</h2>\n<p>Based on how the party performed, use the following as a guide:</p>\n<p><strong>Total Success:</strong> Both channels cleared in Round 1. First warmth channel restored — warm water flows. The Djúpdvergr workers cheer quietly. Kaelen steadies herself against the wall (1 Hit Die spent).<br><strong>Partial Success:</strong> One channel cleared. The second requires another approach. Kaelen spends 1 Hit Die. Party proceeds to Round 2 with the second channel still blocked.<br><strong>Failure:</strong> A Rot-crystal collapse sends shards through the passage. Each hero takes 5 damage. The channel is sealed worse than before. Kaelen spends 1 Hit Die just stabilizing the section. Round 2 is harder.</p>\n<p><strong>Total Success:</strong> All three channels restored. Hildvarð: \"Two years of warmth, maybe three. I didn't think I'd see this again.\" Kaelen spends her second Hit Die. Deep in the passage behind the cleared collapse, the party finds a small iron figure made by a child — warm to the touch, still. Hildvarð does not ask for it back.<br><strong>Partial Success:</strong> Two channels fully restored; the third partially. Several months of warmth. Kaelen spends 1 Hit Die. The iron figure is found regardless.<br><strong>Failure:</strong> Only one channel restored from Round 1. The collapse in the third channel cannot be safely cleared. Hildvarð accepts this quietly. Still provides the tunnels — the deal was help, not success. Kaelen emerges pale.</p>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391003999,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

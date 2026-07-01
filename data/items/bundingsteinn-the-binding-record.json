@@ -1,0 +1,59 @@
+{
+  "_id": "nDwqoqKeKrzpP6jY",
+  "name": "Bundingsteinn (The Binding Record)",
+  "type": "artifact",
+  "img": "icons/sundries/scrolls/scroll-bound-sealed-red-green.webp",
+  "system": {
+    "description": "<p>An ancient tablet of carved bone, larger than a book, covered in Root-Runes, binding oaths, and records of flame-rites that predate written Svellheim history. The Bundingsteinn is the primary record of the binding mechanism by which a living Keeper becomes the Ever-Ember. Rickety Frets kept it for centuries as Svellheim’s most dangerous secret. It was stolen three weeks ago.</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>ACQUISITION:</strong> Stolen from the Bioluminescent Library 3 weeks before the party arrives. Rickety Frets tasks them with finding it as part of his Three Demands oath. The Bundingsteinn was taken by a Wyrd-Draugr on behalf of Grafvitnir. The party may or may not recover it during Act 2; if it is recovered, it is returned to Rickety Frets or brought to the Ivory Tower.</p><p><strong>THE THREE DEMANDS (Beat 12):</strong> Rickety Frets will not negotiate or help unless the party swears: (1) Remember him; (2) Send word back after; (3) Protect or destroy the Bundingsteinn if Grafvitnir cannot have it.</p><p><strong>CONTENTS (Plot Device):</strong></p><ul><li>The binding mechanism: how Muspelheim fire is anchored to a living vessel (the Ever-Ember rite)</li><li>The First Kindling oath-text in full, with commentary by early Keepers</li><li>Records of the relationship between Muspelheim fire and Yggdrasil’s root network</li><li>Evidence that this rite has been performed before — and that those who performed it did not return from their posts</li></ul><p><strong>KAELEN’S REACTION (if she reads it):</strong> Begins Layer 2 narrative arc. She reads in silence for several minutes, then closes the tablet. Does not speak of what she read until much later.</p></section></section>",
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "isArtifact": true,
+    "power": {
+      "description": "<p>An ancient tablet of carved bone, larger than a book, covered in Root-Runes, binding oaths, and records of flame-rites that predate written Svellheim history. The Bundingsteinn is the primary record of the binding mechanism by which a living Keeper becomes the Ever-Ember. Rickety Frets kept it for centuries as Svellheim’s most dangerous secret. It was stolen three weeks ago.</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>ACQUISITION:</strong> Stolen from the Bioluminescent Library 3 weeks before the party arrives. Rickety Frets tasks them with finding it as part of his Three Demands oath. The Bundingsteinn was taken by a Wyrd-Draugr on behalf of Grafvitnir. The party may or may not recover it during Act 2; if it is recovered, it is returned to Rickety Frets or brought to the Ivory Tower.</p><p><strong>THE THREE DEMANDS (Beat 12):</strong> Rickety Frets will not negotiate or help unless the party swears: (1) Remember him; (2) Send word back after; (3) Protect or destroy the Bundingsteinn if Grafvitnir cannot have it.</p><p><strong>CONTENTS (Plot Device):</strong></p><ul><li>The binding mechanism: how Muspelheim fire is anchored to a living vessel (the Ever-Ember rite)</li><li>The First Kindling oath-text in full, with commentary by early Keepers</li><li>Records of the relationship between Muspelheim fire and Yggdrasil’s root network</li><li>Evidence that this rite has been performed before — and that those who performed it did not return from their posts</li></ul><p><strong>KAELEN’S REACTION (if she reads it):</strong> Begins Layer 2 narrative arc. She reads in silence for several minutes, then closes the tablet. Does not speak of what she read until much later.</p></section></section>",
+      "action": "A"
+    },
+    "qualities": {},
+    "marker": "",
+    "state": "other",
+    "corruptionDescription": "Using this artifact costs 1 temporary corruption."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919475023,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_id": "Rfh6VHwuGswfvYeF",
+  "name": "Montage: Beat 20 — White Waste Crossing",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391004000,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "1UgBfR328pMxURVF",
+      "name": "Beat 20 — White Waste Crossing",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1>Beat 20 — White Waste Crossing</h1>\n<p><strong>Act:</strong> Act 3 | <strong>Type:</strong> Montage Scene</p>\n<hr><h2>Overview</h2><p>The party leaves the Emberwell behind with Kaelen walking beside them — still human, still herself, but changed. Golden undertones in her skin, ember-flecks in her eyes, warmth radiating from her body. Each day she is a little less steady, a little more luminous. The terrain is familiar from Act 2, but deteriorated — the Rot has advanced, the ground itself is failing, and organized draugr columns are marching toward Hrafnborg. 70 miles over 5 days, south-southeast from Surt's Forge toward the Steam-Oasis.</p><p><strong>NPC Assistance:</strong> Lew contributes once per round (Intuition +2 or Reason +2). His navigation remains sharp, though the terrain's changes have dimmed his Wyrd-eye.</p><p><strong>Second Chance (two rolls, take best):</strong> Kaelen's warmth radiates in a Close Burst 4. Within this radius, cold-based conditions are suppressed. Heroes staying near her gain an <strong>second chance (two rolls, take best)</strong> on cold-resistance tests.</p>\n<hr><h2>Running This Scene</h2>\n<p>This is a <strong>narrative montage</strong> — a series of challenges the party faces as a group. Rather than a single roll, play this out as a sequence of scenes where each character contributes.</p>\n<h3>GM Guidance</h3>\n<ul>\n<li>Go around the table and ask each player how their character is helping.</li>\n<li>Call for ability checks as appropriate — suggested modified [Resolute←15] (hard).</li>\n<li>Let creative approaches succeed with good roleplaying, even without a roll.</li>\n<li>Use the complications below as prompts — not every one needs to come up.</li>\n<li>The goal is collaborative storytelling, not a pass/fail test.</li>\n</ul>\n<p><strong>Relevant Skills:</strong></p><ul>\n<li>Strong</li>\n<li>Quick or Discreet</li>\n<li>Cunning or Cunning</li>\n<li>Vigilant, Vigilant, or Vigilant</li>\n<li>Persuasive, Persuasive, or Persuasive</li>\n</ul>\n<hr><h2>Complications &amp; Challenges</h2>\n<p>Use these as dramatic beats during the montage. Present them as situations the party must navigate together.</p>\n<p><strong>Round 1: The White Waste — Days 1–3.</strong> The party descends through the transition zone. Snow has taken on a faint grey tinge — Rot-spore contamination from below. The air is cold but not clean.</p><ul><li><strong>Navigate the changing terrain (Reason TN 13):</strong> The landscape has shifted since Act 2. Roads are obscured, landmarks have moved or vanished. Route-finding by intuition and memory.</li><li><strong>Keep Kaelen moving (Presence TN 12):</strong> Kaelen stumbles during drift-periods, stops walking entirely. Someone must guide her, coax her back when she wanders.</li><li><strong>Endure the deteriorating cold (Might TN 13):</strong> The cold is brittle and crystalline, finding gaps in armor. Failure: Frostbite condition (−1 to Agility tests until warm rest).</li><li><strong>Scavenge or preserve supplies (Intuition TN 14):</strong> Forage along dead farmsteads and old shelters, or ration supplies carefully.</li><li><strong>Spot the cairn field (Intuition TN 14):</strong> An old burial ground has been searched by Grafvitnir's agents. Root-line mapping. Reveals organized draugr movement patterns.</li><li><strong>Hold the party's nerve (Presence TN 12):</strong> Watching the gold creep across Kaelen's skin erodes focus. Morale support for the group.</li></ul><p><strong>Round 1 Interlude: The Disturbed Cairns.</strong> The party discovers a memorial ground with cairns broken and searched — Grafvitnir's agents mapping root-lines. Kaelen has a moment of lucidity: <em>\"They're trying to find where the network converges.\"</em> Organized draugr tracks march southwest toward Hrafnborg.</p>\n<h3>Escalation</h3>\n<p>If the scene needs more tension, introduce these additional complications:</p>\n<p><strong>Round 2: The Rot Advances — Days 3–5.</strong> The White Waste gives way to mixed terrain. The Rot is moving faster here — ground that was solid in Act 2 is now corrupted marshland. The air tastes wrong.</p><ul><li><strong>Navigate corrupted marshland (Reason TN 13):</strong> Rot-corrupted terrain blocks the path. Ford through (costs Heat, risks Rot-exposure), find alternate route (costs time), or repair a trail (Reason + tools).</li><li><strong>Resist the Rot's presence (Might TN 13):</strong> Thick spore-clouds. Failure: Sickened condition (−1 to all tests until warm rest).</li><li><strong>Avoid or move past undead columns (Agility TN 14):</strong> Organized draugr columns moved through hours ago. Move parallel to avoid them or boldly cross their path.</li><li><strong>Watch over Kaelen (Presence TN 12):</strong> The Rot agitates Kaelen — her mark blazes, her skin runs hot, she stumbles and presses her hands to the earth murmuring about corruption in the root-lines.</li><li><strong>Scout the Steam-Oasis approach (Intuition TN 14):</strong> Scout ahead to determine if the Heitfolk settlement has changed and whether it's safe to approach.</li><li><strong>Rally for the home stretch (Presence TN 12):</strong> Steam-Oasis is visible — warmth and shelter are close. A rousing moment shores up morale for the final push.</li></ul><p><strong>Round 2 Interlude: The Steam-Oasis Approach.</strong> Thermal vents visible on the horizon, but the steam rises in organized patterns — shaped, deliberate, almost like a signal. Fewer lights than before. The Heitfolk are quieter. Prepared. Waiting.</p>\n<hr><h2>Outcomes</h2>\n<p>Based on how the party performed, use the following as a guide:</p>\n<p><strong>Hard Success (6+ successes, 0–1 failures):</strong> Party reaches Steam-Oasis in good condition, ahead of schedule. Heat preserved; no supply costs. The early arrival gives Hildvarð time to open the deep storage — she produces the <em>Iron Lantern of the Keeper</em>. Gain <strong>2 Milestones</strong>.</p><p><strong>Success (6+ successes, 2 failures):</strong> Reach Steam-Oasis with minor costs — 1 Heat consumed or one PC takes Frostbite/Sickened. Gain <strong>1 Victory</strong>.</p>\n<p><strong>Partial Failure (4–5 successes, 3 failures):</strong> Reach Steam-Oasis at significant cost. Lose <strong>2 Heat</strong>, or one PC takes an injury-level condition. Heitfolk are already mobilizing with less time for dialogue.</p><p><strong>Hard Failure (fewer than 4 successes):</strong> Reach Steam-Oasis exhausted. All PCs <strong>lose 1 Hit Die</strong>. Must rest a full day before continuing.</p>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004000,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

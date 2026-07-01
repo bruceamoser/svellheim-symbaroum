@@ -1,0 +1,52 @@
+{
+  "_id": "5T4zlCYRY5ChEpAh",
+  "name": "Negotiation: Finding Lew — The Finder's Price",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391004031,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "yplsnEi8VrVglJE8",
+      "name": "Finding Lew — The Finder's Price",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1>Finding Lew — The Finder's Price</h1>\n<p><strong>Act:</strong> Act 1 | <strong>Type:</strong> Social Scene</p>\n<hr><h2>The Scene</h2><h2>Finding Lew — The Finder's Price</h2><p><strong>Level:</strong> 1 | <strong>Beat:</strong> 5 | <strong>Location:</strong> Stairwatch, outside the chandler's shop</p><p>The PCs have tracked down Llewyellen “Lew” Tosferd — a one-eyed finder-for-hire with a reputation for expensive miracles. They need him to locate Kaelen, the missing Ember-Keeper. The problem: Lew doesn't work for strangers, doesn't work for free, and has his own troubles in Stairwatch that need handling first.</p><p>Lew is friendly, casual, and already three steps ahead. He knows about the Konungs-ferð, suspects these aren't ordinary travelers, and will listen to their pitch before naming his price.</p><hr><h3>GM Notes: Playing Lew</h3><p>Lew is not an obstacle — he's a <em>transaction</em>. He genuinely wants to help, the way a merchant genuinely wants to sell you something. He's warm, funny, and utterly without sentiment about money.</p><ul><li>He asks questions constantly — genuine curiosity and professional assessment.</li><li>He never lies, but tells you exactly as much as he's decided to tell you.</li><li>He refers to his finding-gift obliquely: “I have a knack,” “things turn up.”</li><li>He is never rude. He is always expensive.</li></ul><hr><h3>What Lew Wants</h3><p>If the PCs succeed, Lew names his price — two things: (1) a favor to be named later, and (2) help resolving a local problem before he leaves (the Missing Miners or the Debt Collector).</p>\n<hr><h2>Running This Scene</h2>\n<p>This is a <strong>narrative social scene</strong> — a dramatic conversation with stakes. Play it out as roleplay, calling for ability checks only when the outcome is uncertain.</p>\n<h3>GM Guidance</h3>\n<ul>\n<li>Let the players drive the conversation. Only call for rolls at key turning points.</li>\n<li>Use the NPC's motivations and pitfalls below to guide their reactions.</li>\n<li>Reward clever roleplay — if a player makes a compelling argument that hits a motivation, let it succeed.</li>\n<li>The NPC's starting attitude sets the tone, but good or bad roleplay should shift it naturally.</li>\n</ul>\n<hr><h2>Llewyellen \"Lew\" Tosferd</h2>\n<p><em>The Finder</em></p>\n<p>One-eyed finder-for-hire. The right eye is an amber gem given by Gragnir — it pulls toward lost things. Lew is warm, transactional, and professionally fearless. He will negotiate in good faith but always names his price.</p>\n<h3>At a Glance</h3>\n<ul>\n<li><strong>Starting Attitude:</strong> Indifferent</li>\n<li><strong>Suggested DC:</strong> 13 (if you need a check)</li>\n<li><strong>Vigilant DC:</strong> 11 (to read motivations/pitfalls)</li>\n</ul>\n<h3>What They Want (Motivations)</h3>\n<p>If the PCs appeal to these, the NPC warms to them. Grant second chance (two rolls, take best) on a check or simply have the NPC concede the point.</p><ul>\n<li><strong>Profit</strong></li>\n<li><strong>Curiosity</strong></li>\n<li><strong>Self-Preservation</strong></li>\n</ul>\n<h3>What Offends Them (Pitfalls)</h3>\n<p>If the PCs trigger these, the NPC becomes defensive or hostile. Impose second chance (two rolls, take worst) on a check or have the NPC shut down.</p><ul>\n<li><strong>Threats</strong></li>\n<li><strong>Moralizing</strong></li>\n<li><strong>Demanding Charity</strong></li>\n</ul>\n<hr><h2>Outcomes</h2>\n<p>Based on how the conversation goes:</p>\n<h3>Success</h3><p>Lew agrees to find Kaelen. He names his price — a favor and one local task — and then shakes hands. “Fair trade,” he says. “Now. Let me tell you about the mine.”</p><p>Lew joins the party as a guide; his amber eye warms and pulls southeast, toward the Ashen Woods.</p>\n<h3>Partial Success</h3><p>Lew agrees, but his terms are harder. He demands two local tasks completed before departure, and the favor he extracts is more specific — something the PCs may later regret promising. He's pleasant about it. That makes it worse.</p>\n<h3>Failure</h3><p>Lew declines. Politely, warmly, and absolutely. “I like you. That's why I'm saying no — you're not ready to make the promises this job requires.” He goes back to his whittling.</p><p>The PCs must find another leverage point (completing the local tasks first, or returning with a concrete offer) to re-open the negotiation.</p>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004031,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "_id": "6cHZI2mJv6JURIlk",
+  "name": "Languages of Svellheim",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 2
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391004109,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "XsBkYfGQetgMXTX6",
+      "name": "Languages of Svellheim",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Languages in Svellheim are largely regional. While ancestral languages persist among certain peoples, most descend from a common tongue that has evolved into regional dialects. A shared language—<strong>Svellspraak</strong>—is spoken and understood across all regions.</em></p>\n\n<p>Most people grow up bilingual: their local <em>mål</em> (dialect) and Svellspraak.</p>\n\n<hr>\n\n<h2>Common Language</h2>\n\n<p><strong>Svellspraak</strong> serves as Svellheim's unifying tongue. It is taught in schools, used in official documents, and facilitates trade and diplomacy across the land. All heroes speak Svellspraak fluently, with regional dialects adding flavour to local interactions.</p>\n\n<hr>\n\n<h2>Ancestral Languages</h2>\n\n<p>A few peoples keep older tongues alive—sometimes as everyday speech in tight communities, more often as a ritual, trade, or oath-language.</p>\n\n<table>\n<thead>\n<tr>\n<th>Language</th>\n<th>Also Known As</th>\n<th>Speakers</th>\n<th>Description</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Dvergsmål</strong></td>\n<td>Deepforged</td>\n<td>Dwarves, smiths, stoneworkers</td>\n<td>Dense and precise; used for stonework, contracts, and runesmithing. Many \"words\" function like legal clauses.</td>\n</tr>\n<tr>\n<td><strong>Tonttumál</strong></td>\n<td>Tonttu</td>\n<td>Woodland folk</td>\n<td>A low, breathy woodland speech suited to whispers, bird-calls, and passing messages without giving away position.</td>\n</tr>\n<tr>\n<td><strong>Ljósamál</strong></td>\n<td>Lumenkin</td>\n<td>Elves, lore-keepers, magi</td>\n<td>Formal and archaic, heavy with honorifics and metaphor; often taught as a prestige language among lore-keepers and magi.</td>\n</tr>\n<tr>\n<td><strong>Jötuntunga</strong></td>\n<td>Cragbound</td>\n<td>Giant-kin</td>\n<td>Built for shouting across stone and storm—few syllables, great weight, and many kinship-words.</td>\n</tr>\n<tr>\n<td><strong>Askmál</strong></td>\n<td>Ashmarked</td>\n<td>Forge-folk</td>\n<td>Blunt, hot-blooded speech full of forge, ash, and battle idioms; commonly mixed into Svellspraak as loanwords.</td>\n</tr>\n<tr>\n<td><strong>Ormstunga</strong></td>\n<td>Ormsbani</td>\n<td>Old courts, knightly circles</td>\n<td>A high tongue of old courts and oath-halls—majestic and melodic, yet deep-throated and guttural. Its grammar is ceremonial and layered; titles stack like honours, names are spoken as inheritances. Most people recognise it when they hear it but cannot parse a single word.</td>\n</tr>\n</tbody>\n</table>\n\n<hr>\n\n<h2>Regional Dialects</h2>\n\n<p>The common language has diverged into regional dialects influenced by local cultures, geography, and history. These dialects are <strong>mutually intelligible</strong>—speakers from different regions can communicate effectively, though with occasional misunderstandings or slang differences.</p>\n\n<p>Dialect names are commonly called <em>mål</em> (\"speech\"), and locals often identify themselves by the <em>mål</em> they grew up speaking.</p>\n\n<h3>Coastal Belt</h3>\n\n<table>\n<thead>\n<tr>\n<th>Dialect</th>\n<th>Region</th>\n<th>Character</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Fjordmål</strong></td>\n<td>The Splintered Fjords</td>\n<td>Hard consonants, clipped phrasing, thick with harbour slang, ration-law terms, and sea-weather curses.</td>\n</tr>\n<tr>\n<td><strong>Gråtstrandsmål</strong></td>\n<td>The Weeping Coast</td>\n<td>Softer vowels, slower cadence; rich in nautical vocabulary for wrecks, fog, and southern shore omens.</td>\n</tr>\n<tr>\n<td><strong>Sangøymål</strong></td>\n<td>The Singing Islands</td>\n<td>Musical intonation and rhythmic phrasing; carries loanwords and honorifics from Vanir circles and skaldic practice.</td>\n</tr>\n</tbody>\n</table>\n\n<h3>Interior Belt</h3>\n\n<table>\n<thead>\n<tr>\n<th>Dialect</th>\n<th>Region</th>\n<th>Character</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Myrmål</strong></td>\n<td>The Iron Bogs</td>\n<td>Terse and practical; full of bog-iron, peat, and mining terms. Many near-synonyms for rot, rust, and the dead that rise from the mire.</td>\n</tr>\n<tr>\n<td><strong>Askeskogsmål</strong></td>\n<td>The Ashen Woods</td>\n<td>Smoke-dry speech with a martial cant; favours short commands, watch-calls, and terms born from the War of Fire.</td>\n</tr>\n<tr>\n<td><strong>Skjoldfjellsmål</strong></td>\n<td>Midgard's Shield</td>\n<td>Mountain speech shaped for distance—loud, direct, full of directional metaphors. Commonly borrows dwarvish loanwords for stonework, tools, and old holds.</td>\n</tr>\n<tr>\n<td><strong>Beinmarksmål</strong></td>\n<td>The Bone-Fields</td>\n<td>Nomad-inflected and oath-heavy; idioms drawn from bonecraft, long journeys, and the etiquette of shared fires.</td>\n</tr>\n</tbody>\n</table>\n\n<h3>Northern Belt</h3>\n\n<p>Most travellers rely on Svellspraak in the North, but a handful of harsh local dialects persist among the few who can live there.</p>\n\n<table>\n<thead>\n<tr>\n<th>Dialect</th>\n<th>Region</th>\n<th>Character</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Hvitviddemål</strong></td>\n<td>The White Waste</td>\n<td>Minimalist vocabulary and strict clarity; emphasises wind, visibility, and direction. Taboo-words for things better left unnamed.</td>\n</tr>\n<tr>\n<td><strong>Strupemål</strong></td>\n<td>The Throat of the World</td>\n<td>Dense with geothermal terminology and giant-borrowings; vivid metaphors and emphatic oath-forms.</td>\n</tr>\n<tr>\n<td><strong>Sommerdalsmål</strong></td>\n<td>Vanaheim's Joy</td>\n<td>A dialect of legend—archaic, lilting, strangely formal. Those who claim to have heard it describe time-bent sayings and words that feel <em>out of season</em>.</td>\n</tr>\n</tbody>\n</table>\n\n<hr>\n\n<h2>Magical Registers</h2>\n\n<p>There is no universal \"Arcane\" or \"Divine\" language in Svellheim. Most spellwork is done in whatever tongue the speaker thinks in. What changes is not the language, but the <strong>register</strong>: specialised forms of speaking and writing learned through craft, cult, and law.</p>\n\n<table>\n<thead>\n<tr>\n<th>Register</th>\n<th>Currency</th>\n<th>Description</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Runescript</strong></td>\n<td>Weight</td>\n<td>A written notation used to name functions into wood, stone, and steel; read more than spoken.</td>\n</tr>\n<tr>\n<td><strong>Oath-Forms</strong></td>\n<td>Word</td>\n<td>Formal vow-phrasing used at the Thing, in oath-halls, and in judgments; precision matters.</td>\n</tr>\n<tr>\n<td><strong>Temple Cant</strong></td>\n<td>Word</td>\n<td>Liturgies and call-and-response forms taught by specific cults; often intelligible in meaning, but heavy with tradition.</td>\n</tr>\n</tbody>\n</table>\n\n<hr>\n\n<h2>Language in Character Creation</h2>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>Ancestry</strong> may grant knowledge of an ancestral language.</p>\n<p><strong>Region</strong> determines the dialect (<em>mål</em>) your character speaks at home; most heroes can shift into Svellspraak when travelling.</p>\n<p><strong>Careers</strong> — certain professions, like lore-keepers or merchants, may require additional languages.</p>\n</div>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004109,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

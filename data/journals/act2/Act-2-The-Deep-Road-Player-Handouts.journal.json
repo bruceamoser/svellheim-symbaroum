@@ -1,0 +1,313 @@
+{
+  "_id": "x8qDhLQ38RRamw7J",
+  "name": "Act 2 — The Deep Road (Player Handouts)",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391004099,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "1VYk8TlqEJes8DRe",
+      "name": "Beat 10 — The Echoing Caves Entrance",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>The cave entrance is behind the rock, like she said.</p><p>You almost missed it. The outcrop is unremarkable — a jutting shelf of dark stone worn smooth by generations of tidal spray. But behind it, where the water retreats in the two-hour window, there is a passage carved into the cliff face. Old carving. Not natural channels. Someone planned this.</p><p>Inside: a corridor. Roughly four people wide, floored with smooth stone where the tides have scoured it clean. The walls carry faint carvings — Root-Runes, though older and simpler than any you have been shown. At the far end, barely visible in the dim, a figure stands in relief: a woman, cupped hands extended, stone water frozen mid-pour.</p><p>The tide clock is already running.</p></div><hr><p style=\"color:#a0a0a0; font-size:0.9em; text-align:right;\">Beat 10 — The Western Detour</p>",
+        "format": 1
+      },
+      "sort": 10,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004099,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1TcW1YQhIqF99tD3",
+      "name": "Beat 11 — The Old Roads Are Being Used",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>You hear them before you see them.</p><p>Footsteps. Dozens. Steady, even, unhurried. The sound carries strangely in the flooded passage — a wet shuffle, but rhythmic. Not random. Not hunting.</p><p>You press into the alcove Kaelen found in thirty seconds flat, and you watch them pass.</p><p>Thirty. Forty, possibly. Draugr, marching in column formation. Three abreast where the passage permits it. Two abreast where it narrows. They carry no torches, need none. They do not speak. They do not look left or right. They are heading east.</p><p>Not wandering. Not hunting. <em>Marching.</em></p><p>It takes four minutes for the column to pass.</p><p>When the last footstep fades, no one speaks for a long moment. Then Kaelen, very quietly:</p><p><em>\"If the dead can think, they can plan. Something intelligent is organizing them.\"</em></p></div><hr><p style=\"color:#a0a0a0; font-size:0.9em; text-align:right;\">Beat 11 — The Drowned Road</p>",
+        "format": 1
+      },
+      "sort": 20,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004099,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1P7rj21hk3nLwzEQ",
+      "name": "Beat 12 — Rickety Frets's Three Demands",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h3>The Three Demands of Rickety Frets</h3><p style=\"color:#a0a0a0; font-style:italic;\">Sworn in the Bioluminescent Library, before the firepit that does not die. The terms were stated; the oaths were given.</p><hr><div style=\"background:#2a2a3a; color:#e0d8c8; padding:16px 20px; margin:12px 0; border-radius:6px; border-left:4px solid #c4a03c;\"><p><strong>First Demand — Remember</strong></p><p>Not the name. Not the function. Not \"there was a spirit here who helped us.\" Remember that someone <em>stayed</em>. That when every living thing left, something waited. You must carry that, not as a debt, but as a fact. They existed. They remained.</p></div><div style=\"background:#2a2a3a; color:#e0d8c8; padding:16px 20px; margin:12px 0; border-radius:6px; border-left:4px solid #c4a03c;\"><p><strong>Second Demand — Send Word</strong></p><p>After. Whatever after means. A whisper into an old wall, a carved name, a letter burned at a crossroads. Some form of return. Not an obligation of presence — an obligation of acknowledgment. You went on. You are required to say so to the air.</p></div><div style=\"background:#2a2a3a; color:#e0d8c8; padding:16px 20px; margin:12px 0; border-radius:6px; border-left:4px solid #c4a03c;\"><p><strong>Third Demand — The Bundingsteinn</strong></p><p>It was taken. You know this now. What you must swear: if you find it, you protect it or destroy it. You do not permit Grafvitnir to hold it. The Bundingsteinn is a record of every binding ever made in Svellheim — names, debts, oaths, consequences. In the wrong hands, it is not a book. It is a weapon.</p></div><hr><p style=\"color:#a0a0a0; font-size:0.9em;\">These demands were accepted. The cost of refusal was not stated. Only the cost of acceptance: <em>it will complicate things.</em></p>",
+        "format": 1
+      },
+      "sort": 30,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004099,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1v5rYRCq7JWXS1On",
+      "name": "Beat 13 — Vigmund's Two Oaths",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h3>The Oaths Offered by Vigmund Haldorsson, Jarl of Rindgate</h3><p style=\"color:#a0a0a0; font-style:italic;\">Offered in the Great Hall of Rindgate. The terms were conditional; the exchange was made.</p><hr><div style=\"background:#2a2a3a; color:#e0d8c8; padding:16px 20px; margin:12px 0; border-radius:6px; border-left:4px solid #c4a03c;\"><p><strong>The Information Oath</strong></p><p>Vigmund provided: route maps through the northern belt, letters of passage, five days' preserved rations, and introduction to Söldís Glóðfari's caravan. The party agreed, in exchange, to carry no intelligence that could endanger Rindgate's position if captured.</p></div><div style=\"background:#2a2a3a; color:#e0d8c8; padding:16px 20px; margin:12px 0; border-radius:6px; border-left:4px solid #c4a03c;\"><p><strong>The Advocacy Oath</strong></p><p>Three hundred people are camped outside Rindgate's walls. They cannot be fed indefinitely. Vigmund asked one thing in return for his full assistance: that the party advocate for these refugees at whatever authority they reach — Hrafnborg, a Jarl, a King, a council, whatever still has power to act.</p><p><em>This oath has weight. Breaking it costs Word — the currency of trust. It does not lapse with time.</em></p><p>The party swore. The maps were given. The rations were loaded.</p></div><div style=\"background:#1a2a2a; color:#c0d8d8; padding:14px 18px; margin:12px 0; border-radius:6px; border-left:4px solid #448888; font-style:italic;\"><p>Note: Elder Thyra, at the Steam-Oasis north of the Bone-Fields, requires an Oath of Silence that may conflict with the Advocacy Oath. If the Oasis could function as a refuge for Rindgate's three hundred, both oaths cannot be kept simultaneously. Both cost Word if broken.</p><p>No one has pointed this out yet.</p></div>",
+        "format": 1
+      },
+      "sort": 40,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004100,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "DWHfw0DJDXPXQZxl",
+      "name": "Beat 14 — The Bone-Fields",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>You are stepping onto a landscape of white.</p><p>Not pristine white — the white of calcified bone. Enormous ribcages arch overhead like the ruins of cathedrals, so large you cannot identify what they came from. Something no longer living, obviously. Something that does not have a name in any language you know.</p><p>Small human bones are underfoot. You cannot walk without stepping on them. You stop trying not to.</p><p>The snow here is sterile. Nothing grows. No dead grass pushing through, no lichen on the arching bone-walls, no trace of anything that ever had ambition toward being alive. The smell is old and mineral and wrong.</p><p>The silence has weight.</p><p>Kaelen walks beside you and says nothing for a long time. Then, as you pass under the ribcage arch:</p><p><em>\"Someone is using the Rot to accelerate what should be slow. Something is weaponizing death itself.\"</em></p><p>She does not look at you when she says it. She is looking at the bones.</p><p>In the far distance, almost lost in the grey, something towers above the Bone-Fields. Thin, pale, built from even larger bones than the ones around you. A tower.</p></div><hr><p style=\"color:#a0a0a0; font-size:0.9em; text-align:right;\">Beat 14 — The Bone-Fields</p>",
+        "format": 1
+      },
+      "sort": 50,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004100,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "7BcyO02davOVja9U",
+      "name": "Beat 15 — The Willing Anchor",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h3>The Willing Anchor — Fragment of the First Kindling Rite</h3><p style=\"color:#a0a0a0; font-style:italic;\">Read aloud by Kaelen Vethara from a stone tablet in the Ivory Tower archive. Translated from Old Norrœnt. Quoted from memory after she set the tablet down without finishing it.</p><hr><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c;\"><p><em>\"The one who takes the flame becomes the Ever-Ember.\"</em></p><p><em>\"They do not die, but do not live as others live.\"</em></p><p><em>\"They become the anchor. The living warmth.\"</em></p><p style=\"margin-top:1.5em;\"><em>\"The cost of the Kindling is the self.\"</em></p></div><div style=\"background:#1a1a2a; color:#a0a0c0; padding:14px 18px; margin:12px 0; border-radius:6px; border-left:4px solid #4444aa; font-style:italic;\"><p>She stopped reading here. She set the tablet down. She went to the window and stood there for a long time without speaking.</p><p>When she turned back, something had changed in her face. Not grief. Not fear.</p><p><em>\"I know what I have to do,\"</em> she said. <em>\"I've known since the Ivory Tower. I just needed to see it written.\"</em></p></div><hr><p style=\"color:#a0a0a0; font-size:0.9em;\">The rest of the tablet text was not translated. It is unclear whether she finished reading it.</p>",
+        "format": 1
+      },
+      "sort": 60,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004100,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "fARBsOw3ZlWXT2lE",
+      "name": "Beat 16 — The Pale Maw's Ultimatum",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h3>The Pale Maw's Ultimatum</h3><p style=\"color:#a0a0a0; font-style:italic;\">Delivered by Þráinn Ashward at Beinvaka. Spoken without raised voice. Recorded to the best of the party's recollection.</p><hr><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>He came down from the steps without hurry. No weapon drawn. No guard flanking him. He stopped a respectful distance away, folded his hands, and spoke as though discussing something mundane.</p><p><em>\"Leave the Keeper with us.\"</em></p><p>A pause.</p><p><em>\"She will not be harmed. We are ending the world as a mercy — and she should see it properly completed. She carries a weight that should have been completed long ago. We can give her peace in the conclusion.\"</em></p><p>Another pause. His eyes moved across the party's faces, one by one.</p><p><em>\"Or we will take her. Those are the options available to you.\"</em></p><p>He said it the same way you'd offer seconds at a meal. As if the matter were a courtesy, and refusal would be regrettable but ultimately beside the point.</p></div><hr><div style=\"background:#1a1a1a; color:#c0a0a0; padding:14px 18px; margin:12px 0; border-radius:6px; border-left:4px solid #884444;\"><p><strong>What was notable:</strong></p><ul><li>He never raised his voice.</li><li>He appeared to genuinely believe that harm was not the intention.</li><li>He did not appear surprised by refusal.</li><li>When the party made their choice, he simply said: <em>\"Then we will find a different moment.\"</em></li></ul></div>",
+        "format": 1
+      },
+      "sort": 70,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004100,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1DOxKXymloheWX8N",
+      "name": "Beat 17 — The Oath of Silence",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h3>The Oath of Silence</h3><p style=\"color:#a0a0a0; font-style:italic;\">Required by Elder Thyra of the Heitfolk Steam-Oasis before entry. Non-negotiable. Spoken with full party present.</p><hr><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c;\"><p>The oath Thyra required, spoken aloud:</p><blockquote style=\"border-left:3px solid #c4a03c; padding:8px 14px; font-style:italic;\"><p>\"We swear silence on this place. Its location does not leave our mouths or our records. The warmth here is not ours to share.\"</p></blockquote><p>Thyra listened, nodded, and stepped aside. <em>\"The warmth is yours while you stay. Take what you need. We ask only silence in return.\"</em></p></div><div style=\"background:#1a2a2a; color:#c0d8d8; padding:14px 18px; margin:12px 0; border-radius:6px; border-left:4px solid #448888;\"><h4 style=\"margin-top:0;\">The Conflict You Will Have to Resolve</h4><p>You swore the Advocacy Oath to Vigmund Haldorsson in Rindgate. Three hundred refugees outside those walls. You committed to advocating for them at whatever authority you reach.</p><p>The Steam-Oasis could sustain those three hundred people. It is warm. It has food. It has space.</p><p>You have now sworn silence on its location.</p><p>Both oaths carry weight. Both cost Word if broken. Thyra's oath is explicit about the price. Vigmund's oath is implicit, but the cost is the same.</p><p>No one said anything when the Oasis showed you what it could hold. It's possible they didn't notice. It's possible they did and said nothing.</p></div>",
+        "format": 1
+      },
+      "sort": 80,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004100,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "T05wVizr70r0VmEn",
+      "name": "Beat 18 — The Morning Rite",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h3>The Morning Rite — As Map</h3><p style=\"color:#a0a0a0; font-style:italic;\">The Keeper's rite carved into the approach plaza at Surt's Forge. Translated by Kaelen Vethara, with her own annotations added in the margins as she read it as geography rather than liturgy.</p><hr><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-family:serif;\"><p><em>\"From the warm dark, a step west.\"</em> <span style=\"color:#aaa; font-size:0.9em;\">[margin: coastal passage, westward exit]</span></p><p><em>\"From the open cold, a face north.\"</em> <span style=\"color:#aaa; font-size:0.9em;\">[margin: out of the caves, toward the interior belt]</span></p><p><em>\"Through the fields of the old war, without pausing.\"</em> <span style=\"color:#aaa; font-size:0.9em;\">[margin: Bone-Fields — they knew about the Bone-Fields]</span></p><p><em>\"Where the stone remembers height, ascend once.\"</em> <span style=\"color:#aaa; font-size:0.9em;\">[margin: the Ivory Tower]</span></p><p><em>\"Through the darkness of the cold men.\"</em> <span style=\"color:#aaa; font-size:0.9em;\">[margin: Beinvaka — the Pale Maw was already there when this was written?]</span></p><p><em>\"Into the warmth that should not exist.\"</em> <span style=\"color:#aaa; font-size:0.9em;\">[margin: the Steam-Oasis]</span></p><p><em>\"Where the world is most narrow, press through.\"</em> <span style=\"color:#aaa; font-size:0.9em;\">[margin: Throat of the World / the blizzard crossing]</span></p><p><em>\"At the fire that does not ask, speak the first word.\"</em> <span style=\"color:#aaa; font-size:0.9em;\">[margin: Surt's Forge — we're here now]</span></p><p><em>\"And descend to the heart.\"</em> <span style=\"color:#aaa; font-size:0.9em;\">[margin: ???]</span></p></div><p style=\"color:#a0a0a0; font-style:italic; font-size:0.9em;\">She stopped translating at the last line. \"I don't know what that means yet,\" she said. \"But we will.\"</p>",
+        "format": 1
+      },
+      "sort": 90,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004100,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "XjI24VUueNhSOUca",
+      "name": "Beat 19 — Kaelen's Words at the Emberwell",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h3>Kaelen's Words at the Emberwell</h3><p style=\"color:#a0a0a0; font-style:italic;\">Spoken in the Ember-Chamber below Surt's Forge, after contact with the ember-seed. Recorded to the best of the party's recollection. Some words may be imprecise.</p><hr><div style=\"background:#2a2a3a; color:#e0d8c8; padding:18px 22px; margin:14px 0; border-radius:8px; border-left:4px solid #c4a03c; font-style:italic;\"><p>She stood with her hands still on the seed when the silence broke. The chamber came back into sound slowly, like sound remembered rather than heard.</p><p>She said:</p><p><em>\"This is not the Emberwell.\"</em></p><p>A pause. Then, as if correcting herself:</p><p><em>\"I thought it was. The texts said — this was the place. But this is a relay. A waypoint. What I'm feeling is an echo of something larger, further south. The Emberwell is not here.\"</em></p><p>She looked at her hands. Then at us.</p><p><em>\"The Keepers are dead. The Order is finished. I am the last.\"</em></p><p>She said it without shaking. Like it was the end of an argument she'd been having with herself for a long time.</p><p><em>\"And I have to go further.\"</em></p><p>Then, after a moment:</p><p><em>\"Not here. The Green Heart. The old texts called it that. I know where it is. We have to go south.\"</em></p></div><div style=\"background:#1a1a2a; color:#a0a0c0; padding:14px 18px; margin:12px 0; border-radius:6px; border-left:4px solid #4444aa;\"><p>What happened next:</p><p>Lew said, very quietly, before she could finish: <em>\"South. South-southeast. The roots are pulling south-southeast. I'll lead.\"</em></p><p>He didn't explain how he knew.</p><p>Kaelen looked at him. He looked at her. Neither spoke.</p><p>Then she nodded.</p></div>",
+        "format": 1
+      },
+      "sort": 100,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004100,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

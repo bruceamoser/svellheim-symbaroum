@@ -1,0 +1,52 @@
+{
+  "_id": "pUjdB5iGeLXj6MTV",
+  "name": "Montage: Beat 23a — Night of Hunters (Hunted March)",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391004001,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "1TDAjY2Wzs8lRjZd",
+      "name": "Beat 23a — Night of Hunters (Hunted March)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1>Beat 23a — Night of Hunters (Hunted March)</h1>\n<p><strong>Act:</strong> Act 3 | <strong>Type:</strong> Montage Scene</p>\n<hr><h2>Overview</h2><p>After the Rot-Forged Sentinel combat, the party leads Brynja's forty refugees in a forced night-march to disrupt the Sentinels' tracking. The montage covers the full night — from the burning campsite to the ridge above the Djupá valley at dawn.</p><p>This is a <strong>hard montage</strong> combining the physical difficulty of moving forty civilians through dark, unfamiliar terrain with the emotional weight of combat aftermath and the knowledge that something deliberate — not random — just tried to kill them.</p><p><strong>Context:</strong> The party may or may not have Brynja's refugees with them, depending on Beat 23 outcomes. If refugees are not present, subtract 1 from failure limit (FL 2) — the march is easier without civilians but the party is more exposed in the open.</p><p><strong>VP Award:</strong> 2 VP on success / 1 VP partial / 0 VP failure.</p>\n<hr><h2>Running This Scene</h2>\n<p>This is a <strong>narrative montage</strong> — a series of challenges the party faces as a group. Rather than a single roll, play this out as a sequence of scenes where each character contributes.</p>\n<h3>GM Guidance</h3>\n<ul>\n<li>Go around the table and ask each player how their character is helping.</li>\n<li>Call for ability checks as appropriate — suggested modified [Resolute←15] (hard).</li>\n<li>Let creative approaches succeed with good roleplaying, even without a roll.</li>\n<li>Use the complications below as prompts — not every one needs to come up.</li>\n<li>The goal is collaborative storytelling, not a pass/fail test.</li>\n</ul>\n<p><strong>Relevant Skills:</strong></p><ul>\n<li>Strong</li>\n<li>Quick or Discreet</li>\n<li>Cunning or Cunning</li>\n<li>Vigilant, Vigilant, or Vigilant</li>\n<li>Persuasive, Persuasive, or Persuasive</li>\n</ul>\n<hr><h2>Complications &amp; Challenges</h2>\n<p>Use these as dramatic beats during the montage. Present them as situations the party must navigate together.</p>\n<p><strong>Round 1: The Night March — Hours 1–4.</strong> The party moves immediately after the combat, while the campfire still burns behind them. The Relay may have reformed. The terrain is unfamiliar. Forty people are moving in the dark.</p><ul><li><strong>Navigate by dead-reckoning (Reason TN 13):</strong> No moon, heavy overcast — no stars visible. Route-finding requires reading terrain by feel and memory.</li><li><strong>Move forty people quietly through broken ground (Agility TN 14 or Presence TN 13):</strong> A child trips. An elder can't keep pace. The ground is uneven and frost-slick. Someone must manage the column's movement without breaking noise discipline.</li><li><strong>Manage exhausted companions after combat (Presence TN 12):</strong> Heroes are post-combat tired; civilians are terrified. Holding the march together emotionally is as hard as managing it physically.</li><li><strong>Watch the rear — did the Relay reform? (Intuition TN 13):</strong> The third Sentinel — the one that may have retreated — is either gone or reforming behind them. Detecting pursuit before it closes is essential.</li><li><strong>Find water and shelter-break for children (Intuition TN 12 or Reason TN 12):</strong> Three small children cannot march four hours without a brief stop and water. Finding a safe pause point without losing momentum.</li><li><strong>Keep the Root-Shard from broadcasting (Reason TN 13 or Intuition TN 14):</strong> Kaelen's Root-Shard pings the root-network with her location. If not managed, it tells Grafvitnir exactly where they are. Suppression requires understanding the Shard's rhythm.</li></ul><p><strong>Round 1 Interlude — The Stars:</strong> Clouds part for thirty seconds. The party sees the Green Heart blazing amber on the northeastern horizon — visible for miles, a pillar of light in the dark sky. One of the refugee children asks: <em>\"Is that it? Is that what we're going to?\"</em> No one corrects her. Brynja puts her hand on the child's head, just for a moment, and then gets the column moving again.</p>\n<h3>Escalation</h3>\n<p>If the scene needs more tension, introduce these additional complications:</p>\n<p><strong>Round 2: The Pre-Dawn — Hours 4–7.</strong> The coldest hour before dawn. Everyone is exhausted. The terrain has changed. Ahead: the ridge above the Djupá valley. Below the ridge: Hrafnborg is visible in the far distance. And on the road below — a figure.</p><ul><li><strong>Push through the pre-dawn cold — worst hour (Might TN 13):</strong> The hour before dawn is the coldest. Frost on everything. Children are failing. Someone must keep the column moving on will alone.</li><li><strong>Scout forward — something has crossed recently ahead (Intuition TN 13 or Agility TN 14):</strong> Fresh tracks in the frost — not Sentinel, not draugr. Something deliberate. Identifying what and whether it's a threat.</li><li><strong>Hold the rear-guard through the last known Sentinel zone (Agility TN 13 or Might TN 12):</strong> The Sentinel zone should be behind them — but should be doesn't mean is. Holding the column's rear requires commitment and nerve.</li><li><strong>Get the column across the frozen tributary (Might TN 12 or Reason TN 13):</strong> A tributary crossing — ice, possibly thin. Moving forty people across without casualties requires careful weight distribution and discipline.</li><li><strong>Spot the Djupá approach ridge before committing to a path (Intuition TN 13):</strong> In pre-dawn darkness, the ridge looks like terrain. The correct approach path is not the obvious one. Committing to the wrong path means retracing steps — losing an hour.</li><li><strong>Re-count everyone (Presence TN 11):</strong> Before cresting the ridge, someone must verify the column is intact. If anyone is missing, the party must decide whether to go back.</li></ul><p><strong>Round 2 Interlude — Dawn at the Ridge:</strong> The party crests the ridge above the Djupá valley as dawn light breaks. The valley floor is below them. All forty people made it — count them, feel the weight of that. In the far distance, Hrafnborg's walls are visible, smoke rising from the siege. And on the road below the ridge: a figure. Standing still. Looking up. Gold eyes, ivory skin, the edges of something not quite solid. <em>Dreyfus.</em> He has been waiting.</p>\n<hr><h2>Outcomes</h2>\n<p>Based on how the party performed, use the following as a guide:</p>\n<p><strong>Hard Success (6+ successes, 0–1 failures):</strong> The party navigates the night without incident. The refugees are exhausted but whole. No Sentinel pursuit detected. The Root-Shard has been suppressed. The party arrives at the ridge with enough light to see Dreyfus clearly and enough energy to face what comes next. <strong>Gain 2 VP.</strong></p><p><strong>Success (6+ successes, 2 failures):</strong> The party reaches the ridge, but with costs. One PC takes a condition (Exhausted or Slowed). One refugee is injured — a sprained ankle from the tributary crossing, a child with frostbite. The costs are real but manageable. <strong>Gain 1 VP.</strong></p>\n<p><strong>Partial Failure (4–5 successes, 3 failures):</strong> The march is ragged. Two PCs take conditions. One refugee was lost in the darkness — they will be found later, or they won't be. The Root-Shard may have broadcast for several minutes before suppression. The party arrives at the ridge depleted. <strong>Gain 0 VP.</strong></p><p><strong>Hard Failure (fewer than 4 successes):</strong> The night goes badly wrong. All PCs take a condition. Three refugees are separated — Brynja is visibly shaken, which the party has never seen before. The Sentinel Relay has reformed and is tracking the column from 400 feet behind. The party arrives at the ridge with pursuit — and Dreyfus waiting below. <strong>Gain 0 VP;</strong> begin Beat 24 in a harder starting position.</p>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004001,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

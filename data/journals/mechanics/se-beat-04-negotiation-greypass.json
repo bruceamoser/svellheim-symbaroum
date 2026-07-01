@@ -1,0 +1,52 @@
+{
+  "_id": "MdM6rKSrzVe7j1Cd",
+  "name": "Negotiation: Beat 4b — The Greypass Toll",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391004031,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "i04j4eYzNft6Lnz5",
+      "name": "Beat 4b — The Greypass Toll",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1>Beat 4b — The Greypass Toll</h1>\n<p><strong>Act:</strong> Act 1 | <strong>Type:</strong> Social Scene</p>\n<hr><h2>The Scene</h2><p>The road narrows between two bluffs of dark stone. A wall of stacked timber and iron bars blocks the path — a gate, a guardhouse, a flag bearing the Chainwarden sigil: a broken chain, re-forged. Two wardens stand at the gate, wrapped in furs over mail. One holds a ledger. The other holds a spear.</p><p>\"Papers,\" says the one with the ledger. It is not a request.</p><p>This is a <strong>Moderate Negotiation</strong> with Warden-Sergeant Eirik Greyhand, toll commander at the Greypass checkpoint. He is not corrupt — he is exhausted. The toll is underfunded, understaffed, and overwhelmed. He wants travellers to follow procedure so he can maintain the fiction that the system works.</p>\n<hr><h2>Running This Scene</h2>\n<p>This is a <strong>narrative social scene</strong> — a dramatic conversation with stakes. Play it out as roleplay, calling for ability checks only when the outcome is uncertain.</p>\n<h3>GM Guidance</h3>\n<ul>\n<li>Let the players drive the conversation. Only call for rolls at key turning points.</li>\n<li>Use the NPC's motivations and pitfalls below to guide their reactions.</li>\n<li>Reward clever roleplay — if a player makes a compelling argument that hits a motivation, let it succeed.</li>\n<li>The NPC's starting attitude sets the tone, but good or bad roleplay should shift it naturally.</li>\n</ul>\n<hr><h2>Warden-Sergeant Eirik Greyhand</h2>\n<h3>At a Glance</h3>\n<ul>\n<li><strong>Starting Attitude:</strong> Unfriendly</li>\n<li><strong>Suggested DC:</strong> 15 (if you need a check)</li>\n<li><strong>Vigilant DC:</strong> 13 (to read motivations/pitfalls)</li>\n</ul>\n<h3>What They Want (Motivations)</h3>\n<p>If the PCs appeal to these, the NPC warms to them. Grant second chance (two rolls, take best) on a check or simply have the NPC concede the point.</p><ul>\n<li><strong>order and proper procedure</strong></li>\n<li><strong>supplies (fuel, rations worth more than coin)</strong></li>\n<li><strong>news from Hrafnborg (family he hasn't heard from in a month)</strong></li>\n</ul>\n<h3>What Offends Them (Pitfalls)</h3>\n<p>If the PCs trigger these, the NPC becomes defensive or hostile. Impose second chance (two rolls, take worst) on a check or have the NPC shut down.</p><ul>\n<li><strong>threats or intimidation (8 wardens, fortified position -- catastrophic)</strong></li>\n<li><strong>demanding free passage without justification</strong></li>\n<li><strong>bluffing military rank without a strong effect roll</strong></li>\n</ul>\n<hr><h2>Outcomes</h2>\n<p>Based on how the conversation goes:</p>\n<p>The PCs pass freely. Eirik provides road intelligence:</p><p>\"The mountain road is passable but ugly. Two rockfalls in the last week — you'll need to detour around the second one, near Kross-stead. And watch the gorge bridge — the western footing has shifted. It'll hold, probably, but don't linger on it.\"</p><p>He pauses. \"There's also... something else. The patrols up in the high country have been finding tracks. Big ones. Not bear, not wolf. Something that walks on two legs but drags something behind it. We don't go looking. I'd suggest you don't either.\"</p>\n<p>The PCs are treated with suspicion. Patience has run out. Choose one consequence:</p><ul><li><strong>Heat cost:</strong> Forced to surrender 2 days' rations as \"toll payment.\"</li><li><strong>Word cost:</strong> Their descriptions are logged in the ledger. Grafvitnir's network may access this (+1 to all future Grafvitnir Pressure Checks).</li><li><strong>Time cost:</strong> Delayed half a day while paperwork is \"processed.\"</li></ul>\n<p>Patience exhausted entirely. All three consequences apply:</p><ul><li>Forced to surrender rations.</li><li>Descriptions logged in the ledger.</li><li>Delayed a full day.</li></ul><p>If intimidation was used, the garrison of 8 wardens is now actively hostile. The PCs may need to retreat, find another route, or fight their way through — costing significant time and alerting the entire Greypass district to their presence.</p>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004031,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

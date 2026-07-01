@@ -1,0 +1,52 @@
+{
+  "_id": "J093rPOHN9wdkK8K",
+  "name": "Montage: Beat 11 — The First Three Days",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391003998,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "2OCm80MCCUES0OmL",
+      "name": "Beat 11 — The First Three Days",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1>Beat 11 — The First Three Days</h1>\n<p><strong>Act:</strong> Act 2 | <strong>Type:</strong> Montage Scene</p>\n<hr><h2>Overview</h2><p>The first three days of the Drowned Road are a punishing descent through flooded cave passages. The party moves through narrow channeled paths, bioluminescent chambers, and carved Root-Rune corridors. Navigation is challenging; the deeper passages are older and stranger. This montage covers exploration, survival, and the first scene with evidence that something is organizing the dead.</p>\n<hr><h2>Running This Scene</h2>\n<p>This is a <strong>narrative montage</strong> — a series of challenges the party faces as a group. Rather than a single roll, play this out as a sequence of scenes where each character contributes.</p>\n<h3>GM Guidance</h3>\n<ul>\n<li>Go around the table and ask each player how their character is helping.</li>\n<li>Call for ability checks as appropriate — suggested modified [Resolute←15] (hard).</li>\n<li>Let creative approaches succeed with good roleplaying, even without a roll.</li>\n<li>Use the complications below as prompts — not every one needs to come up.</li>\n<li>The goal is collaborative storytelling, not a pass/fail test.</li>\n</ul>\n<p><strong>Relevant Skills:</strong></p><ul>\n<li>Strong</li>\n<li>Quick or Discreet</li>\n<li>Cunning or Cunning</li>\n<li>Vigilant, Vigilant, or Vigilant</li>\n<li>Persuasive, Persuasive, or Persuasive</li>\n</ul>\n<hr><h2>Complications &amp; Challenges</h2>\n<p>Use these as dramatic beats during the montage. Present them as situations the party must navigate together.</p>\n<p>The flooded passages require careful navigation. Water levels shift with underground currents. Kaelen reads Root-Runes on the walls as they descend — the older the Runes, the more information she can extract, but they slow progress.</p><ul><li><strong>Reason:</strong> Map the passage network and mark safe routes vs. flooded dead-ends (the passages branch frequently).</li><li><strong>Agility:</strong> Move through chest-deep flood sections without losing footing or equipment.</li><li><strong>Intuition:</strong> Sense which passages lead deeper into the root-network and which loop back upward.</li><li><strong>Might:</strong> Clear a collapsed section blocking the route, or stabilize a crumbling pillar before it falls on Kaelen.</li></ul>\n<h3>Escalation</h3>\n<p>If the scene needs more tension, introduce these additional complications:</p>\n<p>The bioluminescent grotto: 33 m across, every inch carved with Root-Runes. Kaelen is overwhelmed — she needs time to process what she's reading. Meanwhile, the party hears movement in the eastern passage: a column of draugr, 30-40 strong, marching in organized formation. The party must stay hidden or be detected.</p><ul><li><strong>Agility:</strong> Find concealment positions in the grotto before the draugr column enters (the passage is narrow — they come through one side).</li><li><strong>Intuition:</strong> Assess the draugr column: not wandering, not hunting. Organized. Marching east. Determine purpose and direction without alerting them.</li><li><strong>Presence:</strong> Keep the group calm and silent while the column passes — 30 draugr, organized formation, 4-minute crossing.</li><li><strong>Reason:</strong> Help Kaelen process what she's discovered quickly enough to share before the draugr are close.</li></ul>\n<hr><h2>Outcomes</h2>\n<p>Based on how the party performed, use the following as a guide:</p>\n<p><strong>Total Success:</strong> The party maps three safe routes and reaches the bioluminescent grotto on schedule. Kaelen has time to read additional Root-Runes and discovers: \"These markings are older than the Keeper Order. Someone was here before the Keepers.\"<br><strong>Partial Success:</strong> Progress is made but the party takes one wrong turn, costing four hours and one Hit Die's worth of endurance from relentless cold and wet.<br><strong>Failure:</strong> The party gets disoriented in flooded chambers. They emerge into the bioluminescent grotto later than planned — exhausted. Each hero loses 1 Hit Die from fatigue.</p>\n<p><strong>Total Success:</strong> The party conceals successfully. The column passes without detecting them. Kaelen shares: \"These are Root-Runes. But this is older. Someone was here before the Keepers.\" Both revelations land: the dead are organized, and these caves predate Keeper history.<br><strong>Partial Success:</strong> The column passes, but one hero makes noise. Two draugr pause and look back — hold their breath moment. Pass check or one draugr investigates (minor combat: 2 draugr, easily handled but they've been spotted near the column route).<br><strong>Failure:</strong> Draugr detect movement. The column doesn't fully investigate (still organized, not mindless) but a scout breaks off. Combat: 4 Draugr-Thralls + 1 Barrow-Draugr. Column has been alerted to party presence in the caves.</p>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391003998,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

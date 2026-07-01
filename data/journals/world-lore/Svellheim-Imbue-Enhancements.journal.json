@@ -1,0 +1,139 @@
+{
+  "_id": "DeCylFFlQEowME4L",
+  "name": "Svellheim: Imbue Enhancements (Homebrew)",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391004116,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "1JPNsLIphK6faGeT",
+      "name": "Overview",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h2 class=\"spaced\">What this is</h2>\n<p>This handout is a Svellheim-themed, original set of reference enhancements for downtime <em>Imbue Treasure</em> projects. It is intended as table-ready guidance for your private game, and is not a reproduction of any published rules text.</p>\n\n<h2 class=\"spaced\">How to use</h2>\n<ul>\n  <li>Pick the project type (Armor / Implement / Weapon).</li>\n  <li>At each tier (1st / 5th / 9th), choose one enhancement that fits the item’s story.</li>\n  <li>Each enhancement includes a <em>Project Source (Language)</em> for flavor and in-world provenance.</li>\n</ul>\n\n<h2 class=\"spaced\">Mechanics note (Draw Steel)</h2>\n<p>Where these enhancements reference mechanics, they do so using Draw Steel terms (e.g., <em>second chance (two rolls, take best)</em>/<em>second chance (two rolls, take worst)</em>, <em>Toughness</em>, <em>recovery test</em>, <em>forced movement</em>, <em>prone</em>, <em>extended rest</em>, <em>scene</em>). Any enhancement that uses a mechanic includes a brief <strong>Rules:</strong> cross-reference line so you can confirm it’s an actual Draw Steel concept.</p>\n\n<h2 class=\"spaced\">Svellheim language note</h2>\n<p>All languages referenced in this handout match the canonical Svellheim language registry used by this repo (e.g., Svellspraak, Dvergsmål, Tonttumál, Ljósamál, Jötuntunga, etc.).</p>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004117,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "L0c5yeEemeNuY7Yr",
+      "name": "Imbue Armor",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h2 class=\"spaced\">Imbue Armor</h2>\n<p>Story-forward options for imbued armor. Where an effect references a Draw Steel mechanic, it includes a <strong>Rules:</strong> cross-reference.</p>\n\n<h3 class=\"spaced\">Novice enhancements</h3>\n<table>\n  <thead>\n    <tr>\n      <th>Enhancement</th>\n      <th>Project Source (Language)</th>\n      <th>Effect</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>House-songs of Iron</strong></td>\n      <td>Hall-carols etched into rivets <em>(Svellspraak)</em></td>\n      <td>Once per extended rest, when you would become prone, you can remain standing instead.<br><small><em>Rules:</em> Prone; Extended Rest.</small></td>\n    </tr>\n    <tr>\n      <td><strong>Deep-Rune Stitching</strong></td>\n      <td>Old forge-scripts for binding seams <em>(Dvergsmål)</em></td>\n      <td>At the start of each scene, you gain full armor 5 until the end of the scene.<br><small><em>Rules:</em> Scene; full armor.</small></td>\n    </tr>\n    <tr>\n      <td><strong>Frost-Quiet Buckles</strong></td>\n      <td>Travel-clauses from winter road-ledgers <em>(Fjordmål)</em></td>\n      <td>You gain an second chance (two rolls, take best) on tests made to move quietly in snow, sleet, or heavy rain.<br><small><em>Rules:</em> Second Chance (two rolls, take best); Tests.</small></td>\n    </tr>\n    <tr>\n      <td><strong>Saltward Lining</strong></td>\n      <td>Coastal warding notes from sailmakers <em>(Gråtstrandsmål)</em></td>\n      <td>You have acid immunity 5; you can also hold your breath longer than normal.<br><small><em>Rules:</em> full armor.</small></td>\n    </tr>\n  </tbody>\n</table>\n\n<h3 class=\"spaced\">Master enhancements</h3>\n<table>\n  <thead>\n    <tr>\n      <th>Enhancement</th>\n      <th>Project Source (Language)</th>\n      <th>Effect</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Jötun-Pledge Plates</strong></td>\n      <td>Oath-plates sworn before a longhouse fire <em>(Jötuntunga)</em></td>\n      <td>Once per scene, when you would be force moved, reduce the forced movement distance by 2 feet (to a minimum of 0).<br><small><em>Rules:</em> Forced Movement; Squares; Scene.</small></td>\n    </tr>\n    <tr>\n      <td><strong>Amber-Bark Lamellae</strong></td>\n      <td>Forest-temper instructions on resin-hardening <em>(Askeskogsmål)</em></td>\n      <td>You have poison immunity 5, and you gain an second chance (two rolls, take best) on saving throws against inhaled hazards.<br><small><em>Rules:</em> full armor; Second Chance (two rolls, take best); Attribute Test.</small></td>\n    </tr>\n    <tr>\n      <td><strong>Bright-Sun Filigree</strong></td>\n      <td>Sunlit prayer-knotwork copied by shrine-smiths <em>(Ljósamál)</em></td>\n      <td>Once per extended rest, when you would take corruption damage, you gain corruption immunity 5 until the end of the scene and shed faint light for the same duration.<br><small><em>Rules:</em> full armor; Scene; Extended Rest.</small></td>\n    </tr>\n    <tr>\n      <td><strong>Marsh-Reed Buffer</strong></td>\n      <td>Wetland craft notes for shock-absorption <em>(Myrmål)</em></td>\n      <td>You ignore difficult terrain caused by mud and shallow bogs.<br><small><em>Rules:</em> Difficult Terrain.</small></td>\n    </tr>\n  </tbody>\n</table>\n\n<h3 class=\"spaced\">Veteran (level 9) enhancements</h3>\n<table>\n  <thead>\n    <tr>\n      <th>Enhancement</th>\n      <th>Project Source (Language)</th>\n      <th>Effect</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Skyshield Sigils</strong></td>\n      <td>High-peak wardmarks from stormwatchers <em>(Skjoldfjellsmål)</em></td>\n      <td>You have lightning immunity 10 and sonic immunity 10; once per extended rest, when you would be hit by a critical hit, treat it as a normal hit instead.<br><small><em>Rules:</em> full armor; Critical Hit; Extended Rest.</small></td>\n    </tr>\n    <tr>\n      <td><strong>Bone-March Harness</strong></td>\n      <td>Border-march drill-texts on enduring pain <em>(Beinmarksmål)</em></td>\n      <td>Once per extended rest, when your Toughness would be reduced to 0 or lower, you instead remain at 1 Toughness.<br><small><em>Rules:</em> Toughness; Dying; Extended Rest.</small></td>\n    </tr>\n    <tr>\n      <td><strong>White-Expanse Mantle</strong></td>\n      <td>Far-north survival litany stitched into padding <em>(Hvitviddemål)</em></td>\n      <td>You have cold immunity 10, and you ignore mundane environmental cold.<br><small><em>Rules:</em> full armor.</small></td>\n    </tr>\n    <tr>\n      <td><strong>Throat-Oath Gorget</strong></td>\n      <td>War-chants inscribed as vow-letters <em>(Strupemål)</em></td>\n      <td>You gain an second chance (two rolls, take best) on saving throws against becoming frightened. Once per scene, when you would become frightened, you can make an immediate attribute test.<br><small><em>Rules:</em> Frightened; Second Chance (two rolls, take best); Attribute Test; Scene.</small></td>\n    </tr>\n  </tbody>\n</table>",
+        "format": 1
+      },
+      "sort": 1000,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004117,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1V8BvSvBrcpxMxdr",
+      "name": "Imbue Implement",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h2 class=\"spaced\">Imbue Implement</h2>\n<p>Implements carry words: prayers, proofs, warnings, and bargains. Where an effect references a Draw Steel mechanic, it includes a <strong>Rules:</strong> cross-reference.</p>\n\n<h3 class=\"spaced\">Novice enhancements</h3>\n<table>\n  <thead>\n    <tr>\n      <th>Enhancement</th>\n      <th>Project Source (Language)</th>\n      <th>Effect</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Resonant Claim</strong></td>\n      <td>Market-oath receipts sealed in wax <em>(Sangøymål)</em></td>\n      <td>Once per extended rest, reroll a failed test made to negotiate a stated bargain.<br><small><em>Rules:</em> Tests; Reroll; Extended Rest.</small></td>\n    </tr>\n    <tr>\n      <td><strong>Ash-Script Focus</strong></td>\n      <td>Soot-ink marginalia from hearth-scribes <em>(Askmál)</em></td>\n      <td>You gain an second chance (two rolls, take best) on tests made to discern magic or psionic influence, to interpret omens, or to recall relevant lore.<br><small><em>Rules:</em> Second Chance (two rolls, take best); Tests.</small></td>\n    </tr>\n    <tr>\n      <td><strong>Wyrm-Whisper Etching</strong></td>\n      <td>Scaled phonemes copied from drake-watchers <em>(Ormstunga)</em></td>\n      <td>Once per scene, you gain an second chance (two rolls, take best) on a Presence test made to intimidate, coerce, or bully a creature whose story is tied to wyrms or drakes.<br><small><em>Rules:</em> Second Chance (two rolls, take best); Tests; Scene.</small></td>\n    </tr>\n    <tr>\n      <td><strong>Summerdell Ink</strong></td>\n      <td>Soft-vowel glosses from valley storytellers <em>(Sommerdalsmål)</em></td>\n      <td>Once per extended rest, you can shift the mood of a hostile crowd if you have a moment to speak (Director adjudicates).</td>\n    </tr>\n  </tbody>\n</table>\n\n<h3 class=\"spaced\">Master enhancements</h3>\n<table>\n  <thead>\n    <tr>\n      <th>Enhancement</th>\n      <th>Project Source (Language)</th>\n      <th>Effect</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Mirror-True Formulae</strong></td>\n      <td>Counting rhymes used by river-auditors <em>(Fjordmål)</em></td>\n      <td>Once per scene, when a test would take a second chance (two rolls, take worst) from poor lighting or distraction, ignore that second chance (two rolls, take worst).<br><small><em>Rules:</em> Second Chance (two rolls, take worst); Tests; Scene.</small></td>\n    </tr>\n    <tr>\n      <td><strong>Tonttu Ward-Knot</strong></td>\n      <td>Small-folk safety knots and house-signs <em>(Tonttumál)</em></td>\n      <td>Once per extended rest, you can ward one carried object until the next extended rest; it’s unusually hard to break, misplace, or steal (Director adjudicates).</td>\n    </tr>\n    <tr>\n      <td><strong>White-Quiet Invocation</strong></td>\n      <td>Snowbound prayer-lines memorized by wanderers <em>(Hvitviddemål)</em></td>\n      <td>Once per scene, you gain cold immunity 5 until the end of the scene; additionally, you can briefly mute your footsteps (Director adjudicates).<br><small><em>Rules:</em> full armor; Scene.</small></td>\n    </tr>\n    <tr>\n      <td><strong>Shieldfell Countermark</strong></td>\n      <td>Highland dueling countersigns <em>(Skjoldfjellsmål)</em></td>\n      <td>Once per scene, when an effect would force you to drop your implement, you can keep hold of it (Director adjudicates).</td>\n    </tr>\n  </tbody>\n</table>\n\n<h3 class=\"spaced\">Veteran (level 9) enhancements</h3>\n<table>\n  <thead>\n    <tr>\n      <th>Enhancement</th>\n      <th>Project Source (Language)</th>\n      <th>Effect</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Light-Tongue Benediction</strong></td>\n      <td>Goldleaf benedictions from open-sky chapels <em>(Ljósamál)</em></td>\n      <td>Once per extended rest, a creature you touch can either stand up if prone or end one ongoing effect that would normally end with a attribute test or at the end of their turn.<br><small><em>Rules:</em> Prone; Attribute Test; Extended Rest.</small></td>\n    </tr>\n    <tr>\n      <td><strong>Gråtstrand Salt-Circle</strong></td>\n      <td>Coastwise threshold-wards in brine-script <em>(Gråtstrandsmål)</em></td>\n      <td>Once per extended rest, you can ward a doorway, gate, or threshold until the end of the next scene; creatures crossing it take a second chance (two rolls, take worst) on their next ability roll (Director adjudicates).<br><small><em>Rules:</em> Second Chance (two rolls, take worst); Ability Roll; Scene; Extended Rest.</small></td>\n    </tr>\n    <tr>\n      <td><strong>Beinmark Oath-Suture</strong></td>\n      <td>Border-healer sutures and stubborn vows <em>(Beinmarksmål)</em></td>\n      <td>Once per scene, when you spend a Hit Die, you also gain temporary Toughness equal to your Might score.<br><small><em>Rules:</em> recovery test; Temporary Toughness; Scene.</small></td>\n    </tr>\n    <tr>\n      <td><strong>Svellspraak True-Name Margin</strong></td>\n      <td>Old court annotations kept under seal <em>(Svellspraak)</em></td>\n      <td>Once per extended rest, name a creature you can see; until your next extended rest, you gain an second chance (two rolls, take best) on tests made to track or locate it.<br><small><em>Rules:</em> Second Chance (two rolls, take best); Tests; Extended Rest.</small></td>\n    </tr>\n  </tbody>\n</table>",
+        "format": 1
+      },
+      "sort": 2000,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004117,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1QqCpJfV3Lx0IrC9",
+      "name": "Imbue Weapon",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h2 class=\"spaced\">Imbue Weapon</h2>\n<p>Weapons remember battles. Where an effect references a Draw Steel mechanic, it includes a <strong>Rules:</strong> cross-reference.</p>\n\n<h3 class=\"spaced\">Novice enhancements</h3>\n<table>\n  <thead>\n    <tr>\n      <th>Enhancement</th>\n      <th>Project Source (Language)</th>\n      <th>Effect</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Fjord-Second Chance (two rolls, take best) Balance</strong></td>\n      <td>Dockmaster’s measurements and tide-marks <em>(Fjordmål)</em></td>\n      <td>You gain an second chance (two rolls, take best) on strikes made while you are on unstable footing (boat, ice, rubble).<br><small><em>Rules:</em> Second Chance (two rolls, take best); Strike.</small></td>\n    </tr>\n    <tr>\n      <td><strong>Dverg Hammer-Truth</strong></td>\n      <td>Forge-proofs struck into the tang <em>(Dvergsmål)</em></td>\n      <td>This weapon has the Magic or Psionic keyword (choose when imbued). Once per scene, one strike you make ignores full armor 5.<br><small><em>Rules:</em> Magic/Psionic Keyword; full armor; Scene.</small></td>\n    </tr>\n    <tr>\n      <td><strong>Tonttu Tripwire Notch</strong></td>\n      <td>Small-folk trapcraft marks <em>(Tonttumál)</em></td>\n      <td>You gain an second chance (two rolls, take best) on tests made to disable mundane traps using your weapon and tools (Director adjudicates).<br><small><em>Rules:</em> Second Chance (two rolls, take best); Tests.</small></td>\n    </tr>\n    <tr>\n      <td><strong>Marsh-Swallow Temper</strong></td>\n      <td>Bog-iron notes from wetland smithies <em>(Myrmål)</em></td>\n      <td>You ignore difficult terrain caused by knee-deep water or mud.<br><small><em>Rules:</em> Difficult Terrain.</small></td>\n    </tr>\n  </tbody>\n</table>\n\n<h3 class=\"spaced\">Master enhancements</h3>\n<table>\n  <thead>\n    <tr>\n      <th>Enhancement</th>\n      <th>Project Source (Language)</th>\n      <th>Effect</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Shieldfell Gale-Runes</strong></td>\n      <td>Storm-run lines carved by ridge-runners <em>(Skjoldfjellsmål)</em></td>\n      <td>Once per turn, when you hit with a strike, you can push the target 1 feet (2 m).<br><small><em>Rules:</em> Forced Movement (Push); Squares; Strike.</small></td>\n    </tr>\n    <tr>\n      <td><strong>Wyrm-Tongue Challenge</strong></td>\n      <td>Challenge-phrases copied from wyrm-hunters <em>(Ormstunga)</em></td>\n      <td>Once per scene, when you hit a creature with a strike, you can mark it until the end of the scene; your strikes against the marked creature gain an second chance (two rolls, take best).<br><small><em>Rules:</em> Mark; Second Chance (two rolls, take best); Strike; Scene.</small></td>\n    </tr>\n    <tr>\n      <td><strong>Sunbright Second Chance (two rolls, take best)</strong></td>\n      <td>Daylit blessing-lines from open-air shrines <em>(Ljósamál)</em></td>\n      <td>Your weapon sheds faint light. Once per scene, when you hit with a strike, deal extra fire damage equal to your Reason score.<br><small><em>Rules:</em> Scene; Strike; Damage.</small></td>\n    </tr>\n    <tr>\n      <td><strong>Beinmark Drill-Scar</strong></td>\n      <td>March-drill cadence cut into the fuller <em>(Beinmarksmål)</em></td>\n      <td>At the start of each scene, you gain temporary Toughness equal to your Might score.<br><small><em>Rules:</em> Temporary Toughness; Scene.</small></td>\n    </tr>\n  </tbody>\n</table>\n\n<h3 class=\"spaced\">Veteran (level 9) enhancements</h3>\n<table>\n  <thead>\n    <tr>\n      <th>Enhancement</th>\n      <th>Project Source (Language)</th>\n      <th>Effect</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Jötun War-Name</strong></td>\n      <td>War-names spoken over stone and fire <em>(Jötuntunga)</em></td>\n      <td>Once per extended rest, your next strike scores a critical hit.<br><small><em>Rules:</em> Critical Hit; Strike; Extended Rest.</small></td>\n    </tr>\n    <tr>\n      <td><strong>Summerdell Mercy</strong></td>\n      <td>Peace-vows taught by valley mediators <em>(Sommerdalsmål)</em></td>\n      <td>Once per extended rest, when you reduce a creature to 0 Toughness, you can choose to spare them instead of letting them become dying (Director adjudicates).<br><small><em>Rules:</em> Toughness; Dying; Extended Rest.</small></td>\n    </tr>\n    <tr>\n      <td><strong>White-Expanse Severance</strong></td>\n      <td>Cold-cut geometry from far-north hunters <em>(Hvitviddemål)</em></td>\n      <td>Once per scene, one strike you make ignores full armor 5.<br><small><em>Rules:</em> full armor; Strike; Scene.</small></td>\n    </tr>\n    <tr>\n      <td><strong>Ash-Word Sundering</strong></td>\n      <td>Soot-scribed breaking-words <em>(Askmál)</em></td>\n      <td>You gain an second chance (two rolls, take best) on Might tests made to break mundane objects and barriers with a strike (Director adjudicates).<br><small><em>Rules:</em> Second Chance (two rolls, take best); Tests.</small></td>\n    </tr>\n  </tbody>\n</table>",
+        "format": 1
+      },
+      "sort": 3000,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004117,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

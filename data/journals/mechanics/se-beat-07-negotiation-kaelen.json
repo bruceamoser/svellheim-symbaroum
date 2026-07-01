@@ -1,0 +1,52 @@
+{
+  "_id": "jD7PnXFxKoS56tri",
+  "name": "Negotiation: The Reluctant Hearth — Recruiting Kaelen",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391004032,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "Z1WbZG5iACJ2KoOX",
+      "name": "The Reluctant Hearth — Recruiting Kaelen",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1>The Reluctant Hearth — Recruiting Kaelen</h1>\n<p><strong>Act:</strong> Act 1 | <strong>Type:</strong> Social Scene</p>\n<hr><h2>The Scene</h2><h2>The Reluctant Hearth — Recruiting Kaelen</h2><p><strong>Level:</strong> 2 | <strong>Beat:</strong> 7 | <strong>Location:</strong> The Green Heart — the surviving grove at the center of the Ashen Woods</p><p>The PCs have reached the impossible: a living forest at the center of the dead Ashen Woods. Here, Kaelen — the Seventh Ember-Keeper, the one who fled — has hidden for years, tending the grove and its dryad guardians. She doesn't want to be found. She doesn't want to go back. She believes she <em>caused</em> the crisis, and she's terrified of making it worse.</p><p>This is a <strong>Very Hard</strong> negotiation. Kaelen is not an obstacle to rescue — she is a person who has made a deliberate, reasoned, guilt-driven choice, and she will defend it with intelligence and conviction.</p><hr><h3>GM Notes: Playing Kaelen</h3><ul><li>She speaks directly — no evasion, no deflection. She will tell the PCs exactly why she won't go.</li><li>She is not hostile. She is <em>tired</em>. She has been carrying this guilt alone for years.</li><li>She genuinely cares about Svellheim's people. That's what makes this hard.</li><li>She is terrified — not of the mission, but of <em>herself</em>. She fears she'll break things worse.</li><li>She is protective of the Green Heart. These dryads are her family now.</li></ul><h3>Beat 6 Bonus</h3><p>If the PCs protected 2+ living roots during the Rootgnaw Brood combat (Beat 6), grant <strong>+2 to Presence tests</strong> during this negotiation. The grove's approval is visible — small flowers bloom near the PCs' feet, and the dryads relax their stance.</p><h3>Lew's Contribution</h3><p>If allowed, Lew can make one argument using Presence (+3). He'll tell Kaelen plainly: “The question isn't whether you deserve a second chance. The question is whether Hrafnborg deserves to die because you're afraid of one.” His argument always succeeds at tier 2 — but costs 1 Patience, because Kaelen resents being <em>managed</em>.</p><h3>Kaelen's Secret (Reserve for Later Acts)</h3><p>The guest-right she broke involved a Wyrd-touched traveler who came to the Ever-Ember seeking sanctuary. Kaelen turned them away; the traveler — one of Grafvitnir's vessels — died in the cold. What Kaelen actually did was undo one of Grafvitnir's bindings. Her guilt is real, but her understanding of what she did is incomplete.</p>\n<hr><h2>Running This Scene</h2>\n<p>This is a <strong>narrative social scene</strong> — a dramatic conversation with stakes. Play it out as roleplay, calling for ability checks only when the outcome is uncertain.</p>\n<h3>GM Guidance</h3>\n<ul>\n<li>Let the players drive the conversation. Only call for rolls at key turning points.</li>\n<li>Use the NPC's motivations and pitfalls below to guide their reactions.</li>\n<li>Reward clever roleplay — if a player makes a compelling argument that hits a motivation, let it succeed.</li>\n<li>The NPC's starting attitude sets the tone, but good or bad roleplay should shift it naturally.</li>\n</ul>\n<hr><h2>Kaelen (The Seventh)</h2>\n<p><em>Former Ember-Keeper</em></p>\n<p>The Seventh Ember-Keeper, who fled after breaking guest-right. Been hiding in the Green Heart for years, tending the dryads. The ember-mark on her forehead still glows — she is still a Keeper whether she accepts it or not. Her guilt is the load-bearing wall of her identity. Do NOT tell her it wasn't her fault. Do NOT invoke authority. Do NOT offer glory. Speak to her humanity, her duty, and the real human cost.</p>\n<h3>At a Glance</h3>\n<ul>\n<li><strong>Starting Attitude:</strong> Unfriendly</li>\n<li><strong>Suggested DC:</strong> 18 (if you need a check)</li>\n<li><strong>Vigilant DC:</strong> 16 (to read motivations/pitfalls)</li>\n</ul>\n<h3>What They Want (Motivations)</h3>\n<p>If the PCs appeal to these, the NPC warms to them. Grant second chance (two rolls, take best) on a check or simply have the NPC concede the point.</p><ul>\n<li><strong>Redemption</strong></li>\n<li><strong>Duty</strong></li>\n<li><strong>Protecting the Common Folk</strong></li>\n</ul>\n<h3>What Offends Them (Pitfalls)</h3>\n<p>If the PCs trigger these, the NPC becomes defensive or hostile. Impose second chance (two rolls, take worst) on a check or have the NPC shut down.</p><ul>\n<li><strong>Glory</strong></li>\n<li><strong>Orders from Authority</strong></li>\n<li><strong>Minimizing Her Guilt</strong></li>\n</ul>\n<hr><h2>Outcomes</h2>\n<p>Based on how the conversation goes:</p>\n<h3>Success (Interest reaches 5)</h3><p>Kaelen agrees to come — on her terms. Not surrendering. <em>Deciding.</em></p><p>“Fine. I'll come. I'll speak to the Ever-Ember, if it'll still speak to me. But I'm not going back to be a Keeper. I'm going back to <em>fix</em> what I broke. And when it's fixed — if it can be fixed — I'm coming back here.”</p><p><strong>Conditions:</strong> Kaelen joins as an NPC ally. She insists on saying farewell to the dryads (1 hour). She brings nothing from the grove. She cooperates fully but remains guarded — earning her real trust will take Acts 2 and 3.</p>\n<h3>Partial Success</h3><p>Kaelen agrees partway — she'll come as far as Hrafnborg, she'll speak to the Ever-Ember, but she makes no promises beyond that. She is distant and functional: answers questions, does her job, trusts no one yet.</p><p>Mechanically: Kaelen starts with 1 fewer hit die (emotional cost of the ambivalent choice).</p>\n<h3>Failure (Patience reduced to 0 — The Attack)</h3><p>The negotiation is interrupted. Something breaches the Green Heart's boundary — Pale Maw agents, Rootgnaw creatures, or a Rot-warped landvaettr. The dryads scream.</p><p>The PCs must fight to protect the grove. Kaelen fights alongside them as a defender — not an ally, not yet. When it's over, she looks at the wounded clearing and says: <em>“They found this place and attacked it. Alright. I'll come. Not for Hrafnborg. For <strong>this</strong>.”</em></p><p><strong>Conditions of failure-to-success:</strong> Kaelen joins, but her motivation is anger, not duty. She is less cooperative, more volatile. The Grafvitnir timeline accelerates — the network now knows the Green Heart's location.</p>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004032,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

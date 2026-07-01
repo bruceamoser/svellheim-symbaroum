@@ -1,0 +1,59 @@
+{
+  "_id": "1Olus0yzJJqMykCy",
+  "name": "Ember-Keeper's Burial Coin",
+  "type": "artifact",
+  "img": "icons/commodities/currency/coin-embossed-ruby-gold.webp",
+  "system": {
+    "description": "<p><em>A tarnished coin stamped with the ember-mark — a seven-pointed flame. The metal is warm to the touch even in the deepest cold. It should not be in a common graveyard.</em></p><p><strong>Effect:</strong> While you carry this coin, you can sense the presence of undead creatures within 3 meters — a faint warmth pulses from the coin when undead are near. Additionally, once per encounter, when you are targeted by a fear or charm effect from an undead creature, you can use a triggered action to immediately end the effect on you. The coin flares with amber light as the undead recoils.</p><p>If you hold the coin aloft and speak the words <em>\"By the Ember's light, return to your rest\"</em> as a free action, make an easy Presence test. On a success, each undead minion within 2 meters is destroyed. This ability can be used once per encounter.</p>\n<hr><h3>Crafting</h3><p><strong>Prerequisites:</strong> A cold-iron blank, ash from an Ever-Ember, the name of a dead Keeper spoken aloud at midnight</p><p><strong>Source:</strong> Ember-Keeper liturgical texts in Old NorrÅ“nt</p><p><strong>Crafting Time:</strong> 150 downtime days</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>Found:</strong> Beat 2 — The Graveyard. Discovered on the Barrow-Warden's body. A medium Reason test identifies it as an Ember-Keeper's token. Kaelen will recognise this coin in Beat 7 — it belonged to a Keeper who was murdered before she left the order.</p></section></section>",
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "isArtifact": true,
+    "power": {
+      "description": "<p><em>A tarnished coin stamped with the ember-mark — a seven-pointed flame. The metal is warm to the touch even in the deepest cold. It should not be in a common graveyard.</em></p><p><strong>Effect:</strong> While you carry this coin, you can sense the presence of undead creatures within 3 meters — a faint warmth pulses from the coin when undead are near. Additionally, once per encounter, when you are targeted by a fear or charm effect from an undead creature, you can use a triggered action to immediately end the effect on you. The coin flares with amber light as the undead recoils.</p><p>If you hold the coin aloft and speak the words <em>\"By the Ember's light, return to your rest\"</em> as a free action, make an easy Presence test. On a success, each undead minion within 2 meters is destroyed. This ability can be used once per encounter.</p>\n<hr><h3>Crafting</h3><p><strong>Prerequisites:</strong> A cold-iron blank, ash from an Ever-Ember, the name of a dead Keeper spoken aloud at midnight</p><p><strong>Source:</strong> Ember-Keeper liturgical texts in Old NorrÅ“nt</p><p><strong>Crafting Time:</strong> 150 downtime days</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>Found:</strong> Beat 2 — The Graveyard. Discovered on the Barrow-Warden's body. A medium Reason test identifies it as an Ember-Keeper's token. Kaelen will recognise this coin in Beat 7 — it belonged to a Keeper who was murdered before she left the order.</p></section></section>",
+      "action": "A"
+    },
+    "qualities": {},
+    "marker": "",
+    "state": "other",
+    "corruptionDescription": "Using this artifact costs 1 temporary corruption."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919475027,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

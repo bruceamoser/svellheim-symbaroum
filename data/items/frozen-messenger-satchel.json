@@ -1,0 +1,59 @@
+{
+  "_id": "1UL7PDvMtVc060z5",
+  "name": "Frozen Messenger's Satchel",
+  "type": "artifact",
+  "img": "icons/containers/bags/sack-leather-blue-brown.webp",
+  "system": {
+    "description": "<p>A leather courier's satchel, frozen stiff with cold. Inside:</p><ul><li><strong>A sealed letter</strong> addressed to 'The Watch-Commander, Stairwatch' — the King's cipher, but not Harald's personal seal</li><li><strong>2 days' rations</strong> (frozen solid, edible once thawed)</li><li><strong>A Chainwarden map</strong> of Titan's Stair annotated with hazard marks (+1 advantage (second chance) on one navigation test in the next montage test)</li></ul>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>Found:</strong> Hanging from the hand of a frozen Chainwarden courier on the mountain road (Beat 4b, Part 2). The courier has been dead approximately four days — snow has drifted against one shoulder. A Chainwarden runner by the badge.</p><p><strong>Contents:</strong> The Sealed Letter from V.A. (addressed to Watch-Commander, Stairwatch), 2 days' frozen rations, and a small Chainwarden map of Titan's Stair with hazard annotations. Award each piece as a separate item or bundle as a single find.</p><p><strong>Significance:</strong> The letter confirms the leak in Hrafnborg — someone besides Harald knows the PCs left. Whether this is Dreyfus's Wyrd-channel reporting through a mortal official, or an independent traitor, cannot be determined from the letter alone. Let the PCs feel the web tightening.</p></section></section>",
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "isArtifact": true,
+    "power": {
+      "description": "<p>A leather courier's satchel, frozen stiff with cold. Inside:</p><ul><li><strong>A sealed letter</strong> addressed to 'The Watch-Commander, Stairwatch' — the King's cipher, but not Harald's personal seal</li><li><strong>2 days' rations</strong> (frozen solid, edible once thawed)</li><li><strong>A Chainwarden map</strong> of Titan's Stair annotated with hazard marks (+1 advantage (second chance) on one navigation test in the next montage test)</li></ul>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>Found:</strong> Hanging from the hand of a frozen Chainwarden courier on the mountain road (Beat 4b, Part 2). The courier has been dead approximately four days — snow has drifted against one shoulder. A Chainwarden runner by the badge.</p><p><strong>Contents:</strong> The Sealed Letter from V.A. (addressed to Watch-Commander, Stairwatch), 2 days' frozen rations, and a small Chainwarden map of Titan's Stair with hazard annotations. Award each piece as a separate item or bundle as a single find.</p><p><strong>Significance:</strong> The letter confirms the leak in Hrafnborg — someone besides Harald knows the PCs left. Whether this is Dreyfus's Wyrd-channel reporting through a mortal official, or an independent traitor, cannot be determined from the letter alone. Let the PCs feel the web tightening.</p></section></section>",
+      "action": "A"
+    },
+    "qualities": {},
+    "marker": "",
+    "state": "other",
+    "corruptionDescription": "Using this artifact costs 1 temporary corruption."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919475029,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

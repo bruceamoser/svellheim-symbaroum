@@ -1,0 +1,52 @@
+{
+  "_id": "ZydIClp6ZPSRfLuZ",
+  "name": "Montage: Beat 2: The Road to Hrafnborg",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391003993,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "knogeihPSjW8VsMm",
+      "name": "Beat 2: The Road to Hrafnborg",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1>Beat 2: The Road to Hrafnborg</h1>\n<p><strong>Act:</strong> Act 1 | <strong>Type:</strong> Montage Scene</p>\n<hr><h2>Overview</h2><h2>The Road to Hrafnborg</h2><p><strong>Level:</strong> 1 | <strong>Beat:</strong> 2<br><strong>Location:</strong> The Lantern Road<br><strong>Type:</strong> Travel montage (Easy, 2–3 days)<br><strong>Tone:</strong> Cold fellowship, growing dread, first blood</p><p>The PCs travel to Hrafnborg along the failing Lantern Road. Strangers bound by the same grim duty share a road, a fire, and their suspicions. This montage covers the journey before the party reaches the graveyard outside Hrafnborg — where the dead will rise for the first time.</p>\n<hr><h2>Running This Scene</h2>\n<p>This is a <strong>narrative montage</strong> — a series of challenges the party faces as a group. Rather than a single roll, play this out as a sequence of scenes where each character contributes.</p>\n<h3>GM Guidance</h3>\n<ul>\n<li>Go around the table and ask each player how their character is helping.</li>\n<li>Call for ability checks as appropriate — suggested modified [Resolute←10] (easy).</li>\n<li>Let creative approaches succeed with good roleplaying, even without a roll.</li>\n<li>Use the complications below as prompts — not every one needs to come up.</li>\n<li>The goal is collaborative storytelling, not a pass/fail test.</li>\n</ul>\n<p><strong>Relevant Skills:</strong></p><ul>\n<li>Strong</li>\n<li>Quick or Discreet</li>\n<li>Cunning or Cunning</li>\n<li>Vigilant, Vigilant, or Vigilant</li>\n<li>Persuasive, Persuasive, or Persuasive</li>\n</ul>\n<hr><h2>Complications &amp; Challenges</h2>\n<p>Use these as dramatic beats during the montage. Present them as situations the party must navigate together.</p>\n<h3>Navigate the Lantern Road <em>(Cunning or Cunning, modified [Resolute←10])</em></h3><p>Stay on failing roads, read buried markers, avoid dead-end detours. The road splits and rejoins — choosing the wrong fork adds hours.</p><h3>Endure the Cold <em>(Strong, modified [Resolute←10])</em></h3><p>Resist frostbite, carry gear through snowdrifts, ford frozen streams. The supplies must last days, not hours.</p><h3>Find Shelter at Night <em>(Vigilant, Vigilant, or Vigilant, modified [Resolute←10])</em></h3><p>Locate wind-breaks, abandoned crofts, or natural shelters before the temperature drops to lethal ranges.</p><h3>Avoid Trouble on the Road <em>(Quick or Discreet, modified [Resolute←10])</em></h3><p>Slip past bandit camps, desperate refugees, or rival groups who suspect why you're heading toward Hrafnborg while everyone else flees.</p>\n<hr><h2>Outcomes</h2>\n<p>Based on how the party performed, use the following as a guide:</p>\n<h3>Total Success</h3><p>Arrive rested and supplied. No Heat loss. Earn 1 Victory.</p><h3>Partial Success</h3><p>Arrive tired. Lose 1 day's rations (Heat) or one piece of minor equipment is damaged (Weight).</p><h3>Total Failure</h3><p>Arrive exhausted and rattled. One PC has a condition (frostbitten or exhausted). Lose 2 days' rations. Director gains 2 additional Malice for the graveyard scene.</p>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391003993,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

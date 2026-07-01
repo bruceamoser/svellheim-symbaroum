@@ -1,0 +1,66 @@
+{
+  "_id": "1XbSGYJzhHW6dooW",
+  "name": "Dryad's Thorn-Graft Spear",
+  "type": "weapon",
+  "img": "icons/weapons/polearms/spear-flared-silver-pink.webp",
+  "system": {
+    "description": "<p><em>Not forged — grown. A spear of living greenwood, its shaft wrapped in thorned vines that tighten around the wielder's grip like a handshake. The blade is a single thorn, six inches long, black as obsidian and sharp enough to draw blood from stone. Where the shaft meets the blade, tiny amber beads of sap weep in a slow, steady rhythm. The spear is warm. It feels like holding a branch that hasn't realised it's been cut.</em></p><p><strong>1st Level:</strong> Any weapon ability that deals rolled damage using this spear deals an extra  damage as thorns erupt from the wound. Additionally, once per encounter, when you hit a creature with a strike using this spear, you can use a free free action to cause roots to erupt from the ground — the target is {grabbed} (the target takes a disadvantage (second chance) on the Escape Grab free action) as thorn-vines wrap their legs. While grabbed in this way, the target takes  damage at the start of each of their turns.</p><p><strong>5th Level:</strong> The weapon's extra corruption damage increases to . Additionally, the thorn-grab can be used twice per encounter. When you kill a creature with this spear, the body sprouts green shoots within minutes — the World-Tree reclaiming what was lost. This has no mechanical effect, but it is deeply unsettling to enemies and deeply reassuring to allies.</p><p><strong>9th Level:</strong> The weapon's extra corruption damage increases to . Additionally, once per encounter as a free action, you can plant the spear in the ground and channel the Green Heart's power — a 3 burst of thorned vines erupts, dealing  damage to each enemy in the area and creating difficult terrain that lasts until the end of the encounter. The spear returns to your hand at the start of your next turn.</p>\n<hr><h3>Crafting</h3><p><strong>Prerequisites:</strong> A living branch freely given by a dryad of the Green Heart, sap-amber resin, a night of growth under a living canopy</p><p><strong>Source:</strong> Dryad grove-craft (oral tradition, no written texts — the trees remember)</p><p><strong>Crafting Time:</strong> 450 downtime days</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>Received:</strong> Beat 7 — The Reluctant Hearth. The dryad guardians offer this weapon to the party's most martial member (or whoever fought hardest to protect the Green Heart during the attack). If no attack occurred (successful negotiation), the eldest dryad offers it with a warning: 'It will serve you. But it serves the grove first. If you turn it against living wood, it will turn against you.'</p><p><strong>Character Note:</strong> The spear is semi-sentient — not intelligent, but aware. It pulls toward blighted creatures and undead (the wielder feels a faint tug in combat). It refuses to harm living plants (power rolls against plant creatures deal no damage). It grows slightly — new thorns, fresh leaves — during respites taken in natural settings.</p><p><strong>Act 2 Connection:</strong> Near the Emberwell, the spear's sap-amber beads glow brightly and the vines tighten — the spear recognises its source. It can be used as a key in certain Emberwell puzzles, or sacrificed to Yggdrasil's roots to gain a significant boon. Sacrificing the weapon should cost the player something emotionally — by Act 2, they should be attached to it.</p></section></section>",
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "isArtifact": false,
+    "power": {},
+    "qualities": {
+      "flaming": true,
+      "desecrated": true
+    },
+    "marker": "",
+    "state": "other",
+    "attribute": "accurate",
+    "reference": "1handed",
+    "baseDamage": "1d6",
+    "bonusDamage": "",
+    "alternativeDamage": "",
+    "cost": "",
+    "number": 1,
+    "quality": ""
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919475026,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

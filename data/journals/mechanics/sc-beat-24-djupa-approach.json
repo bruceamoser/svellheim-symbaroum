@@ -1,0 +1,52 @@
+{
+  "_id": "11oOLpnWGSvYlMFd",
+  "name": "Montage: Beat 24 — The Djupá Approach",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391004002,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "18jwxehlQJS5epiU",
+      "name": "Beat 24 — The Djupá Approach",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1>Beat 24 — The Djupá Approach</h1>\n<p><strong>Act:</strong> Act 3 | <strong>Type:</strong> Montage Scene</p>\n<hr><h2>Overview</h2><p><strong>Beat 24 — The Djupá Approach</strong></p><p>The party uses the Djupá valley to approach Hrafnborg from the north, racing to reach the city before the siege ring closes the last gap. Dreyfus's dying information gives them twelve hours.</p><p><strong>Difficulty:</strong> Hard — this is a timed montage. Urgency is the defining quality. The valley narrows as it approaches Hrafnborg. The siege ring has scouts. The party is being hunted as they move.</p><p><strong>Refugee Variant:</strong> If refugees travel with the party, Round 2 challenges involving Presence become more critical — managing 40+ people through a closing siege ring.</p>\n<hr><h2>Running This Scene</h2>\n<p>This is a <strong>narrative montage</strong> — a series of challenges the party faces as a group. Rather than a single roll, play this out as a sequence of scenes where each character contributes.</p>\n<h3>GM Guidance</h3>\n<ul>\n<li>Go around the table and ask each player how their character is helping.</li>\n<li>Call for ability checks as appropriate — suggested modified [Resolute←15] (hard).</li>\n<li>Let creative approaches succeed with good roleplaying, even without a roll.</li>\n<li>Use the complications below as prompts — not every one needs to come up.</li>\n<li>The goal is collaborative storytelling, not a pass/fail test.</li>\n</ul>\n<p><strong>Relevant Skills:</strong></p><ul>\n<li>Strong</li>\n<li>Quick or Discreet</li>\n<li>Cunning or Cunning</li>\n<li>Vigilant, Vigilant, or Vigilant</li>\n<li>Persuasive, Persuasive, or Persuasive</li>\n</ul>\n<hr><h2>Complications &amp; Challenges</h2>\n<p>Use these as dramatic beats during the montage. Present them as situations the party must navigate together.</p>\n<h3>Round 1: The Djupá Valley</h3><p>The party enters the valley from the north. The river runs roughly south-southwest toward Hrafnborg, cutting through a narrow passage.</p><table><tr><th>Challenge</th><th>Characteristic</th><th>Description</th></tr><tr><td>Navigate the valley floor in falling light</td><td>Reason</td><td>The valley is navigable but darkness is coming fast. Finding the path by memory and observation as the light dies.</td></tr><tr><td>Scout the valley walls for siege scouts</td><td>Agility / Intuition</td><td>The undead siege includes scouts on higher ground. The party needs to spot these before being spotted.</td></tr><tr><td>Move quickly without alerting the siege ring</td><td>Agility</td><td>Speed matters — twelve hours. Moving fast but staying silent on steep riverbed terrain.</td></tr><tr><td>Keep pace and manage cold exposure</td><td>Might</td><td>The Djupá valley runs cold. Wind is funneled down the riverbed. Cold exposure and exhaustion are real threats on a forced march.</td></tr><tr><td>Gather intelligence about the siege ring's position</td><td>Intuition</td><td>How far has the siege ring extended into the valley? Is there still a gap? Reading signs: smoke position, sound, tracks in snow.</td></tr><tr><td>Make tactical decisions about the route</td><td>Presence / Reason</td><td>The group needs to stay coordinated and committed to a route even as circumstances change. Leadership in motion.</td></tr></table>\n<h3>Escalation</h3>\n<p>If the scene needs more tension, introduce these additional complications:</p>\n<h3>Round 2: The Final Approach</h3><p>The siege ring's eastern second chance (two rolls, take best) is beginning to include the Djupá valley's mouth. The party must thread through before it closes.</p><table><tr><th>Challenge</th><th>Characteristic</th><th>Description</th></tr><tr><td>Time the undead patrol pattern</td><td>Reason / Intuition</td><td>The undead move in timed rotations. Spotting the pattern and identifying the gap — the window where the party can move unseen.</td></tr><tr><td>Navigate the valley mouth without triggering alarm</td><td>Agility</td><td>Getting through the narrowing gap without triggering a general alarm. One wrong move and the entire eastern flank converges.</td></tr><tr><td>Reach Hrafnborg's north gate</td><td>Presence / Might</td><td>The gate is still open, barely. Defenders are watching. The party must reach it before the siege ring tightens or fight through.</td></tr><tr><td>Manage refugees' pace in the final stretch</td><td>Presence</td><td>If refugees travel with the party — getting 40+ people through the siege ring gap without panic.</td></tr><tr><td>Spot opportunities to move</td><td>Intuition</td><td>The undead patterns have gaps — moments where the siege ring is thin. Spotting these windows.</td></tr><tr><td>Commit to the final push</td><td>Presence / Might</td><td>The last mile is a sprint. The gap is closing. The gate is close. Everything depends on the final push without hesitation.</td></tr></table>\n<hr><h2>Outcomes</h2>\n<p>Based on how the party performed, use the following as a guide:</p>\n<p><strong>Interlude — Hrafnborg Becomes Visible:</strong> As the party crests a rise, Hrafnborg becomes visible. South walls of dark stone, towers stark against grey sky. Undead in timed rotations. Defenders on the walls. The Ever-Ember's gold pulse visible through the great hall window. The siege ring is closing — the eastern flank beginning to wheel northward. Time is running out.</p>\n<p><strong>Hard Success (6+ successes):</strong> Enter the city undetected. No alarm triggered. The defenders don't even need to fight. The gap closes after the party passes through.</p><p><strong>Success (4–5 successes):</strong> Enter with minor cost. One alarm triggered — brief skirmish at the gate, but nothing organized. Inside before the siege ring consolidates.</p><p><strong>Failure (2–3 successes):</strong> Arrive pursued. Fighting through the gate — defenders must hold the opening. Short but sharp (3 rounds of combat at the gate-barrier).</p><p><strong>Hard Failure (0–1 successes):</strong> The gap closes before reaching the gate. Must fight through the siege ring itself — Hard combat scene, multiple waves. Eventually break through, but significant cost.</p>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004002,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

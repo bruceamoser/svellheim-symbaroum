@@ -1,0 +1,59 @@
+{
+  "_id": "1ENMdhgfuMWZgTDR",
+  "name": "Heitfolk Tunnel-Key",
+  "type": "artifact",
+  "img": "icons/skills/trades/security-locksmith-key-gray.webp",
+  "system": {
+    "description": "<p>A carved stone disc, roughly three inches in diameter. Its surface bears geometric patterns that shift subtly in the light — not optical illusion, but actual movement in the stone's crystalline structure. It is warm to the touch and faintly hums when held near deep stone or tunnel entrances.</p><p>A Tunnel-Key is not given for payment. It is not bought or sold. It is given when a surface-dweller has proven they understand what lies beneath and will not betray it. Show this to any Heitfolk you meet. The deep tunnels are yours.</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>ACQUISITION:</strong> Conditional on the party having helped Hildvarð extensively during the Beat 17 side quest in Act 2. If the party skipped Beat 17 or did not help, the Tunnel-Key is not given. The Heitfolk still mobilize (the roots convinced them), but the full trust the key represents is absent.</p><p><strong>MECHANICS:</strong></p><ul><li><strong>Tunnel Access:</strong> Grants passage through any Heitfolk deep-tunnel system. Any Heitfolk sentry or patrol recognizes it on sight.</li><li><strong>Siege Bonus (+2):</strong> During the Three-Crisis Siege Montage in Beat 25, the Tunnel-Key enables the Heitfolk to mobilize their full deep-guard force through the western undercity tunnels. This grants +2 to one test in the siege montage of the party's choice.</li><li>If the party does NOT have the key, the siege bonus is reduced from +2 to +1.</li></ul><p><strong>NARRATIVE:</strong> Hildvarð says: <em>\"A Tunnel-Key is not given for payment. It is not bought or sold. It is given when a surface-dweller has proven they understand what lies beneath and will not betray it.\"</em> She closes the hero's fingers over the disc. <em>\"Show this to any Heitfolk you meet. The deep tunnels are yours.\"</em></p><p>No further mechanical use after Beat 25.</p></section></section>",
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "isArtifact": true,
+    "power": {
+      "description": "<p>A carved stone disc, roughly three inches in diameter. Its surface bears geometric patterns that shift subtly in the light — not optical illusion, but actual movement in the stone's crystalline structure. It is warm to the touch and faintly hums when held near deep stone or tunnel entrances.</p><p>A Tunnel-Key is not given for payment. It is not bought or sold. It is given when a surface-dweller has proven they understand what lies beneath and will not betray it. Show this to any Heitfolk you meet. The deep tunnels are yours.</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>ACQUISITION:</strong> Conditional on the party having helped Hildvarð extensively during the Beat 17 side quest in Act 2. If the party skipped Beat 17 or did not help, the Tunnel-Key is not given. The Heitfolk still mobilize (the roots convinced them), but the full trust the key represents is absent.</p><p><strong>MECHANICS:</strong></p><ul><li><strong>Tunnel Access:</strong> Grants passage through any Heitfolk deep-tunnel system. Any Heitfolk sentry or patrol recognizes it on sight.</li><li><strong>Siege Bonus (+2):</strong> During the Three-Crisis Siege Montage in Beat 25, the Tunnel-Key enables the Heitfolk to mobilize their full deep-guard force through the western undercity tunnels. This grants +2 to one test in the siege montage of the party's choice.</li><li>If the party does NOT have the key, the siege bonus is reduced from +2 to +1.</li></ul><p><strong>NARRATIVE:</strong> Hildvarð says: <em>\"A Tunnel-Key is not given for payment. It is not bought or sold. It is given when a surface-dweller has proven they understand what lies beneath and will not betray it.\"</em> She closes the hero's fingers over the disc. <em>\"Show this to any Heitfolk you meet. The deep tunnels are yours.\"</em></p><p>No further mechanical use after Beat 25.</p></section></section>",
+      "action": "A"
+    },
+    "qualities": {},
+    "marker": "",
+    "state": "other",
+    "corruptionDescription": "Using this artifact costs 1 temporary corruption."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919475030,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

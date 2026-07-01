@@ -1,0 +1,68 @@
+{
+  "_id": "gErM2dPXNhYGB5Za",
+  "name": "Frost-Etched Barrow-Blade",
+  "type": "weapon",
+  "img": "icons/weapons/swords/sword-runed-glowing.webp",
+  "system": {
+    "description": "<p><em>A longsword sheathed in perpetual frost, its blade etched with burial runes that glow faint blue in darkness. The hilt is wrapped in frozen leather that never thaws. Taken from a Barrow-Warden — it remembered the old laws, even in death.</em></p><p><strong>Effect:</strong> Any weapon ability that deals rolled damage using this weapon deals an extra 1 cold damage. Once per turn, when you hit a creature with a strike using this weapon, you can choose to impose slowed (save ends) on the target as frost crawls up from the wound. While you wield this blade in dim light or darkness, it sheds pale blue light in a 1-meters (2 m) radius.</p>\n<hr><h3>Crafting</h3><p><strong>Prerequisites:</strong> A broken burial sword from a barrow of honour, frost-iron ingot quenched in glacier meltwater</p><p><strong>Source:</strong> Barrow-rune inscriptions in Old NorrÅ“nt</p><p><strong>Crafting Time:</strong> 450 downtime days</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>Found:</strong> Beat 2 — The Graveyard. Taken from the Barrow-Warden after the ambush outside Hrafnborg. The runes are Old NorrÅ“nt and reference 'the law of the grave.' Gragnir may comment on this weapon in Beat 6 or 8.</p></section></section>",
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "isArtifact": false,
+    "power": {},
+    "qualities": {
+      "flaming": true,
+      "desecrated": true,
+      "mystical": true,
+      "deathrune": true
+    },
+    "marker": "",
+    "state": "other",
+    "attribute": "accurate",
+    "reference": "1handed",
+    "baseDamage": "1d6",
+    "bonusDamage": "",
+    "alternativeDamage": "",
+    "cost": "",
+    "number": 1,
+    "quality": ""
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919475027,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "_id": "3mOEw3s1WBAnMovQ",
+  "name": "The Gods of Svellheim",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 2
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391004108,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "19G0SOjZtR69UeKC",
+      "name": "Faith in Svellheim",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>The gods of Svellheim are not distant, benevolent overseers. They are powerful, dangerous entities bound by Wyrd — Fate itself. They demand sacrifice, not love.</em></p>\n\n<p>In Svellheim, faith is less a belief system and more a survival practice. You do not choose a god based on morality; you choose one based on the problem you are facing.</p>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<ul>\n<li><strong>The Aesir</strong> keep the walls standing and the laws unspoken.</li>\n<li><strong>The Vanir</strong> ensure the crops grow and the seasons turn.</li>\n<li><strong>The Ascended</strong> (Saints) prove that mortals can endure the burden of glory.</li>\n<li><strong>The Outsiders</strong> are the inevitable end that must be placated.</li>\n</ul>\n</div>\n\n<hr>\n\n<h2>Choosing a Patron</h2>\n\n<p>When you create a Conduit or any character who follows a god, your patron determines which <strong>Domains</strong> you can access. Each god grants four domains. Your domains affect your <strong>Piety Triggers</strong> (how you gain Piety in combat) and your <strong>Prayer Effects</strong> (what you can spend Piety on).</p>\n\n<p>You do not need to be a Conduit to honour a god. Any hero can follow a deity and pursue a <strong>Title</strong> — a divine boon earned through deeds, not devotion.</p>",
+        "format": 1
+      },
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004108,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "rK141SjNm8ELUBnP",
+      "name": "The Aesir (Guardians of Order)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>The Aesir are gods of civilization, war, and structure. They are worshipped in great stave temples and chieftains' halls.</em></p>\n\n<hr>\n\n<h3>Grimnir — The All-Father</h3>\n<p><em>The Masked One, Valfodr, God of Gallows and Runes</em></p>\n\n<p>Grimnir sacrifices everything for second chance (two rolls, take best). He hung himself to learn the runes; he gave an eye for wisdom. He teaches that power is always bought in pain.</p>\n\n<table>\n<tbody>\n<tr>\n<td>Domains</td>\n<td>Death · Runes · Trickery · War</td>\n</tr>\n<tr>\n<td>Signs</td>\n<td>Ravens gathering on a roofbeam; a noose knot tightening without hands; runes that bleed sap.</td>\n</tr>\n<tr>\n<td>Taboos</td>\n<td>Do not claim knowledge you did not pay for; do not break a vow sworn in your own name.</td>\n</tr>\n<tr>\n<td>Offerings</td>\n<td>A drop of blood on carved wood; a verse spoken with a mouthful of snow.</td>\n</tr>\n</tbody>\n</table>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>Title: The Gallows-Walker</strong></p>\n<p><strong>Prerequisite Deed:</strong> Sacrifice something of real personal value (body, bond, wealth, reputation, or certainty) to gain knowledge or second chance (two rolls, take best) when it would be easier to retreat.</p>\n<p><strong>Benefit:</strong> Once per Extended Rest, when you fail a Reason or Intuition test, you may reroll it. You must keep the second result. If your reroll is a high roll result, you also gain 1 Inspiration.</p>\n</div>\n\n<hr>\n\n<h3>Thunar — The Thunderer</h3>\n<p><em>The Warder, God of the Common Man</em></p>\n\n<p>Thunar is the simple, brutal line between the hearth and the dark. He is the patron of thralls and karls alike.</p>\n\n<table>\n<tbody>\n<tr>\n<td>Domains</td>\n<td>Cunning · Protection · Storm · War</td>\n</tr>\n<tr>\n<td>Signs</td>\n<td>Thunder that answers a shouted oath; oak splitting cleanly; a hammer-mark appearing in frost.</td>\n</tr>\n<tr>\n<td>Taboos</td>\n<td>Do not refuse aid to a neighbor during a storm; do not strike the helpless without witness.</td>\n</tr>\n<tr>\n<td>Offerings</td>\n<td>Ale poured onto earth; a nail hammered into a threshold-post.</td>\n</tr>\n</tbody>\n</table>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>Title: Oath-Shield</strong></p>\n<p><strong>Prerequisite Deed:</strong> Hold a threatened line (doorway, bridge, palisade breach) long enough for others to escape.</p>\n<p><strong>Benefit:</strong> Once per scene, when an adjacent ally is hit by an attack, reduce the damage they take by an amount equal to your Presence (minimum 1). If the attack's ability check was high roll, you may also Push the attacker 1 feet (2 m).</p>\n</div>\n\n<hr>\n\n<h3>Tyr — The Hand Given</h3>\n<p><em>God of Law and Sacrifice</em></p>\n\n<p>Tyr represents the hard choice. He is the god of the Thing (assembly), binding verdicts, and necessary losses.</p>\n\n<table>\n<tbody>\n<tr>\n<td>Domains</td>\n<td>Fate · Knowledge · Protection · War</td>\n</tr>\n<tr>\n<td>Signs</td>\n<td>Iron ringing cleanly; a missing shadow at noon; a calm that falls after a lawful sentence.</td>\n</tr>\n<tr>\n<td>Taboos</td>\n<td>Do not twist a verdict; do not swear on another's behalf.</td>\n</tr>\n<tr>\n<td>Offerings</td>\n<td>Breaking a weapon to seal a peace; silence during judgment.</td>\n</tr>\n</tbody>\n</table>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>Title: The One-Handed</strong></p>\n<p><strong>Prerequisite Deed:</strong> Uphold a sworn law or oath in a way that <em>costs</em> you something meaningful.</p>\n<p><strong>Benefit:</strong> You are immune to the <strong>Frightened</strong> condition. Allies adjacent to you gain +1 to defenses against Fear effects.</p>\n</div>\n\n<hr>\n\n<h3>Hallinskidi — The Watchman</h3>\n<p><em>The White God, Keeper of the Horn</em></p>\n\n<p>The vigilance that never sleeps. Patron of sentries, gatekeepers, and those who warn of disaster.</p>\n\n<table>\n<tbody>\n<tr>\n<td>Domains</td>\n<td>Fate · Knowledge · Protection · Sun</td>\n</tr>\n<tr>\n<td>Signs</td>\n<td>Dawn-light on a threshold; eyes stinging when lies are spoken.</td>\n</tr>\n<tr>\n<td>Taboos</td>\n<td>Do not sleep on watch; do not sell safe passage.</td>\n</tr>\n<tr>\n<td>Offerings</td>\n<td>Oil for a beacon; salt on a boundary stone.</td>\n</tr>\n</tbody>\n</table>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>Title: The Border-Watcher</strong></p>\n<p><strong>Prerequisite Deed:</strong> Prevent a disaster by noticing what others missed at meaningful risk to yourself.</p>\n<p><strong>Benefit:</strong> Once per scene, when you make a Reason or Intuition test to detect deception or an ambush, gain an <strong>Second Chance (two rolls, take best)</strong>. If high roll, one ally may Shift 2 feet.</p>\n</div>\n\n<hr>\n\n<h3>Frigg — The Hearth-Mother</h3>\n<p><em>Weaver of Clouds, Keeper of Names</em></p>\n\n<p>While the men fight, Frigg remembers who they are. She is the goddess of household, memory, and grief.</p>\n\n<table>\n<tbody>\n<tr>\n<td>Domains</td>\n<td>Knowledge · Life · Love · Protection</td>\n</tr>\n<tr>\n<td>Signs</td>\n<td>A spindle that spins on its own; mist that forms the shape of a face; the smell of wool and smoke.</td>\n</tr>\n<tr>\n<td>Taboos</td>\n<td>Do not turn a guest away into the cold; do not speak the names of the dead without honor.</td>\n</tr>\n<tr>\n<td>Offerings</td>\n<td>A lock of hair woven into cloth; bread left on the hearth.</td>\n</tr>\n</tbody>\n</table>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>Title: Hearth-Keeper</strong></p>\n<p><strong>Prerequisite Deed:</strong> Provide sanctuary to an enemy or stranger because usage/hospitality demanded it, despite the risk.</p>\n<p><strong>Benefit:</strong> Your Recovery value increases by +2. During a Rest, allies who share food with you regain an extra 1d6 Toughness.</p>\n</div>\n\n<hr>\n\n<h3>Bragi — The Mead-Bonded</h3>\n<p><em>God of Skalds and Boasts</em></p>\n\n<p>Fame is the only immortality. Bragi ensures that deeds are remembered.</p>\n\n<table>\n<tbody>\n<tr>\n<td>Domains</td>\n<td>Creation · Knowledge · Sun · Trickery</td>\n</tr>\n<tr>\n<td>Signs</td>\n<td>A voice echoing when no one spoke; mead that never runs dry.</td>\n</tr>\n<tr>\n<td>Taboos</td>\n<td>Do not refuse a drink offered in friendship; never kill the messenger.</td>\n</tr>\n<tr>\n<td>Offerings</td>\n<td>An original poem; a cup of mead poured on a fire.</td>\n</tr>\n</tbody>\n</table>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>Title: Tale-Spinner</strong></p>\n<p><strong>Prerequisite Deed:</strong> Turn a hostile audience friendly or diffuse a violent situation using only words and wit.</p>\n<p><strong>Benefit:</strong> You gain <strong>Fluent</strong> in all spoken languages of Svellheim. Once per scene, you can Taunt an enemy as a minor movement combat action (Range 5).</p>\n</div>\n\n<hr>\n\n<h3>Forseti — The Arbiter</h3>\n<p><em>God of Justice and Mediation</em></p>\n\n<p>The son of Balder, Forseti holds the court where no blood is shed. He is the god of truces.</p>\n\n<table>\n<tbody>\n<tr>\n<td>Domains</td>\n<td>Fate · Knowledge · Protection · Vengeance</td>\n</tr>\n<tr>\n<td>Signs</td>\n<td>An axe that dulls in the hand; a sudden silence in a storm.</td>\n</tr>\n<tr>\n<td>Taboos</td>\n<td>Do not draw steel in a sanctuary; do not break a truce you negotiated.</td>\n</tr>\n<tr>\n<td>Offerings</td>\n<td>A weapon buried in the earth; shared bread between enemies.</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1
+      },
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004108,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1dEixwgxDeX914ob",
+      "name": "The Vanir (Lords of the Wild)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>The Vanir are older, wilder gods of nature, fertility, and magic (Seidr). They are worshipped in groves and stone circles.</em></p>\n\n<hr>\n\n<h3>Mardöll — The Lady of the Field</h3>\n<p><em>Vanadis, Goddess of War and Magic</em></p>\n\n<p>She claims half the slain. She is the beauty that terrifies.</p>\n\n<table>\n<tbody>\n<tr>\n<td>Domains</td>\n<td>Life · Love · Runes · War</td>\n</tr>\n<tr>\n<td>Signs</td>\n<td>Cats lingering at doorways; gold that feels warm to the touch.</td>\n</tr>\n<tr>\n<td>Taboos</td>\n<td>Do not shame a vow of love; do not deny the dead their tears.</td>\n</tr>\n<tr>\n<td>Offerings</td>\n<td>Jewelry buried in the earth; cats fed with cream.</td>\n</tr>\n</tbody>\n</table>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>Title: Chooser-in-Winter</strong></p>\n<p><strong>Prerequisite Deed:</strong> Save a life at a cost when leaving them would be easier.</p>\n<p><strong>Benefit:</strong> Once per Extended Rest, as a Triggered Combat Action when an ally drops to 0 Toughness, they instead drop to 1 Toughness and Shift 1 feet (2 m).</p>\n</div>\n\n<hr>\n\n<h3>Njoror — The Sea-King</h3>\n<p><em>God of Wind, Wealth, and Thaw</em></p>\n\n<p>Njoror is the god of the coast. He gives wealth, but demands respect for the sea's temper.</p>\n\n<table>\n<tbody>\n<tr>\n<td>Domains</td>\n<td>Creation · Frost · Cunning · Storm</td>\n</tr>\n<tr>\n<td>Signs</td>\n<td>Gulls inland; salt crystals forming on skin.</td>\n</tr>\n<tr>\n<td>Taboos</td>\n<td>Do not kill an albatross; do not whistle on a ship.</td>\n</tr>\n<tr>\n<td>Offerings</td>\n<td>Gold thrown into deep water.</td>\n</tr>\n</tbody>\n</table>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>Title: The Sea-King</strong></p>\n<p><strong>Prerequisite Deed:</strong> Complete a deadly journey across water/ice to bring aid.</p>\n<p><strong>Benefit:</strong> You ignore difficult terrain from ice/water and gain a Swim speed equal to your Speed.</p>\n</div>\n\n<hr>\n\n<h3>Freyr — Ingvi</h3>\n<p><em>Lord of the Stack, The Peace-Giver</em></p>\n\n<p>God of harvest, fertility, and peace. His sword fights on its own, but he gave it away for love.</p>\n\n<table>\n<tbody>\n<tr>\n<td>Domains</td>\n<td>Life · Cunning · Protection · Sun</td>\n</tr>\n<tr>\n<td>Signs</td>\n<td>Grain growing in snow; a stag with glowing antlers.</td>\n</tr>\n<tr>\n<td>Taboos</td>\n<td>Do not bring weapons into a harvest field; do not kill a stag.</td>\n</tr>\n<tr>\n<td>Offerings</td>\n<td>The last sheaf of grain; honey poured on a standing stone.</td>\n</tr>\n</tbody>\n</table>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>Title: Peace-Weaver</strong></p>\n<p><strong>Prerequisite Deed:</strong> End a conflict by giving up a weapon or a significant second chance (two rolls, take best).</p>\n<p><strong>Benefit:</strong> Animals will not attack you unless provoked or magically compelled. You gain the <strong>Animal Handling</strong> skill.</p>\n</div>\n\n<hr>\n\n<h3>Skadi — The Snow-Shoe Goddess</h3>\n<p><em>Wolf-Bride, Lady of Vengeance</em></p>\n\n<p>The giantess who married into the gods. She represents the winter that hunts.</p>\n\n<table>\n<tbody>\n<tr>\n<td>Domains</td>\n<td>Death · Frost · Cunning · Vengeance</td>\n</tr>\n<tr>\n<td>Signs</td>\n<td>The sound of skis on crusty snow; a wolf howling at noon.</td>\n</tr>\n<tr>\n<td>Taboos</td>\n<td>Do not kill a wolf; do not forgive a blood-debt.</td>\n</tr>\n<tr>\n<td>Offerings</td>\n<td>Frozen meat left on a mountain peak.</td>\n</tr>\n</tbody>\n</table>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>Title: Winter's Hunter</strong></p>\n<p><strong>Prerequisite Deed:</strong> Track and kill a foe who wronged you or your kin across difficult terrain over multiple days.</p>\n<p><strong>Benefit:</strong> You gain <strong>Resistance (Cold)</strong>. You never leave tracks in snow unless you wish to.</p>\n</div>\n\n<hr>\n\n<h3>Idunn — The Keeper of Apples</h3>\n<p><em>Goddess of Youth and Renewal</em></p>\n\n<p>She guards the apples that keep the gods from aging. In Svellheim, she is the hope of spring.</p>\n\n<table>\n<tbody>\n<tr>\n<td>Domains</td>\n<td>Creation · Life · Cunning · Protection</td>\n</tr>\n<tr>\n<td>Signs</td>\n<td>Flowers blooming in frost; the taste of sweet apple in stale water.</td>\n</tr>\n<tr>\n<td>Taboos</td>\n<td>Do not burn green wood; do not harm a child.</td>\n</tr>\n<tr>\n<td>Offerings</td>\n<td>Seeds planted in ash; fresh fruit saved for winter.</td>\n</tr>\n</tbody>\n</table>\n\n<hr>\n\n<h3>Ullr — The Glory-Hunter</h3>\n<p><em>God of the Bow and the Duel</em></p>\n\n<p>Patron of single combat and the hunt. He rules while Grimnir is away.</p>\n\n<table>\n<tbody>\n<tr>\n<td>Domains</td>\n<td>Fate · Cunning · Trickery · War</td>\n</tr>\n<tr>\n<td>Signs</td>\n<td>An arrow striking true against the wind; a shield shattering.</td>\n</tr>\n<tr>\n<td>Taboos</td>\n<td>Do not decline a fair challenge; do not cheat in a duel.</td>\n</tr>\n<tr>\n<td>Offerings</td>\n<td>A ring hung on a yew branch.</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1
+      },
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004108,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "0 m2SNL3HL9LBOFd",
+      "name": "The Ascended (Hero-Cults)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Many in Svellheim worship those who came before — mortals who performed Deeds so great they carved a place in the Wyrd. These are the Ascended, and their cults are intensely personal.</em></p>\n\n<hr>\n\n<table>\n<thead>\n<tr>\n<th>Saint / Hero</th>\n<th>Patronage</th>\n<th>Domains</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>The Shield-Maiden</strong></td>\n<td>Protecting the weak, holding the line</td>\n<td>Protection · War</td>\n</tr>\n<tr>\n<td><strong>The Law-Speaker</strong></td>\n<td>Justice, memory, tradition</td>\n<td>Knowledge · Fate</td>\n</tr>\n<tr>\n<td><strong>The Smith (Volund)</strong></td>\n<td>Craftsmen, vengeance, traps</td>\n<td>Creation · Trickery · Vengeance</td>\n</tr>\n<tr>\n<td><strong>The Mariner</strong></td>\n<td>Exploration, stars, luck</td>\n<td>Storm · Fate</td>\n</tr>\n<tr>\n<td><strong>The Bear-Sark</strong></td>\n<td>Fury, strength, transformation</td>\n<td>Cunning · War</td>\n</tr>\n<tr>\n<td><strong>The Staff-Carrier (Volva)</strong></td>\n<td>Magic, prophecy, outcasts</td>\n<td>Runes · Fate</td>\n</tr>\n<tr>\n<td><strong>The Horse-Lord</strong></td>\n<td>Travel, loyalty, beasts</td>\n<td>Cunning · Love</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1
+      },
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004108,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1ZNLHygsP9KHkgVs",
+      "name": "The Outsiders (The Jötnar)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Worshipped only in fear, to keep them away. The Outsiders are the primal forces that gnaw at the edges of creation. No sane person seeks their favour — but desperate ones might.</em></p>\n\n<hr>\n\n<h3>Hel — Queen of the Dead</h3>\n<p><em>The Hostess</em></p>\n\n<p>She keeps the unworthy dead. She is not evil, merely cold.</p>\n\n<table>\n<tbody>\n<tr>\n<td>Domains</td>\n<td>Death · Frost · Knowledge · Fate</td>\n</tr>\n<tr>\n<td>Signs</td>\n<td>A face half-shadowed; food rotting instantly.</td>\n</tr>\n<tr>\n<td>Taboos</td>\n<td>Do not mock the dead.</td>\n</tr>\n<tr>\n<td>Offerings</td>\n<td>A coin in the mouth.</td>\n</tr>\n</tbody>\n</table>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>Title: Death-Bound</strong></p>\n<p><strong>Prerequisite Deed:</strong> Walk into a place of death (tomb, Helheim) and return unchanged.</p>\n<p><strong>Benefit:</strong> You gain an <strong>Second Chance (two rolls, take best)</strong> on Resistance rolls against Fear and Despair.</p>\n</div>\n\n<hr>\n\n<h3>Surt — The Black One</h3>\n<p><em>Lord of Muspelheim</em></p>\n\n<p>The fire that ends the world. Worshipped by arsonists and nihilists.</p>\n\n<table>\n<tbody>\n<tr>\n<td>Domains</td>\n<td>Creation · Death · Sun · War</td>\n</tr>\n<tr>\n<td>Signs</td>\n<td>Black smoke; heat rising from the ground.</td>\n</tr>\n<tr>\n<td>Offerings</td>\n<td>None safe to give.</td>\n</tr>\n</tbody>\n</table>\n\n<hr>\n\n<h3>Ymir — The Primal Frost</h3>\n<p><em>The First Giant</em></p>\n\n<p>The screaming cold of the void. Patron of the desperate who wish to freeze their hearts.</p>\n\n<table>\n<tbody>\n<tr>\n<td>Domains</td>\n<td>Frost · Death · Cunning · Strength</td>\n</tr>\n<tr>\n<td>Taboos</td>\n<td>Never light a fire.</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1
+      },
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004108,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "iChP67pTGC7Wf1VC",
+      "name": "Domain Reference",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Each domain grants a Piety Trigger (how you gain Piety during encounters) and a Prayer Effect (how you spend it). Custom Svellheim domains are marked with an asterisk (*).</em></p>\n\n<hr>\n\n<table>\n<thead>\n<tr>\n<th>Domain</th>\n<th>Piety Trigger</th>\n<th>Prayer Effect</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Creation</strong></td>\n<td>A creature within 10 feet uses an area ability.</td>\n<td>Create a wall of stone within 10 sq (Size 5 + Intuition). Lasts until end of scene.</td>\n</tr>\n<tr>\n<td><strong>Death</strong></td>\n<td>A creature within 10 sq is reduced to 0 Toughness, or a Solo becomes Winded.</td>\n<td>Up to two enemies within 10 sq take Corruption damage equal to 2 × Intuition.</td>\n</tr>\n<tr>\n<td><strong>Fate</strong></td>\n<td>An ally within 10 sq gets a high roll, or an enemy gets a low roll on a ability check.</td>\n<td>A creature within 10 sq automatically gets low roll or high roll (your choice) on their next ability check.</td>\n</tr>\n<tr>\n<td><strong>Frost*</strong></td>\n<td>A creature takes Cold damage or is Slowed by Ice.</td>\n<td>Burst 2 within 10 sq becomes Difficult Terrain (ice). Creatures entering must make a Might test or fall Prone.</td>\n</tr>\n<tr>\n<td><strong>Knowledge</strong></td>\n<td>The Director spends Malice.</td>\n<td>Up to 5 allies within 10 sq each gain 1 Surge.</td>\n</tr>\n<tr>\n<td><strong>Life</strong></td>\n<td>A creature within 10 sq regains Toughness.</td>\n<td>You or one ally within 10 sq can spend a Hit Die, end one save-ends effect, or stand up.</td>\n</tr>\n<tr>\n<td><strong>Love</strong></td>\n<td>You or an ally within 10 sq uses Aid Attack or targets an ally with an ability.</td>\n<td>Each ally within 10 sq gains Temporary Toughness equal to 2 × Intuition.</td>\n</tr>\n<tr>\n<td><strong>Cunning</strong></td>\n<td>A creature within 10 sq takes Acid, Fire, Lightning, Poison, or Sonic damage.</td>\n<td>Vines wrap creatures equal to Intuition within 10 sq. Slide each up to Intuition feet.</td>\n</tr>\n<tr>\n<td><strong>Protection</strong></td>\n<td>You or an ally within 10 sq gains Temporary Toughness, or uses a Triggered Combat Action to reduce damage/impose a Second Chance (two rolls, take worst).</td>\n<td>One ally within 10 sq gains Temporary Toughness equal to 4 × Intuition.</td>\n</tr>\n<tr>\n<td><strong>Runes*</strong></td>\n<td>A creature fails a Resistance Roll against a mystical power or magical effect.</td>\n<td>One ally within 10 sq gains Resistance 5 (All) against the next damage instance.</td>\n</tr>\n<tr>\n<td><strong>Storm</strong></td>\n<td>An enemy within 10 sq is Force Moved (Pushed/Pulled/Slid).</td>\n<td>Enemies in a 3-cube within 10 sq take Lightning damage equal to 2 × Intuition.</td>\n</tr>\n<tr>\n<td><strong>Strength*</strong></td>\n<td>—</td>\n<td>—</td>\n</tr>\n<tr>\n<td><strong>Sun</strong></td>\n<td>An enemy within 10 sq takes Fire or Holy damage.</td>\n<td>One enemy within 10 sq takes Fire damage equal to 3 × Intuition.</td>\n</tr>\n<tr>\n<td><strong>Trickery</strong></td>\n<td>You or a creature within 10 sq uses Aid Attack or Hide.</td>\n<td>Slide one creature within 10 sq up to 5 + Level feet.</td>\n</tr>\n<tr>\n<td><strong>Vengeance*</strong></td>\n<td>An ally is reduced to Winded or 0 Toughness.</td>\n<td>Mark the offender. The next attack against them gains a Double Second Chance (two rolls, take best).</td>\n</tr>\n<tr>\n<td><strong>War</strong></td>\n<td>A creature within 10 sq takes damage > 10 + Level in a single turn.</td>\n<td>Up to 3 allies within 10 sq each gain 2 Surges.</td>\n</tr>\n</tbody>\n</table>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>Remember:</strong> All Piety Triggers grant <strong>2 Piety</strong> the <em>first time</em> in an scene that the condition is met. Piety Triggers do not stack — once triggered, a domain's trigger cannot fire again during the same scene.</p>\n</div>",
+        "format": 1
+      },
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004108,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "_id": "1dZDWyyMT41XIF16",
+  "name": "Montage: Beat 13 — Skirting the Lakes",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391003998,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "1aP2UOS5MH7eyfhi",
+      "name": "Beat 13 — Skirting the Lakes",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1>Beat 13 — Skirting the Lakes</h1>\n<p><strong>Act:</strong> Act 2 | <strong>Type:</strong> Montage Scene</p>\n<hr><h2>Overview</h2><p>The party must skirt the shores of Hornvatn and Urdvatn — two lakes bordering the approach to Rindgate. Hornvatn is solid ice but shows patrol depressions worn into it; something has been walking regular circuits. Urdvatn has thin ice, rising steam, and a longship-sized shadow moving deliberately beneath. This is a short, tense montage. Total failure means the Lakewalker Draugr scene triggers immediately.</p>\n<hr><h2>Running This Scene</h2>\n<p>This is a <strong>narrative montage</strong> — a series of challenges the party faces as a group. Rather than a single roll, play this out as a sequence of scenes where each character contributes.</p>\n<h3>GM Guidance</h3>\n<ul>\n<li>Go around the table and ask each player how their character is helping.</li>\n<li>Call for ability checks as appropriate — suggested modified [Resolute←15] (hard).</li>\n<li>Let creative approaches succeed with good roleplaying, even without a roll.</li>\n<li>Use the complications below as prompts — not every one needs to come up.</li>\n<li>The goal is collaborative storytelling, not a pass/fail test.</li>\n</ul>\n<p><strong>Relevant Skills:</strong></p><ul>\n<li>Strong</li>\n<li>Quick or Discreet</li>\n<li>Cunning or Cunning</li>\n<li>Vigilant, Vigilant, or Vigilant</li>\n<li>Persuasive, Persuasive, or Persuasive</li>\n</ul>\n<hr><h2>Complications &amp; Challenges</h2>\n<p>Use these as dramatic beats during the montage. Present them as situations the party must navigate together.</p>\n<p>The party must cross the narrow strip of land between Hornvatn's treeline and Urdvatn's shore without triggering whatever patrols the ice or wakes whatever is beneath Urdvatn. The window is narrow — the patrol circuit on Hornvatn returns every 20 minutes.</p><ul><li><strong>Agility:</strong> Move silently across snow-covered ground, avoiding the ice entirely (the crunchy ice near Urdvatn's shore is a noise risk).</li><li><strong>Intuition:</strong> Track the patrol timing on Hornvatn from the depression pattern. Identify the safe crossing window.</li><li><strong>Reason:</strong> Assess whether the shadow under Urdvatn has noticed the party yet — look for upward bow pressure in the ice and listening posture in the shadow's movement.</li><li><strong>Presence:</strong> Kaelen's ember-mark flares slightly near Urdvatn (it responds to what's beneath). Keep her calm and moving without looking at the water.</li></ul>\n<h3>Escalation</h3>\n<p>If the scene needs more tension, introduce these additional complications:</p>\n<p>N/A — this is a single-round short montage. The outcome determines whether the Lakewalker scene triggers.</p>\n<hr><h2>Outcomes</h2>\n<p>Based on how the party performed, use the following as a guide:</p>\n<p><strong>Total Success:</strong> The party slips past both lakes undetected. The shadow under Urdvatn pauses, bows the ice once upward, then resumes its circuit. The party is already past. Kaelen: \"We don't go near the lakes. If what's in them realizes we've seen it, it will follow.\"<br><strong>Partial Success:</strong> The party gets past, but the shadow under Urdvatn turns and follows along the ice for several hundred yards before losing interest or depth. Tense but no combat.<br><strong>Failure:</strong> Something detected the party. Three Lakewalker Draugr emerge from Hornvatn's ice — not the shadow from Urdvatn, but the patrol. Combat triggers immediately (3 Lakewalker Draugr).</p>\n<p>N/A — single round. See Round 1 outcome for all results.</p>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391003998,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

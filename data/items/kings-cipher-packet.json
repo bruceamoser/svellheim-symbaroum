@@ -1,0 +1,59 @@
+{
+  "_id": "1CzUnnsKQvKtTxic",
+  "name": "King's Cipher Packet",
+  "type": "artifact",
+  "img": "icons/sundries/scrolls/scroll-yellow-teal.webp",
+  "system": {
+    "description": "<p><em>A wax-sealed packet bearing High King Harald's personal cipher — not the royal seal, but a private mark known only to his most trusted agents. The parchment inside is written in a substitution code whose meaning depends on which key phrase the reader knows.</em></p><p><strong>Effect (once, as a free action):</strong> Break the seal and present the cipher to any crown-loyal NPC (Chainwarden officer of rank Sergeant+, settlement leader, or sworn crown agent). That creature must make a medium Intuition test to authenticate it. On tier 2+, for the remainder of this scene the bearer gains an advantage (second chance) on Presence tests with crown-loyal NPCs, passes Chainwarden checkpoints without inspection or toll, and may requisition up to 2 days of cold-weather rations and 1 piece of standard equipment from any crown supply post.</p><p><strong>Warning:</strong> Single-use. Once the seal is broken, the parchment degrades within the hour. Harald's seal cannot be faked a second time.</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>Received:</strong> Beat 3 — Harald gives this with forged papers and rations. His exact words: 'Trust no one in my name. If someone quotes my orders, assume they're lying or compromised. Use this only in dire need.'</p><p><strong>Optimal uses:</strong> Beat 4a — Greypass Toll negotiation (grants an advantage (second chance) on Presence tests, lets them pass without toll). Beat 9 — signalling wall guards during the siege breach (major second chance (two rolls, take best) in the final montage).</p><p><strong>Grafvitnir pressure:</strong> If used in the presence of a Pale Maw agent or Grafvitnir operative (which includes Dreyfus or any Wyrd-touched NPC), the cipher's use is reported through the root-whisper network. Increase the Grafvitnir Pressure Check by +2.</p></section></section>",
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "isArtifact": true,
+    "power": {
+      "description": "<p><em>A wax-sealed packet bearing High King Harald's personal cipher — not the royal seal, but a private mark known only to his most trusted agents. The parchment inside is written in a substitution code whose meaning depends on which key phrase the reader knows.</em></p><p><strong>Effect (once, as a free action):</strong> Break the seal and present the cipher to any crown-loyal NPC (Chainwarden officer of rank Sergeant+, settlement leader, or sworn crown agent). That creature must make a medium Intuition test to authenticate it. On tier 2+, for the remainder of this scene the bearer gains an advantage (second chance) on Presence tests with crown-loyal NPCs, passes Chainwarden checkpoints without inspection or toll, and may requisition up to 2 days of cold-weather rations and 1 piece of standard equipment from any crown supply post.</p><p><strong>Warning:</strong> Single-use. Once the seal is broken, the parchment degrades within the hour. Harald's seal cannot be faked a second time.</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>Received:</strong> Beat 3 — Harald gives this with forged papers and rations. His exact words: 'Trust no one in my name. If someone quotes my orders, assume they're lying or compromised. Use this only in dire need.'</p><p><strong>Optimal uses:</strong> Beat 4a — Greypass Toll negotiation (grants an advantage (second chance) on Presence tests, lets them pass without toll). Beat 9 — signalling wall guards during the siege breach (major second chance (two rolls, take best) in the final montage).</p><p><strong>Grafvitnir pressure:</strong> If used in the presence of a Pale Maw agent or Grafvitnir operative (which includes Dreyfus or any Wyrd-touched NPC), the cipher's use is reported through the root-whisper network. Increase the Grafvitnir Pressure Check by +2.</p></section></section>",
+      "action": "A"
+    },
+    "qualities": {},
+    "marker": "",
+    "state": "other",
+    "corruptionDescription": "Using this artifact costs 1 temporary corruption."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919475033,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

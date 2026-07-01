@@ -1,0 +1,59 @@
+{
+  "_id": "iVUm6ZCFRLnRDhxe",
+  "name": "Hollow Waystation Lantern",
+  "type": "artifact",
+  "img": "icons/magic/light/light-lantern-lit-white.webp",
+  "system": {
+    "description": "<p><em>A battered iron lantern recovered from the Hollow Waystation on the road to Stairwatch. Its glass is cracked but intact, and the wick burns with a steady amber flame that resists wind, rain, and the unnatural cold of Fimbulwinter. The metalwork bears the stamp of a Hrafnborg lampwright — quality work from better days.</em></p><p><strong>Effect:</strong> While lit, this lantern sheds bright light in a 3-meters (2 m) radius and dim light for an additional 3 meters. Unlike mundane lanterns, the Hollow Waystation Lantern cannot be extinguished by wind, rain, or natural cold. It burns for 8 hours on a single flask of oil.</p><p>Additionally, undead creatures that enter or start their turn in the lantern's bright light take a disadvantage (second chance) on power rolls against creatures also in the bright light. The amber flame is a faint echo of the Ever-Embers' ward — not strong enough to repel the dead, but enough to make them hesitate.</p><p>Once per encounter, the bearer can raise the lantern overhead as a free action and speak the Lampwright's Blessing: <em>&ldquo;Light against the long dark.&rdquo;</em> Each ally within the bright light gains temporary Toughness equal to 3 + the bearer's level, lasting until the end of the encounter.</p>\n<hr><h3>Crafting</h3><p><strong>Prerequisites:</strong> A lantern of Hrafnborg make, one flask of Ever-Ember ash-oil, a lampwright's prayer inscribed on the fuel reservoir</p><p><strong>Source:</strong> Lampwright guild traditions of Hrafnborg</p><p><strong>Crafting Time:</strong> 150 downtime days</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>Found:</strong> Beat 4 — The Hollow Waystation (optional POI between montage tests). Bryn Ketilsdottir, the waystation keeper, offers it as payment for helping secure her supplies against a band of desperate refugees. Alternatively, found hanging in the Dead Waystation (Beat 8) beside the family who perished.</p><p><strong>Gameplay Note:</strong> This lantern is critical during the Siege of Hrafnborg (Beat 9). During the marsh crossing through the siege line, the PCs cannot use normal torches without drawing the host's attention — but the Hollow Waystation Lantern's amber light blends with the Ever-Ember's fading glow, potentially granting the party light without triggering the Heat-Seeker feature on the Frost-Ghouls. The Director should reward creative use of this item during the siege breach.</p></section></section>",
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "isArtifact": true,
+    "power": {
+      "description": "<p><em>A battered iron lantern recovered from the Hollow Waystation on the road to Stairwatch. Its glass is cracked but intact, and the wick burns with a steady amber flame that resists wind, rain, and the unnatural cold of Fimbulwinter. The metalwork bears the stamp of a Hrafnborg lampwright — quality work from better days.</em></p><p><strong>Effect:</strong> While lit, this lantern sheds bright light in a 3-meters (2 m) radius and dim light for an additional 3 meters. Unlike mundane lanterns, the Hollow Waystation Lantern cannot be extinguished by wind, rain, or natural cold. It burns for 8 hours on a single flask of oil.</p><p>Additionally, undead creatures that enter or start their turn in the lantern's bright light take a disadvantage (second chance) on power rolls against creatures also in the bright light. The amber flame is a faint echo of the Ever-Embers' ward — not strong enough to repel the dead, but enough to make them hesitate.</p><p>Once per encounter, the bearer can raise the lantern overhead as a free action and speak the Lampwright's Blessing: <em>&ldquo;Light against the long dark.&rdquo;</em> Each ally within the bright light gains temporary Toughness equal to 3 + the bearer's level, lasting until the end of the encounter.</p>\n<hr><h3>Crafting</h3><p><strong>Prerequisites:</strong> A lantern of Hrafnborg make, one flask of Ever-Ember ash-oil, a lampwright's prayer inscribed on the fuel reservoir</p><p><strong>Source:</strong> Lampwright guild traditions of Hrafnborg</p><p><strong>Crafting Time:</strong> 150 downtime days</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>Found:</strong> Beat 4 — The Hollow Waystation (optional POI between montage tests). Bryn Ketilsdottir, the waystation keeper, offers it as payment for helping secure her supplies against a band of desperate refugees. Alternatively, found hanging in the Dead Waystation (Beat 8) beside the family who perished.</p><p><strong>Gameplay Note:</strong> This lantern is critical during the Siege of Hrafnborg (Beat 9). During the marsh crossing through the siege line, the PCs cannot use normal torches without drawing the host's attention — but the Hollow Waystation Lantern's amber light blends with the Ever-Ember's fading glow, potentially granting the party light without triggering the Heat-Seeker feature on the Frost-Ghouls. The Director should reward creative use of this item during the siege breach.</p></section></section>",
+      "action": "A"
+    },
+    "qualities": {},
+    "marker": "",
+    "state": "other",
+    "corruptionDescription": "Using this artifact costs 1 temporary corruption."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919475031,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

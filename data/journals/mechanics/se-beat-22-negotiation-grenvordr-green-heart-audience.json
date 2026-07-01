@@ -1,0 +1,52 @@
+{
+  "_id": "wrGirCqKgQ2nAg1b",
+  "name": "Negotiation: Beat 22 — Grénvörðr / Green Heart Audience",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391004035,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "QPWa8OPsd6CgPe3K",
+      "name": "Beat 22 — Grénvörðr / Green Heart Audience",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1>Beat 22 — Grénvörðr / Green Heart Audience</h1>\n<p><strong>Act:</strong> Act 3 | <strong>Type:</strong> Social Scene</p>\n<hr><h2>The Scene</h2><p>The party has entered the Green Heart with Kaelen. The ancient elves — Grénvörðr, Síl, and Þrúðr — step from the canopy shadows to assess whether Kaelen's sacrifice is worthy of the grove's full participation. They are not hostile. They are <em>formal</em>. They need to hear from the party why Kaelen's transformation deserves the grove's blessing — the old Wyrd-language words that make the binding permanent.</p><p>This is the narrative pivot of the campaign. The elves will not permit the Green Heart to become a tomb of despair without certainty. If the party earns their full blessing, Kaelen's transformation is slow and she can speak her final words. Without it, the transformation is fast and incomplete — the locks hold but with cracks.</p><p><strong>Difficulty:</strong> Hard. Each argument is a ability check using Reason, Intuition, or Presence. Motivation appeals are medium difficulty; non-motivation arguments are difficult. Pitfalls are automatic failure (Interest −1, Patience −1).</p><p><strong>Special:</strong> Kaelen can speak for herself during this negotiation. If the party allows her to address the elves directly on the Willing Sacrifice motivation, grant an <strong>second chance (two rolls, take best)</strong> on that roll.</p>\n<hr><h2>Running This Scene</h2>\n<p>This is a <strong>narrative social scene</strong> — a dramatic conversation with stakes. Play it out as roleplay, calling for ability checks only when the outcome is uncertain.</p>\n<h3>GM Guidance</h3>\n<ul>\n<li>Let the players drive the conversation. Only call for rolls at key turning points.</li>\n<li>Use the NPC's motivations and pitfalls below to guide their reactions.</li>\n<li>Reward clever roleplay — if a player makes a compelling argument that hits a motivation, let it succeed.</li>\n<li>The NPC's starting attitude sets the tone, but good or bad roleplay should shift it naturally.</li>\n</ul>\n<hr><h2>Grénvörðr (Elder of the Green Heart)</h2>\n<p>Ancient elf-adjacent being. Keeper of the grove's threshold. Accompanied by Síl and Þrúðr. Speaks in questions, measures time in centuries. Not hostile — assessing.</p>\n<h3>At a Glance</h3>\n<ul>\n<li><strong>Starting Attitude:</strong> Indifferent</li>\n<li><strong>Suggested DC:</strong> 15 (if you need a check)</li>\n<li><strong>Vigilant DC:</strong> 13 (to read motivations/pitfalls)</li>\n</ul>\n<h3>What They Want (Motivations)</h3>\n<p>If the PCs appeal to these, the NPC warms to them. Grant second chance (two rolls, take best) on a check or simply have the NPC concede the point.</p><ul>\n<li><strong>The Willing Sacrifice — Kaelen chose this freely, without coercion, in duty not despair (Grénvörðr asks: 'Was this choice made in despair, or in duty?')</strong></li>\n<li><strong>The World's Future — if the locks fail, Grafvitnir walks, Helheim opens, everything ends; this is not a cycle but an ending (Grénvörðr asks: 'What makes you believe this is the end of endings?')</strong></li>\n<li><strong>The Old Compact — the First Keepers' covenant with the Green Heart's elves; invoking it shifts Grénvörðr's entire demeanor ('She comes not as a stranger. She comes as the Compact promised.')</strong></li>\n</ul>\n<h3>What Offends Them (Pitfalls)</h3>\n<p>If the PCs trigger these, the NPC becomes defensive or hostile. Impose second chance (two rolls, take worst) on a check or have the NPC shut down.</p><ul>\n<li><strong>Urgency, pressure, or impatience — 'We need to do this now' disrespects beings who measure time in centuries (eyes go cold: 'Time is not a resource we lack.')</strong></li>\n<li><strong>Instrumentalizing the grove — suggesting it is damaged, failing, or a tool to be used (moss goes still, stream stops: 'The grove is not a tool. It is alive.')</strong></li>\n<li><strong>Claiming false authority — 'The King demands this' or invoking powers the party does not command (voice drops: 'Kings are dust. What do *you* command?')</strong></li>\n</ul>\n<hr><h2>Outcomes</h2>\n<p>Based on how the conversation goes:</p>\n<p><strong>Full Success (Interest reaches 5):</strong> Grénvörðr and her companions place their hands on the central tree and speak the old Wyrd-language. The binding is <strong>perfect</strong> — restored to First Kindling density. Kaelen's transformation is <em>slow</em>: she has time to speak her final words as herself, looking at the people she loves. The Root-Shard of the Grove crystallizes at the base of the tree. The party receives the item and gains the full emotional weight of the farewell.</p>\n<p><strong>Partial Success (Interest reaches 4):</strong> Grénvörðr accepts with reservations. \"The grove permits this. The roots are willing. But the old words will not be spoken.\" The binding holds but is not perfect — it requires tending and vigilance in Acts 4–5. Kaelen's transformation is faster — almost violent. She has time for one word, maybe two. A name. A promise. But not a goodbye. The Root-Shard still crystallizes. The locks hold, but with fragility.</p>\n<p><strong>Failure (Interest never reaches 4):</strong> Grénvörðr and her companions withdraw into the canopy. \"The grove withdraws its hospitality. You may surrender your flame to the roots if you must. They will hold it, out of necessity. But without our blessing, the binding is <em>weak</em>.\" The transformation proceeds but the seal is temporary — years or decades, not centuries. Kaelen knows this. Lew's face becomes like stone. The Root-Shard still crystallizes but is dimmer. In the Grafvitnir scene (Beat 26), the Grafvitnir's binding phase takes 5 rounds instead of 4.</p>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004035,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

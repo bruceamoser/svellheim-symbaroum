@@ -1,0 +1,690 @@
+{
+  "_id": "Ka7u34qcCuz2Qfxv",
+  "name": "Svellheim Gazetteer — Interior Belt",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391004113,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "Pj0AIZO4spRBSaz0",
+      "name": "The Iron Bogs",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Rust-colored snow. Sucking mud beneath ice. The smell of sulfur and old death. The Iron Bogs are where the land itself is rotting—and what rots here doesn't always stay dead.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Region:</strong> Interior Belt (western). A massive frozen wetland stretching north from the Ormá basin.</li>\n<li><strong>Resources:</strong> Bog-iron—plentiful, essential, and guarded by the dead.</li>\n<li><strong>Settlements:</strong> <strong>Myrkwood</strong> (the Black Camp), the only permanent town.</li>\n<li><strong>What people fear:</strong> Draugr that rise from the peat in organized groups, methane flares, and ground that swallows the unwary.</li>\n</ul>\n</div>\n<h3>Landscape</h3>\n<p>The Iron Bogs are flat, vast, and treacherous. Beneath a crust of snow and thin ice lies black water, peat, and mud that can swallow a person to the waist in seconds. The ground is stained rust-red from iron deposits. In places, the peat catches fire from methane vents, creating patches of warmth—and danger.</p>\n<h3>Travel</h3>\n<ul>\n<li><strong>Causeway paths:</strong> ancient raised paths of packed earth and stone. Many are broken or submerged.</li>\n<li><strong>Stilt-bridges:</strong> improvised timber walkways connecting Myrkwood to the mining sites.</li>\n<li><strong>The smell:</strong> sulfur, iron, and decomposition. It clings to clothing and never quite washes out.</li>\n</ul>\n<h3>The Dead</h3>\n<p>The bogs preserve everything. Bodies centuries old look fresh when the peat gives them up. In Fimbulwinter, those bodies walk. The draugr here are not random stragglers—they emerge in groups, drawn southwest toward the coast, as if answering a summons only they can hear.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Bogs as Hostile Terrain</h4>\n<p>The Iron Bogs are <strong>environmental horror</strong>. Every step is uncertain. The ground lies. The dead are patient. Use the bogs to make the party feel hunted by the landscape itself.</p>\n<ul>\n<li><strong>Terrain as enemy:</strong> mud that grabs, ice that cracks, causeways that end without warning.</li>\n<li><strong>Draugr behavior:</strong> they don't charge—they stand in the fog, watching. Then they move together.</li>\n<li><strong>Methane:</strong> warm patches are tempting rest stops. Flames near them are catastrophic.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Bog body:</strong> the peat reveals someone recently dead—wearing equipment that shouldn't exist yet.</li>\n<li><strong>Iron convoy:</strong> a Myrkwood mining crew needs escort through the bogs. The dead have been more active.</li>\n<li><strong>Causeway collapse:</strong> the main path to Myrkwood is broken. Detour through unmapped bog or repair under threat.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004113,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "EznPQjXqRXPVbBuq",
+      "name": "Myrkwood (The Black Camp)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Myrkwood squats on stilts above the bog like a spider on water: black with soot, loud with hammers, and always sinking. The town extracts iron from the dead land and forges it into weapons for a war that never ends.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Heart of the Iron Bogs, built on stilts above the peat.</li>\n<li><strong>Known for:</strong> Bog-iron mining, weapon forging, and constant draugr raids.</li>\n<li><strong>Mood:</strong> Grim, industrious, siege-minded.</li>\n</ul>\n</div>\n<h3>The Stilt-Town</h3>\n<p>Every building stands on timber stilts driven into the peat. Walkways of lashed planking connect forges, barracks, and storehouses. The town sinks a handspan every year; every spring (if spring comes), crews drive new supports. The smell of peat-smoke, hot iron, and rot pervades everything.</p>\n<h3>The Forges</h3>\n<p>Bog-iron is smelted in charcoal-fired forges that burn day and night. The metal is impure but plentiful—good enough for weapons, nails, and tools. Myrkwood supplies iron to the entire southern Interior and trades surplus to the coast.</p>\n<h3>Draugr Raids</h3>\n<p>The dead rise from the peat around Myrkwood with terrible regularity. Some nights they come in ones and twos; some nights in organized columns. The town maintains a permanent watch and burns pyres to mark the perimeter. Everyone in Myrkwood fights.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: A Town Under Siege</h4>\n<p>Myrkwood is a <strong>resource hub and a kill-zone</strong>. The party needs what Myrkwood produces; Myrkwood needs what the party can provide (intel, defense, escort).</p>\n<ul>\n<li><strong>Forge economy:</strong> everything here costs iron or labor. Silver is less valuable than a strong back.</li>\n<li><strong>Defense scenes:</strong> excellent for siege montages—fortify walls, set traps, coordinate militia.</li>\n<li><strong>Sinking town:</strong> the stilts crack. Buildings lean. In crisis, pieces of the town can collapse into the bog.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Forge-master's bargain:</strong> the head smith offers weapons in exchange for a dangerous escort through the bogs.</li>\n<li><strong>Peat-preserved map:</strong> miners find a pre-Breaking document sealed in peat—a map showing something buried beneath the bogs.</li>\n<li><strong>Night raid:</strong> draugr attack in numbers, but they ignore the forges and march straight through town toward the coast. What drew them?</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004113,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1MFYg5h1hJDgnqsQ",
+      "name": "The Walking Stones",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Menhirs the height of houses, arranged in a ring—except the ring is different every new moon. Nobody moves them. Nobody can explain how they move. Nobody sleeps near them.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Iron Bogs, within a day's travel of Myrkwood.</li>\n<li><strong>What they are:</strong> A ring of standing stones that shift positions during the new moon.</li>\n<li><strong>Reputation:</strong> Sacred to some, cursed to others. No one builds near them.</li>\n</ul>\n</div>\n<h3>The Stones</h3>\n<p>Twelve menhirs of grey granite, each twice the height of a man. They stand in bog-ground that shouldn't support their weight. Rune-marks on their faces are old—older than any script the Skalds can read. Every new moon, the stones are found in a different configuration: sometimes a circle, sometimes a line, sometimes scattered.</p>\n<h3>The Ground</h3>\n<p>No tracks, no drag-marks, no evidence of mechanism. The peat around the stones is undisturbed. Locals leave offerings at the ring's second chance (two rolls, take best) and do not enter after dark.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Stones as Mystery</h4>\n<p>The Walking Stones are a <strong>deep-lore pin</strong>: evidence that something beneath Svellheim is still active. Don't explain them too early. Let the party map the configurations over time and realize the pattern means something.</p>\n<ul>\n<li><strong>Configuration clues:</strong> each arrangement matches a rune or a Yggdrasil-symbol, readable only by someone with the right knowledge.</li>\n<li><strong>Boundary marker:</strong> the stones may be marking the edge of something waking up beneath the bogs.</li>\n<li><strong>Compass failure:</strong> navigation tools behave erratically within 100 paces of the ring.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>New configuration:</strong> the stones form a shape that matches a symbol on Kaelen's staff—or on the Ever-Ember's hearthstone.</li>\n<li><strong>Vanished observer:</strong> a scholar came to study the stones and hasn't been seen since. Their camp is undisturbed. Their journal ends mid-sentence.</li>\n<li><strong>Draugr avoidance:</strong> the dead walk around the stone-ring, never through it. Why?</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004113,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "122lDcxLrtVrBAIS",
+      "name": "The Methane Vents",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Patches of bog that glow orange and hiss. The heat is real—warm enough to thaw frostbitten hands. The explosion risk is also real.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Scattered across the Iron Bogs, concentrated near Myrvatn.</li>\n<li><strong>What they are:</strong> Natural methane seeps that ignite spontaneously or from stray sparks.</li>\n<li><strong>Dual nature:</strong> Precious heat sources and deadly explosion hazards.</li>\n</ul>\n</div>\n<h3>Warmth and Danger</h3>\n<p>In a frozen world, the methane vents are irresistible. They produce steady warmth, melt snow in circles around the seep, and attract both people and creatures. But open flame near a vent can trigger fireballs that blow craters in the peat. Experienced bog-workers know the signs: the sulfur smell intensifies, bubbles rise through standing water, and the air shimmers.</p>\n<h3>Vent Camps</h3>\n<p>Some miners and travelers build small camps near stable vents—warming themselves without fire, cooking on heated stones. These camps are temporary and nervous, abandoned the moment the ground sounds different.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Fire and Ice</h4>\n<p>The Methane Vents are <strong>temptation hazards</strong>. Heat is survival, but the cost of getting it wrong is spectacular.</p>\n<ul>\n<li><strong>Rest stop:</strong> a vent camp is a safe-ish place to warm up—until it isn't.</li>\n<li><strong>Explosion set-pieces:</strong> a vent eruption during combat or chase is cinematic and terrifying.</li>\n<li><strong>Territorial:</strong> creatures and factions claim the best vents. Approaching one may mean negotiation or combat.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Vent-camp dispute:</strong> two groups claim the same warm patch. Neither will leave. The ground is getting louder.</li>\n<li><strong>Deliberate ignition:</strong> someone is setting off vents to drive people away from a specific area. What are they hiding?</li>\n<li><strong>New vent:</strong> a vent opens where there wasn't one before—directly beneath a stilt-road. The path to Myrkwood is now a fire hazard.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004113,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "Sm1PXgOA7R3HNj43",
+      "name": "Myrvatn (Bog-Lake)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Myrvatn is a shallow, iron-red lake that refuses to freeze. Methane bubbles keep patches open. Fish are plentiful. So are the things that aren't fish.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Heart of the Iron Bogs, near Myrkwood.</li>\n<li><strong>Character:</strong> Shallow, iron-red, never fully frozen. Methane vents keep patches of open water year-round.</li>\n<li><strong>Value:</strong> Productive fishing—one of the few reliable protein sources in the Interior.</li>\n</ul>\n</div>\n<h3>The Lake</h3>\n<p>Myrvatn is broad, shallow, and the color of diluted blood. The bottom is soft peat, and the water is warm in patches where methane seeps through. Ice forms a patchwork: thick sheets beside open pools of steaming red water. The effect is disorienting—a jigsaw of frozen and liquid that shifts with temperature.</p>\n<h3>Fishing</h3>\n<p>The warm patches support surprising life. Hardy fish, eels, and freshwater crustaceans thrive in the iron-rich water. Myrkwood depends on Myrvatn for food. Fishing crews go out in flat-bottomed boats or crawl across the ice to reach open pools.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Red Lake</h4>\n<p>Myrvatn is <strong>beautiful and wrong</strong>. The color, the steam, the mix of ice and open water—it should feel alien. Use it for atmospheric scenes and sudden danger.</p>\n<ul>\n<li><strong>Ice-patchwork navigation:</strong> skill challenge to cross the lake safely.</li>\n<li><strong>Things in the water:</strong> shapes beneath the surface. Usually fish. Occasionally not.</li>\n<li><strong>Methane risk:</strong> a spark on the lake surface can ignite gas pockets.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Fishing crew missing:</strong> they went out at dawn. Their boat is visible far out, unmoving.</li>\n<li><strong>Red bloom:</strong> the lake water darkens suddenly. Something upstream—or below—is bleeding iron in bulk.</li>\n<li><strong>Bog body surfacing:</strong> the warm water thaws a peat-preserved corpse. It's wearing a crown.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004113,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "Pdn8LnpmmTW6Ir99",
+      "name": "The Ashen Woods",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>The Greenweald burned in the second year. What remains is a continent of charcoal: grey trunks, ash-drifts, and silence so total you hear your own blood. The Ashen Woods are not dead—they are the memory of a forest, refusing to forget.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Region:</strong> Interior Belt (central-south). Once the Greenweald, now a charcoal skeleton.</li>\n<li><strong>Why it burned:</strong> Deliberately, during the War of Fire (Year 2), to deny cover to enemies and produce fuel.</li>\n<li><strong>Resources:</strong> Charcoal—the primary fuel of the Interior. The Ashwright Kins control the trade.</li>\n<li><strong>Settlements:</strong> <strong>Kolhavn</strong> (northern second chance (two rolls, take best)), <strong>Askveld</strong> (surviving margins).</li>\n</ul>\n</div>\n<h3>Landscape</h3>\n<p>Miles of blackened trunks standing in ash like a forest of bones. The canopy is gone; grey light filters through a permanent haze of suspended soot. Underfoot, ash drifts knee-deep in places, concealing roots, holes, and worse. The silence is oppressive—no birds, no insects, no wind through leaves.</p>\n<h3>The Ashwright Kins</h3>\n<p>Charcoal companies that harvest, bundle, and transport fuel from the Ashen Woods. They are organized, territorial, and unapologetic. Charcoal is survival; the Ashwrights control survival.</p>\n<h3>The Rumor</h3>\n<p>Somewhere deep in the Ashen Woods, there is a place where the trees are still green. The charcoal crews call it the Green Heart. No one who goes looking comes back the same—if they come back at all.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Ash and Silence</h4>\n<p>The Ashen Woods should feel like <strong>walking through a cremation</strong>. Everything is grey, everything is quiet, and the scale of destruction is numbing. Use it when the party needs to understand what Fimbulwinter costs.</p>\n<ul>\n<li><strong>Navigation:</strong> every direction looks the same. Ash-haze limits visibility. Landmarks are rare.</li>\n<li><strong>Sound:</strong> footsteps in ash are soft and muffled. The silence makes every noise feel threatening.</li>\n<li><strong>Ashwright tension:</strong> the charcoal crews are not villains, but they will defend their territory with lethal force.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Vanished crew:</strong> an entire charcoal company disappeared near the center of the woods. Their tools are found arranged in a circle.</li>\n<li><strong>Green spore:</strong> a single green shoot pushes through ash. The nearest Ashwright factor wants it destroyed. A Vanir agent wants it protected.</li>\n<li><strong>Ash-storm:</strong> wind kicks up a blinding cloud of ash and charcoal. Breathing becomes dangerous. Navigation becomes impossible.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004113,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1Dl6uvZlBvtMhFt0",
+      "name": "Kolhavn",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Kolhavn is half-market, half-armory, and entirely covered in soot. The Ashwright Kins set prices here, and their word is the only currency that doesn't need a stamp.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Northern edge of the Ashen Woods.</li>\n<li><strong>Known for:</strong> Charcoal trade hub, Ashwright Kin headquarters, and the Kolbekk river-transport route.</li>\n<li><strong>Mood:</strong> Commercial, soot-stained, controlled.</li>\n</ul>\n</div>\n<h3>The Settlement</h3>\n<p>A fortified camp of timber and packed earth, permanently grey with charcoal dust. Warehouses line the Kolbekk riverbank, where black-stained barges wait to carry charcoal bundles downstream to the Ormá. The market is strictly regulated—the Ashwrights set the price, and haggling is tolerated but futile.</p>\n<h3>The Ashwright Factor</h3>\n<p>The permanent Ashwright representative in Kolhavn controls fuel distribution for the northern Interior. Their ledger is power: who gets charcoal, how much, and when, is decided here.</p>\n<h3>Water Supply</h3>\n<p>Kolhavn draws water from the southern outlet of <strong>Asksjø</strong> (Ash-Lake). The water is grey and filtered through cloth before drinking. It tastes of nothing, which after the ash-tinged air feels like a blessing.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Fuel Gate</h4>\n<p>Kolhavn controls <strong>the most important resource in the Interior: heat</strong>. Whoever controls charcoal controls survival. The Ashwrights aren't cruel—they're pragmatic about monopoly power.</p>\n<ul>\n<li><strong>Trade leverage:</strong> the party may need charcoal for travel. The price is always a favor.</li>\n<li><strong>Information hub:</strong> charcoal crews range deep into the Ashen Woods. They see things and report to the factor.</li>\n<li><strong>Kolbekk logistics:</strong> the river transport can be disrupted—by ice, by bandits, or by policy.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Price spike:</strong> the Ashwrights double charcoal prices overnight. Interior settlements face heating crisis. Why?</li>\n<li><strong>Bargeload missing:</strong> an entire charcoal shipment vanished on the Kolbekk. The river is narrow and watched—so how?</li>\n<li><strong>Factor's secret:</strong> the Ashwright factor has a locked room in the warehouse. Charcoal crews whisper about what's stored inside.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004113,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1a6T4h0UqCO5oVbG",
+      "name": "Askveld",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>A logging camp that became a settlement because no one could afford to leave. The Ashen Woods press in from all sides. The foreman's axe settles disputes. There is no Thing here—only survival and suspicion.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Surviving margins of the Ashen Woods, near the rumored Green Heart.</li>\n<li><strong>Known for:</strong> Logging, Veil-Council agents, and vanishing charcoal crews.</li>\n<li><strong>Mood:</strong> Paranoid, lawless, watchful.</li>\n</ul>\n</div>\n<h3>The Camp</h3>\n<p>Askveld is raw: timber shelters, saw-pits, and drying racks. There are no walls—the Ashen Woods serve as barrier and resource. The foreman runs things with the authority of someone holding the only axe sharp enough to matter. Disputes are settled by his word; refusal means exile into the ash.</p>\n<h3>Vanishings</h3>\n<p>Charcoal crews working the deeper woods sometimes don't come back. Their camps are found empty—tools arranged, fires cold, no signs of struggle. The Veil-Council is rumored to have agents in Askveld, watching who goes deep and what they find.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Edge of the Green</h4>\n<p>Askveld sits near the <strong>Green Heart</strong>. The vanishings aren't random—something in the deep woods is either protecting itself or collecting people. The Veil-Council knows more than they'll say.</p>\n<ul>\n<li><strong>Frontier justice:</strong> no Thing, no law, no appeals. The foreman is fair until he isn't.</li>\n<li><strong>Veil-Council tension:</strong> agents watch the party if they show interest in the Green Heart.</li>\n<li><strong>Deep-woods limit:</strong> beyond Askveld, the ash gives way to something else. The line is felt, not seen.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Crew hit die:</strong> the foreman hires the party to find a missing crew. Their trail ends at a boundary where ash becomes green moss.</li>\n<li><strong>Veil-Council contact:</strong> an agent approaches the party privately with a proposal: go deeper, report what you find, and tell no one.</li>\n<li><strong>Green spore:</strong> green growth creeps closer to Askveld every week. The loggers want to burn it. The Vanir want it protected.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004114,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "ssad3czihyoJtsDt",
+      "name": "Charcoal Keep",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>A fortress made entirely of blackened logs, standing in the Ashen Woods like a monument to pragmatism. If it burns, they'll build it again. They've done it before.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Deep within the Ashen Woods.</li>\n<li><strong>What it is:</strong> A fortified structure built from carbonized timber—the one material the Ashen Woods have in abundance.</li>\n<li><strong>Purpose:</strong> Forward operating base for charcoal crews and Ashwright caravans.</li>\n</ul>\n</div>\n<h3>Construction</h3>\n<p>The keep is built from the largest charcoal logs available, stacked and mortared with ash-paste. The walls are black, the floors are black, and everything inside is permanently stained grey. It's crude but effective: charcoal timber doesn't rot, doesn't burn easily (it's already burned), and is structurally sound enough for a two-story fort.</p>\n<h3>Garrison</h3>\n<p>A rotating crew of Ashwright workers and guards maintain the keep. It serves as waystation, warehouse, and emergency shelter for anyone working the deep woods. Inside, the air tastes of carbon.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Safe House in the Ash</h4>\n<p>Charcoal Keep is a <strong>rest point and intelligence node</strong>. The party can resupply, learn what the deep-woods crews have seen, and shelter from ash-storms.</p>\n<ul>\n<li><strong>Ashwright hospitality:</strong> pragmatic—help is given for information or labor, not for free.</li>\n<li><strong>Deep-woods intel:</strong> crews report movement, vanishings, and strange sights. The keep's log is a treasure for investigation.</li>\n<li><strong>Siege potential:</strong> if the Green Heart's defenses extend outward, Charcoal Keep could become a front line.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Keep abandoned:</strong> the party arrives to find Charcoal Keep empty, doors open, fires cold. The log's last entry is two words: \"They came.\"</li>\n<li><strong>Green siege:</strong> vines and moss grow over the keep's walls overnight. The garrison is cutting them back—but they grow faster each day.</li>\n<li><strong>Hidden room:</strong> a crew discovers a sealed chamber beneath the keep, older than the fort itself. Inside: a stone door with Yggdrasil symbols.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004114,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "mklL2GkCxK12Je6l",
+      "name": "The Green Heart",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>In the center of a burned world, something is still alive. Green canopy, warm air, the sound of birdsong that hasn't been heard in years. It's beautiful. The Dryads inside will kill you for looking at it.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Rumored center of the Ashen Woods.</li>\n<li><strong>What people say:</strong> A grove that survived the burning. Green trees, warm air, living things.</li>\n<li><strong>Warning:</strong> Guarded by furious Dryads who kill intruders on sight.</li>\n</ul>\n</div>\n<h3>The Rumor</h3>\n<p>Every charcoal crew has a story: a glimpse of green through the ash-haze, birdsong where no birds should live, warm humid air where everything should be frozen and dead. Some claim to have crossed the boundary and lived. Their stories don't match—but their faces all carry the same expression: awe and terror in equal measure.</p>\n<h3>The Boundary</h3>\n<p>Those who've come close describe a line in the ash: one step is grey and dead, the next is green and alive. The transition is instantaneous and wrong—as if two worlds are stitched together at the seam.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Heart of the Mystery</h4>\n<p>The Green Heart is a <strong>major campaign location</strong>. It is real—a surviving fragment of the Greenweald, protected by something older than the Fimbulwinter. The Dryads are its immune system.</p>\n<ul>\n<li><strong>Don't give it away early:</strong> let the Green Heart be rumor, then glimpse, then confirmed. Build anticipation.</li>\n<li><strong>Dryad behavior:</strong> they don't negotiate with axe-carriers. The party must disarm (literally and figuratively) to enter.</li>\n<li><strong>Campaign significance:</strong> the Green Heart may contain a living connection to Yggdrasil—a counterpart to the Ever-Embers.</li>\n<li><strong>Veil-Council interest:</strong> they know more than anyone. Their agents want access without Dryad permission.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Dryad emissary:</strong> a Dryad appears at the boundary and speaks—not to attack, but to deliver a message: \"The roots are screaming.\"</li>\n<li><strong>Ritual component:</strong> something needed for the Need-Fire can only be found inside the Green Heart.</li>\n<li><strong>Expanding boundary:</strong> the green line is moving outward. Askveld loggers are terrified. The Vanir are hopeful. Both are wrong about why.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004114,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "GVnZgOKUgiVnVNSk",
+      "name": "Asksjø (Ash-Lake)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>A former reservoir, now half-silted with ash and silence. The water is grey, flat, and drinkable if you don't mind the taste of a dead forest.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Within the Ashen Woods.</li>\n<li><strong>Character:</strong> Shallow, grey, half-silted with ash and debris.</li>\n<li><strong>Value:</strong> Kolhavn draws its water supply from the southern outlet.</li>\n</ul>\n</div>\n<h3>The Lake</h3>\n<p>Asksjø was once a clear reservoir surrounded by greenwald. Now it's a grey mirror—ash sediment clouds the water, dead timber juts from the shallows, and the shore is soft silt that swallows boots. The water is drinkable after filtering through cloth, but the taste lingers: flat, mineral, faintly bitter.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Grey Water</h4>\n<p>Asksjø is an <strong>atmospheric waypoint</strong>: a place to pause, filter water, and feel the weight of the Ashen Woods' destruction reflected in a dead lake.</p>\n<ul>\n<li><strong>Water supply threat:</strong> if Asksjø is contaminated, Kolhavn's water supply dies. Good leverage for sabotage or negotiation.</li>\n<li><strong>Underwater debris:</strong> the lake floor holds remnants of the old greenwald—including things that were sealed before the fire.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Water turns:</strong> Asksjø's outflow suddenly runs black instead of grey. Kolhavn panics.</li>\n<li><strong>Sunken structure:</strong> low water levels reveal stone walls beneath the silt—a building that predates the reservoir.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 1000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004114,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "bVCdYSheuqJviKq8",
+      "name": "The Kolbekk (Charcoal-Brook)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>A narrow, shallow stream stained permanently black. The Ashwright Kins float charcoal bundles down its current like a slow, dark conveyor belt to the world.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Course:</strong> Flows west out of the Ashen Woods past Kolhavn, joining the Ormá.</li>\n<li><strong>Character:</strong> Narrow, shallow, and stained black from charcoal runoff.</li>\n<li><strong>Use:</strong> The Ashwright Kins' primary transport route for floating charcoal bundles downstream.</li>\n</ul>\n</div>\n<h3>The Black Stream</h3>\n<p>The Kolbekk is barely wide enough for a flat-bottom boat. Its water is black, not from depth but from saturation with charcoal particulate. The banks are soft ash-mud. In winter, it freezes in patches—creating jams of ice and trapped charcoal bundles that the Ashwrights must break to keep the flow moving.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Supply Line</h4>\n<p>The Kolbekk is a <strong>logistical artery</strong>. Disrupting it cuts charcoal supply to the coast. Protecting it means navigating ash-banks, ice-jams, and Ashwright politics.</p>\n<ul>\n<li><strong>Ice-jam scene:</strong> clearing a frozen blockage before the charcoal rots is a montage opportunity.</li>\n<li><strong>Ambush corridor:</strong> the narrow banks and poor visibility make the Kolbekk perfect for raids.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Stolen shipment:</strong> an entire barge of charcoal vanished on the Kolbekk. The river is watched—so who took it, and how?</li>\n<li><strong>Black water rising:</strong> the Kolbekk floods its banks. The charcoal-saturated water ruins stored supplies in Kolhavn.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 1100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004114,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "bCgl8ubdfPFQDt81",
+      "name": "Midgard's Shield",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>The mountain range that bisects Svellheim like a scar: white peaks, thin air, and passes that claim the careless. Midgard's Shield doesn't care what side you're trying to reach. It only cares whether you're strong enough.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Region:</strong> Interior Belt (central). The mountain range dividing the Coastal Belt from the deep Interior.</li>\n<li><strong>Atmosphere:</strong> Thin air, vertigo, blinding white. Storms roll in without warning.</li>\n<li><strong>Key passage:</strong> The Titan's Stair—a pass carved by giants.</li>\n<li><strong>Settlements:</strong> <strong>Rindgate</strong> (southern foot, controlling the Titan's Stair approach), <strong>Stairwatch</strong> (halfway outpost on the pass itself).</li>\n</ul>\n</div>\n<h3>Landscape</h3>\n<p>Midgard's Shield is a wall of stone, ice, and wind. The peaks are snow-covered year-round; in Fimbulwinter, the snowline descends into the foothills. The range is riddled with gorges, narrow valleys, and abandoned crofts where shepherds once lived. Bridges—stone and timber—span chasms, but many have cracked or collapsed.</p>\n<h3>Travel</h3>\n<ul>\n<li><strong>Air thins fast:</strong> exertion becomes dangerous when the cold bites lungs.</li>\n<li><strong>Visibility:</strong> storms can reduce sight to arm's length in minutes.</li>\n<li><strong>Bridges:</strong> critical and unreliable. A broken bridge means days of detour through exposed terrain.</li>\n</ul>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Mountain as Filter</h4>\n<p>Midgard's Shield is where you <strong>strip the party to essentials</strong>: time, heat, and morale. Every scene should answer: <em>what does your character do when the road is the enemy?</em></p>\n<ul>\n<li><strong>Reward preparation:</strong> ropes, pitons, supplies, and shelter-building should matter. Punish bravado.</li>\n<li><strong>Bridge scenes:</strong> a partially collapsed span is a natural skill challenge and decision point.</li>\n<li><strong>Systemic collapse:</strong> later in the campaign, abandoned checkpoints and empty shelters signal the Interior is dying inward.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Silver-eyed carrion birds:</strong> an enemy network tracking the party's movement across exposed terrain.</li>\n<li><strong>Frozen Embertender:</strong> a body on the trail—hands burned from carrying coals too long. Where were they going?</li>\n<li><strong>Summit view:</strong> from the highest point, Hrafnborg's Ever-Ember is visible as a warm amber star through the storm.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 1200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004114,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "0g034YzlSr751tmT",
+      "name": "Rindgate",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Rindgate is a pass-town that charges tolls in iron or food, never silver. It swells and shrinks with the seasons: when the Interior folk push south, Rindgate fills. When the Jarl turns them back, Rindgate empties.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Southern foot of Midgard's Shield, controlling the Titan's Stair approach.</li>\n<li><strong>Known for:</strong> Tolls in iron or food, refugee surges, and the Jarl's gate authority.</li>\n<li><strong>Mood:</strong> Tense, transactional, politically volatile.</li>\n</ul>\n</div>\n<h3>The Gate</h3>\n<p>Rindgate controls the only maintained approach to the Titan's Stair pass. A heavy timber gate and earthwork defenses block the road. The Jarl's authority is simple: pass or don't. Payment is iron ingots or preserved food—silver buys nothing here because silver doesn't burn or fill a belly.</p>\n<h3>Refugee Pressure</h3>\n<p>When conditions worsen in the deep Interior, people push south toward the coast. Rindgate is the funnel. The town swells to bursting, tensions explode, and the Jarl must decide who passes and who freezes outside the gate.</p>\n<h3>Hornvatn</h3>\n<p>The crescent-shaped <strong>Hornvatn</strong> (Horn-Lake) lies nearby in the foothills. Its shores are lined with frozen farmstead ruins. The Ashen Crown claims the lake and its surrounding land.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Bottleneck</h4>\n<p>Rindgate is a <strong>mechanical chokepoint</strong>. Every refugee wave, every caravan, every draugr column must pass through or around it. The Jarl is the valve.</p>\n<ul>\n<li><strong>Toll negotiation:</strong> iron or food only. The party must decide what they can afford to give up.</li>\n<li><strong>Refugee crowd:</strong> the mass of people waiting to pass is its own scene—rumors, desperation, and opportunity.</li>\n<li><strong>Ashen Crown:</strong> the faction claiming Hornvatn is a political complication. They want the lake and resent Rindgate's authority.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Gate closed:</strong> the Jarl has sealed Rindgate. No one passes. The reason is secret—and the crowd is about to riot.</li>\n<li><strong>Iron payment:</strong> the party can pay the toll or offer to deal with a threat the Jarl won't name in public.</li>\n<li><strong>Frozen ruins:</strong> someone is living in the abandoned farmsteads around Hornvatn. The Ashen Crown wants them removed; the refugees want to stay.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 1300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004114,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1DiD9ie8Lfb7aG4p",
+      "name": "The Titan's Stair",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>A pass carved by giants: flagstones ten feet high, switchbacks cut into mountain bone, and a wind that strips heat from skin like a blade. It takes a full day to cross in good conditions. In a blizzard, it takes whatever it wants.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> The highest point of Midgard's Shield.</li>\n<li><strong>What it is:</strong> A narrow pass with ancient, enormous flagstone steps carved into the mountain.</li>\n<li><strong>Reputation:</strong> The only reliable crossing. Everything else is worse.</li>\n</ul>\n</div>\n<h3>The Crossing</h3>\n<p>The steps are ancient—cracked but enduring, each one the height of a person's chest. Switchbacks climb along cliff-faces with drops that vanish into cloud. A gorge-crossing stone bridge marks the steepest ascent. When the wind rises, the pass becomes a physical force that must be leaned into or crawled through.</p>\n<h3>Rules of the Stair</h3>\n<ul>\n<li><strong>Go single-file:</strong> a misstep becomes a death you cannot retrieve.</li>\n<li><strong>Rope is life:</strong> travelers tie themselves together and pray no one falls.</li>\n<li><strong>Watch the ice:</strong> glazed stone turns to glass under wind-driven spray.</li>\n</ul>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Climax Crossing</h4>\n<p>Treat Titan's Stair as a <strong>travel arc's peak</strong>. It should feel earned: the party is exhausted, supplies thin, and the wind is trying to erase them. Reward clever preparation and punish bravado.</p>\n<ul>\n<li><strong>Blizzard conditions:</strong> visibility five feet. Navigation by memory and rope.</li>\n<li><strong>Rockslide narrows:</strong> clearing vs climbing loose scree with full packs.</li>\n<li><strong>Bridge crossing:</strong> the gorge-spanning bridge may be damaged. Skill challenge with lethal stakes.</li>\n<li><strong>Summit reward:</strong> from the top, Hrafnborg's Ever-Ember is visible as a warm amber star.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Collapsed bridge:</strong> debris, improvised repair, or a terrifying detour.</li>\n<li><strong>Frost-draugr wanderers:</strong> not soldiers—mindless dead drawn toward Hrafnborg, pulled off course by campfire heat.</li>\n<li><strong>Sealed door:</strong> halfway up the Stair, a giant-sized door is set into the cliff face. It wasn't there last time anyone crossed.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 1400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004114,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "wZkbzElDSlbOfGQh",
+      "name": "Stairwatch",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>A huddle of stone shelters clinging to a ledge halfway up the Titan's Stair. Stairwatch is less a town and more a collective refusal to die on the mountain. Hot broth, a windbreak, and a place to sleep where you won't roll off a cliff—that's all it promises, and that's enough.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> A natural ledge halfway up the Titan's Stair pass through Midgard's Shield.</li>\n<li><strong>What it is:</strong> A small outpost and waystation for travelers crossing the mountains.</li>\n<li><strong>Mood:</strong> Exhausted, pragmatic, quietly welcoming.</li>\n<li><strong>Population:</strong> A handful of permanent residents and a rotating cast of travelers, traders, and refugees.</li>\n</ul>\n</div>\n<h3>The Outpost</h3>\n<p>Stairwatch occupies a broad ledge where the Titan's Stair switchbacks create a natural platform. Stone shelters—built from the same ancient flagstone as the Stair itself—line the inner cliff wall, their backs to the mountain, their doors facing a wind-scoured yard. A low wall of stacked rock marks the ledge's second chance (two rolls, take best), beyond which the world drops away into cloud.</p>\n<h3>Services</h3>\n<ul>\n<li><strong>The Hearthstone:</strong> a communal hall with a central fire pit. Hot broth, hard bread, and a place to thaw. Payment is iron, charcoal, or labor—never silver.</li>\n<li><strong>Rope and piton supply:</strong> the outpost maintains a small stock of climbing gear, sold at steep markup to the desperate.</li>\n<li><strong>Shelter:</strong> stone-walled sleeping alcoves, shared. Warmth is communal by necessity.</li>\n<li><strong>Guide service:</strong> a few locals who know the upper Stair hire out as guides for the final ascent or the descent to Rindgate.</li>\n</ul>\n<h3>The People</h3>\n<p>Stairwatch's permanent residents are a breed apart: mountain-hardened, laconic, and deeply practical. They've seen every kind of traveler—merchants, refugees, secret agents, the desperate and the doomed. They don't ask questions. They charge fair prices. They'll pull a stranger off the ledge in a blizzard without being asked, and they'll expect the same in return.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Mountain Waystation</h4>\n<p>Stairwatch is a <strong>campaign-critical rest stop and social hub</strong>. The party arrives here after the brutal Titan's Stair montage, and this is where they find <strong>Lew Tosferd</strong> (Beat 5: Finding Lew). It should feel like <em>earned safety</em>—warmth, shelter, and a moment to breathe before the next crisis.</p>\n<ul>\n<li><strong>Lew's location:</strong> Lew operates out of Stairwatch, using the outpost's anonymity and transient population as cover. He's been here long enough to be trusted—a quiet, helpful presence who fixes things and asks nothing.</li>\n<li><strong>Information crossroads:</strong> everyone crossing Midgard's Shield passes through. Stairwatch hears everything: who's moving south, what the Interior looks like, and which passes are still open.</li>\n<li><strong>Siege potential:</strong> if enemies pursue the party to Stairwatch, the outpost becomes a defensible but isolated position—one way up, one way down, and a cliff on every side.</li>\n<li><strong>Dreyfus pressure:</strong> if Dreyfus's agents are tracking the party, Stairwatch is the first place they'd look. The town's small size makes hiding difficult.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Finding Lew:</strong> the party arrives looking for Lew Tosferd. He's here, but he's not who they expected—and he knows they're coming before they ask.</li>\n<li><strong>Blizzard lockdown:</strong> a storm seals the pass for days. Everyone in Stairwatch is trapped together. Tensions rise. Someone isn't who they claim to be.</li>\n<li><strong>Refugee crisis:</strong> a column of Interior refugees arrives, overwhelming the outpost's capacity. The guides refuse to lead them down until the storm breaks. Someone has to keep order.</li>\n<li><strong>Night attack:</strong> something climbs the cliff face in the dark. Not draugr—something else. The low wall isn't high enough.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 1450000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004114,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "7n6fNn2NnG29OWg5",
+      "name": "High-Hall",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>An ancient dwarven observatory sealed behind doors that have not opened in living memory. The stone is warm to the touch. Something inside still draws power.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> High in Midgard's Shield, above the Titan's Stair.</li>\n<li><strong>What it is:</strong> An ancient dwarven-built structure—an observatory, library, or both.</li>\n<li><strong>Status:</strong> Sealed. The doors are intact, the stone is warm, and no one has entered in generations.</li>\n</ul>\n</div>\n<h3>The Exterior</h3>\n<p>High-Hall is carved into the mountain itself: a facade of geometric stonework surrounding a pair of massive doors etched with astronomical symbols. The craftsmanship is pre-human in precision. Snow doesn't accumulate on the entrance—the stone radiates faint warmth, as if something inside still generates heat.</p>\n<h3>The Seal</h3>\n<p>The doors have no visible lock, handle, or mechanism. They are simply shut. Previous attempts to force entry—axes, rams, even fire—have left no mark. The stone absorbs impact like a sponge absorbs water.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Sealed Door</h4>\n<p>High-Hall is a <strong>late-campaign location</strong>: a sealed treasure that requires solving a puzzle or fulfilling a condition to enter. Don't open it too early. Let the party discover references to it in other locations first.</p>\n<ul>\n<li><strong>Key conditions:</strong> the doors may respond to a specific frequency (the Echoing Caves?), a rune-sequence (the Walking Stones?), or the presence of someone carrying Yggdrasil's fire.</li>\n<li><strong>Interior:</strong> when opened, High-Hall contains star-charts, rune-formulae, and a device that can locate living roots of Yggdrasil.</li>\n<li><strong>Warm stone:</strong> the heat source is connected to the deep-root network. High-Hall is a node in a system the party is only beginning to understand.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Warm stone signal:</strong> the entrance pulses warmth in a rhythm that matches the party's heartbeats. One by one.</li>\n<li><strong>Star alignment:</strong> a traveling scholar claims the astronomical symbols describe a specific date. That date is approaching.</li>\n<li><strong>Door opens:</strong> one morning, the doors are ajar. One inch. Just enough to see light inside.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 1500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004114,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1bZjNJMTuQT9q9Oe",
+      "name": "Urdvatn (Urd-Lake)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Urdvatn is still. Not calm—still. The water is so clear you can see the bottom fifty feet down, and the bottom does not look like a lake floor. It looks like a roof.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Base of Midgard's Shield, fed by glacial melt.</li>\n<li><strong>Character:</strong> Deep, cold, and unnervingly clear and still.</li>\n<li><strong>Legend:</strong> Locals believe it sits above one of Yggdrasil's roots.</li>\n<li><strong>Landmark:</strong> A ruined Ring Fortress stands on its eastern shore.</li>\n</ul>\n</div>\n<h3>The Lake</h3>\n<p>Urdvatn is glacier-fed and achingly cold. The water has an unnatural clarity—no sediment, no algae, no visible life. The surface is still even in wind, as if the water is heavier than it should be. Looking down into the depths produces vertigo: the bottom recedes into blue darkness, and shapes that might be stone formations look worryingly regular.</p>\n<h3>The Ring Fortress</h3>\n<p>On the eastern shore, a circle of ruined stone walls rises from the ground. The fortress is ancient, its architecture unlike anything else in Svellheim—too regular, too precise. It has been empty for centuries. Offerings left at its threshold sometimes vanish overnight.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Root-Lake</h4>\n<p>Urdvatn is one of Svellheim's <strong>deep-lore locations</strong>. The locals are right: a root of Yggdrasil passes beneath the lake. The Ring Fortress was built to guard access. The water's stillness is a symptom of the root's presence.</p>\n<ul>\n<li><strong>Diving:</strong> anyone who enters the water feels the cold differently—not temperature but <em>attention</em>. Something knows they're there.</li>\n<li><strong>Ring Fortress:</strong> contains a passage downward. The entrance is blocked by collapse—or sealed deliberately.</li>\n<li><strong>Offerings:</strong> things left at the fortress threshold are drawn toward the root. The exchange isn't random.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Still water breaks:</strong> the lake's surface ripples for the first time in memory. Something moved below.</li>\n<li><strong>Ring Fortress light:</strong> at night, a faint glow is visible inside the ruin. It matches the color of an Ever-Ember.</li>\n<li><strong>Diver's report:</strong> someone swam down and came back changed—speaking a language they didn't know, describing rooms beneath the lake floor.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 1600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004114,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "t9ECc7Ik7SlLZuah",
+      "name": "Hornvatn (Horn-Lake)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>A crescent of frozen water in the foothills, ringed by the ruins of farms that will never see another harvest. The Ashen Crown says the lake is theirs. The refugees say they need it to live.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Foothills south of Midgard's Shield, near Rindgate.</li>\n<li><strong>Shape:</strong> Crescent—locals call it the Horn-Lake.</li>\n<li><strong>Surroundings:</strong> Frozen farmstead ruins visible along the shore.</li>\n<li><strong>Claim:</strong> The Ashen Crown faction claims the lake and its surrounding land.</li>\n</ul>\n</div>\n<h3>The Lake</h3>\n<p>Hornvatn curves through the lower foothills in a half-moon shape. In better times, farmsteads circled the shore, drawing irrigation from its clear water. Now the farms are frozen shells and the lake is a sheet of grey ice. Beneath, the water is still drinkable—a valuable resource in territory otherwise dependent on snow-melt.</p>\n<h3>The Ruins</h3>\n<p>Stone walls, collapsed roofs, frozen garden plots. The farmsteads died when their owners fled south. Some refugees have crept back, sheltering in the ruins. The Ashen Crown considers them squatters.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Contested Territory</h4>\n<p>Hornvatn is a <strong>political pressure cooker</strong>: water, shelter, and land, all claimed by a faction willing to enforce ownership.</p>\n<ul>\n<li><strong>Ashen Crown:</strong> the faction sees Hornvatn as strategic territory. They've posted markers and patrols.</li>\n<li><strong>Refugee presence:</strong> desperate families in the ruins. Removing them would be efficient and monstrous.</li>\n<li><strong>Farmstead archaeology:</strong> the ruins may contain pre-Fimbulwinter records, maps, or caches.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Eviction order:</strong> the Ashen Crown hires the party to clear refugees from the ruins. Refusing costs a faction ally; accepting costs humanity.</li>\n<li><strong>Frozen cellar:</strong> a farmstead ruin hides a sealed cellar with pre-Breaking goods: preserved food, tools, and a sealed letter.</li>\n<li><strong>Lake drains:</strong> the ice cracks and the water level drops overnight. Something beneath the lake is drawing it down.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 1700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004114,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "sz3rJHqSb9KY9Cfw",
+      "name": "The Bone-Fields",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>A frozen steppe where the skeletons of giants lie like fallen architecture. Ribcages the size of cathedral naves. Skulls you can shelter inside. The wind whistles through the bones, and the sound is older than language.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Region:</strong> Interior Belt (northern/western). A frozen steppe of fossilized megafauna and giant remains.</li>\n<li><strong>Atmosphere:</strong> Calcified, brittle, ancient. Silence broken only by bone-wind.</li>\n<li><strong>Resources:</strong> \"Ghost-Ivory\"—a material used by shamans and smiths to enchant weapons against spirits.</li>\n<li><strong>Settlement:</strong> <strong>Beinvaka</strong> (a nomad gathering-point, not a permanent town).</li>\n</ul>\n</div>\n<h3>Landscape</h3>\n<p>The Bone-Fields are flat, windswept, and littered with the remains of creatures that should not have existed. Fossilized bones jut from permafrost in every direction—femurs as tall as trees, vertebrae like boulders, skulls with eye sockets you can walk into. The scale is numbing. The age is incomprehensible.</p>\n<h3>Ghost-Ivory</h3>\n<p>The fossilized bone material found here has unique properties: it can be carved, enchanted, and used to harm spirits and undead. Shamans and weapon-smiths prize it above almost any other material. The trade in Ghost-Ivory sustains Beinvaka and draws bone-carvers from across the Interior.</p>\n<h3>The Silence</h3>\n<p>The Bone-Fields are quiet in a way that feels deliberate. Sound doesn't carry normally—shouts die quickly, and conversations feel muffled. The wind through the bones produces low tones that are felt more than heard.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Monument to Extinction</h4>\n<p>The Bone-Fields should evoke <strong>deep time and alien scale</strong>. The creatures that died here were not natural animals—they were participants in a war fought before human memory. Let the party feel small.</p>\n<ul>\n<li><strong>Shelter in bones:</strong> a giant's ribcage makes excellent emergency shelter—and an eerie campsite.</li>\n<li><strong>Navigation:</strong> the bones are landmarks. Experienced travelers navigate by skull-ridges and spine-lines.</li>\n<li><strong>Ghost-Ivory trade:</strong> valuable, contested, and tied to spiritual practices the party may need.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Fresh bone:</strong> a bone is found that isn't fossilized. It's recent. Something that size died here within the year.</li>\n<li><strong>Bone-wind message:</strong> the tones through the bones form a pattern that a Skald recognizes as a distress signal from something that isn't human.</li>\n<li><strong>Ivory carver's discovery:</strong> a Ghost-Ivory piece being carved reveals an interior cavity containing a preserved eye. It's watching.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 1800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004114,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "eQfvt7xpPVNjqAK1",
+      "name": "Beinvaka",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Beinvaka is not a town. It is a habit: people gather here because people have always gathered here, in the shadow of a giant's pelvis, to trade bone and rumor and warmth.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Western Bone-Fields.</li>\n<li><strong>What it is:</strong> A nomad gathering-point, not a permanent settlement. Always populated, never official.</li>\n<li><strong>Known for:</strong> Ghost-Ivory trade, Firekeeper signal cairns, and bone-carver camps.</li>\n<li><strong>Mood:</strong> Transient, spiritual, wary.</li>\n</ul>\n</div>\n<h3>The Gathering</h3>\n<p>Beinvaka clusters around a massive fossilized pelvis that provides shelter from wind on three sides. Tents, lean-tos, and bone-frame shelters fill the space between the fossil walls. Traders, bone-carvers, shamans, and nomads cycle through constantly. The population changes every week but the market never stops.</p>\n<h3>Firekeepers</h3>\n<p>Firekeepers light signal cairns at Beinvaka during the new moon: beacons visible for miles across the flat steppe, guiding travelers and marking safe ground. The cairn-lighting is both practical and ritual—prayers are spoken, names of the lost are called, and the fire is fed with Ghost-Ivory shavings.</p>\n<h3>The Market</h3>\n<p>Ghost-Ivory, carved talismans, preserved rations, information about the deep steppe, and services from shamans who claim to speak with the bones.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Crossroads</h4>\n<p>Beinvaka is the <strong>Interior's information hub</strong>. Everyone passes through eventually. Use it for:</p>\n<ul>\n<li><strong>Ghost-Ivory procurement:</strong> the party may need spirit-weapons. This is where they're made.</li>\n<li><strong>Shaman consultation:</strong> spiritual knowledge lives here—rituals, root-lore, and warnings.</li>\n<li><strong>Rumor exchange:</strong> nomads bring news from every direction. Some of it is even true.</li>\n<li><strong>Firekeeper contacts:</strong> the cairn-lighters know the steppe's rhythms. They notice when things change.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Cairn went dark:</strong> a signal fire on the steppe didn't light at the new moon. The Firekeepers want someone to investigate.</li>\n<li><strong>Bone-carver's vision:</strong> a shaman carving Ghost-Ivory falls into a trance and speaks in a voice not their own, describing something beneath the Bone-Fields that is waking up.</li>\n<li><strong>Trade dispute:</strong> two rival bone-carver clans draw weapons over an ivory cache. The gathering threatens to scatter.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 1900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004115,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "10CaRiRg8fP02vN4",
+      "name": "The Ivory Tower",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>A fortress carved from a single massive tusk of a beast no one can name. The ivory is warm. The carvings move when you're not looking. The tower has been here longer than history.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> The Bone-Fields.</li>\n<li><strong>What it is:</strong> A fortress carved from a single, enormous tusk of an unknown creature.</li>\n<li><strong>Material:</strong> Ghost-Ivory—the same substance used in spirit-weapons, but on an incomprehensible scale.</li>\n</ul>\n</div>\n<h3>The Structure</h3>\n<p>The Ivory Tower rises from the steppe like a curved blade. It is the tusk of something so large that the tusk alone serves as a multi-story structure. Interior spaces have been carved into the ivory—rooms, passages, and chambers that follow the tusk's natural curve. The ivory is warm to the touch, even in deep winter, and its surface is covered in carvings of geometric precision.</p>\n<h3>The Carvings</h3>\n<p>Spirals, circles, and patterns that don't repeat. People who study them too long report headaches and a sense that the patterns were different when they looked away. The carvings are old—older than any known civilization in Svellheim.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Living Monument</h4>\n<p>The Ivory Tower is a <strong>deep-lore mystery node</strong>. The tusk belonged to a creature from the First War—the same conflict that created the Bone-Fields. The carvings are instructions, written in a language that predates runes.</p>\n<ul>\n<li><strong>Ghost-Ivory source:</strong> the tower is the origin of the material's power. Everything carved from Bone-Fields ivory carries a fragment of this thing's essence.</li>\n<li><strong>Moving carvings:</strong> they ARE changing. The pattern is a message updating in real-time—a countdown, a map, or a warning.</li>\n<li><strong>Warm ivory:</strong> the tower is still connected to something alive. The warmth is a heartbeat slowed to geological time.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>New carving:</strong> a symbol appears that matches the Walking Stones' latest configuration. Two locations, one message.</li>\n<li><strong>Ivory sickness:</strong> people who sleep inside the tower dream of being huge, slow, and angry. Some don't want to wake up.</li>\n<li><strong>Vibration:</strong> the tower begins to hum—low, subsonic, felt in the bones. Ghost-Ivory talismans across the Bone-Fields resonate in sympathy.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 2000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004115,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1FDAtoP0c5r2aAgs",
+      "name": "The Djupá (Deep-River)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>The Djupá is slow, wide, and wrong. Its banks are peat-soft. Its shallows are occupied. The draugr stand in the water like herons—motionless, patient, waiting for something only they can hear.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Course:</strong> Drains the Iron Bogs, flowing south through flat country before joining the Ormá.</li>\n<li><strong>Character:</strong> Slow, wide, peat-colored. Banks are soft and treacherous.</li>\n<li><strong>Known hazard:</strong> Draugr standing motionless in the shallows.</li>\n</ul>\n</div>\n<h3>The River</h3>\n<p>The Djupá moves like something that has forgotten urgency. Its current is barely visible; its water is dark brown from peat. The banks are deceiving—they look solid but swallow boots and legs without warning. Crossing requires either a known ford or a willingness to swim water of unknown depth.</p>\n<h3>The Standing Dead</h3>\n<p>Draugr are sometimes seen in the Djupá's shallows, standing hip-deep in peat-water, facing southwest. They don't attack. They don't move. They stand until the current takes them or the water freezes around their legs. Locals give them a wide berth.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Haunted River</h4>\n<p>The Djupá is <strong>dread made geographic</strong>. The standing draugr are evidence of the system: the dead are being drawn southwest toward the coast. The river is their corridor.</p>\n<ul>\n<li><strong>Standing dead:</strong> they don't attack unless provoked—but the sight of motionless figures in muddy water is terrifying.</li>\n<li><strong>Crossing hazard:</strong> the soft banks, uncertain depth, and dead in the water make every ford a nerve-test.</li>\n<li><strong>Flow direction:</strong> the dead face southwest. Always. The party can use this to gauge draugr movement patterns.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Mass gathering:</strong> the draugr in the shallows number dozens. They begin moving simultaneously.</li>\n<li><strong>Upstream source:</strong> following the Djupá into the Iron Bogs reveals where the dead are emerging—a peat-pit that never stops producing.</li>\n<li><strong>Living body:</strong> among the standing draugr, one figure is breathing. They're alive, waist-deep, and can't explain how they got there.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 2100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004115,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

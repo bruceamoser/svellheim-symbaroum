@@ -1,0 +1,52 @@
+{
+  "_id": "dBuWq4kiWnGBAWFF",
+  "name": "Montage: Beat 23 — The Long Walk West",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391004001,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "lhgM4vefZBQDIwuR",
+      "name": "Beat 23 — The Long Walk West",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1>Beat 23 — The Long Walk West</h1>\n<p><strong>Act:</strong> Act 3 | <strong>Type:</strong> Montage Scene</p>\n<hr><h2>Overview</h2><p><strong>Beat 23 — The Long Walk West</strong></p><p>Covers the journey from the Green Heart through the Ashen Woods and interior lowlands (~120 miles, 6–7 days). The party travels through familiar, degraded terrain without a guide. Moderate difficulty because they <em>know</em> this territory — but without Lew and the world has worsened.</p><p><strong>Special — No Lew:</strong> The party has no guide for the first time since Stairwatch. Navigation and morale challenges reflect this absence. Any navigation-related test suffers a −1 penalty (no automatic scouting or pathfinding from Lew).</p><p><strong>Refugee Variant:</strong> If the refugees travel with the party (after the Waystation scene), Round 2 challenges involving Presence become more critical — managing 40+ people through siege-adjacent terrain. Refugees slow movement by 1 day.</p>\n<hr><h2>Running This Scene</h2>\n<p>This is a <strong>narrative montage</strong> — a series of challenges the party faces as a group. Rather than a single roll, play this out as a sequence of scenes where each character contributes.</p>\n<h3>GM Guidance</h3>\n<ul>\n<li>Go around the table and ask each player how their character is helping.</li>\n<li>Call for ability checks as appropriate — suggested modified [Resolute←13] (moderate).</li>\n<li>Let creative approaches succeed with good roleplaying, even without a roll.</li>\n<li>Use the complications below as prompts — not every one needs to come up.</li>\n<li>The goal is collaborative storytelling, not a pass/fail test.</li>\n</ul>\n<p><strong>Relevant Skills:</strong></p><ul>\n<li>Strong</li>\n<li>Quick or Discreet</li>\n<li>Cunning or Cunning</li>\n<li>Vigilant, Vigilant, or Vigilant</li>\n<li>Persuasive, Persuasive, or Persuasive</li>\n</ul>\n<hr><h2>Complications &amp; Challenges</h2>\n<p>Use these as dramatic beats during the montage. Present them as situations the party must navigate together.</p>\n<h3>Round 1: The Ashen Woods & Edge of the Interior</h3><table><tr><th>Challenge</th><th>Characteristic</th><th>Description</th></tr><tr><td>Navigate degraded paths</td><td>Reason</td><td>Routes they remember exist but are worn and obscured. Ash is thicker. Sections overgrown with Rot-twisted saplings. Need landmark recognition and memory.</td></tr><tr><td>Manage supplies and rations</td><td>Might</td><td>No one is automatically hunting or foraging. Discipline, not luck.</td></tr><tr><td>Avoid getting turned around</td><td>Intuition</td><td>Ashen Woods are disorienting — everything looks the same, silence is oppressive, easy to walk in circles.</td></tr><tr><td>Spot signs of other presences</td><td>Intuition</td><td>Something is moving through these woods besides the party. Spotting evidence, understanding scope, deciding to investigate or avoid.</td></tr><tr><td>Keep morale up without Lew</td><td>Presence</td><td>Absence of a guide is wearing on everyone. Emotional labor to keep the group moving forward.</td></tr><tr><td>Scout the way ahead</td><td>Agility</td><td>Move ahead of the group, checking for hazards, testing ice, spotting easier paths.</td></tr></table>\n<h3>Escalation</h3>\n<p>If the scene needs more tension, introduce these additional complications:</p>\n<h3>Round 2: The Final Stretch</h3><table><tr><th>Challenge</th><th>Characteristic</th><th>Description</th></tr><tr><td>Navigate to the Frostfen approach</td><td>Reason</td><td>Terrain shifts to wetter ground. Paths converge. Find direct route avoiding worst marshlands.</td></tr><tr><td>Manage refugees' pace and morale</td><td>Presence</td><td>If refugees travel with the party — keeping them moving, children don't fall behind.</td></tr><tr><td>Scout the siege ring from distance</td><td>Intuition</td><td>Organization of undead siege becomes visible. Reading its shape, understanding how tight the ring is.</td></tr><tr><td>Spot patrol patterns</td><td>Agility</td><td>Undead are <em>organized</em>, moving in timed patterns. Spotting these patterns is crucial for threading through unseen.</td></tr><tr><td>Keep the group calm and focused</td><td>Presence</td><td>Smoke is closer. Sounds of siege audible. Fear is real. One mile at a time.</td></tr><tr><td>Judge the Frostfen approach</td><td>Intuition</td><td>Road SSW to Hrafnborg's northern approaches coming into view. Frostfen freezing over — one window to cross safely.</td></tr></table>\n<hr><h2>Outcomes</h2>\n<p>Based on how the party performed, use the following as a guide:</p>\n<p><strong>Hard Success (5+ remaining):</strong> The party moves through the Ashen Woods efficiently, spots all signs of Grafvitnir's approach, and arrives at the Waystation settlement with time and supplies to spare. They may share provisions with the refugees. +1 second chance (two rolls, take best) on the first Brynja negotiation roll.</p><p><strong>Success (SL reached):</strong> The party navigates successfully. Standard arrival at the Waystation, able to engage Brynja without penalty.</p><p><strong>Partial Failure (FL reached):</strong> The party arrives exhausted and short on supplies (−1 Hit Die each). The approach to the Waystation is tenser — Brynja sees tired, desperate strangers, not capable allies. −1 on first Brynja negotiation roll.</p><p><strong>Hard Failure (FL reached with 0 successes):</strong> The party is lost for an extra day, arrives at the Waystation depleted (−2 recovery test each). Brynja's initial impression is poor. The extra day means the siege window tightens — Beat 24 deadline is harder.</p>\n<p><strong>Hard Success (5+ remaining):</strong> The party threads the siege ring approach perfectly, identifies all patrol gaps, and arrives at the Djupá valley approach (Beat 24) with full knowledge of the undead organization. +1 second chance (two rolls, take best) on first Agility test in Beat 24.</p><p><strong>Success (SL reached):</strong> The party reaches the Djupá valley approach ready for Beat 24.</p><p><strong>Partial Failure (FL reached):</strong> The party reaches the approach but has been spotted by undead outriders. Beat 24 begins with the party already under observation — lose surprise second chance (two rolls, take best).</p><p><strong>Hard Failure (FL reached with 0 successes):</strong> The party is intercepted by a patrol of undead before reaching the Djupá valley. Quick skirmish (Director's choice) costs the party 1 Hit Die each before Beat 24 even begins.</p>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004001,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

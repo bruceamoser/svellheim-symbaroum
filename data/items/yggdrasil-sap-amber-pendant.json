@@ -1,0 +1,59 @@
+{
+  "_id": "OTL5sSfefjJ3jgQy",
+  "name": "Yggdrasil Sap-Amber Pendant",
+  "type": "artifact",
+  "img": "icons/equipment/neck/torc-ball-captive.webp",
+  "system": {
+    "description": "<p><em>A teardrop of fossilised World-Tree resin set in a cradle of living wood. The amber pulses with a slow warm rhythm like a heartbeat measured in seasons. Inside the resin, a single green leaf is perfectly preserved — the last leaf of a tree that burned in the War of Fire.</em></p><p><strong>Root-Sense:</strong> While you wear this pendant, you can sense the direction and approximate distance to the nearest living root of Yggdrasil. In areas where Yggdrasil's influence is strong, the pendant glows warmly and you gain an advantage (second chance) on Intuition tests.</p><p><strong>Warmth of the World-Tree:</strong> You gain cold immunity equal to your level. The killing frost of Fimbulwinter slides off you like water.</p><p><strong>Bark-Ward:</strong> Once per encounter, when you or an adjacent ally would take corruption or cold damage, you can use a triggered action to reduce the damage by 5. The amber flares, and for an instant, ghostly bark covers the protected creature's skin.</p>\n<hr><h3>Crafting</h3><p><strong>Prerequisites:</strong> Fossilised sap-amber from Yggdrasil, a cradle carved from living greenwood by a dryad or Keeper</p><p><strong>Source:</strong> The Green Heart — cannot be replicated outside a living grove of the World-Tree</p><p><strong>Crafting Time:</strong> 300 downtime days</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>Received:</strong> Beat 7 — The Reluctant Hearth. Given by the eldest dryad as the party departs the Green Heart. Only given if the negotiation succeeded. The Root-Sense ability is critical in Act 2 for navigating to the Emberwell.</p><p>The three-item resonance (pendant + Lew's eye + Kaelen's mark) is a campaign thread: all three connect to Yggdrasil's sap-amber, the material from which the Ever-Embers were originally kindled.</p></section></section>",
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "isArtifact": true,
+    "power": {
+      "description": "<p><em>A teardrop of fossilised World-Tree resin set in a cradle of living wood. The amber pulses with a slow warm rhythm like a heartbeat measured in seasons. Inside the resin, a single green leaf is perfectly preserved — the last leaf of a tree that burned in the War of Fire.</em></p><p><strong>Root-Sense:</strong> While you wear this pendant, you can sense the direction and approximate distance to the nearest living root of Yggdrasil. In areas where Yggdrasil's influence is strong, the pendant glows warmly and you gain an advantage (second chance) on Intuition tests.</p><p><strong>Warmth of the World-Tree:</strong> You gain cold immunity equal to your level. The killing frost of Fimbulwinter slides off you like water.</p><p><strong>Bark-Ward:</strong> Once per encounter, when you or an adjacent ally would take corruption or cold damage, you can use a triggered action to reduce the damage by 5. The amber flares, and for an instant, ghostly bark covers the protected creature's skin.</p>\n<hr><h3>Crafting</h3><p><strong>Prerequisites:</strong> Fossilised sap-amber from Yggdrasil, a cradle carved from living greenwood by a dryad or Keeper</p><p><strong>Source:</strong> The Green Heart — cannot be replicated outside a living grove of the World-Tree</p><p><strong>Crafting Time:</strong> 300 downtime days</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>Received:</strong> Beat 7 — The Reluctant Hearth. Given by the eldest dryad as the party departs the Green Heart. Only given if the negotiation succeeded. The Root-Sense ability is critical in Act 2 for navigating to the Emberwell.</p><p>The three-item resonance (pendant + Lew's eye + Kaelen's mark) is a campaign thread: all three connect to Yggdrasil's sap-amber, the material from which the Ever-Embers were originally kindled.</p></section></section>",
+      "action": "A"
+    },
+    "qualities": {},
+    "marker": "",
+    "state": "other",
+    "corruptionDescription": "Using this artifact costs 1 temporary corruption."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919475036,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

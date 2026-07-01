@@ -1,0 +1,57 @@
+{
+  "_id": "5HntsYk1NQqD3ct1",
+  "name": "Frostfen Marsh-Root Poultice",
+  "type": "equipment",
+  "img": "icons/consumables/potions/round-decorated-snake-green.webp",
+  "system": {
+    "description": "<p><em>A bundled wad of dried marsh-root wrapped in oilcloth, smelling of peat and iron. When activated, the roots uncurl and release a warm, earthy vapour that clears the lungs and steadies the hands. Travellers in the Frostfen have used these for generations — the marshes poison you, but they also provide the cure.</em></p><p><strong>Effect:</strong> As a free action, you can apply the poultice to yourself or an adjacent ally. The target immediately ends the {slowed} condition and gains the following benefits until the end of their next turn:</p><ul><li><p>Cold immunity equal to 3 + the target's level.</p></li><li><p>An advantage (second chance) on Might tests to resist environmental cold, disease, or poison effects.</p></li></ul><p>Additionally, if the target is suffering from marsh-sickness (the persistent cough from a failed Frostfen montage test), the poultice cures it immediately — the rattling clears and the bloodshot eyes fade.</p>\n<hr><h3>Crafting</h3><p><strong>Prerequisites:</strong> Fresh marsh-root from the Frostfen, clean linen, a warm fire to dry the roots</p><p><strong>Source:</strong> Frostfen herbalist tradition (oral, no written texts)</p><p><strong>Crafting Time:</strong> 45 downtime days</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>Found:</strong> Beat 4 — Montage Test 1. Can be discovered during a successful medium Intuition test to scout the Frostfen, or purchased from a refugee herbalist on the Herdweg for 1 day's rations (Heat currency). Also found in the medicine box at the Dead Waystation (Beat 8), though by then the family who owned it is beyond help.</p><p><strong>Yield Note:</strong> An herbalist PC can craft these with appropriate Reason/Intuition tests during respites if they have access to marsh-root (common in the Frostfen, rare elsewhere).</p></section></section>",
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "isArtifact": false,
+    "power": {},
+    "qualities": {},
+    "marker": "",
+    "state": "other",
+    "cost": "",
+    "number": 1
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919475029,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

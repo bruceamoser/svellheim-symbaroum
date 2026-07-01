@@ -1,0 +1,922 @@
+{
+  "_id": "1ai8sjYRvj4dLGdJ",
+  "name": "Svellheim Gazetteer — Coastal Belt",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391004110,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "1H7xwoPhYni4LCK5",
+      "name": "The Splintered Fjords (Vestfold)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>The southwestern coast of Svellheim is not a shoreline. It is a wound: granite torn open into deep saltwater inlets, cliffs that drop like axe-cuts, and narrow strips of habitable ground clinging to stone.</em></p>\n\n<hr>\n\n<h2>Public Knowledge</h2>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Region:</strong> Coastal Belt (southwest). Fjords, cliffs, and ice-choked inlets.</li>\n<li><strong>Largest settlement:</strong> <strong>Hrafnborg</strong>, last major port where law and rations still function.</li>\n<li><strong>What people do to live:</strong> fish through ice, salvage wrecks, trade what little still reaches the coast, and swear binding contracts to survive one more week.</li>\n<li><strong>What people fear:</strong> storms that come without warning, the sea that no longer freezes cleanly, and the dead that walk in <em>organized silence</em>.</li>\n</ul>\n</div>\n\n<h3>Landscape & Weather</h3>\n<p>The fjords break the land into a maze of ridges and waterways. In fair seasons, this geography makes the coast defensible and rich in fish. In Fimbulwinter it becomes a trap: roads are narrow, bridges are few, and every detour costs <strong>Heat</strong>.</p>\n\n<ul>\n<li><strong>Cliff-coast:</strong> Sheer granite faces and wind-carved ledges. Villages (if they still exist) cling to coves and river mouths.</li>\n<li><strong>Salt in the air:</strong> Clothes crust white. Tools rust fast. Wounds sting.</li>\n<li><strong>Storm-fronts:</strong> Snow can become sleet in minutes, driven sideways by fjord winds that turn breath into needles.</li>\n<li><strong>Bad ice:</strong> Even when the inlets freeze, the ice is inconsistent—thin in places, rotten in others, and prone to sudden fractures.</li>\n</ul>\n\n<h3>People & Power</h3>\n<p>In the Splintered Fjords, authority is measured by who can keep fires lit and bellies full.</p>\n\n<table>\n<thead>\n<tr>\n<th>Power</th>\n<th>How it shows up day-to-day</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>The Crown</strong></td>\n<td>High King Harald’s writ is strongest in and around Hrafnborg: summons, ration-counters, and emergency law.</td>\n</tr>\n<tr>\n<td><strong>Chainwardens</strong></td>\n<td>Checkpoints and tolls. They tax travel in <em>Heat</em> and <em>Word</em>, and decide which caravans “deserve” to pass.</td>\n</tr>\n<tr>\n<td><strong>The Thing</strong></td>\n<td>When law must be seen to be law: verdicts spoken aloud, wergild weighed, oaths recorded and remembered.</td>\n</tr>\n<tr>\n<td><strong>The Sea</strong></td>\n<td>Fishing, salvage, and the occasional southern ship. The fjords feed the coast—until they don’t.</td>\n</tr>\n</tbody>\n</table>\n\n<h3>Travel: What Still Works</h3>\n<ul>\n<li><strong>Lantern Road:</strong> The failing highway out of Hrafnborg toward the interior. Mile-markers are buried; signs are stolen for firewood.</li>\n<li><strong>Coastal shipping:</strong> When ice permits, small boats hug the shore between settlements. Salvage crews and fishermen know the coves by memory; passage can be bought for silver or service.</li>\n</ul>\n\n<hr>\n\n<h2>Director Notes</h2>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: How the Fjords Should Feel</h4>\n<p>Use the Splintered Fjords as <strong>pressure geography</strong>. Every route is narrow, every bridge is a decision, every detour burns days the heroes don’t have. When you need the world to push back, the fjords push back “honestly”: wind, ice, bad luck, and systems collapsing.</p>\n<ul>\n<li><strong>Make Heat visible:</strong> describe numb fingers, oil running low, and arguments over one more log.</li>\n<li><strong>Make Word weaponized:</strong> permits, stamped papers, seals, ledgers. People survive by paperwork as much as by steel.</li>\n<li><strong>Make the dead systemic:</strong> draugr aren’t random jump-scares; they are a <em>flow</em>—columns moving toward Hrafnborg like water downhill.</li>\n</ul>\n</div>\n</section>\n</section>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks & Complications (pick 1–2)</h4>\n<ul>\n<li><strong>Rotten ice:</strong> the sea-ice “rots” instead of melting. Old ferries and causeways fail. Survivors blame witchcraft or the Vanir.</li>\n<li><strong>Checkpoint economy:</strong> a Chainwarden toll-post becomes a petty kingdom, selling passage to the desperate.</li>\n<li><strong>Salt-wind omens:</strong> ravens gather on cliff ledges and won’t leave; a skald claims they are counting the dead for a coming siege.</li>\n<li><strong>Extinguished shrines:</strong> roadside Yggdrasil-cairns are all cold. If a PC makes an offering, the rune-stone warms briefly—then goes dead.</li>\n</ul>\n</div>\n</section>\n</section>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004110,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "19juynpE1qF6Z8jV",
+      "name": "Hrafnborg (Raven's Fortress)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Hrafnborg is the last city that still pretends to be a kingdom: a port full of salt-stiff sails, ration-lines, sworn oaths, and the steady glow of an Ever-Ember burning lower than it should.</em></p>\n\n<hr>\n\n<h2>Public Knowledge</h2>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Role:</strong> Refugee city, royal seat (in practice), and coastal choke-point for trade and travel.</li>\n<li><strong>Defenses:</strong> walls and checkpoints on land; a defended harbor with a chain-boom.</li>\n<li><strong>What you can buy:</strong> fish, oil, rope, nails, worn winter gear, and favors—if you have <strong>silver</strong> or <strong>Word</strong>.</li>\n<li><strong>What you cannot buy:</strong> certainty. Everyone is frightened; frightened people are cruel.</li>\n</ul>\n</div>\n\n<h3>First Impressions</h3>\n<p>Approaching from the landward side, the city’s outer checkpoints appear before the walls: timber palisades, brazier smoke, and Chainwardens in cold-bitten armor. Inside the gates, the smell is fish, wet wool, and refuse frozen into ridges. The air is loud with hunger—people arguing over weights, permits, and ration tokens.</p>\n\n<h3>Districts & Points of Interest</h3>\n<ul>\n<li><strong>The Long-Market:</strong> the hacksilver scales, barter-stalls, and ration counters.</li>\n<li><strong>Hall of the Law-Speaker:</strong> where the Thing gathers and verdicts become fate.</li>\n<li><strong>Temple of Thunar:</strong> a communal bulwark of oaths, shelter, and storm-prayers.</li>\n<li><strong>The Ever-Ember Chamber:</strong> not a tourist site. People speak of it like they speak of their own hearts.</li>\n</ul>\n\n<h3>Law, Rations, and “Heat”</h3>\n<p>In Hrafnborg, rationing is law. Permits and ledgers decide who gets fuel, who gets grain, who is allowed past the checkpoints, and who is pushed into the cold. The Chainwardens enforce the system—sometimes in the King’s name, sometimes in their own.</p>\n\n<hr>\n\n<h2>Director Notes</h2>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The City’s “Engine”</h4>\n<p>Hrafnborg is a machine that converts <strong>Heat</strong>, <strong>Weight</strong>, and <strong>Word</strong> into survival. The heroes should feel that every choice in the city has a receipt.</p>\n<ul>\n<li><strong>Outer checkpoints:</strong> good for pressure, bribes, and “paperwork combat.”</li>\n<li><strong>Long-Market:</strong> good for rumors, petty crime, and moral dilemmas (who gets the last sack?).</li>\n<li><strong>Harbor chain-boom:</strong> good for siege scenes, sabotage, and clandestine arrivals.</li>\n</ul>\n</div>\n</section>\n</section>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Secrets & Hooks</h4>\n<ul>\n<li><strong>The Ever-Ember is weakening:</strong> the warmth radius is shrinking. People closer to the fire get privileges; people farther out freeze first.</li>\n<li><strong>Siege logic:</strong> when the dead gather later, they cluster densest at gates and harbor approaches. The city’s own choke-points become traps.</li>\n<li><strong>Watch the ledgers:</strong> a single corrupted ration-clerk can move an entire block toward starvation, riot, and scapegoats.</li>\n</ul>\n</div>\n</section>\n</section>",
+        "format": 1
+      },
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004110,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1HocZ43qMFQ9cyf3",
+      "name": "The Ever-Ember of Hrafnborg",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>People speak of the Ever-Ember as if it were a living ancestor: something you do not look at too long, something you do not insult, something that has kept your grandparents alive and might abandon you for your sins.</em></p>\n\n<hr>\n\n<h2>Public Knowledge</h2>\n\n<p>The Ever-Ember is the great hearth-flame of Hrafnborg—an enduring fire tended by appointed hands and protected by oath, law, and stone. In the Era of Embers, it is more than religion: it is infrastructure. The flame’s warmth is real, measurable, and rationed.</p>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>Common beliefs</strong></p>\n<ul>\n<li><strong>“The Ember listens.”</strong> Offerings and vows spoken in its presence carry extra weight.</li>\n<li><strong>“The Ember judges.”</strong> If it flares, it approves; if it gutters, it warns.</li>\n<li><strong>“The Ember protects.”</strong> The dead do not cross its brightest radius easily.</li>\n</ul>\n</div>\n\n<h3>What the public sees</h3>\n<p>Most folk never enter the chamber itself. They see the glow on winter fog, feel the warmth in the market streets, and watch the Embertenders carry covered coals to relight sanctioned hearths. The rest is rumor.</p>\n\n<hr>\n\n<h2>Director Notes</h2>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Use the Ember as a Dial</h4>\n<p>The Ever-Ember is your campaign barometer. When you need urgency, describe it burning lower, the stone ring warming less, the glow dimmer through storm. When you need hope, let it <em>answer</em> briefly—warming a rune-stone, flaring at a vow, brightening when Kaelen draws near.</p>\n<ul>\n<li><strong>Systemic effect:</strong> the Ember’s weakening thins the boundary between life and death. The dead “muster” and flow toward Hrafnborg.</li>\n<li><strong>Human effect:</strong> shrinking warmth creates internal class borders: those who sleep near heat vs those pushed to the cold second chance (two rolls, take best).</li>\n</ul>\n</div>\n</section>\n</section>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Adventure Hooks</h4>\n<ul>\n<li><strong>Extinguished shrines:</strong> roadside Yggdrasil-cairns warm for a moment when offered breath—proof the network still exists, but is failing.</li>\n<li><strong>A missing Embertender:</strong> someone with access to coals vanished. Is it theft, cult combat action, or a desperate attempt to save a dying outpost?</li>\n<li><strong>Ration revolt:</strong> if the Ember dips suddenly, the Long-Market becomes a riot in minutes—perfect cover for an assassination or sabotage.</li>\n</ul>\n</div>\n</section>\n</section>",
+        "format": 1
+      },
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004110,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "ZxTBhNyeekSJgvgZ",
+      "name": "The Long-Market",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>In the Long-Market, every bargain is a small duel. Silver is weighed. Grain is counted. Promises are witnessed. Hunger makes honest people into mathematicians.</em></p>\n\n<hr>\n\n<h2>Public Knowledge</h2>\n\n<p>The Long-Market is Hrafnborg’s spine: a long, crowded lane of stalls and covered arcades where hacksilver is weighed, barter is formalized, and ration tokens are traded for survival. Even in Fimbulwinter, commerce continues—because stopping would be worse than exploitation.</p>\n\n<h3>What you can find here</h3>\n<ul>\n<li><strong>Food:</strong> dried cod, rancid whale-oil, hard bread, a handful of turnips at ruinous prices.</li>\n<li><strong>Heat:</strong> lamp oil, peat bricks, firestarters, and “legal” coal chits stamped by clerks.</li>\n<li><strong>Tools & repair:</strong> nails, rope, patched boots, sharpened edges, needles and thread.</li>\n<li><strong>Information:</strong> rumors with price tags. Names of smugglers. Which checkpoint is hungry today.</li>\n</ul>\n\n<table>\n<thead>\n<tr>\n<th>Market Truth</th>\n<th>What it means</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Everything is weighed</strong></td>\n<td>Hacksilver, salt, grain, even favors—someone is always counting.</td>\n</tr>\n<tr>\n<td><strong>Witnesses matter</strong></td>\n<td>A bargain overheard becomes enforceable if the right ear heard it.</td>\n</tr>\n<tr>\n<td><strong>Warmth is status</strong></td>\n<td>The closer to the Ember’s glow, the less desperate the crowd feels.</td>\n</tr>\n</tbody>\n</table>\n\n<hr>\n\n<h2>Director Notes</h2>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Market as Scene Engine</h4>\n<p>The Long-Market is a controlled chaos space: perfect for introducing pressure without combat. Use it to make the heroes choose who to help, what to buy, and what to ignore.</p>\n<ul>\n<li><strong>Social pressure:</strong> ration tokens, permits, bribes, and public accusations.</li>\n<li><strong>Physical pressure:</strong> pickpockets, stampedes, freezing rain turning the street into a slick hazard.</li>\n<li><strong>Information pressure:</strong> every rumor is useful and weaponized—especially if the wrong faction hears it.</li>\n</ul>\n</div>\n</section>\n</section>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Scene Seeds</h4>\n<ul>\n<li><strong>Pickpocket riot:</strong> a thief sparks a brawl under lantern-snow; a clerk’s ledger goes missing in the crush.</li>\n<li><strong>False weights:</strong> a merchant’s scale is rigged; exposing it earns an ally—or an enemy with hired blades.</li>\n<li><strong>Ration counterfeit:</strong> forged tokens circulate. If the Chainwardens panic, they tighten checkpoints and seize goods “for inspection.”</li>\n</ul>\n</div>\n</section>\n</section>",
+        "format": 1
+      },
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004110,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1YzCXK2nzyzsljoA",
+      "name": "Hall of the Law-Speaker",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>The Hall of the Law-Speaker is where words become iron. In a world collapsing, the hall exists to prove that collapse is not inevitable.</em></p>\n\n<hr>\n\n<h2>Public Knowledge</h2>\n\n<p>The Hall is where the Thing meets in Hrafnborg: disputes, verdicts, wergild, outlawry, and emergency decrees. It is both courthouse and memory palace—because in Svellheim, law lives in people’s mouths as much as on parchment.</p>\n\n<h3>How it works (as locals understand it)</h3>\n<ul>\n<li><strong>Speak plainly:</strong> evasions are treated as confession.</li>\n<li><strong>Bring witnesses:</strong> testimony without witnesses is “wind.”</li>\n<li><strong>Offer terms:</strong> most feuds are settled by payment, not blood—because blood costs heat.</li>\n<li><strong>Respect guest-right:</strong> breaking it is not just crime; it is spiritual rot.</li>\n</ul>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>Rumors heard outside the hall</strong></p>\n<ul>\n<li>“The King’s law is the last warm thing in the world.”</li>\n<li>“Chainwardens sell verdicts when the Law-Speaker isn’t looking.”</li>\n<li>“The dead don’t care about law—only the Ember.”</li>\n</ul>\n</div>\n\n<hr>\n\n<h2>Director Notes</h2>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Make Word Tangible</h4>\n<p>Use the Hall to teach that <strong>Word is a resource</strong>. Ledgers, seals, permits, and public oaths are survival technology. When the heroes spend Word, show consequences: doors open, rations appear, patrols stand down.</p>\n<ul>\n<li><strong>Mechanic tie-in:</strong> treat “Word” like a currency in negotiations and montage checkpoints.</li>\n<li><strong>Moral tie-in:</strong> the Hall can be just <em>and</em> ruthless. A lawful verdict can still doom someone to freeze.</li>\n</ul>\n</div>\n</section>\n</section>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Adventure Hooks</h4>\n<ul>\n<li><strong>Ledger theft:</strong> someone steals travel ledgers listing who left the city—perfect for an enemy network.</li>\n<li><strong>Outlaw appeal:</strong> a declared “Forest Walker” begs the heroes to speak for them; doing so gains an ally but costs political capital.</li>\n<li><strong>Oath-trap:</strong> a desperate NPC offers useful information but demands an oath sworn in the hall’s hearing—binding the party into future trouble.</li>\n</ul>\n</div>\n</section>\n</section>",
+        "format": 1
+      },
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004110,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1H4YatzlJ2kPyQly",
+      "name": "Temple of Thunar",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Thunar is not worshipped here for glory. He is worshipped for doors that hold, roofs that don’t collapse, and storms that pass without taking your children.</em></p>\n\n<hr>\n\n<h2>Public Knowledge</h2>\n\n<p>The Temple of Thunar is a stave-built hall reinforced like a fort: thick posts, iron bands, and a broad hearth. In Hrafnborg it serves as shrine, shelter, and community arsenal—because storms and raids do not wait for the Thing to convene.</p>\n\n<h3>What you can expect</h3>\n<ul>\n<li><strong>Hammer-signs everywhere:</strong> amulets on throats, carved marks on lintels, hammers drawn in ash on foreheads.</li>\n<li><strong>Hospitality with conditions:</strong> the temple helps those who will help in return—carry water, repair roof slats, stand watch.</li>\n<li><strong>Storm-prayers:</strong> loud, communal, and practical. People pray like they’re bracing a door.</li>\n</ul>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>Local saying:</strong> “If the hearth dies, the hammer follows.”</p>\n</div>\n\n<hr>\n\n<h2>Director Notes</h2>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Sanctuary with Teeth</h4>\n<p>Use the temple as the “good” institution in Hrafnborg: shelter, food, practical mercy. Then complicate it. When supplies run low, even the merciful must choose.</p>\n<ul>\n<li><strong>Useful NPC archetypes:</strong> tired priest, militant deacon, volunteer watch-captain, grieving parent turned zealot.</li>\n<li><strong>Conflict axis:</strong> mercy vs order. The temple may defy Chainwarden policy to shelter the unwanted.</li>\n</ul>\n</div>\n</section>\n</section>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Storm-blackened omen:</strong> force answers a shouted oath—then the Ever-Ember gutters. Was it blessing or warning?</li>\n<li><strong>Weapons cache:</strong> the temple stores spears for the wall. Someone is stealing iron and replacing it with painted wood.</li>\n<li><strong>Refugee triage:</strong> the temple’s shelter list is full. A priest asks the party to escort a family to a safer quarter—through an area where the dead have been seen at night.</li>\n</ul>\n</div>\n</section>\n</section>",
+        "format": 1
+      },
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004110,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "fzzmor2LQHOobfR9",
+      "name": "The Salt-Pines",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Gnarled trees rooted in cliff-cracks, bark crusted white with sea-salt, branches that burn blue in the dark. The Salt-Pines are not beautiful. They are stubborn—and on fire.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Cliff-edges within the Splintered Fjords.</li>\n<li><strong>What they are:</strong> Wind-twisted pines saturated with sea-brine. In dry cold, the sap-salt mix ignites and the trees burn with an eerie blue flame.</li>\n<li><strong>Why they matter:</strong> Landmark, fuel source (dangerous), and omen. A blue glow on the cliffs means fire, wind, or both.</li>\n</ul>\n</div>\n<h3>Appearance</h3>\n<p>The trees cling to granite ledges in wind-bent rows. Their bark is white-crusted; their needles are grey-green and stiff. In calm weather they look like driftwood that forgot to die. In storm-winds, sparks from cliff-friction or lightning ignite the brine-soaked wood and the whole ridge-line glows blue-white. The fire burns hot but brief.</p>\n<h3>Uses</h3>\n<p>Salt-pine wood burns intensely but unpredictably. Charcoal from the trees is prized for metalwork. Harvesters risk cliff-falls and flash-fires for a load worth good silver in Hrafnborg.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Blue Fire on the Cliffs</h4>\n<p>The Salt-Pines are a <strong>visual signature</strong> for the Splintered Fjords. Describe the blue glow on fog, the crack of burning brine-wood, and the smell of ozone and salt. Use them as:</p>\n<ul>\n<li><strong>Navigation beacon:</strong> the glow is visible for miles in fog—useful or misleading.</li>\n<li><strong>Hazard:</strong> a flash-fire in a Salt-Pine grove during a climb is terrifying and fast.</li>\n<li><strong>Resource conflict:</strong> harvesting salt-pine charcoal is dangerous and competitive.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Blue signal:</strong> someone is deliberately burning Salt-Pines in a pattern. Code? Warning? Lure?</li>\n<li><strong>Cliff harvest:</strong> a charcoal crew hasn't returned. Their trail ends at a cliff-second chance (two rolls, take best) where the trees are ash and the rope is cut.</li>\n<li><strong>Sacred grove:</strong> a Vanir circle claims one Salt-Pine stand is holy. The charcoal merchants disagree—with axes.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004110,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "A1C26ZxDuWO7Cq1A",
+      "name": "The Chain-Boom",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>The Chain-Boom is Hrafnborg's iron throat: a massive chain that can seal the harbor mouth in the time it takes to shout an order. When it rises, nothing enters. When it falls, nothing leaves without permission.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Hrafnborg harbor mouth.</li>\n<li><strong>What it is:</strong> A massive iron chain stretched between two stone towers, raised and lowered by capstan crews.</li>\n<li><strong>Purpose:</strong> Harbor defense against raiders, sea-monsters, and unauthorized ships.</li>\n</ul>\n</div>\n<h3>The Mechanism</h3>\n<p>Twin stone towers anchor the chain at each side of the harbor entrance. Capstan crews of a dozen workers can raise or lower the boom in minutes. When raised, the chain sits at waterline height—enough to gut a ship's hull or stop it dead. The towers also serve as watch-posts and signal stations.</p>\n<h3>Harbor Control</h3>\n<p>Every ship entering or leaving Hrafnborg must signal the boom-towers and wait for clearance. The Chainwardens maintain a harbor ledger: name, cargo, origin, and purpose. Unauthorized entry is treated as piracy.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Iron Gate</h4>\n<p>The Chain-Boom is a <strong>siege piece and a story gate</strong>. Use it to control the party's access to or escape from Hrafnborg by sea.</p>\n<ul>\n<li><strong>Arrival drama:</strong> the boom is up when the party approaches. They must signal, negotiate, or sneak past.</li>\n<li><strong>Siege scene:</strong> when the dead arrive by sea, the Chain-Boom is the harbor's last defense. If it fails, the city is open.</li>\n<li><strong>Sabotage target:</strong> cutting the chain or disabling the capstans would cripple Hrafnborg's defense.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Clandestine arrival:</strong> the party needs into the harbor without the ledger recording them. The boom operator has a price.</li>\n<li><strong>Chain rust:</strong> the boom's iron is corroding faster than it should. Saltwater? Sabotage? Curse?</li>\n<li><strong>Ghost ship:</strong> the boom rises for a signal that came from a ship no one can see. The capstan crew swears the code was correct.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004110,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "DWhUrKenjicRBZdP",
+      "name": "Saltvik",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Saltvik smells of smoke and herring at all hours. The smokehouse fires never go out—not because the town is prosperous, but because if they stop curing fish, people stop eating.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Eastern end of the Splintered Fjords.</li>\n<li><strong>Population:</strong> Small fishing town; swollen with coastal refugees.</li>\n<li><strong>Known for:</strong> Cured herring, salt harvest from the Saltá creek, and a Thing that meets on a beached longship.</li>\n<li><strong>Mood:</strong> Exhausted, resourceful, suspicious of outsiders who don't work.</li>\n</ul>\n</div>\n<h3>The Smokehouse District</h3>\n<p>A tight cluster of low stone buildings that belch woodsmoke day and night. The herring racks are never empty. Workers move in shifts, gutting and salting with mechanical efficiency. The smell is inescapable—it gets into hair, clothing, and dreams.</p>\n<h3>The Beached Thing</h3>\n<p>Saltvik's assembly meets on the deck of a rotting longship dragged ashore generations ago. The hull is too far gone to sail, but the tradition holds: disputes are settled standing on a ship's deck, where the sea can hear.</p>\n<h3>Salt Harvest</h3>\n<p>The <strong>Saltá</strong> stream deposits brine-ice along its banks. Harvesting it is dangerous—the ice burns skin and the footing is treacherous—but the salt is one of the coast's few reliable trade goods. Fights over salt-rights are common and bitter.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Saltvik as a Scene</h4>\n<p>Saltvik is a <strong>supply stop with teeth</strong>. The town has what the party needs (food, salt, passage information) but everything has a price measured in labor, silver, or favors.</p>\n<ul>\n<li><strong>Economy pressure:</strong> salt-rights disputes can draw the party into a local feud.</li>\n<li><strong>The Thing:</strong> if the party needs a local ruling (passage, supplies, information), they must argue on the deck of a rotting ship.</li>\n<li><strong>Smokehouse fire:</strong> if someone threatens the curing fires, the entire town turns hostile instantly.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Salt war:</strong> two families both claim the best brine-bank on the Saltá. The Thing can't decide; both sides hire outsiders.</li>\n<li><strong>Smokehouse sabotage:</strong> someone is poisoning curing salt. If the stores fail, Saltvik starves within weeks.</li>\n<li><strong>Beached ship secret:</strong> the longship's keel hides a sealed compartment. Something inside hums when the tide rises.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004110,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1DuWkdwwAerF9TEt",
+      "name": "Ketilsfjord",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>The chain-bridge hangs between two cliff-faces like a dare. Cross it and you're taxed. Refuse and you walk three days around the inlet. Either way, someone profits.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Deep, narrow inlet at the western edge of the Splintered Fjords.</li>\n<li><strong>Known for:</strong> The chain-bridge and the Chainwarden outpost that taxes anyone who crosses it.</li>\n<li><strong>Mood:</strong> Tense, transactional, watchful.</li>\n</ul>\n</div>\n<h3>The Chain-Bridge</h3>\n<p>Two cliff faces connected by a span of massive iron links and timber planking. The bridge is the only reliable crossing for miles in either direction. In wind, it sways enough to test nerve. In ice, the planks glaze over. The Chainwardens rebuilt the thing twice and charge accordingly.</p>\n<h3>The Toll</h3>\n<p>Passage is not free. The Chainwarden outpost at the eastern anchor collects Heat (fuel rations), Word (stamped permits), or silver. Refusal means a detour around the full inlet—three days of exposed coastal travel.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Bridge as a Chokepoint</h4>\n<p>Ketilsfjord is a <strong>pressure gate</strong>: the party must decide whether to pay, negotiate, sneak, or detour. Every option costs something different.</p>\n<ul>\n<li><strong>Toll negotiation:</strong> excellent scene for Word-economy roleplay. What's a permit worth when you're freezing?</li>\n<li><strong>Bridge crossing:</strong> in bad weather, crossing is a skill challenge (balance, endurance, teamwork).</li>\n<li><strong>Detour cost:</strong> three exposed days on coastal trails—random encounters, heat loss, and exhaustion.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Triple toll:</strong> the Chainwardens have tripled their rate. Refugees pile up on both sides. Someone will break soon.</li>\n<li><strong>Bridge sabotage:</strong> someone is weakening the anchor-bolts. Collapse would strand hundreds.</li>\n<li><strong>Smuggler's route:</strong> a local claims to know a sea-cave passage under the inlet. The price is suspiciously low.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004111,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "2tDpn6dZQne3XoEx",
+      "name": "Thornwall",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Thornwall is a palisade with a temple at its heart and a jarl who expects a siege. She's been right every time so far.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Coast between the Splintered Fjords and the Weeping Coast.</li>\n<li><strong>Known for:</strong> Thunar-temple, coastal defense mustering point, and Jarl Ása Thornwall.</li>\n<li><strong>Mood:</strong> Militant, devout, braced for the worst.</li>\n</ul>\n</div>\n<h3>The Palisade</h3>\n<p>Heavy timber walls reinforced with packed earth and stone. The town is purpose-built for defense: narrow streets, overlapping sight-lines, and a central feet (2 m) that doubles as a rally point. Every adult carries a weapon or knows where one hangs.</p>\n<h3>Jarl Ása Thornwall</h3>\n<p>Ása claims descent from the Shield-Maiden and rules with the calm authority of someone who has already survived what others fear. She drills the town's militia weekly, stockpiles iron, and sends scouts along both coastlines. Visitors are welcomed—if they're willing to stand a watch.</p>\n<h3>The Thunar-Temple</h3>\n<p>Thornwall's temple is the town's spiritual and physical anchor: a stave-built hall reinforced like a fort, where hammer-signs are carved on every lintel. Storm-prayers here are loud, communal, and defiant.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Thornwall as a Rally Point</h4>\n<p>Thornwall is the <strong>\"good fortress\"</strong> on the coast: well-led, devout, and expecting trouble. Use it as a safe harbor, a mustering scene, or a place the party must defend when trouble arrives.</p>\n<ul>\n<li><strong>Ása as ally:</strong> she's competent, rational, and tests people by combat action, not words. Earn her respect by standing a watch or sharing intelligence.</li>\n<li><strong>Defense prep:</strong> excellent montage scene—fortify walls, drill militia, stockpile supplies.</li>\n<li><strong>Moral pressure:</strong> Ása may ask the party to stay for a defense they can't afford to fight.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Draugr column:</strong> scouts report organized dead approaching from the northeast. Ása needs the party to buy time or find a way to redirect them.</li>\n<li><strong>Desertion:</strong> a militia squad abandoned their post. Ása wants them brought back—alive, for the Thing.</li>\n<li><strong>Shield-Maiden's relic:</strong> beneath the temple, an old vault holds something the jarl won't discuss. In crisis, she may open it.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 1000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004111,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "ZrQqgj3iX7mtQcMO",
+      "name": "The Weeping Coast",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>The Weeping Coast is where wind, salt, and sleet make the world feel like it’s grieving. Fisherfolk don’t name every rock here—some names attract attention.</em></p>\n\n<hr>\n\n<h2>Public Knowledge</h2>\n\n<p>The Weeping Coast is a storm-lashed stretch of shoreline and low headlands along the coastal belt. Compared to the fjords, it is more exposed: less shelter from wind, longer sightlines, and fewer safe coves when the sea turns ugly. In Fimbulwinter, the coast alternates between knife-cold spray and heavy, wet snow that clings to everything like cloth.</p>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>What locals say</strong></p>\n<ul>\n<li><strong>“The sea doesn’t freeze right here.”</strong> The ice forms thin and breaks without warning.</li>\n<li><strong>“Shipwrecks make their own reefs.”</strong> Old hulls and ribs become landmarks—until they shift.</li>\n<li><strong>“You can hear singing on clear nights.”</strong> Most blame gulls, wind, or drink. Still, people lock their doors.</li>\n</ul>\n</div>\n\n<h3>Life & Work</h3>\n<ul>\n<li><strong>Fishing through ice:</strong> holes cut and tended under constant risk of the sheet cracking.</li>\n<li><strong>Salvage:</strong> rope, iron nails, tarred cloth—anything that washes up is worth violence.</li>\n<li><strong>Lantern law:</strong> in storms, a single light can save a crew or lure one to the rocks.</li>\n</ul>\n\n<hr>\n\n<h2>Director Notes</h2>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Coast as a Morality Trap</h4>\n<p>The Weeping Coast is excellent for hard choices with clean consequences. Rescue a crew in the surf and you lose time and Heat. Ignore them and you keep moving—but you carry the image.</p>\n<ul>\n<li><strong>Weather as antagonist:</strong> sleet that soaks wool, wind that steals shouted words, ice that fails under certainty.</li>\n<li><strong>Salvage disputes:</strong> coastal law is vague when everyone’s starving; “finders keepers” turns into feuds.</li>\n</ul>\n</div>\n</section>\n</section>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Pin-Ready Hooks</h4>\n<ul>\n<li><strong>Wreck lantern:</strong> a lantern burns on a rock-stack after a storm; approaching reveals a ship that should not exist.</li>\n<li><strong>Salt-widow’s claim:</strong> a grieving spouse insists a wreck is “theirs by oath” and hires muscle to enforce it.</li>\n<li><strong>Grey-water tide:</strong> the surf runs iron-grey for a day; fish rot in nets. People whisper the world is bleeding again.</li>\n</ul>\n</div>\n</section>\n</section>",
+        "format": 1
+      },
+      "sort": 1100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004111,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1MH0vHJ5AEbYcTv7",
+      "name": "The Mast-Forest",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>A bay so choked with frozen shipwrecks that you can walk a mile out to sea, stepping from deck to deck, mast to mast, across the bones of a dead trade empire.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> A bay on the Weeping Coast, near Grátholm.</li>\n<li><strong>What it is:</strong> Hundreds of shipwrecks locked in ice, masts jutting like a dead forest.</li>\n<li><strong>Why it matters:</strong> The primary salvage source for the Weeping Coast settlements.</li>\n</ul>\n</div>\n<h3>The Wreck-Field</h3>\n<p>Trade ships, war-galleys, fishing boats, and hulls of unknown origin—all frozen together in a tangle of timber, rigging, and ice. The masts stick up like bare trees, giving the bay its name. In fog, the silhouette looks like a forest. In moonlight, it looks like a graveyard.</p>\n<h3>Salvage Work</h3>\n<p>Crews from Grátholm row or walk out daily, prying iron nails, rope, tar-cloth, and sealed cargo from the wrecks. The work is dangerous: ice shifts, decks collapse, and some holds are flooded with black water that steals heat in seconds.</p>\n<h3>The Sealed Crates</h3>\n<p>Some cargo containers are intact: wax-sealed, iron-banded, and occasionally warm to the touch. The rule is absolute: sealed crates go to shore, go to daylight, and then—maybe—get opened. Not everyone follows the rule.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Mast-Forest as Dungeon</h4>\n<p>Treat the Mast-Forest as an <strong>open-air dungeon</strong>: exploration, hazards, treasures, and encounters. The \"rooms\" are ships; the \"corridors\" are ice-bridges between decks; the \"traps\" are rotten planking, shifting ice, and sealed holds.</p>\n<ul>\n<li><strong>Navigation:</strong> visibility in fog is arm's-length. Every wreck looks the same.</li>\n<li><strong>Hazards:</strong> thin ice, collapsing decks, flooded holds, hypothermia.</li>\n<li><strong>Treasure:</strong> sealed cargo—trade goods, weapons, or worse. Something down there didn't come from a merchant ship.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Missing crew:</strong> a salvage team hasn't returned. Their lantern is visible three wrecks out, unmoving.</li>\n<li><strong>The warm hull:</strong> deep in the Mast-Forest, one ship's hull is warm. The ice around it has melted in a perfect circle.</li>\n<li><strong>Cargo manifest:</strong> a recovered ledger lists a ship that was carrying something for the High King. The ship is identifiable—and its hold is sealed.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 1200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004111,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "xrDbohXuzYWhadPS",
+      "name": "Siren's Rock",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>The lighthouse on Siren's Rock still burns. No keeper has been seen in years. It guides ships to safety—or to the rocks—depending on the night.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> A sea-stack off the Weeping Coast.</li>\n<li><strong>What it is:</strong> A lighthouse that burns without a keeper.</li>\n<li><strong>What people say:</strong> Some nights it saves ships. Some nights it lures them onto the rocks. No one can predict which.</li>\n</ul>\n</div>\n<h3>The Light</h3>\n<p>Visible from miles at sea, the light on Siren's Rock rotates in a pattern that matches no known lighthouse code. Sailors who have navigated by it swear it guided them true. Survivors of wrecks near the rock swear it guided them to their deaths. Both groups are telling the truth.</p>\n<h3>Access</h3>\n<p>The rock is reachable only by boat in calm seas or by a precarious tide-bridge of exposed reef at low water. The lighthouse itself is old stone, salt-bleached, with a door that shows no sign of forced entry or recent use. The lamp chamber smells of whale-oil and ozone.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The False Light</h4>\n<p>Siren's Rock is a <strong>mystery pin</strong>: something that doesn't make sense and rewards investigation. The light operates on its own logic—possibly tied to the weakening boundary between life and death, or to something sealed in the rock's foundations.</p>\n<ul>\n<li><strong>Cunning reward:</strong> the lamp chamber holds clues—rune-marks, whale-oil that doesn't burn down, a keeper's journal that ends mid-sentence.</li>\n<li><strong>Pattern:</strong> the light's behavior correlates with draugr activity. When the dead move, the light turns wrong.</li>\n<li><strong>Never answer fully:</strong> the rock should always have one more question than the party can resolve.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Wreck pattern:</strong> a navigator realizes the light's \"wrong nights\" correspond to dates when Ever-Embers died elsewhere.</li>\n<li><strong>Keeper's journal:</strong> found in the lamp room. The last entry reads: \"It asked me to stay. I said yes. I don't remember saying yes.\"</li>\n<li><strong>Light extinguished:</strong> the light goes out for the first time. Within a day, three ships wreck. Someone wants it relit—but the lamp room door is now locked from inside.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 1300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004111,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "W4xNxHq14rrVsowo",
+      "name": "Grátholm",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Grátholm is built on salvage: salvaged stone, salvaged cargo, salvaged lives. The unspoken rule—don't open sealed crates after dark—exists because someone broke it once.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Weeping Coast, built into the ruins of a pre-Breaking customs house.</li>\n<li><strong>Known for:</strong> Salvage economy centered on the Mast-Forest, and the Grátelva (Weeping River).</li>\n<li><strong>Mood:</strong> Opportunistic, haunted, superstitious.</li>\n</ul>\n</div>\n<h3>The Salvage Economy</h3>\n<p>Everything in Grátholm was pulled from a wreck. The customs house walls are pre-Breaking stone; the roofs are ship-timber; the market stalls are cargo crates. Salvage crews row out to the Mast-Forest daily, prying iron, rope, and sealed containers from frozen hulls. What they bring back keeps the town alive.</p>\n<h3>The Grátelva</h3>\n<p>The Weeping River drops from the coastal hills behind town—brackish, rust-colored from bog-iron upstream. Locals say the Landvaettir of the river weep for the ships it can no longer carry.</p>\n<h3>The Rule</h3>\n<p>Don't open sealed crates after dark. Nobody explains why. Nobody needs to.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Grátholm as Atmosphere</h4>\n<p>Grátholm is <strong>coastal horror done quietly</strong>. The town is functional but wrong—built from dead ships, fed by wreckage, and haunted by the sense that the sea sends things back for a reason.</p>\n<ul>\n<li><strong>Salvage disputes:</strong> who owns what the sea gives back? Coastal law is vague when everyone's starving.</li>\n<li><strong>The rule:</strong> if the party breaks it, something responds. Keep it ambiguous—sound, temperature, or a sealed crate that wasn't there before.</li>\n<li><strong>Rust-water:</strong> the Grátelva's color is atmospheric. \"The river is bleeding\" gets attention.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Sealed crate:</strong> a salvaged container hums when touched. The salvage boss wants it opened; the old-timers say burn it.</li>\n<li><strong>Red tide:</strong> the Grátelva runs darker than usual. Upstream, something is dying in bulk.</li>\n<li><strong>Customs house basement:</strong> the pre-Breaking foundations go deeper than anyone admits. A salvage crew found a door that shouldn't be there.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 1400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004111,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "SdPQ00DSP03RbEBC",
+      "name": "Brimstead",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Brimstead's lighthouse burns on the chalk cliffs like a candle on a grave. The Frigg-cult tends it, weaving names of the drowned into a tapestry that grows longer every storm.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Southernmost settlement on the Weeping Coast, perched on chalk cliffs.</li>\n<li><strong>Known for:</strong> The lighthouse, the Frigg-cult's drowning tapestry, and refugee camps outside the walls.</li>\n<li><strong>Mood:</strong> Grieving, devout, quietly desperate.</li>\n</ul>\n</div>\n<h3>The Lighthouse</h3>\n<p>Maintained by a small Frigg-cult. The flame burns even in the worst storms. Inside the tower, an enormous tapestry covers the walls: every name is a drowning victim, woven in by hand. The cult claims Frigg herself guides the needle.</p>\n<h3>Refugee Camps</h3>\n<p>The frozen trade routes have pushed hundreds to Brimstead's doors. Tent-cities of canvas and salvaged sail-cloth cluster outside the walls. The town can't feed them, but turning them away means watching them die on the cliffs.</p>\n<h3>The Askfoss</h3>\n<p>The Ash-Falls river reaches the sea west of Brimstead. Its lower stretches are grey and sullen, stained by the ruin of the Ashen Woods upstream. The water is drinkable after filtering but tastes of charcoal.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Grief and Obligation</h4>\n<p>Brimstead is a <strong>moral weight</strong>. The town is sympathetic, overwhelmed, and asking for help it can't repay. Use it to make the party feel the cost of the world's collapse in human terms.</p>\n<ul>\n<li><strong>Tapestry shock:</strong> someone the party knows appears woven into the tapestry—but they're still alive. What does it mean?</li>\n<li><strong>Refugee triage:</strong> the party must choose who gets inside the walls. There is no right answer.</li>\n<li><strong>Frigg-cult:</strong> sincere, exhausted, and possibly receiving genuine visions. Useful for prophetic hooks.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Tapestry name:</strong> a living person's name appears. The cult insists the weaving \"knows.\" Is it prophecy or curse?</li>\n<li><strong>Lighthouse threat:</strong> someone wants the light extinguished. If it goes out, ships wreck on the chalk cliffs within days.</li>\n<li><strong>Ash-water sickness:</strong> the Askfoss water turns people grey and listless. The cause is upstream—in country no one wants to enter.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 1500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004111,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1Rg14XBOgvjUmbVm",
+      "name": "Strandvik",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Strandvik hangs on the cliffs like a barnacle: rope-bridges, seabird nests, and the stubborn conviction that the gods can still hear you if you shout from high enough.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Cliffside settlement west of Grátholm on the Weeping Coast.</li>\n<li><strong>Known for:</strong> Rope-bridges, seabird rookeries, and a Njörðr shrine where prayers are still answered.</li>\n<li><strong>Mood:</strong> Precarious, pious, wind-bitten.</li>\n</ul>\n</div>\n<h3>The Rope-Bridges</h3>\n<p>Strandvik connects cliff-faces and sea-stacks with rope and plank bridges that sway in every gust. Navigation is vertical as much as horizontal. Children grow up without fear of heights; outsiders grow pale.</p>\n<h3>The Rookeries</h3>\n<p>Seabird colonies nest in vast numbers on the cliffs. The town harvests eggs and guano as trade goods. Both are unpleasant to collect and surprisingly valuable.</p>\n<h3>The Njörðr Shrine</h3>\n<p>A small stone altar at the cliff's second chance (two rolls, take best), spray-soaked and salt-crusted. Sailors swear the god still answers prayers made here—if the offering is heavy enough. The heaviest offerings go over the second chance (two rolls, take best).</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Vertical Living</h4>\n<p>Strandvik's whole character is <strong>height and exposure</strong>. Every scene should involve wind, vertigo, or the sound of waves far below. The rope-bridges make excellent skill-challenge terrain.</p>\n<ul>\n<li><strong>Shrine prayers:</strong> if a PC makes a sincere offering at the Njörðr shrine, give them a moment of genuine divine response—brief, ambiguous, and conditional.</li>\n<li><strong>Guano economy:</strong> absurd but real. Fights over rookery access are deadly serious.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Bridge cut:</strong> someone severed a key rope-bridge overnight. Two cliff-districts are now isolated. Sabotage or madness?</li>\n<li><strong>Heavy offering:</strong> a desperate captain wants to throw something truly valuable off the cliff for Njörðr's favor. The shrine-keeper says the offering must be alive.</li>\n<li><strong>Rookery silence:</strong> the seabirds suddenly leave. Locals say the last time that happened, a storm killed forty people.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 1600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004111,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1LnHs2jFXS4bm3J9",
+      "name": "Ormsund",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Ormsund was built to move grain. The granaries are empty now, but the town still squats on the river-mouth like a tollkeeper who forgot to leave.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Harbor town at the mouth of the Ormá (Wyrm-River) delta, southern coast.</li>\n<li><strong>Known for:</strong> Empty granaries, the best river-road inland, and a major Lantern Road waystation.</li>\n<li><strong>Mood:</strong> Bitter, strategic, clinging to relevance.</li>\n</ul>\n</div>\n<h3>The River-Mouth</h3>\n<p>The Ormá delta is wide, shallow, and half-frozen. Ice-chunks grind against docks built for grain barges. The river is still the best route inland—when it flows. When it freezes, Ormsund becomes a dead end with a harbor.</p>\n<h3>The Empty Granaries</h3>\n<p>Massive stone warehouses that once held the Interior's grain surplus. They echo now. The town's political leverage came from controlling these stores; without grain, Ormsund has only geography.</p>\n<h3>The Lantern Road Waystation</h3>\n<p>A major stop on the overland highway. Caravans heading inland or toward Hrafnborg pass through here. The waystation is crowded, taxed, and full of rumors.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Choke-Point</h4>\n<p>Ormsund controls <strong>two routes</strong>: the Ormá river-road inland and the Lantern Road overland. Whoever holds Ormsund controls Interior access from the southern coast. This makes it politically explosive even when it's economically dead.</p>\n<ul>\n<li><strong>Empty granary politics:</strong> three factions all promised the last stores. When the doors open, the grain is already gone.</li>\n<li><strong>River ice:</strong> when the Ormá freezes, Ormsund's purpose vanishes. The town's mood shifts from desperate to dangerous.</li>\n<li><strong>Waystation rumors:</strong> every caravan passing through drops news. Use Ormsund as an information hub.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Granary heist:</strong> someone looted the last stores before the official opening. The town is three days from a riot.</li>\n<li><strong>Ice-bridge gamble:</strong> the Ormá freezes enough to walk. Crossing saves days; falling costs everything.</li>\n<li><strong>River-road blockade:</strong> a faction has dammed the Ormá upstream to control water access. Breaking the dam helps Ormsund but floods farms.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 1700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004111,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1W29e1AAuZADfLsu",
+      "name": "The Singing Islands",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>An archipelago off the western coast: basalt columns like organ pipes, mist that swallows distance, and forests that should not still be green. The islands feel like a memory the world refuses to let go of.</em></p>\n\n<hr>\n\n<h2>Public Knowledge</h2>\n\n<p>The Singing Islands sit off the western coast of Svellheim. Sailors describe shorelines of hexagonal basalt and cliff-walls that echo wind into low, flute-like notes. Even in Fimbulwinter, the islands are rumored to hold pockets of life: sheltered rainforests, warmer air beneath the canopy, and springs that haven’t turned to iron-grey.</p>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>Common beliefs</strong></p>\n<ul>\n<li><strong>Vanir remnant:</strong> the islands are tied to old ways and older oaths. Outsiders are watched.</li>\n<li><strong>Time is strange:</strong> people claim days pass oddly—shorter in the woods, longer on open rock.</li>\n<li><strong>Music in the mist:</strong> some insist they’ve heard choral tones without seeing a singer.</li>\n</ul>\n</div>\n\n<h3>Why people risk the crossing</h3>\n<ul>\n<li><strong>Sacred wood:</strong> yew and other rare timbers for rites and long-lasting craft.</li>\n<li><strong>Healing & seidr:</strong> völvas and old circles who still know rites the mainland forgot.</li>\n<li><strong>Refuge:</strong> a place that might still be <em>alive</em> when the coast is not.</li>\n</ul>\n\n<hr>\n\n<h2>Director Notes</h2>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: A Different Kind of Pressure</h4>\n<p>On the mainland, pressure is scarcity and collapse. On the islands, pressure is <strong>taboo</strong>: what you’re allowed to touch, cut, say, or take. Make the party negotiate with land-spirits, circles, and custom, not checkpoints and ledgers.</p>\n<ul>\n<li><strong>Hospitality rules:</strong> guest-right is strict; violation has supernatural consequences.</li>\n<li><strong>Cunning’s attention:</strong> the forest “listens.” The party feels watched even when alone.</li>\n</ul>\n</div>\n</section>\n</section>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Pin-Ready Hooks</h4>\n<ul>\n<li><strong>Mist-crossing:</strong> a boat vanishes for one hour and returns with frost on the inside of the hull.</li>\n<li><strong>Basalt choir:</strong> wind through columns produces a repeating three-note motif that matches an old ritual cadence.</li>\n<li><strong>Forbidden cut:</strong> a mainlander chopped yew and fell dead; the circle demands weregild paid in something that isn’t silver.</li>\n</ul>\n</div>\n</section>\n</section>",
+        "format": 1
+      },
+      "sort": 1800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004111,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1VbhtTFbDU8zNnGw",
+      "name": "The Vent-Gardens",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Steam rises through terrace-cracks. Green things grow in furrows of black volcanic soil. In a world of grey ice, the Vent-Gardens are an insult to winter—and everyone wants what they produce.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Eldøy, the largest of the Singing Islands.</li>\n<li><strong>What they are:</strong> Terraced farms warmed by geothermal vents, producing the only fresh vegetables in Svellheim.</li>\n<li><strong>Why they matter:</strong> In Fimbulwinter, fresh food is political power.</li>\n</ul>\n</div>\n<h3>The Terraces</h3>\n<p>Cut into the volcanic slope above Eldøy town, the gardens are irrigated by diverted steam-channels and fed by mineral-rich soil. Root vegetables, hardy greens, and herbs grow in quantities that would be unremarkable in the old world but are miraculous now. The steam keeps the terraces above freezing even in deep winter.</p>\n<h3>Access & Trade</h3>\n<p>Visitors can buy produce at Eldøy's market. They cannot enter the upper terraces without escort. The irrigation system, vent-channel maintenance, and planting schedules are closely guarded knowledge. Eldøy sells food; it does not sell farming secrets.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Food as Power</h4>\n<p>The Vent-Gardens give Eldøy <strong>leverage over the entire coast</strong>. Fresh food is medicine, morale, and currency. Whoever controls or threatens the gardens controls diplomacy.</p>\n<ul>\n<li><strong>Trade scenes:</strong> the party can acquire supplies here—but the price is always a favor, not just silver.</li>\n<li><strong>Sabotage stakes:</strong> if the gardens fail, Eldøy's neutrality dies with them. The island becomes desperate and dangerous.</li>\n<li><strong>Vent instability:</strong> volcanic vents shift. A terrace that was warm last month can go cold—or erupt.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Poison terrace:</strong> one garden-level produces food that makes people sick. Someone introduced a contaminant. Accident or sabotage?</li>\n<li><strong>Vent shift:</strong> a new vent opens where there shouldn't be one, destroying a terrace but revealing a passage into the mountain.</li>\n<li><strong>Seed theft:</strong> mainlanders tried to steal seed-stock. The islanders caught them, and now demand weregild from the faction that sent them.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 1900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004111,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "ThNf8Igz0sNY9Cif",
+      "name": "The Echoing Caves",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>A whisper enters the caves. It comes out three miles away, perfectly clear, in a voice that sounds like yours but isn't. The Skalds use them for messages. Everyone else avoids them.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> The Singing Islands.</li>\n<li><strong>What they are:</strong> Natural caverns where sound travels impossibly far and accurately.</li>\n<li><strong>Used by:</strong> Skalds, for long-distance communication across the islands.</li>\n</ul>\n</div>\n<h3>The Acoustics</h3>\n<p>The caves are shaped by volcanic gas-channels and water erosion into natural amplifiers. A whisper at one entrance emerges audibly at exits miles away. The Skalds have mapped the acoustic paths and use specific cave-mouths as \"sending stations\" and \"receiving posts.\" Outsiders who shout into the wrong entrance may find their words arriving somewhere unexpected.</p>\n<h3>The Singing</h3>\n<p>Wind through the cave systems produces the low, flute-like tones that give the islands their name. On calm days, the sound is a background hum. In storms, it becomes a chord that vibrates in the chest. The islanders read the tones for weather, mood, and omen.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Communication Network</h4>\n<p>The Echoing Caves are a <strong>magical-feeling but natural</strong> communication system. In a world where long-distance information is rare, the caves give the Singing Islands a strategic second chance (two rolls, take best) no one else can replicate.</p>\n<ul>\n<li><strong>Message scenes:</strong> the party can use the caves to send or receive messages—if they can negotiate access with the Skalds.</li>\n<li><strong>Eavesdropping:</strong> the wrong cave-mouth in the wrong wind can leak conversations. Espionage is an acoustic art here.</li>\n<li><strong>Tonal shifts:</strong> when the world-state changes (an Ember dies, the dead move), the cave-tones shift. The Skalds notice.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Wrong voice:</strong> a receiving-post produces words in a voice that doesn't belong to any living Skald. The message is a warning.</li>\n<li><strong>Blocked passage:</strong> a collapse seals a critical acoustic channel. Without it, the islands lose contact with a remote settlement.</li>\n<li><strong>Three-note motif:</strong> the wind produces a repeating cadence that matches an old ritual song. The circle hasn't performed that rite in a generation.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 2000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004111,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "MxBDtusb0lo2uLKD",
+      "name": "Eldøy",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>Eldøy is warm, green, and watched. The volcanic heat keeps the gardens alive. The amphitheater carries every whisper. And the islanders remember every word.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Location:</strong> Largest of the Singing Islands.</li>\n<li><strong>Known for:</strong> The Vent-Gardens, a natural amphitheater Thing, and neutrality.</li>\n<li><strong>Mood:</strong> Cautious, proud, diplomatically sharp.</li>\n</ul>\n</div>\n<h3>The Town</h3>\n<p>Terraced into a volcanic slope, Eldøy's buildings are stone and earth, insulated by geography. Streets wind upward through garden-terraces and steam vents. The air smells of sulfur and green things—an intoxicating combination in Fimbulwinter.</p>\n<h3>The Amphitheater Thing</h3>\n<p>A natural bowl of volcanic rock where whispers carry perfectly from any seat. The Thing meets here for disputes, trade negotiations, and the rare inter-faction summit. Eldøy is the closest thing Svellheim has to neutral ground—and everyone knows it.</p>\n<h3>The Vent-Gardens</h3>\n<p>Terraced farms warmed by geothermal vents, producing the only fresh vegetables in Svellheim. The gardens are Eldøy's greatest asset and most jealously guarded secret. Outsiders are welcome to buy produce. They are not welcome to study the irrigation.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Neutral Ground with Teeth</h4>\n<p>Eldøy is a <strong>negotiation arena</strong>. When factions need to talk without fighting, they come here. The amphitheater's acoustics mean nothing said can be denied. Use Eldøy for diplomatic scenes, faction summits, or any situation where words are weapons.</p>\n<ul>\n<li><strong>Acoustic trap:</strong> anything whispered in the amphitheater can be heard from specific seats. Spying is an art form here.</li>\n<li><strong>Food leverage:</strong> Eldøy has fresh vegetables. Everyone else is eating dried cod. This is political power.</li>\n<li><strong>Vanir presence:</strong> the old circles have influence. Outsiders who disrespect custom find doors closing fast.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Neutral ground broken:</strong> a murder during a summit shatters the peace. The Thing demands the party investigate before anyone leaves the island.</li>\n<li><strong>Garden sabotage:</strong> someone poisoned a vent-terrace. If the gardens fail, Eldøy loses its leverage—and its food.</li>\n<li><strong>Amphitheater eavesdrop:</strong> the party overhears a faction plotting something terrible—but revealing it means admitting they were in the wrong seat.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 2100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004111,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "kAh5tmu8RfZGsl8R",
+      "name": "Grove of Upsal",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>A sacred grove of massive yew trees on the Singing Islands. The air tastes like resin and rain, even in winter. The hush here is not silence—it is expectation.</em></p>\n\n<hr>\n\n<h2>Public Knowledge</h2>\n\n<p>The Grove of Upsal is spoken of with the kind of caution reserved for storms and kings. It is a Vanir holy place: ancient yews, standing stones, and a horg (a primitive stone altar) darkened by old sacrifices. Outsiders do not wander in. They are brought—if they are brought at all.</p>\n\n<h3>What people will admit</h3>\n<ul>\n<li><strong>It’s old:</strong> older than the High Kingdom, older than written law.</li>\n<li><strong>It’s watched:</strong> by the circle, by spirits, or by something that doesn’t care what you call it.</li>\n<li><strong>It matters:</strong> when rites must be done “the right way,” the grove is one of the places named.</li>\n</ul>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>Traveler’s warning:</strong> Don’t take a branch. Don’t carve a name. Don’t bleed on the stones unless invited.</p>\n</div>\n\n<hr>\n\n<h2>Director Notes</h2>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Rite Site</h4>\n<p>Upsal is a perfect “pin page” because it’s actionable: it’s where the party must negotiate permission, perform a rite component, or pay a cost. Treat the grove as a character: calm until insulted; generous until cheated.</p>\n<ul>\n<li><strong>Boundary behavior:</strong> compasses fail, footsteps loop, voices echo from the wrong direction.</li>\n<li><strong>Offerings that matter:</strong> truth spoken aloud, a vow made without loopholes, or a sacrifice that costs status—not just blood.</li>\n</ul>\n</div>\n</section>\n</section>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Need-Fire component:</strong> the circle requires sacred yew to be taken only after an oath and a trial.</li>\n<li><strong>Spilled guest-right:</strong> someone broke hospitality in the grove; now the spirits refuse all outsiders until the wrong is righted.</li>\n<li><strong>Rot whisper:</strong> for one night, the grove’s “song” shifts. The circle fears something in the roots is being gnawed.</li>\n</ul>\n</div>\n</section>\n</section>",
+        "format": 1
+      },
+      "sort": 2200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004112,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "fgjww87TZ9dJ37LL",
+      "name": "The Ormá (Wyrm-River)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>The Ormá is the longest river in southern Svellheim: a grey serpent of meltwater and ice that once carried grain barges and now carries silence.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Course:</strong> Rises from snowmelt on the western slopes of the central mountains. Flows south-southwest through old farmlands. Empties into the sea at Ormsund.</li>\n<li><strong>Status:</strong> Freezes solid above the treeline. The lower stretches near the coast still flow—sluggish, grey, and crowded with ice-chunks.</li>\n<li><strong>Importance:</strong> The last inland water-road. Control of the river-mouth means control of Interior access.</li>\n</ul>\n</div>\n<h3>The River Today</h3>\n<p>Before the Breaking, the Ormá was navigable for its entire length. Grain barges, timber rafts, and passenger boats made it the highway of southern Svellheim. Now the upper stretches are solid ice, the middle sections freeze unpredictably, and only the delta near Ormsund still moves—grey water pushing through channels of grinding ice.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Frozen Highway</h4>\n<p>The Ormá works as a <strong>travel obstacle and political lever</strong>. When it freezes, Ormsund dies. When it flows, Ormsund controls everything.</p>\n<ul>\n<li><strong>Ice-bridge crossing:</strong> when the river freezes enough to walk, it saves days of travel—but the ice groans and shifts.</li>\n<li><strong>River-road travel:</strong> if flowing, boats can push upstream into the Interior. The current fights back.</li>\n<li><strong>Clock function:</strong> \"the Ormá froze today\" is news that changes trade, travel, and morale across the coast.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Ice-walk:</strong> the party must cross the frozen Ormá. Skill challenge: cracking sounds, shifting plates, a fall that costs gear and heat.</li>\n<li><strong>Upstream blockade:</strong> someone has dammed the Ormá to control water flow. Breaking the dam helps the coast but floods farmland.</li>\n<li><strong>River dead:</strong> ice-chunks carry frozen bodies downstream. They aren't from any known settlement.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 2300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004112,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1TRAFSFTsdEm9MJp",
+      "name": "The Grátelva (Weeping River)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>The Grátelva is a short, fast, rust-colored river that drops from the coastal hills like tears from an iron eye. Locals say the Landvaettir weep for what the river can no longer carry.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Course:</strong> Drops from the coastal hills behind Grátholm into the sea.</li>\n<li><strong>Character:</strong> Short, fast, brackish, and rust-colored from bog-iron country upstream.</li>\n<li><strong>Freezing pattern:</strong> Freezes in steps—upper pools first, then the falls, then the estuary—creating a staircase of ice.</li>\n</ul>\n</div>\n<h3>The Color</h3>\n<p>The water runs red-brown from iron deposits upstream. In certain light it looks like diluted blood. The stain marks the estuary and the sea around Grátholm's docks. Locals are used to it; outsiders find it alarming.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Atmospheric River</h4>\n<p>The Grátelva is primarily <strong>atmosphere and omen</strong>. Its color is a visual signal: when it runs darker, something upstream has worsened.</p>\n<ul>\n<li><strong>\"The river is bleeding\":</strong> use this phrase from NPCs when the color deepens. It creates instant unease.</li>\n<li><strong>Ice staircase:</strong> the stepped-freezing pattern creates unusual terrain: waterfalls become ice walls, pools become skating rinks.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Red tide:</strong> the Grátelva runs much darker than usual. Upstream, something large is dying—or being killed.</li>\n<li><strong>Frozen staircase:</strong> the fully-frozen river creates a natural route up the coastal hills—but the ice is brittle and the climb is exposed.</li>\n<li><strong>Landvaettir grief:</strong> a Vanir seer claims the river-spirit is dying. If it does, the water will stop entirely.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 2400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004112,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "vxLYVHP9VtIM9vlT",
+      "name": "The Saltá (Salt-Creek)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>The Saltá is a thin, bitter stream that leaves white crusts on everything it touches. Its banks are worth fighting over—and people do.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Course:</strong> A coastal stream feeding into the Splintered Fjords near Saltvik.</li>\n<li><strong>Character:</strong> Brine-saturated. The banks form crusts of salt-ice that burn skin on contact.</li>\n<li><strong>Value:</strong> The salt harvested here is one of the Coastal Belt's few reliable trade goods.</li>\n</ul>\n</div>\n<h3>The Salt Banks</h3>\n<p>Where the Saltá meets the fjord-water, brine-ice crystallizes in thick crusts along the banks. Harvesting requires heavy gloves, picks, and nerve—the ice burns bare skin and the footing is treacherous. But a load of Saltá salt is worth good silver anywhere on the coast.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Small River, Big Stakes</h4>\n<p>The Saltá is <strong>resource conflict in miniature</strong>. It's not dramatic geography—it's a creek. But it produces something irreplaceable, and desperate people will kill for it.</p>\n<ul>\n<li><strong>Salt-rights:</strong> who harvests where, and how much, is decided by the Saltvik Thing—when it works.</li>\n<li><strong>Brine-burn:</strong> accidental or deliberate contact with brine-ice is a memorable hazard.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Salt war:</strong> two fishing families both claim the best brine-bank. The Thing can't decide; both sides hire outsiders.</li>\n<li><strong>Poisoned creek:</strong> something upstream is tainting the brine. The salt crystallizes wrong—grey instead of white.</li>\n<li><strong>Brine-burn ambush:</strong> bandits use the creek as a weapon, driving victims into the salt-ice banks.</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 2500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004112,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "WOFvwzX0sPQx6Brv",
+      "name": "The Askfoss (Ash-Falls)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>The Askfoss once flowed through the greatest forest in Svellheim. Now it carries the forest's ashes to the sea—grey water through grey banks, tasting of charcoal and the end of things.</em></p>\n<hr>\n<h2>Public Knowledge</h2>\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>At a Glance</strong></p>\n<ul>\n<li><strong>Course:</strong> Originates from springs in the central mountains. Flows south through the Ashen Woods to the coast west of Brimstead.</li>\n<li><strong>Upper stretches:</strong> Choked with charcoal and deadfall. Barely a river; more a trickle through wreckage.</li>\n<li><strong>Lower stretches:</strong> Still flowing, grey and sullen. Drinkable after filtering, but the taste never quite leaves.</li>\n</ul>\n</div>\n<h3>The Ash-Banks</h3>\n<p>The river deposits grey sediment along its course. Near the coast, the banks are soft and ashen, and the vegetation is stunted and grey-dusted. The landscape looks like something that has been mourning for years.</p>\n<hr>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Burned World's Runoff</h4>\n<p>The Askfoss is a <strong>visual reminder</strong> that the Ashen Woods' destruction reaches the coast. Every grey bank and charcoal-tasting mouthful connects the Coastal Belt to the Interior's devastation.</p>\n<ul>\n<li><strong>Mood-setter:</strong> describe the grey water, the ash-smeared stones, the taste that lingers.</li>\n<li><strong>Upstream trail:</strong> following the Askfoss inland leads toward the Ashen Woods—a route the party may need and dread.</li>\n</ul>\n</div>\n</section>\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Upstream silence:</strong> the Askfoss stops flowing for a day. When it resumes, the water carries ash and a wooden idol carved with a face no one recognizes.</li>\n<li><strong>Ash-water sickness:</strong> people drinking Askfoss water turn grey and listless. The cause is upstream—in country no one wants to enter.</li>\n<li><strong>Green tint:</strong> for one morning, the water runs faintly green. The Ashen Woods are dead—so where is the green coming from?</li>\n</ul>\n</div>\n</section>",
+        "format": 1
+      },
+      "sort": 2600000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004112,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "16xuER2ssGGYE25x",
+      "name": "Lantern Road",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>The Lantern Road once carried news, salt, and silver. Now it carries refugees and silence. The lanterns are dark. The mile-markers are buried. But the road is still the fastest way inland—when it is not trying to kill you.</em></p>\n\n<hr>\n\n<h2>Public Knowledge</h2>\n\n<p>The Lantern Road is the major overland route connecting Hrafnborg to interior trade towns. In the current winter, it is failing: sections are impassable with snow or debris, signs are stolen for firewood, and travel is taxed at Chainwarden checkpoints.</p>\n\n<h3>What travelers say</h3>\n<ul>\n<li><strong>“The road splits and lies.”</strong> Old forks are buried; wrong choices cost hours and heat.</li>\n<li><strong>“The shrines are cold.”</strong> Yggdrasil cairns along the route are extinguished, even where offerings remain.</li>\n<li><strong>“Don’t camp where you can’t see the sky.”</strong> Fog pockets in low ground swallow fires and sound.</li>\n</ul>\n\n<hr>\n\n<h2>Director Notes</h2>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Travel Montage Anchor</h4>\n<p>The Lantern Road is the campaign’s baseline travel hardship: failing infrastructure, taxation, and weather. Keep it grounded. The road is not haunted every mile; it is deadly because it is neglected, cold, and full of desperate people.</p>\n<ul>\n<li><strong>Checkpoint tax:</strong> Heat (fuel rations) or Word (permits). Make the party choose what they spend.</li>\n<li><strong>Visible decay:</strong> cracked stones, buried markers, carts frozen in drifts.</li>\n<li><strong>Escalation option:</strong> once the world worsens, seed organized draugr columns crossing the road without reacting to the party.</li>\n</ul>\n</div>\n</section>\n</section>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Quick Encounters</h4>\n<ul>\n<li><strong>Extinguished cairn:</strong> a rune-stone carved <em>Remember</em>; if warmed by an offering, it responds for a heartbeat—then dies again.</li>\n<li><strong>Abandoned farm:</strong> door open, food frozen on table, footprints leading southwest.</li>\n<li><strong>Roving patrol:</strong> Chainwardens tax travelers; a bored guard recognizes a PC’s face from an old notice.</li>\n</ul>\n</div>\n</section>\n</section>",
+        "format": 1
+      },
+      "sort": 2700000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004112,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "VkrPm23ELSEYRQIm",
+      "name": "Frostfen Marshes",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>The Frostfen is where the road becomes an argument with the land. Ice that should hold doesn’t. Water that should freeze rots grey instead. Every step is a wager.</em></p>\n\n<hr>\n\n<h2>Public Knowledge</h2>\n\n<p>The Frostfen lies where the Lantern Road crosses old fenlands. Even in deep winter the marsh does not freeze solid. Thin ice hides pockets of black water, and the foot-causeway is half-collapsed. Locals whisper that the cold here is different—wet, heavy, and wrong.</p>\n\n<h3>Hazards</h3>\n<ul>\n<li><strong>Thin ice:</strong> it holds until it doesn’t. The sound of cracking travels far through reeds.</li>\n<li><strong>Black water:</strong> a fall is not just drowning risk; it’s heat loss, sickness, and panic.</li>\n<li><strong>Frost-haze:</strong> distances lie. A hut seen across the fen can be half a day away.</li>\n</ul>\n\n<div style=\"background:#eee8d5; color:#2a2a2a; border-left:4px solid #8b7355; padding:12px 16px; margin:12px 0; border-radius:4px;\">\n<p><strong>Traveler’s rule:</strong> cross the worst sections at night when the ice is hardest—if you can navigate in the dark.</p>\n</div>\n\n<hr>\n\n<h2>Director Notes</h2>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: The Fen Is a Cemetery</h4>\n<p>Play the Frostfen as a place that <em>remembers death</em>. The drowned village under clear ice, the sense of being watched, and the weight in the lungs are all signals: the boundary is thinning here.</p>\n<ul>\n<li><strong>Don’t overdo monsters:</strong> the threat is terrain and exhaustion. One “something moved under the ice” moment is enough.</li>\n<li><strong>Cost logic:</strong> a single fall costs days of supplies, damaged gear, or a lingering cough.</li>\n</ul>\n</div>\n</section>\n</section>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Scene Seeds</h4>\n<ul>\n<li><strong>Drowned village:</strong> rooftops jut from ice; movement below tracks the party’s steps.</li>\n<li><strong>Marsh-sickness:</strong> a wet heaviness in the lungs (banes to Might until warm rest).</li>\n<li><strong>Causeway collapse:</strong> the party must balance across old stones as sleet turns them glassy.</li>\n</ul>\n</div>\n</section>\n</section>",
+        "format": 1
+      },
+      "sort": 2800000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004112,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1TJG00HDIgYPlrB1",
+      "name": "Herdweg Junction (Refugee Road)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>At the Herdweg junction, two rivers meet: the road and the people on it. One flows south toward Hrafnborg. One tries to flow north. Only one is winning.</em></p>\n\n<hr>\n\n<h2>Public Knowledge</h2>\n\n<p>The Herdweg is an old drovers’ highway running east from the Interior Belt. Where it meets the Lantern Road, the intersection becomes a human choke-point: refugee columns heading south, merchants trying to keep wagons moving, and Chainwardens deciding who gets to live inside the law.</p>\n\n<h3>What you see</h3>\n<ul>\n<li><strong>Families on the move:</strong> bundles, sleds, and hollow eyes. No one makes eye contact.</li>\n<li><strong>Rumor-storm:</strong> everyone has heard something—about embers dying, dead walking, bandits taking permits.</li>\n<li><strong>Trade without trust:</strong> barter happens fast and guarded, hands never far from knives.</li>\n</ul>\n\n<hr>\n\n<h2>Director Notes</h2>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Social Terrain</h4>\n<p>Use the junction to make travel personal. The danger isn’t only wolves or undead—it’s a starving crowd with nothing to lose, and officials who can’t feed everyone.</p>\n<ul>\n<li><strong>Direction tells a story:</strong> anyone heading north is suspicious. Make the party explain themselves.</li>\n<li><strong>Information exchange:</strong> a rumor can be a tool or a knife, depending on who hears it.</li>\n</ul>\n</div>\n</section>\n</section>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hooks</h4>\n<ul>\n<li><strong>Recognized seal:</strong> someone spots a royal stamp on forged papers and spreads the word.</li>\n<li><strong>Missing child:</strong> a parent begs for help; searching costs time and heat, but earns loyalty and a future contact.</li>\n<li><strong>Permit scam:</strong> an “official” sells worthless travel tokens—backed by a real Chainwarden who wants plausible deniability.</li>\n</ul>\n</div>\n</section>\n</section>",
+        "format": 1
+      },
+      "sort": 2900000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004112,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "Oio4ol5P1teC4Fpu",
+      "name": "The Hollow Waystation",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<p><em>A stone waystation, roof intact, smoke from the chimney. On the road, those details feel like a miracle. Miracles are suspicious.</em></p>\n\n<hr>\n\n<h2>Public Knowledge</h2>\n\n<p>The Hollow Waystation is one of the old Embertender rest-houses that used to dot the major routes. Built to shelter travelers and tend small sanctioned fires, it remains one of the few structures on the road that still has walls, a roof, and a door that closes.</p>\n\n<p>Travelers tell stories about waystations in winter: some are empty and safe; some are traps; some are haunted by the people who died waiting for morning.</p>\n\n<hr>\n\n<h2>Director Notes</h2>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">⚠ Director Notes: Bryn Ketilsdottir</h4>\n<p>The waystation is a human tragedy, not a dungeon. Bryn is a former Embertender who abandoned her post when her settlement’s Ever-Ember went out. She’s been living here on shame, dried fish, and burning furniture for warmth.</p>\n<ul>\n<li><strong>What she knows:</strong> embers are dying “without external cause.” She believes the ground is sick.</li>\n<li><strong>What she offers:</strong> information, a hard mirror for the party’s choices, and (if treated kindly) a Chainwarden toll-token worth one free passage.</li>\n</ul>\n</div>\n</section>\n</section>\n\n<section class=\"secret\">\n<section class=\"secret\">\n<div style=\"background:#3a1a1a; color:#e0d0c0; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #cc3333;\">\n<h4 style=\"margin-top:0; color:#ff6666;\">Hook Variations</h4>\n<ul>\n<li><strong>Safe rest:</strong> a rare warm building before the mountains—if the party shares supplies.</li>\n<li><strong>Pressure twist:</strong> Bryn is being watched by a desperate traveler who plans to rob her at night.</li>\n<li><strong>World-lore beat:</strong> Bryn heard a sound from <em>below</em> the night her Ember died—like something exhaling.</li>\n</ul>\n</div>\n</section>\n</section>",
+        "format": 1
+      },
+      "sort": 3000000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004112,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

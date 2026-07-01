@@ -1,0 +1,52 @@
+{
+  "_id": "1P2znMvSh0OfA2wf",
+  "name": "Negotiation: Beat 16 — Pale Maw Elder (Beinvaka Passage)",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391004034,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "wjhyAaRdxkLknRGo",
+      "name": "Beat 16 — Pale Maw Elder (Beinvaka Passage)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1>Beat 16 — Pale Maw Elder (Beinvaka Passage)</h1>\n<p><strong>Act:</strong> Act 2 | <strong>Type:</strong> Social Scene</p>\n<hr><h2>The Scene</h2><p>The Pale Maw enclave at Beinvaka is a former neutral trade post now controlled by entropy cultists. The inverted fire-pit at the center burns cold blues and sickly purples. Þráinn Ashward has already made his ultimatum \\u2014 but there is a third option: the Elder of Beinvaka, the actual administrative authority here. The Elder is not Þráinn. They are old, careful, and would prefer not to have a battle in their enclave.</p><p>This is the hardest negotiation in Act 2. Interest starts at 1 \\u2014 the Elder barely wants to speak with the party. Patience is only 2 \\u2014 two exchanges before they conclude the conversation. The party must be very careful. Four pitfalls will immediately reduce Interest or trigger automatic failure. Do not reveal Kaelen's identity under any circumstances.</p><p><strong>Context:</strong> The party does not need to win over the Elder completely \\u2014 they just need to reach Interest 3 or higher, which means the Elder agrees to let them pass through in exchange for a commitment not to return or send others this way.</p>\n<hr><h2>Running This Scene</h2>\n<p>This is a <strong>narrative social scene</strong> — a dramatic conversation with stakes. Play it out as roleplay, calling for ability checks only when the outcome is uncertain.</p>\n<h3>GM Guidance</h3>\n<ul>\n<li>Let the players drive the conversation. Only call for rolls at key turning points.</li>\n<li>Use the NPC's motivations and pitfalls below to guide their reactions.</li>\n<li>Reward clever roleplay — if a player makes a compelling argument that hits a motivation, let it succeed.</li>\n<li>The NPC's starting attitude sets the tone, but good or bad roleplay should shift it naturally.</li>\n</ul>\n<hr><h2>Pale Maw Elder of Beinvaka</h2>\n<h3>At a Glance</h3>\n<ul>\n<li><strong>Starting Attitude:</strong> Hostile</li>\n<li><strong>Suggested DC:</strong> 18 (if you need a check)</li>\n<li><strong>Vigilant DC:</strong> 16 (to read motivations/pitfalls)</li>\n</ul>\n<h3>What They Want (Motivations)</h3>\n<p>If the PCs appeal to these, the NPC warms to them. Grant second chance (two rolls, take best) on a check or simply have the NPC concede the point.</p><ul>\n<li><strong>Order and discipline — the Pale Maw at Beinvaka maintains a careful balance; disruption is unwelcome</strong></li>\n<li><strong>Entropy doctrine integrity — anything the party says must not contradict the Pale Maw's cosmological beliefs</strong></li>\n<li><strong>Being treated with institutional respect (not dismissed as cultists, but engaged as a governing body)</strong></li>\n<li><strong>The north road remaining clear and undisrupted by conflict — the Pale Maw would prefer the party simply leave</strong></li>\n</ul>\n<h3>What Offends Them (Pitfalls)</h3>\n<p>If the PCs trigger these, the NPC becomes defensive or hostile. Impose second chance (two rolls, take worst) on a check or have the NPC shut down.</p><ul>\n<li><strong>Defending the Ever-Ember or claiming the flame is good (entropy doctrine: flame is delusion)</strong></li>\n<li><strong>Claiming the Fimbulwinter should be stopped or that winter is wrong (the Pale Maw believe it is correct)</strong></li>\n<li><strong>Saying \"we'll save the world\" or similar heroic framing (immediate −1 Interest, possibly 2)</strong></li>\n<li><strong>Revealing Kaelen's identity as a Keeper or that she carries the ember-mark (automatic negotiation failure — Þráinn is immediately notified)</strong></li>\n</ul>\n<hr><h2>Outcomes</h2>\n<p>Based on how the conversation goes:</p>\n<p><strong>Full Success (Interest reaches 4\\u20135):</strong> The Elder grants unrestricted passage through Beinvaka northward and agrees not to alert Þráinn or the network north. The party clears Beinvaka with no pursuit and no advance warning sent to Surt's Forge. When Þráinn later learns, his psychic wail goes north: \"The heretic flees!\" \\u2014 but the party is already past the point where it matters. Beat 18 Strike Team arrives with minimal information. </p>\n<p><strong>Partial Success (Interest 2\\u20133 at Patience 0):</strong> The Elder allows the party to pass through Beinvaka northward under escort, asking no further questions. Þráinn is not pleased but defers to the Elder's authority for now. However, Þráinn separately sends a message north \\u2014 the party will face a more prepared Strike Team at Surt's Forge. The Mad Dash is no longer necessary but the second chance (two rolls, take best) is partial.</p>\n<p><strong>Failure (Interest reaches 0 or Kaelen's identity revealed):</strong> The Elder dismisses the party. \"There is nothing to negotiate.\" Þráinn is notified immediately. The Inquisitor deploys his forces \\u2014 combat is unavoidable. If Kaelen's identity was revealed (immediate fail), the Inquisitor is also notified north: Beat 18 Strike Team arrives fully prepared.</p>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004034,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "_id": "1XND74ZF6GNocJWU",
+  "name": "Bioluminescent Lantern",
+  "type": "artifact",
+  "img": "icons/sundries/lights/lantern-bullseye-signal-copper.webp",
+  "system": {
+    "description": "<p>An ancient magical lantern recovered from Rickety Frets’s provisions in the Bioluminescent Library. It emits a soft blue-green light that never fades and requires no fuel. The light has a slightly living quality — as if something small and patient breathes inside the glass. Dimmer than a torch, it nonetheless pushes back absolute darkness with quiet certainty.</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>ACQUISITION:</strong> Found among Rickety Frets’s provisions in the Bioluminescent Library, Beat 12. The party may take it after completing the Three Demands oath.</p><p><strong>MECHANICS:</strong></p><ul><li>Illuminates a 15-foot radius in dim blue-green light (counts as magical light — dispels magical darkness). Never requires fuel or maintenance.</li><li>The light is slightly unsettling to undead and constructs within 10ft — not a mechanical effect, but something they avoid or regard warily.</li><li>Dimmer than a torch in clear air; in cave/dark environments it feels brighter because there is otherwise nothing.</li><li>Does not produce heat.</li></ul><p><strong>FICTION:</strong> The lantern glows with a faint living light, like something breathing inside the glass. It was made by an early Keeper and left in the library as a reading light. It has been burning, quietly, for approximately four hundred years.</p></section></section>",
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "isArtifact": true,
+    "power": {
+      "description": "<p>An ancient magical lantern recovered from Rickety Frets’s provisions in the Bioluminescent Library. It emits a soft blue-green light that never fades and requires no fuel. The light has a slightly living quality — as if something small and patient breathes inside the glass. Dimmer than a torch, it nonetheless pushes back absolute darkness with quiet certainty.</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>ACQUISITION:</strong> Found among Rickety Frets’s provisions in the Bioluminescent Library, Beat 12. The party may take it after completing the Three Demands oath.</p><p><strong>MECHANICS:</strong></p><ul><li>Illuminates a 15-foot radius in dim blue-green light (counts as magical light — dispels magical darkness). Never requires fuel or maintenance.</li><li>The light is slightly unsettling to undead and constructs within 10ft — not a mechanical effect, but something they avoid or regard warily.</li><li>Dimmer than a torch in clear air; in cave/dark environments it feels brighter because there is otherwise nothing.</li><li>Does not produce heat.</li></ul><p><strong>FICTION:</strong> The lantern glows with a faint living light, like something breathing inside the glass. It was made by an early Keeper and left in the library as a reading light. It has been burning, quietly, for approximately four hundred years.</p></section></section>",
+      "action": "A"
+    },
+    "qualities": {},
+    "marker": "",
+    "state": "other",
+    "corruptionDescription": "Using this artifact costs 1 temporary corruption."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919475022,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

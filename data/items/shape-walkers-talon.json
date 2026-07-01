@@ -1,0 +1,57 @@
+{
+  "_id": "a8kvISUGKRmSbTi2",
+  "name": "Shape-Walker's Talon",
+  "type": "equipment",
+  "img": "icons/commodities/bones/bone-broken-brown.webp",
+  "system": {
+    "description": "<p><em>A curved bone-shard the length of a finger, black as obsidian and still warm. It pulses faintly with a sickly golden light. It is warm. And it is hungry.</em></p><p>A piece of Dreyfus's true form — a shape-walker's talon, still resonating with Wyrd-power. This is a dark item: not evil, but it carries the resonance of something that wanted to harm the King. The talon pulses gently, in rhythm with a heartbeat that isn't anyone's in the room.</p><p><strong>Acquisition:</strong> Only recoverable if the party lands a significant blow on Dreyfus during the Beat 9 confrontation. If he escapes without being wounded, the talon is not recovered.</p><p><strong>To Use (Action — One-time Consumable):</strong> Throw the talon at a creature within 5 meters. Make an attack roll using Might or Agility (your choice) against the target's Resistance. On a hit, the target must make a Hard Presence test (TN 14) or become frightened of the thrower for 1 minute (save ends TN 14). The talon disintegrates after use, crumbling to ash and bone-dust.</p><p><strong>Dark Item Note:</strong> Kaelen will recognise what this is immediately. If a party member carries it openly, she becomes quietly cold. If they discard it, she relaxes. No religion condemns carrying it, but Ember-Keepers would consider it a violation to keep long-term.</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>Found:</strong> Beat 9 (Shape-Walker's Move) — after Dreyfus escapes, if the party dealt damage to him before the escape. A single talon clatters to the stone floor of the King's chambers, torn free during the violent transformation.</p><p>Kaelen's reaction (quiet, cold, looking away) signals she knows what this is. Use her response as social pressure. Groups that keep and use it against a Pale Maw operative gain narrative satisfaction. Groups that destroy it show character. Both are valid.</p><p><strong>Beat 24 Connection:</strong> If the party carries or used the talon when they face Dreyfus again, note it. His reaction to seeing his own talon is visceral and uncontrolled — the one moment the mask slips.</p></section></section>",
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "isArtifact": false,
+    "power": {},
+    "qualities": {},
+    "marker": "",
+    "state": "other",
+    "cost": "",
+    "number": 1
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919475035,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

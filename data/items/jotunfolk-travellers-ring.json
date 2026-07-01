@@ -1,0 +1,59 @@
+{
+  "_id": "19t5CN4BojkJmAQq",
+  "name": "Jötunfolk Traveller's Ring",
+  "type": "artifact",
+  "img": "icons/equipment/finger/ring-band-copper.webp",
+  "system": {
+    "description": "<p><em>A tarnished bronze ring of ancient Jötunfolk make. A rune is etched into the inner band, but neither the Goblin Monarch who offered it nor the PCs can read it. The metal is warm to the touch, even in Fimbulwinter's worst cold.</em></p><p><strong>Effect:</strong> This ring has no inherent magical power. It is a gift&mdash;a gesture of good faith from the Goblin Monarch. Accepting it graciously grants +1 to future interactions with non-hostile goblin groups.</p><p>The unreadable rune may become significant in later acts as the party encounters Jötunfolk ruins and artefacts. A skilled rune-reader or sufficiently ancient entity might translate it.</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>Found:</strong> Beat 4 (optional Goblin Ambush encounter)&mdash;if the PCs negotiate past the goblins rather than fighting, the Goblin Monarch offers this ring as 'a gift for clever two-legs.' The PCs must surrender half their remaining rations in exchange.</p><p>This is a social/sentimental item. Its +1 interaction bonus with goblins matters if the PCs encounter goblin groups again in Act 2 or 3. The warm-metal detail is flavour&mdash;Jötunfolk metalwork connects to the deep earth and the forges that predate human settlement.</p><p>The unreadable rune is a deliberate mystery hook. Don't resolve it in Act 1.</p></section></section>",
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "isArtifact": true,
+    "power": {
+      "description": "<p><em>A tarnished bronze ring of ancient Jötunfolk make. A rune is etched into the inner band, but neither the Goblin Monarch who offered it nor the PCs can read it. The metal is warm to the touch, even in Fimbulwinter's worst cold.</em></p><p><strong>Effect:</strong> This ring has no inherent magical power. It is a gift&mdash;a gesture of good faith from the Goblin Monarch. Accepting it graciously grants +1 to future interactions with non-hostile goblin groups.</p><p>The unreadable rune may become significant in later acts as the party encounters Jötunfolk ruins and artefacts. A skilled rune-reader or sufficiently ancient entity might translate it.</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>Found:</strong> Beat 4 (optional Goblin Ambush encounter)&mdash;if the PCs negotiate past the goblins rather than fighting, the Goblin Monarch offers this ring as 'a gift for clever two-legs.' The PCs must surrender half their remaining rations in exchange.</p><p>This is a social/sentimental item. Its +1 interaction bonus with goblins matters if the PCs encounter goblin groups again in Act 2 or 3. The warm-metal detail is flavour&mdash;Jötunfolk metalwork connects to the deep earth and the forges that predate human settlement.</p><p>The unreadable rune is a deliberate mystery hook. Don't resolve it in Act 1.</p></section></section>",
+      "action": "A"
+    },
+    "qualities": {},
+    "marker": "",
+    "state": "other",
+    "corruptionDescription": "Using this artifact costs 1 temporary corruption."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919475032,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

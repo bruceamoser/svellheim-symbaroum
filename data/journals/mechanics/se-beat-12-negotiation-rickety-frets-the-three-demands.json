@@ -1,0 +1,52 @@
+{
+  "_id": "dz4XOUlbyqwEeNPb",
+  "name": "Negotiation: Beat 12 — Rickety Frets (The Three Demands)",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391004033,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "1bgBpahAKPBCOu2u",
+      "name": "Beat 12 — Rickety Frets (The Three Demands)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1>Beat 12 — Rickety Frets (The Three Demands)</h1>\n<p><strong>Act:</strong> Act 2 | <strong>Type:</strong> Social Scene</p>\n<hr><h2>The Scene</h2><p>The party has found the Bioluminescent Library — 33 m across, every inch carved with Root-Runes. At the center, Rickety Frets is waiting. They are a spirit-shade: very tall, very thin, cadaverous in faded paper-colored robes, ink-stained hands. They introduce themselves: \"I am Svellheim's historian when there was a Svellheim worth chronicling. Now I chronicle its ending.\"</p><p>Rickety Frets will not simply share information. They have been alone for too long, watching Svellheim die, and they have three demands that must be sworn before they help. The negotiation begins with their questions: What year is it? How is the world dying? Is there still a sky?</p><p>This is not a hostile negotiation — Frets wants to help. They simply need to know the party will honor their legacy before they trust them. Interest starts at 3 because they are already inclined to help anyone heading toward the Emberwell.</p>\n<hr><h2>Running This Scene</h2>\n<p>This is a <strong>narrative social scene</strong> — a dramatic conversation with stakes. Play it out as roleplay, calling for ability checks only when the outcome is uncertain.</p>\n<h3>GM Guidance</h3>\n<ul>\n<li>Let the players drive the conversation. Only call for rolls at key turning points.</li>\n<li>Use the NPC's motivations and pitfalls below to guide their reactions.</li>\n<li>Reward clever roleplay — if a player makes a compelling argument that hits a motivation, let it succeed.</li>\n<li>The NPC's starting attitude sets the tone, but good or bad roleplay should shift it naturally.</li>\n</ul>\n<hr><h2>Rickety Frets</h2>\n<h3>At a Glance</h3>\n<ul>\n<li><strong>Starting Attitude:</strong> Indifferent</li>\n<li><strong>Suggested DC:</strong> 15 (if you need a check)</li>\n<li><strong>Vigilant DC:</strong> 13 (to read motivations/pitfalls)</li>\n</ul>\n<h3>What They Want (Motivations)</h3>\n<p>If the PCs appeal to these, the NPC warms to them. Grant second chance (two rolls, take best) on a check or simply have the NPC concede the point.</p><ul>\n<li><strong>Being remembered — not just their name, but that someone stayed and kept the record</strong></li>\n<li><strong>The survival of Svellheim's historical record (the library and its contents)</strong></li>\n<li><strong>The Bundingsteinn being protected or destroyed rather than falling to Grafvitnir</strong></li>\n<li><strong>Someone returning to report what happened after — closure, whatever form it takes</strong></li>\n</ul>\n<h3>What Offends Them (Pitfalls)</h3>\n<p>If the PCs trigger these, the NPC becomes defensive or hostile. Impose second chance (two rolls, take worst) on a check or have the NPC shut down.</p><ul>\n<li><strong>Dismissing or minimizing what they've done (\"just\" a historian, \"just\" waited)</strong></li>\n<li><strong>Treating the Three Demands as negotiable or asking to reduce them</strong></li>\n<li><strong>Expressing certainty that Svellheim will be restored (they've heard too many promises)</strong></li>\n<li><strong>Rushing them or showing impatience with their questions about the outside world</strong></li>\n</ul>\n<hr><h2>Outcomes</h2>\n<p>Based on how the conversation goes:</p>\n<p><strong>Full Success (Interest reaches 5):</strong> Rickety Frets swears themselves to the party's cause within the limits of their anchor. They share everything: the route through the Bone-Fields, the warning about the boundary thinness there, the Bundingsteinn's theft by Wyrd-Draugr 3 weeks ago, and the key revelation — \"The Keepers didn't keep the flame. They became the flame.\" They also provide the Three Demands oath text and provisions from the library (including the Bioluminescent Lantern). Kaelen enters Layer 2.</p>\n<p><strong>Partial Success (Interest 3–4 at Patience 0):</strong> Rickety Frets shares the route and the basic warning but not the deeper lore about the Ever-Ember rite. The Bundingsteinn theft is mentioned but without the Wyrd-Draugr detail. The Three Demands are still sworn — Frets needs this too much to withhold it entirely.</p>\n<p><strong>Failure (Interest reaches 0):</strong> Rickety Frets withdraws. \"You are not what I hoped. Go. I will not stop you — I simply will not help you.\" The party gets no lore, no route information, no Demands. They may attempt the route uninformed (harder navigation) and miss the key revelation about the Keepers.</p>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391004033,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}

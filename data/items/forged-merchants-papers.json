@@ -1,0 +1,59 @@
+{
+  "_id": "1APvwMasCvDpdHfH",
+  "name": "Forged Merchants' Papers",
+  "type": "artifact",
+  "img": "icons/sundries/documents/document-letter-blue.webp",
+  "system": {
+    "description": "<p><em>A set of travel documents presenting the party as a merchants' retinue. The seal is official-looking — almost. It uses a non-standard merchant cipher, the kind only a king's personal secretary would know how to forge.</em></p><p>Good enough to pass a half-asleep Chainwarden. Less convincing under close scrutiny.</p><p><strong>Effect:</strong> When presented to a Chainwarden checkpoint guard, the bearer makes a Presence test. moderate effect+: the papers are accepted without question. weak effect: the reviewing officer notices the seal is irregular and becomes suspicious (+1 Interest toward questioning), but does not immediately refuse passage.</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>Received:</strong> Beat 3 (The Quiet Summons) — King Harald provides these papers to help the party slip out of Hrafnborg and avoid Chainwarden scrutiny. At the Hrafnborg departure checkpoint, the guard is half-asleep and waves them through. Save the tension for the Greypass Toll, where Eirik Greyhand examines them more carefully (Beat 4a).</p><p><strong>Using the papers:</strong> When presented at a checkpoint, the bearer makes a Presence test (moderate difficulty). moderate effect+: accepted without question. weak effect: the officer notes the irregular seal ('This isn't the standard merchant cipher. Where did you get these?') and gains +1 suspicion, but does not refuse passage yet. Once a Chainwarden has noted the irregular seal, word may spread to subsequent checkpoints.</p></section></section>",
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "isArtifact": true,
+    "power": {
+      "description": "<p><em>A set of travel documents presenting the party as a merchants' retinue. The seal is official-looking — almost. It uses a non-standard merchant cipher, the kind only a king's personal secretary would know how to forge.</em></p><p>Good enough to pass a half-asleep Chainwarden. Less convincing under close scrutiny.</p><p><strong>Effect:</strong> When presented to a Chainwarden checkpoint guard, the bearer makes a Presence test. moderate effect+: the papers are accepted without question. weak effect: the reviewing officer notices the seal is irregular and becomes suspicious (+1 Interest toward questioning), but does not immediately refuse passage.</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>Received:</strong> Beat 3 (The Quiet Summons) — King Harald provides these papers to help the party slip out of Hrafnborg and avoid Chainwarden scrutiny. At the Hrafnborg departure checkpoint, the guard is half-asleep and waves them through. Save the tension for the Greypass Toll, where Eirik Greyhand examines them more carefully (Beat 4a).</p><p><strong>Using the papers:</strong> When presented at a checkpoint, the bearer makes a Presence test (moderate difficulty). moderate effect+: accepted without question. weak effect: the officer notes the irregular seal ('This isn't the standard merchant cipher. Where did you get these?') and gains +1 suspicion, but does not refuse passage yet. Once a Chainwarden has noted the irregular seal, word may spread to subsequent checkpoints.</p></section></section>",
+      "action": "A"
+    },
+    "qualities": {},
+    "marker": "",
+    "state": "other",
+    "corruptionDescription": "Using this artifact costs 1 temporary corruption."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919475027,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

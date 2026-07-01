@@ -1,0 +1,57 @@
+{
+  "_id": "1bjjNhPQWgUhABDv",
+  "name": "Solvi's Ember-Coal Box",
+  "type": "equipment",
+  "img": "icons/magic/light/explosion-star-large-blue-yellow.webp",
+  "system": {
+    "description": "<p><em>A small iron box, palm-sized, warm to the touch. Inside, a single coal-ember sits on a bed of Ever-Ember ash — a fragment pressed from Stairwatch's Ever-Ember by Solvi, the frightened young Keeper who begged: &ldquo;Don't let the fire die. Please.&rdquo;</em></p><p><strong>Effect (Single Use — Ignite):</strong> As a free action, you can open the box and place the coal-ember on the ground. It instantly ignites a campfire that burns warm for 8 hours, regardless of weather, wind, or the supernatural cold of Fimbulwinter. This fire provides the following benefits:</p><ul><li><p>All creatures within 3 meters of the fire gain cold immunity equal to their level for as long as they remain in range.</p></li><li><p>One fire-related montage test automatically succeeds (finding shelter, enduring the cold, keeping warm at camp).</p></li><li><p>Undead creatures cannot willingly enter the 3-meters (2 m) radius of the fire. Undead forced into the area take  damage at the start of each of their turns.</p></li></ul><p><strong>After the Fire:</strong> When the 8 hours end, the coal-ember crumbles to ash. But the ash retains a faint warmth for days. If collected and carried, this ash grants a +1 bonus to Might tests against environmental cold until the next extended rest. The ash of an Ever-Ember is sacred — Kaelen will recognise it immediately if shown in Beat 7.</p>\n<hr><h3>Crafting</h3><p><strong>Prerequisites:</strong> A fragment pressed from a living Ever-Ember by a marked Keeper, an iron box forged in the Ember's heat</p><p><strong>Source:</strong> Ember-Keeper rites (cannot be replicated without a living Ever-Ember and a marked Keeper)</p><p><strong>Crafting Time:</strong> 45 downtime days</p>\n<section class=\"secret\"><h3>GM Notes</h3><section class=\"secret\"><p><strong>Received:</strong> Beat 5 — Finding Lew, Part 7: Departure. Solvi, the young Ember-Keeper of Stairwatch, presses this into the PCs' hands before they leave. It is mentioned explicitly in the beat text.</p><p><strong>Best Use:</strong> Save this for a critical moment. Ideal deployment points: (1) Beat 6, Round 2 or 3 of the Ashen Woods montage when the cold becomes lethal; (2) Beat 7, outside the Green Heart as a gesture of good faith to the dryads — lighting an Ever-Ember fire at the thorn-wall grants +1 to the first negotiation roll with Kaelen; (3) Beat 9, during the siege breach — the fire can create a safe zone in the tannery marshes, though using it risks drawing the host.</p><p><strong>Narrative Weight:</strong> This is Solvi's hope made physical. If the PCs waste it or lose it, they lose something that can't be replaced. If they use it wisely, Kaelen and Gragnir both acknowledge the significance — a young Keeper sending warmth into the cold. Solvi's faith matters.</p></section></section>",
+    "bonus": {
+      "defense": 0,
+      "accurate": 0,
+      "cunning": 0,
+      "discreet": 0,
+      "persuasive": 0,
+      "quick": 0,
+      "resolute": 0,
+      "strong": 0,
+      "vigilant": 0,
+      "toughness": {
+        "max": 0,
+        "threshold": 0
+      },
+      "corruption": {
+        "max": 0,
+        "threshold": 0
+      },
+      "experience": {
+        "value": 0,
+        "cost": 0
+      }
+    },
+    "isArtifact": false,
+    "power": {},
+    "qualities": {},
+    "marker": "",
+    "state": "other",
+    "cost": "",
+    "number": 1
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1782919475035,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

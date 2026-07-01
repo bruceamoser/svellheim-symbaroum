@@ -1,0 +1,52 @@
+{
+  "_id": "1EZqu0BAViADpvcZ",
+  "name": "Montage: Beat 6b — The Greenweald: Bone Fields Route",
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13",
+    "systemId": "symbaroum",
+    "systemVersion": null,
+    "createdTime": 1779391003995,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "pages": [
+    {
+      "_id": "rpfeFLvce0AetVV0",
+      "name": "Beat 6b — The Greenweald: Bone Fields Route",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1>Beat 6b — The Greenweald: Bone Fields Route</h1>\n<p><strong>Act:</strong> Act 1 | <strong>Type:</strong> Montage Scene</p>\n<hr><h2>Overview</h2><h2>The Bone Fields &amp; Frozen Steppe (Alternate Route)</h2><p><strong>Level:</strong> 2 | <strong>Beat:</strong> 6 | <strong>Location:</strong> Stairwatch → Bone Fields → Frozen Steppe → Green Heart (east approach)</p><p>~125 miles. ~7 days. Shorter but brutally exposed. No cover, no shelter, worse cold, and Grafvitnir's network can observe the party continuously from the open ground. Lew has personal history here.</p><p><strong>Difficulty:</strong> Hard (adjusted for 4 heroes + Lew) | <strong>Rounds:</strong> 2</p><p><strong>Grafvitnir Warning:</strong> On Partial Success or Total Failure, add +1 to the Grafvitnir Pressure Check at the end of this beat—the Bone Fields offered no concealment.</p><p><strong>Lew's Contribution:</strong> Assists one PC's test per round (Intuition +4 or Reason +2). He has history in the Bone Fields—this route triggers his backstory about Gragnir (see interlude). The eye still navigates, but with visible strain.</p><section class=\"secret\"><h3>Outcomes</h3><ul><li><strong>Total Success (before failure limit):</strong> Arrive at the Green Heart's boundary intact. Earn 2 Milestones. (Still add Grafvitnir +1 if using Partial rule for open terrain.)</li><li><strong>Partial Success (failure limit hit, 2+ more successes than failures):</strong> Arrive at cost—same options as Ashen Woods route. Additionally: +1 to Grafvitnir Pressure Check (open terrain). Earn 1 Victory.</li><li><strong>Total Failure:</strong> All PCs lose 1 Hit Die. Grafvitnir's agents are ahead. +1 Grafvitnir Pressure Check. No Milestones. Director gains 4 Malice.</li></ul></section>\n<hr><h2>Running This Scene</h2>\n<p>This is a <strong>narrative montage</strong> — a series of challenges the party faces as a group. Rather than a single roll, play this out as a sequence of scenes where each character contributes.</p>\n<h3>GM Guidance</h3>\n<ul>\n<li>Go around the table and ask each player how their character is helping.</li>\n<li>Call for ability checks as appropriate — suggested modified [Resolute←15] (hard).</li>\n<li>Let creative approaches succeed with good roleplaying, even without a roll.</li>\n<li>Use the complications below as prompts — not every one needs to come up.</li>\n<li>The goal is collaborative storytelling, not a pass/fail test.</li>\n</ul>\n<p><strong>Relevant Skills:</strong></p><ul>\n<li>Strong</li>\n<li>Quick or Discreet</li>\n<li>Cunning or Cunning</li>\n<li>Vigilant, Vigilant, or Vigilant</li>\n<li>Persuasive, Persuasive, or Persuasive</li>\n</ul>\n<hr><h2>Complications &amp; Challenges</h2>\n<p>Use these as dramatic beats during the montage. Present them as situations the party must navigate together.</p>\n<h2>Round 1: The Bone Fields (Days 1–3)</h2><h3>Navigate by the Bones <em>(Cunning or Cunning, modified [Resolute←15])</em></h3><p>No roads, no markers—just giant bones. The locals navigated by naming the major skeleton formations. Lew remembers some: \"The Keel\" (a rib cage), \"The Throne\" (a pelvis), \"Old Three-Eyes\" (a skull). Without these landmarks, the party walks in circles.</p><h3>Endure the Steppe Wind <em>(Strong, modified [Resolute←15])</em></h3><p>The Bone Fields are flat and exposed. The wind is a physical force—constant, bone-dry, and cold enough to freeze exposed skin in minutes. Characters without face-coverings take ongoing cold damage.</p><h3>Avoid the Open Barrows <em>(Intuition / Agility)</em></h3><p>Some barrow-capstones have shifted. Movement is visible inside. The PCs must route around these without stumbling into a nest of newly-risen dead. Getting too close triggers the occupants.</p><h3>Cross the Shatter-Field <em>(Quick or Discreet, modified [Resolute←15])</em></h3><p>A section of the Fields where the ground has cracked into irregular plates, separated by crevasses 3–6 feet deep. The plates shift underfoot. A wrong step plunges a leg into freezing water pooled at the bottom.</p><h3>Resist the Whispers <em>(Persuasive, Persuasive, or Persuasive, modified [Resolute←15])</em></h3><p>At night, the wind carries sounds that aren't wind: voices, scraps of language, names. The dead in the barrows talk in their sleep. Characters who listen too closely become frightened (second chance (two rolls, take worst) on all tests) until dawn.</p><h3>Keep Grafvitnir's Scouts at Bay <em>(Vigilant, Vigilant, or Vigilant, modified [Resolute←15])</em></h3><p>The Bone Fields offer no cover. Grafvitnir's agent-birds—Valravn with silver eyes—can observe the party continuously. Spotting the observers and adjusting course to stay unpredictable delays intelligence reaching the field agents.</p>\n<h3>Escalation</h3>\n<p>If the scene needs more tension, introduce these additional complications:</p>\n<h2>Round 2: The Frozen Steppe (Days 4–7)</h2><h3>Navigate Featureless Terrain <em>(Reason / Intuition)</em></h3><p>No landmarks, no trees, no features. Navigation is by sun-position (barely visible), wind-direction, and Lew's eye. A wrong heading loses hours in terrain where losing hours can cost lives.</p><h3>Endure Extreme Cold Exposure <em>(Strong, modified [Resolute←15])</em></h3><p>The Steppe is the coldest place the PCs have been. The wind-chill is lethal. Characters must manage layers, rotate exposed skin, and maintain movement patterns to avoid frostbite and hypothermia.</p><h3>Cross a Pressure-Ice Field <em>(Quick or Discreet, modified [Resolute←15])</em></h3><p>The Steppe crosses a frozen plain where competing ice plates have buckled upward, creating a jagged maze of ice ridges and crevasses. Navigation through is slow and physically dangerous at every step.</p><h3>Spot the Treeline (or Its Absence) <em>(Vigilant, Vigilant, or Vigilant, modified [Resolute←15])</em></h3><p>The Green Heart should be visible from the Steppe—a dark line on the horizon. But the Heart is hidden. Finding it requires Lew's eye or a keen-eyed scout who notices where the sky's colour changes to something darker and richer.</p><h3>Resist Isolation Madness <em>(Persuasive, Persuasive, or Persuasive, modified [Resolute←15])</em></h3><p>Seven days with nothing to look at. The Steppe's emptiness erodes sanity. Characters begin seeing landmarks that aren't there, hearing voices in the wind, or turning around to walk back north. Hold the mind together.</p><h3>Manage a Supply Crisis <em>(Cunning or Cunning, modified [Resolute←15])</em></h3><p>Seven days through barren terrain with no foraging opportunities. If supplies weren't carefully managed from Stairwatch, the party faces genuine starvation. Rationing, hunting (for what?), or desperate improvisation.</p>\n<hr><h2>Outcomes</h2>\n<p>Based on how the party performed, use the following as a guide:</p>\n<h3>Round 1 Interlude: Lew's Story</h3><p>By a campfire sheltered in the lee of a giant's shoulder blade, Lew stares into the flame.</p><p><em>\"Gragnir brought me here three years ago. A job—finding something he'd lost. A seed, he said. The size of my fist, wrapped in leather. He'd left it here 'for safekeeping.' We found the seed. We also found something else. The ground cracked open—not an earthquake, something deliberate. Like the earth opening its mouth. And out came... something big. Old. Made of roots and bone and frozen soil. It looked at Gragnir and spoke. Gragnir spoke back. The thing listened. Then it went back, and Gragnir was holding the seed and my eye was gone.\"</em></p><p>He touches the amber gem. <em>\"He put this in the socket himself. Said it was 'fair exchange for what the earth took.' I still don't understand. But I can feel the green thread, and my dead eye sees more than the living one ever did.\"</em></p><h3>Barrow Ambush (between rounds)</h3><p>On the second night in the Fields: 3 Barrow-Draugr + 1 Grave-Singer. The dead have stirred. The Grave-Singer uses Grave-Song (slows all living creatures within 5 feet, Presence modified [Resolute←12]) and Dirge at range. Terrain: open barrows heal adjacent Draugr (5 toughness per round)—seal them (Might modified [Resolute←14]) to deny healing. Giant bones provide cover and elevated positions.</p>\n<h3>Round 2 Interlude: The Sky Changes</h3><p>Lew stops. He's been stopping more often, his eye burning, his head aching. But now he's not correcting course—he's staring south.</p><p><em>\"Look at the sky.\"</em></p><p>To the south, near the horizon, the grey is different. Darker. Richer. Something organic that absorbs light rather than blocks it. <em>\"That's the canopy. The trees. The real trees. The Heart is still growing.\"</em></p><p>Two days. Maybe less. They now have a visual bearing—the only thing taller than grass-height for fifty miles.</p><h3>Total Success</h3><p>Arrive at the Green Heart's boundary intact. Earn 2 Milestones.</p><h3>Partial Success</h3><p>Arrive at cost (same as Ashen Woods route). Additionally, +1 to Grafvitnir Pressure Check at end of beat. Earn 1 Victory.</p><h3>Total Failure</h3><p>All PCs lose 1 Hit Die. Grafvitnir's agents are ahead. +1 Grafvitnir Pressure Check. No Milestones. Director gains 4 Malice.</p>",
+        "format": 1
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1779391003995,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ]
+}
