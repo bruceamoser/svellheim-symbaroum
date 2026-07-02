@@ -86,7 +86,7 @@
       "race": "Plant",
       "occupation": "Brute",
       "quote": "",
-      "shadow": "A large Plant of DS level 4 (elite)",
+      "shadow": "A Rootbound Demolisher is an ancient fey spirit that has fused with the roots and heartwood of a deadfall tree. Driven by a territorial fury, it tears through stone and timber alike, seizing prey in grasping tendrils and hurling them aside. Where it walks, the ground fractures and thorned roots erup",
       "manner": ""
     },
     "bonus": {
@@ -123,350 +123,8 @@
   },
   "items": [
     {
-      "_id": "yMFFOw4vKhdCl5uN",
-      "name": "Endless Knight",
-      "type": "trait",
-      "img": "icons/creatures/abilities/bull-head-horns-glowing.webp",
-      "system": {
-        "description": "<p>The first time the rootbound demolisher is reduced to 0 Toughness by damage that isn't poison damage or corruption damage and their body isn't destroyed, they instead have  and fall prone.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": false,
-          "action": "P",
-          "description": "<p>The first time the rootbound demolisher is reduced to 0 Toughness by damage that isn't poison damage or corruption damage and their body isn't destroyed, they instead have  and fall prone.</p>"
-        },
-        "adept": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456704,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "KQbHfipqLfz5G5Jt",
-      "name": "Negative Nerves",
-      "type": "trait",
-      "img": "icons/creatures/abilities/bull-head-horns-glowing.webp",
-      "system": {
-        "description": "<p>When the rootbound demolisher is targeted by an ability that deals rolled damage, they halve the damage from a tier 1 outcome</p>",
-        "reference": "",
-        "novice": {
-          "isActive": false,
-          "action": "P",
-          "description": "<p>When the rootbound demolisher is targeted by an ability that deals rolled damage, they halve the damage from a tier 1 outcome</p>"
-        },
-        "adept": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456704,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "H7QibKPisuDqKUUk",
-      "name": "Rotten Pierce",
-      "type": "weapon",
-      "img": "icons/creatures/abilities/dragon-breath-purple.webp",
-      "system": {
-        "description": "",
-        "attribute": "strong",
-        "reference": "1handed",
-        "baseDamage": "1d12",
-        "bonusDamage": "",
-        "alternativeDamage": "",
-        "cost": "",
-        "number": 1,
-        "isArtifact": false,
-        "quality": "",
-        "qualities": {},
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "power": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456704,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "j7xpSWatu78ta9bf",
-      "name": "Knocking Heads",
-      "type": "ability",
-      "img": "icons/skills/movement/arrow-upward-yellow.webp",
-      "system": {
-        "description": "<p>The creatures or objects are smashed together using Rotten Pierce, which has a double advantage (second chance).</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>The creatures or objects are smashed together using Rotten Pierce, which has a double advantage (second chance).</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456704,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "1JFTyLS52qcW9wmb",
-      "name": "Blood Hunger",
-      "type": "ability",
-      "img": "icons/magic/death/skull-horned-worn-fire-blue.webp",
-      "system": {
-        "description": "<p>One undead acting this turn uses a signature ability against a creature who is bleeding. As a free triggered action, each undead within 5 meters of the first undead moves up to their speed and can make a Free Attack against the same target.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>One undead acting this turn uses a signature ability against a creature who is bleeding. As a free triggered action, each undead within 5 meters of the first undead moves up to their speed and can make a Free Attack against the same target.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456704,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "2JmYUEfVfA8WZoBL",
-      "name": "regeneration",
+      "_id": "1QPr1FeWdZbgtran",
+      "name": "Regeneration",
       "type": "trait",
       "img": "systems/symbaroum/asset/image/trait.png",
       "system": {
@@ -529,14 +187,14 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456704,
+        "createdTime": 1782971273097,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
     },
     {
-      "_id": "1eumNm26n8QRbz44",
-      "name": "rootwall",
+      "_id": "1Di8m3Fiyfp5B9LE",
+      "name": "Rootwall",
       "type": "trait",
       "img": "systems/symbaroum/asset/image/trait.png",
       "system": {
@@ -599,32 +257,32 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456704,
+        "createdTime": 1782971273097,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
     },
     {
-      "_id": "1EXkZz561zNSHST6",
-      "name": "Robust",
-      "type": "trait",
-      "img": "systems/symbaroum/asset/image/trait.png",
+      "_id": "1DTabmVMEVjAj5oT",
+      "name": "Featofstrength",
+      "type": "ability",
+      "img": "systems/symbaroum/asset/image/ability.png",
       "system": {
         "description": "",
-        "reference": "robust",
+        "reference": "featofstrength",
         "novice": {
           "isActive": true,
-          "action": "P",
+          "action": "A",
           "description": ""
         },
         "adept": {
           "isActive": false,
-          "action": "P",
+          "action": "A",
           "description": ""
         },
         "master": {
           "isActive": false,
-          "action": "P",
+          "action": "A",
           "description": ""
         },
         "bonus": {
@@ -669,7 +327,139 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456704,
+        "createdTime": 1782971273097,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "qF7LobvaZjeuNC4D",
+      "name": "Twohandedforce",
+      "type": "ability",
+      "img": "systems/symbaroum/asset/image/ability.png",
+      "system": {
+        "description": "",
+        "reference": "twohandedforce",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782971273097,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "H7QibKPisuDqKUUk",
+      "name": "Rotten Pierce",
+      "type": "weapon",
+      "img": "icons/creatures/abilities/dragon-breath-purple.webp",
+      "system": {
+        "description": "",
+        "attribute": "strong",
+        "reference": "unarmed",
+        "baseDamage": "1d12",
+        "bonusDamage": "",
+        "alternativeDamage": "",
+        "cost": "",
+        "number": 1,
+        "isArtifact": false,
+        "quality": "",
+        "qualities": {},
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "power": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782971273097,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
@@ -783,7 +573,7 @@
     "coreVersion": "13",
     "systemId": "symbaroum",
     "systemVersion": null,
-    "createdTime": 1782919456704,
+    "createdTime": 1782971273097,
     "modifiedTime": null,
     "lastModifiedBy": null
   }

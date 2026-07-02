@@ -86,7 +86,7 @@
       "race": "Construct",
       "occupation": "Defender",
       "quote": "",
-      "shadow": "A medium Construct of DS level 5 (elite)",
+      "shadow": "The Rot-Guardian is an old Keeper construct, centuries in age, twisted beyond its original purpose by the corruption seeping through Eirik's buried focus-stone. Where it once preserved sacred knowledge, it now protects only the rot it has slowly become. Cracks run through its stone body, weeping gre",
       "manner": ""
     },
     "bonus": {
@@ -123,560 +123,8 @@
   },
   "items": [
     {
-      "_id": "uDVAhetivU4LMSjA",
-      "name": "Ward's Bulwark",
-      "type": "trait",
-      "img": "icons/creatures/abilities/bull-head-horns-glowing.webp",
-      "system": {
-        "description": "<p>The rot-guardian has damage immunity 3 while within 10 meters of the warded chamber's focus-stone or within 10 meters of a non-minion construct of a higher level.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": false,
-          "action": "P",
-          "description": "<p>The rot-guardian has damage immunity 3 while within 10 meters of the warded chamber's focus-stone or within 10 meters of a non-minion construct of a higher level.</p>"
-        },
-        "adept": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456710,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "3xinCWX48sWTUBnM",
-      "name": "Keeper's Seal",
-      "type": "trait",
-      "img": "icons/creatures/abilities/bull-head-horns-glowing.webp",
-      "system": {
-        "description": "<p>If a creature within 10 meters speaks the Keeper's warding phrase inscribed on the guardian's chest, the guardian loses their damage immunities, any nondamaging effects of their signature ability, and their Stone Resolve ability until the end of the encounter.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": false,
-          "action": "P",
-          "description": "<p>If a creature within 10 meters speaks the Keeper's warding phrase inscribed on the guardian's chest, the guardian loses their damage immunities, any nondamaging effects of their signature ability, and their Stone Resolve ability until the end of the encounter.</p>"
-        },
-        "adept": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456710,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "1YgR8T46Tzg5HD3C",
-      "name": "Corruption Slam",
-      "type": "weapon",
-      "img": "icons/skills/melee/strike-polearm-light-orange.webp",
-      "system": {
-        "description": "<p>If the targets are adjacent to each other, this ability deals an extra  damage.</p>",
-        "attribute": "strong",
-        "reference": "1handed",
-        "baseDamage": "1d12",
-        "bonusDamage": "",
-        "alternativeDamage": "",
-        "cost": "",
-        "number": 1,
-        "isArtifact": false,
-        "quality": "",
-        "qualities": {},
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "power": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456710,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "eXuW6PYmriXvOdll",
-      "name": "Hold Your Ground",
-      "type": "ability",
-      "img": "icons/equipment/shield/tower-wooden-worn-brown.webp",
-      "system": {
-        "description": "<p>The target is taunted by the rot-guardian (save ends). The rot-guardian can have only one creature taunted at a time.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>The target is taunted by the rot-guardian (save ends). The rot-guardian can have only one creature taunted at a time.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456710,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "am0X3iLXDMcnfAvP",
-      "name": "Stone Resolve",
-      "type": "trait",
-      "img": "icons/skills/movement/arrow-upward-yellow.webp",
-      "system": {
-        "description": "<p>The target makes a <strong>Presence test.</strong></p>",
-        "reference": "alternativedamage",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>The target makes a <strong>Presence test.</strong></p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456710,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "ZbsOVaBKXtGC1mCE",
-      "name": "Guardian's Surge",
-      "type": "ability",
-      "img": "icons/skills/movement/arrow-upward-yellow.webp",
-      "system": {
-        "description": "<p>One rot-guardian acting this turn uses a signature ability against an adjacent creature. On a tier 3 outcome, the target of the ability has a double disadvantage (second chance) on strikes (save ends).</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>One rot-guardian acting this turn uses a signature ability against an adjacent creature. On a tier 3 outcome, the target of the ability has a double disadvantage (second chance) on strikes (save ends).</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456710,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "K1tBKHqwFWe5R8Eh",
-      "name": "Corruption Swarm",
-      "type": "ability",
-      "img": "icons/magic/death/skull-horned-worn-fire-blue.webp",
-      "system": {
-        "description": "<p>One or two devils can teleport to a space adjacent to one or more creatures who aren’t hidden and make a Free Attack.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>One or two devils can teleport to a space adjacent to one or more creatures who aren’t hidden and make a Free Attack.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456710,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "DKdSdJu9mJKgM8ob",
-      "name": "The Ward Holds",
-      "type": "ability",
-      "img": "icons/equipment/shield/tower-wooden-worn-brown.webp",
-      "system": {
-        "description": "<p>Each enemy in the encounter is subject to the guardian's ward. An enemy must choose between having damage weakness 5 or taking a disadvantage (second chance) on power rolls. The ward lasts until the end of the encounter.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>Each enemy in the encounter is subject to the guardian's ward. An enemy must choose between having damage weakness 5 or taking a disadvantage (second chance) on power rolls. The ward lasts until the end of the encounter.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456710,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "VcIYwmc937yvpduc",
-      "name": "armored",
+      "_id": "1X6jFO8H1uSleOJI",
+      "name": "Armored",
       "type": "trait",
       "img": "systems/symbaroum/asset/image/trait.png",
       "system": {
@@ -739,14 +187,14 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456710,
+        "createdTime": 1782971273102,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
     },
     {
-      "_id": "1GelN8eNp4e5zYyr",
-      "name": "robust",
+      "_id": "1eZ9tVAxWsqTcDJD",
+      "name": "Robust",
       "type": "trait",
       "img": "systems/symbaroum/asset/image/trait.png",
       "system": {
@@ -809,7 +257,209 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456710,
+        "createdTime": 1782971273102,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1116BAmf6iFtQZZI",
+      "name": "Bodyguard",
+      "type": "ability",
+      "img": "systems/symbaroum/asset/image/ability.png",
+      "system": {
+        "description": "",
+        "reference": "bodyguard",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782971273102,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "16UaG818FA3zpFlq",
+      "name": "Shieldfighter",
+      "type": "ability",
+      "img": "systems/symbaroum/asset/image/ability.png",
+      "system": {
+        "description": "",
+        "reference": "shieldfighter",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782971273102,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1YgR8T46Tzg5HD3C",
+      "name": "Corruption Slam",
+      "type": "weapon",
+      "img": "icons/skills/melee/strike-polearm-light-orange.webp",
+      "system": {
+        "description": "<p>If the targets are adjacent to each other, this ability deals an extra  damage.</p>",
+        "attribute": "strong",
+        "reference": "unarmed",
+        "baseDamage": "1d12",
+        "bonusDamage": "",
+        "alternativeDamage": "",
+        "cost": "",
+        "number": 1,
+        "isArtifact": false,
+        "quality": "",
+        "qualities": {},
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "power": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782971273102,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
@@ -923,7 +573,7 @@
     "coreVersion": "13",
     "systemId": "symbaroum",
     "systemVersion": null,
-    "createdTime": 1782919456710,
+    "createdTime": 1782971273102,
     "modifiedTime": null,
     "lastModifiedBy": null
   }

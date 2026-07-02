@@ -85,8 +85,8 @@
     "bio": {
       "race": "Human",
       "occupation": "NPC",
-      "quote": "Deputy Freja is the junior Chainwarden at Stairwatch’s post near the Ever-Ember. Young, sharp-eyed, and relentlessly suspicious. She does not drink — not on duty, not off it — and considers this a pro",
-      "shadow": "",
+      "quote": "",
+      "shadow": "Deputy Freja is the junior Chainwarden at Stairwatch’s post near the Ever-Ember. Young, sharp-eyed, and relentlessly suspicious. She does not drink — not on duty, not off it — and considers this a professional virtue rather than a personal preference.Freja is by-the-book in the way people become whe",
       "manner": ""
     },
     "bonus": {
@@ -133,7 +133,7 @@
     "name": "Deputy Freja (Chainwarden)",
     "displayName": 20,
     "actorLink": false,
-    "disposition": -1,
+    "disposition": 0,
     "width": 1,
     "height": 1,
     "texture": {
@@ -230,7 +230,7 @@
     "coreVersion": "13",
     "systemId": "symbaroum",
     "systemVersion": null,
-    "createdTime": 1782919472202,
+    "createdTime": 1782971273155,
     "modifiedTime": null,
     "lastModifiedBy": null
   }

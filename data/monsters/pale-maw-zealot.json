@@ -86,7 +86,7 @@
       "race": "Humanoid",
       "occupation": "Harrier",
       "quote": "",
-      "shadow": "A medium Humanoid of DS level 3 (platoon)",
+      "shadow": "Pale Maw zealots are the passionate new converts of the Entropy cult — less disciplined than operatives but burning with certainty. They throw themselves into combat screaming entropy scripture, using their Zealous Cry to terrify and disorient clustered enemies. Their True Believer immunity to fear ",
       "manner": ""
     },
     "bonus": {
@@ -179,147 +179,7 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456703,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "0Rx9H7qv7NCgjmXb",
-      "name": "Zealous Cry",
-      "type": "trait",
-      "img": "icons/magic/unholy/orb-swirling-teal.webp",
-      "system": {
-        "description": "<p>Each enemy within burst 2 takes 2 psychic damage. Each enemy that fails a Presence attribute test against the zealot is frightened (save ends). Pale Maw allies within the burst may immediately make a Free Attack.</p>",
-        "reference": "deadlybreath",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>Each enemy within burst 2 takes 2 psychic damage. Each enemy that fails a Presence attribute test against the zealot is frightened (save ends). Pale Maw allies within the burst may immediately make a Free Attack.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456703,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "1ZWjrD2eukNCdivI",
-      "name": "True Believer",
-      "type": "trait",
-      "img": "icons/creatures/abilities/bull-head-horns-glowing.webp",
-      "system": {
-        "description": "<p>The zealot is immune to the frightened and charmed conditions.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": false,
-          "action": "P",
-          "description": "<p>The zealot is immune to the frightened and charmed conditions.</p>"
-        },
-        "adept": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456703,
+        "createdTime": 1782971273097,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
@@ -433,7 +293,7 @@
     "coreVersion": "13",
     "systemId": "symbaroum",
     "systemVersion": null,
-    "createdTime": 1782919456704,
+    "createdTime": 1782971273097,
     "modifiedTime": null,
     "lastModifiedBy": null
   }

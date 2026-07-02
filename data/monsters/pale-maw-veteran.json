@@ -86,7 +86,7 @@
       "race": "Humanoid",
       "occupation": "Defender",
       "quote": "",
-      "shadow": "A medium Humanoid of DS level 3 (platoon)",
+      "shadow": "Pale Maw veterans are long-serving members of the Entropy cult — scarred, weathered warriors who have survived campaigns that killed their fellows. They move with the quiet confidence of survivors, keeping Defensive Posture alongside allies and hitting with the Veteran's Thrust that exploits any ope",
       "manner": ""
     },
     "bonus": {
@@ -123,26 +123,26 @@
   },
   "items": [
     {
-      "_id": "ArTKVz55msEnJnh7",
-      "name": "Call to the Wall",
-      "type": "trait",
-      "img": "icons/creatures/abilities/bull-head-horns-glowing.webp",
+      "_id": "1116BAmf6iFtQZZI",
+      "name": "Bodyguard",
+      "type": "ability",
+      "img": "systems/symbaroum/asset/image/ability.png",
       "system": {
-        "description": "<p>Whenever a creature deals damage to or takes damage from the shieldwall, the shieldwall can make that creature taunted until the end of the creature's next turn.</p>",
-        "reference": "",
+        "description": "",
+        "reference": "bodyguard",
         "novice": {
-          "isActive": false,
-          "action": "P",
-          "description": "<p>Whenever a creature deals damage to or takes damage from the shieldwall, the shieldwall can make that creature taunted until the end of the creature's next turn.</p>"
+          "isActive": true,
+          "action": "A",
+          "description": ""
         },
         "adept": {
           "isActive": false,
-          "action": "P",
+          "action": "A",
           "description": ""
         },
         "master": {
           "isActive": false,
-          "action": "P",
+          "action": "A",
           "description": ""
         },
         "bonus": {
@@ -187,7 +187,77 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456703,
+        "createdTime": 1782971273096,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "16UaG818FA3zpFlq",
+      "name": "Shieldfighter",
+      "type": "ability",
+      "img": "systems/symbaroum/asset/image/ability.png",
+      "system": {
+        "description": "",
+        "reference": "shieldfighter",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782971273096,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
@@ -249,287 +319,7 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456703,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "1AJJySroGTy1LNs7",
-      "name": "Intercepting Shield",
-      "type": "ability",
-      "img": "icons/skills/movement/arrow-upward-yellow.webp",
-      "system": {
-        "description": "<p>The shieldwall becomes the target of the triggering strike and halves the damage.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>The shieldwall becomes the target of the triggering strike and halves the damage.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456703,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "qjiKqHdFyoQVY6FO",
-      "name": "Breaching Charge",
-      "type": "ability",
-      "img": "icons/skills/movement/arrow-upward-yellow.webp",
-      "system": {
-        "description": "<p>A dwarf can destroy one adjacent object or meters (2 m) of wall for each 3 Malice spent. Each enemy adjacent to the destroyed object or meters (2 m) takes the object’s Toughness in damage ( for wood,  for stone, or  for metal).</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>A dwarf can destroy one adjacent object or meters (2 m) of wall for each 3 Malice spent. Each enemy adjacent to the destroyed object or meters (2 m) takes the object’s Toughness in damage ( for wood,  for stone, or  for metal).</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456703,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "1FvJU01k6QWGWSyC",
-      "name": "Rappelling Barrage",
-      "type": "ability",
-      "img": "icons/skills/ranged/projectile-spiral-gray.webp",
-      "system": {
-        "description": "<p>Each dwarf acting this turn can automatically climb at full speed while moving. At any point during this movement, they can make a Free Attack.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>Each dwarf acting this turn can automatically climb at full speed while moving. At any point during this movement, they can make a Free Attack.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456703,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "S6yRljH4pWNK8t5j",
-      "name": "Snaring Line",
-      "type": "trait",
-      "img": "icons/magic/unholy/silhouette-robe-evil-power.webp",
-      "system": {
-        "description": "<p>The snaring line remains until the end of the encounter. Any enemy who moves into the area for the first time in a round or starts their turn there must make the test.</p><p><strong>Special:</strong> This ability canʼt be used by a minion.</p>",
-        "reference": "deadlybreath",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>The snaring line remains until the end of the encounter. Any enemy who moves into the area for the first time in a round or starts their turn there must make the test.</p><p><strong>Special:</strong> This ability canʼt be used by a minion.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456703,
+        "createdTime": 1782971273096,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
@@ -643,7 +433,7 @@
     "coreVersion": "13",
     "systemId": "symbaroum",
     "systemVersion": null,
-    "createdTime": 1782919456703,
+    "createdTime": 1782971273096,
     "modifiedTime": null,
     "lastModifiedBy": null
   }

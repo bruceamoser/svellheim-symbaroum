@@ -86,7 +86,7 @@
       "race": "Undead",
       "occupation": "Brute",
       "quote": "",
-      "shadow": "A huge Undead of DS level 7 (elite)",
+      "shadow": "Stage 1 of Grafvitnir's manifestation — a massive black wolf that fills the longhouse with its presence, eyes burning green with rot-light. Though still fundamentally wolf-shaped, the corruption has stretched it beyond natural scale into something ancient and terrible. In Stage 1, Grafvitnir tests t",
       "manner": ""
     },
     "bonus": {
@@ -123,560 +123,8 @@
   },
   "items": [
     {
-      "_id": "OUhUQLKmjAXOZGyu",
-      "name": "Destructive Path",
-      "type": "trait",
-      "img": "icons/creatures/abilities/dragon-breath-purple.webp",
-      "system": {
-        "description": "<p>The clobberer automatically destroys any mundane size 1 objects in their path when they move or are forced moved. They can break through any mundane wall made of wood, stone, or a similarly sturdy material this way as long as the wall is 2 meters thick or less.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": false,
-          "action": "P",
-          "description": "<p>The clobberer automatically destroys any mundane size 1 objects in their path when they move or are forced moved. They can break through any mundane wall made of wood, stone, or a similarly sturdy material this way as long as the wall is 2 meters thick or less.</p>"
-        },
-        "adept": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456687,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "PZ55eaJwx0BEJKj9",
-      "name": "Distracted",
-      "type": "trait",
-      "img": "icons/creatures/abilities/dragon-fire-breath-orange.webp",
-      "system": {
-        "description": "<p>Whenever the clobberer targets a creature or object with an ability, any enemy within distance of the ability can use a free triggered action to distract the clobberer. The clobberer targets that enemy instead</p>",
-        "reference": "",
-        "novice": {
-          "isActive": false,
-          "action": "P",
-          "description": "<p>Whenever the clobberer targets a creature or object with an ability, any enemy within distance of the ability can use a free triggered action to distract the clobberer. The clobberer targets that enemy instead</p>"
-        },
-        "adept": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456687,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "bJSOL9AlKjEgyOAO",
-      "name": "Clobberin' Club",
-      "type": "weapon",
-      "img": "icons/weapons/clubs/greatclub-simple.webp",
-      "system": {
-        "description": "<p>A target who is already prone takes an extra  damage.</p>",
-        "attribute": "strong",
-        "reference": "1handed",
-        "baseDamage": "1d12",
-        "bonusDamage": "",
-        "alternativeDamage": "",
-        "cost": "",
-        "number": 1,
-        "isArtifact": false,
-        "quality": "",
-        "qualities": {},
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "power": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456687,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "zzUvzw7H3O083g2U",
-      "name": "Hill Quake",
-      "type": "trait",
-      "img": "icons/magic/earth/stone-fist-strike-yellow.webp",
-      "system": {
-        "description": "<p>The clobberer can choose to fall prone in order to double the forced movement distance.</p>",
-        "reference": "deadlybreath",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>The clobberer can choose to fall prone in order to double the forced movement distance.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456687,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "1CjiTZ00g9u4tXz2",
-      "name": "You Ain't Getting Away",
-      "type": "ability",
-      "img": "icons/skills/movement/arrow-upward-yellow.webp",
-      "system": {
-        "description": "<p>The target makes an <strong>Agility test.</strong></p><p>{5 damage}</p><p></p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>The target makes an <strong>Agility test.</strong></p><p>{5 damage}</p><p></p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456687,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "m9uOf8eciqbO2dVU",
-      "name": "Bellow",
-      "type": "ability",
-      "img": "icons/magic/unholy/silhouette-robe-evil-power.webp",
-      "system": {
-        "description": "<p>Each giant in the encounter takes a deep breath and yells, pushing each creature within 3 meters of them up to 10 meters. A creature giant of your choice.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>Each giant in the encounter takes a deep breath and yells, pushing each creature within 3 meters of them up to 10 meters. A creature giant of your choice.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456687,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "aJD1I9vNGedA1x4d",
-      "name": "Hurl Landscape",
-      "type": "trait",
-      "img": "icons/skills/movement/arrow-upward-blue.webp",
-      "system": {
-        "description": "<p>A giant unearths a structure, hazard, or chunk of the encounter map and launches it to fill the area. Each target makes an <strong>Agility test</strong>.</p>",
-        "reference": "deadlybreath",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>A giant unearths a structure, hazard, or chunk of the encounter map and launches it to fill the area. Each target makes an <strong>Agility test</strong>.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456687,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "OxUGOthm5CCgpAG3",
-      "name": "Titanic Tear",
-      "type": "ability",
-      "img": "icons/magic/unholy/silhouette-robe-evil-power.webp",
-      "system": {
-        "description": "<p>A giant creates a fissure along the ground, either in a 15 × 2 line within 1 or a 10 × 3 line within 2, and that opens up to a depth of 6 meters. Each giant in the area can shift into the nearest unoccupied space outside the fissure. Each non-giant in the area makes an <strong>Agility test</strong>.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>A giant creates a fissure along the ground, either in a 15 × 2 line within 1 or a 10 × 3 line within 2, and that opens up to a depth of 6 meters. Each giant in the area can shift into the nearest unoccupied space outside the fissure. Each non-giant in the area makes an <strong>Agility test</strong>.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456687,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "1OxqNA91leM1oxti",
-      "name": "undead",
+      "_id": "1KsTa1vGVAzpCObr",
+      "name": "Undead",
       "type": "trait",
       "img": "systems/symbaroum/asset/image/trait.png",
       "system": {
@@ -739,14 +187,14 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456687,
+        "createdTime": 1782971273077,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
     },
     {
-      "_id": "5PuBPc0b9lDe9K9w",
-      "name": "gravelycold",
+      "_id": "1PZmRVEjMJ8KE9Mh",
+      "name": "Gravelycold",
       "type": "trait",
       "img": "systems/symbaroum/asset/image/trait.png",
       "system": {
@@ -809,32 +257,32 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456687,
+        "createdTime": 1782971273077,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
     },
     {
-      "_id": "7ZsYN6xkFmKlC69I",
-      "name": "Robust",
-      "type": "trait",
-      "img": "systems/symbaroum/asset/image/trait.png",
+      "_id": "1DTabmVMEVjAj5oT",
+      "name": "Featofstrength",
+      "type": "ability",
+      "img": "systems/symbaroum/asset/image/ability.png",
       "system": {
         "description": "",
-        "reference": "robust",
+        "reference": "featofstrength",
         "novice": {
           "isActive": true,
-          "action": "P",
+          "action": "A",
           "description": ""
         },
         "adept": {
           "isActive": false,
-          "action": "P",
+          "action": "A",
           "description": ""
         },
         "master": {
           "isActive": false,
-          "action": "P",
+          "action": "A",
           "description": ""
         },
         "bonus": {
@@ -879,7 +327,139 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456687,
+        "createdTime": 1782971273077,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "qF7LobvaZjeuNC4D",
+      "name": "Twohandedforce",
+      "type": "ability",
+      "img": "systems/symbaroum/asset/image/ability.png",
+      "system": {
+        "description": "",
+        "reference": "twohandedforce",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782971273077,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "bJSOL9AlKjEgyOAO",
+      "name": "Clobberin' Club",
+      "type": "weapon",
+      "img": "icons/weapons/clubs/greatclub-simple.webp",
+      "system": {
+        "description": "<p>A target who is already prone takes an extra  damage.</p>",
+        "attribute": "strong",
+        "reference": "unarmed",
+        "baseDamage": "1d12",
+        "bonusDamage": "",
+        "alternativeDamage": "",
+        "cost": "",
+        "number": 1,
+        "isArtifact": false,
+        "quality": "",
+        "qualities": {},
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "power": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782971273077,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
@@ -993,7 +573,7 @@
     "coreVersion": "13",
     "systemId": "symbaroum",
     "systemVersion": null,
-    "createdTime": 1782919456687,
+    "createdTime": 1782971273077,
     "modifiedTime": null,
     "lastModifiedBy": null
   }

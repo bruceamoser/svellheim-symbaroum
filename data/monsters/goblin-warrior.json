@@ -86,7 +86,7 @@
       "race": "Humanoid",
       "occupation": "Harrier",
       "quote": "",
-      "shadow": "A small Humanoid of DS level 1 (horde)",
+      "shadow": "Goblin warriors are the spear-carriers of the goblin warbands — louder, bolder, and slightly less cowardly than the runners they fight alongside. They advance in loose mobs, hurling spears before closing to stab with short blades. Their Bury the Point technique exploits prone or off-balance opponent",
       "manner": ""
     },
     "bonus": {
@@ -130,7 +130,7 @@
       "system": {
         "description": "",
         "attribute": "quick",
-        "reference": "1handed",
+        "reference": "unarmed",
         "baseDamage": "1d6",
         "bonusDamage": "",
         "alternativeDamage": "",
@@ -179,287 +179,7 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456686,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "VKsW2gLTwIFmbDWL",
-      "name": "Crafty",
-      "type": "trait",
-      "img": "icons/creatures/abilities/bull-head-horns-glowing.webp",
-      "system": {
-        "description": "<p>The Goblin Warrior doesnÊ¼t provoke opportunity attacks by moving.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": false,
-          "action": "P",
-          "description": "<p>The Goblin Warrior doesnÊ¼t provoke opportunity attacks by moving.</p>"
-        },
-        "adept": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456686,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "1LZ6L49B18rDLj9B",
-      "name": "Goblin Mode",
-      "type": "ability",
-      "img": "icons/skills/social/diplomacy-handshake.webp",
-      "system": {
-        "description": "<p>Each goblin in the encounter gains a +2 bonus to speed until the end of the round.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>Each goblin in the encounter gains a +2 bonus to speed until the end of the round.</p>"
-        },
-        "adept": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456686,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "LQ2Lr63WkuGrAC8Z",
-      "name": "Tiny Stabs",
-      "type": "ability",
-      "img": "icons/magic/unholy/silhouette-robe-evil-power.webp",
-      "system": {
-        "description": "<p>Each enemy in the encounter takes 1 damage for each goblin adjacent to them.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>Each enemy in the encounter takes 1 damage for each goblin adjacent to them.</p>"
-        },
-        "adept": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456686,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "LUBaca9klOXKot9A",
-      "name": "Swamp Stink",
-      "type": "ability",
-      "img": "icons/magic/air/air-pressure-shield-blue.webp",
-      "system": {
-        "description": "<p>The encounter map is covered in a green mist that lasts until the end of the round, and which can’t be dispersed by wind. All areas of the map are difficult terrain for non-goblins, and each non-goblin on the map makes a <strong>Might test.</strong></p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>The encounter map is covered in a green mist that lasts until the end of the round, and which can’t be dispersed by wind. All areas of the map are difficult terrain for non-goblins, and each non-goblin on the map makes a <strong>Might test.</strong></p>"
-        },
-        "adept": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456686,
+        "createdTime": 1782971273076,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
@@ -573,7 +293,7 @@
     "coreVersion": "13",
     "systemId": "symbaroum",
     "systemVersion": null,
-    "createdTime": 1782919456686,
+    "createdTime": 1782971273076,
     "modifiedTime": null,
     "lastModifiedBy": null
   }

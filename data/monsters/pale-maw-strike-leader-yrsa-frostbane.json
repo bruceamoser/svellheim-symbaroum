@@ -86,7 +86,7 @@
       "race": "Humanoid",
       "occupation": "Support",
       "quote": "",
-      "shadow": "A medium Humanoid of DS level 4 (platoon)",
+      "shadow": "Yrsa Frostbane is the Pale Maw Strike Leader who steps into command if Þráinn Ashward falls — an accomplished military commander who is more direct and less ideological than the Inquisitor. She wears battle-worn armor and wields a well-maintained greatsword. Her Command Presence grants passive bonus",
       "manner": ""
     },
     "bonus": {
@@ -123,26 +123,26 @@
   },
   "items": [
     {
-      "_id": "1MEGHr5gBCJNoDRw",
-      "name": "Battle Ready",
-      "type": "trait",
-      "img": "icons/creatures/abilities/bull-head-horns-glowing.webp",
+      "_id": "evD9qlMDOMRjSNGX",
+      "name": "Leader",
+      "type": "ability",
+      "img": "systems/symbaroum/asset/image/ability.png",
       "system": {
-        "description": "<p>Any hidden creature who makes a strike against the death captain or any ally within 2 meters of the death captain takes a disadvantage (second chance) on the strike.</p>",
-        "reference": "",
+        "description": "",
+        "reference": "leader",
         "novice": {
-          "isActive": false,
-          "action": "P",
-          "description": "<p>Any hidden creature who makes a strike against the death captain or any ally within 2 meters of the death captain takes a disadvantage (second chance) on the strike.</p>"
+          "isActive": true,
+          "action": "A",
+          "description": ""
         },
         "adept": {
           "isActive": false,
-          "action": "P",
+          "action": "A",
           "description": ""
         },
         "master": {
           "isActive": false,
-          "action": "P",
+          "action": "A",
           "description": ""
         },
         "bonus": {
@@ -187,32 +187,32 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456702,
+        "createdTime": 1782971273096,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
     },
     {
-      "_id": "1NrGETr0Mp1wQvZG",
-      "name": "Infernal Ichor",
-      "type": "trait",
-      "img": "icons/creatures/abilities/dragon-fire-breath-orange.webp",
+      "_id": "oo64VSzKQtY76xIj",
+      "name": "Medicus",
+      "type": "ability",
+      "img": "systems/symbaroum/asset/image/ability.png",
       "system": {
-        "description": "<p>When the death captain is reduced to 0 Toughness, they spray burning blood. Each creature adjacent to the death captain takes  damage.</p>",
-        "reference": "",
+        "description": "",
+        "reference": "medicus",
         "novice": {
-          "isActive": false,
-          "action": "P",
-          "description": "<p>When the death captain is reduced to 0 Toughness, they spray burning blood. Each creature adjacent to the death captain takes  damage.</p>"
+          "isActive": true,
+          "action": "A",
+          "description": ""
         },
         "adept": {
           "isActive": false,
-          "action": "P",
+          "action": "A",
           "description": ""
         },
         "master": {
           "isActive": false,
-          "action": "P",
+          "action": "A",
           "description": ""
         },
         "bonus": {
@@ -257,7 +257,7 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456702,
+        "createdTime": 1782971273096,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
@@ -319,287 +319,7 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456702,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "QmQQ7sIzGVpwhBue",
-      "name": "On My Mark!",
-      "type": "trait",
-      "img": "icons/skills/social/diplomacy-handshake.webp",
-      "system": {
-        "description": "<p>The target moves up to their speed and can make a Free Attack.</p>",
-        "reference": "alternativedamage",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>The target moves up to their speed and can make a Free Attack.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456702,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "1zFuEKCncz5Go5c3",
-      "name": "Operation Earth Sear",
-      "type": "ability",
-      "img": "icons/magic/earth/stone-fist-strike-yellow.webp",
-      "system": {
-        "description": "<p>Until the end of the round, the ground throughout the encounter map becomes blazing hot. Any enemy takes  damage for each meters (2 m) of the ground they enter. Any enemy who ends their turn on the ground has fire weakness 2 until the start of their next turn.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>Until the end of the round, the ground throughout the encounter map becomes blazing hot. Any enemy takes  damage for each meters (2 m) of the ground they enter. Any enemy who ends their turn on the ground has fire weakness 2 until the start of their next turn.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456702,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "11YhL212WPdqqonM",
-      "name": "Operation Swift Strike",
-      "type": "ability",
-      "img": "icons/skills/social/diplomacy-handshake.webp",
-      "system": {
-        "description": "<p>each Pale Maw cultist in the encounter gains a +3 bonus to speed until the end of the round.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>each Pale Maw cultist in the encounter gains a +3 bonus to speed until the end of the round.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456702,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "EZypoaRHWfnQ1imA",
-      "name": "Operation Tactical Swarm",
-      "type": "ability",
-      "img": "icons/skills/social/diplomacy-handshake.webp",
-      "system": {
-        "description": "<p>Each hobgoblin in the encounter shifts up to their speed and can take the Defend main action.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>Each hobgoblin in the encounter shifts up to their speed and can take the Defend main action.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456702,
+        "createdTime": 1782971273096,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
@@ -713,7 +433,7 @@
     "coreVersion": "13",
     "systemId": "symbaroum",
     "systemVersion": null,
-    "createdTime": 1782919456702,
+    "createdTime": 1782971273096,
     "modifiedTime": null,
     "lastModifiedBy": null
   }

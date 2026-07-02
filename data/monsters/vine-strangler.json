@@ -86,7 +86,7 @@
       "race": "Plant",
       "occupation": "Ambusher",
       "quote": "",
-      "shadow": "A large Plant of DS level 2 (elite)",
+      "shadow": "Vine stranglers lurk beneath Svellheim's corrupted woodland floors — a tangle of rot-touched vines that has gained predatory intelligence from the Rot's influence. They strike from ambush, erupting from the earth to entangle prey in choking root-grips while draining vitality with poisoned thorns. Th",
       "manner": ""
     },
     "bonus": {
@@ -123,412 +123,8 @@
   },
   "items": [
     {
-      "_id": "1E1gtyigbSLEUD1i",
-      "name": "Natural Camouflage",
-      "type": "trait",
-      "img": "icons/creatures/abilities/bull-head-horns-glowing.webp",
-      "system": {
-        "description": "<p>The vine strangler can attempt to hide even while observed. While no enemy has line of effect to the vine strangler, they automatically hide at the end of their turn.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": false,
-          "action": "P",
-          "description": "<p>The vine strangler can attempt to hide even while observed. While no enemy has line of effect to the vine strangler, they automatically hide at the end of their turn.</p>"
-        },
-        "adept": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456713,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "5YoNr7ZT6hjvho8O",
-      "name": "Thorned Grip",
-      "type": "trait",
-      "img": "icons/creatures/abilities/dragon-breath-purple.webp",
-      "system": {
-        "description": "<p>Creatures grabbed by the vine strangler take  damage at the start of each of their turns.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": false,
-          "action": "P",
-          "description": "<p>Creatures grabbed by the vine strangler take  damage at the start of each of their turns.</p>"
-        },
-        "adept": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456713,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "1e45Y0YYla8j8c9t",
-      "name": "Sucker Punch",
-      "type": "weapon",
-      "img": "icons/skills/melee/strike-polearm-light-orange.webp",
-      "system": {
-        "description": "<p>The target can't use triggered actions until the start of the next round. Additionally, if the strangler started their turn hidden from the target, this ability deals an extra  damage.</p>",
-        "attribute": "strong",
-        "reference": "1handed",
-        "baseDamage": "1d12",
-        "bonusDamage": "",
-        "alternativeDamage": "",
-        "cost": "",
-        "number": 1,
-        "isArtifact": false,
-        "quality": "",
-        "qualities": {},
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "power": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456713,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "t5ymu2IaqitoHNDA",
-      "name": "Shadow Cloak",
-      "type": "trait",
-      "img": "icons/skills/melee/strike-polearm-light-orange.webp",
-      "system": {
-        "description": "<p>The strangler shifts up to their speed and can attempt to hide.</p>",
-        "reference": "deadlybreath",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>The strangler shifts up to their speed and can attempt to hide.</p>"
-        },
-        "adept": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456713,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "umfcveuoSXEgPfpT",
-      "name": "Carving Dagger",
-      "type": "weapon",
-      "img": "icons/weapons/daggers/dagger-curved-teal.webp",
-      "system": {
-        "description": "<p>While bleeding this way, the target can't hide from the strangler or their allies.</p>",
-        "attribute": "strong",
-        "reference": "ranged",
-        "baseDamage": "1d10",
-        "bonusDamage": "",
-        "alternativeDamage": "",
-        "cost": "",
-        "number": 1,
-        "isArtifact": false,
-        "quality": "",
-        "qualities": {},
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "power": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456713,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "NGaCWGs51ssm2f7N",
-      "name": "Clever Trick",
-      "type": "ability",
-      "img": "icons/skills/movement/arrow-upward-yellow.webp",
-      "system": {
-        "description": "<p>The strangler chooses one enemy within distance of the strike to become the target of the strike.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>The strangler chooses one enemy within distance of the strike to become the target of the strike.</p>"
-        },
-        "adept": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456713,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "ZY5aF4UYNiG8eRAO",
-      "name": "regeneration",
+      "_id": "1QPr1FeWdZbgtran",
+      "name": "Regeneration",
       "type": "trait",
       "img": "systems/symbaroum/asset/image/trait.png",
       "system": {
@@ -591,14 +187,14 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456713,
+        "createdTime": 1782971273105,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
     },
     {
-      "_id": "jmVhGpofuWRZAGlb",
-      "name": "rootwall",
+      "_id": "1Di8m3Fiyfp5B9LE",
+      "name": "Rootwall",
       "type": "trait",
       "img": "systems/symbaroum/asset/image/trait.png",
       "system": {
@@ -661,7 +257,69 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456713,
+        "createdTime": 1782971273105,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1e45Y0YYla8j8c9t",
+      "name": "Sucker Punch",
+      "type": "weapon",
+      "img": "icons/skills/melee/strike-polearm-light-orange.webp",
+      "system": {
+        "description": "<p>The target can't use triggered actions until the start of the next round. Additionally, if the strangler started their turn hidden from the target, this ability deals an extra  damage.</p>",
+        "attribute": "strong",
+        "reference": "unarmed",
+        "baseDamage": "1d12",
+        "bonusDamage": "",
+        "alternativeDamage": "",
+        "cost": "",
+        "number": 1,
+        "isArtifact": false,
+        "quality": "",
+        "qualities": {},
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "power": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782971273105,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
@@ -775,7 +433,7 @@
     "coreVersion": "13",
     "systemId": "symbaroum",
     "systemVersion": null,
-    "createdTime": 1782919456713,
+    "createdTime": 1782971273105,
     "modifiedTime": null,
     "lastModifiedBy": null
   }

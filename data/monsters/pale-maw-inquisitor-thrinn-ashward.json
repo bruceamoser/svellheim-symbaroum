@@ -86,7 +86,7 @@
       "race": "Humanoid",
       "occupation": "Support",
       "quote": "",
-      "shadow": "A medium Humanoid of DS level 5 (elite)",
+      "shadow": "Þráinn Ashward is the Pale Maw Inquisitor commanding the cult's operations in Svellheim — tall, gaunt, one eye scarred across and unhidden, dressed in deep purple robes with silver entropy symbols. He is analytical, certain, and merciless. His Zealot's Judgment marks targets for follow-up devastatio",
       "manner": ""
     },
     "bonus": {
@@ -123,26 +123,26 @@
   },
   "items": [
     {
-      "_id": "1TkFkWdOraXyCrbZ",
-      "name": "Stalwart Guardian",
-      "type": "trait",
-      "img": "icons/creatures/abilities/bull-head-horns-glowing.webp",
+      "_id": "evD9qlMDOMRjSNGX",
+      "name": "Leader",
+      "type": "ability",
+      "img": "systems/symbaroum/asset/image/ability.png",
       "system": {
-        "description": "<p>Strikes made against allies adjacent to the conduit take a disadvantage (second chance).</p>",
-        "reference": "",
+        "description": "",
+        "reference": "leader",
         "novice": {
-          "isActive": false,
-          "action": "P",
-          "description": "<p>Strikes made against allies adjacent to the conduit take a disadvantage (second chance).</p>"
+          "isActive": true,
+          "action": "A",
+          "description": ""
         },
         "adept": {
           "isActive": false,
-          "action": "P",
+          "action": "A",
           "description": ""
         },
         "master": {
           "isActive": false,
-          "action": "P",
+          "action": "A",
           "description": ""
         },
         "bonus": {
@@ -187,32 +187,32 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456699,
+        "createdTime": 1782971273094,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
     },
     {
-      "_id": "b3GACgVFDTWVrnBY",
-      "name": "Rivalry",
-      "type": "trait",
-      "img": "icons/creatures/abilities/dragon-breath-purple.webp",
+      "_id": "oo64VSzKQtY76xIj",
+      "name": "Medicus",
+      "type": "ability",
+      "img": "systems/symbaroum/asset/image/ability.png",
       "system": {
-        "description": "<p>At the start of an encounter, the conduit chooses one creature within their line of effect. Both the conduit and the creature can add a  roll to power rolls they make against each other.</p>",
-        "reference": "",
+        "description": "",
+        "reference": "medicus",
         "novice": {
-          "isActive": false,
-          "action": "P",
-          "description": "<p>At the start of an encounter, the conduit chooses one creature within their line of effect. Both the conduit and the creature can add a  roll to power rolls they make against each other.</p>"
+          "isActive": true,
+          "action": "A",
+          "description": ""
         },
         "adept": {
           "isActive": false,
-          "action": "P",
+          "action": "A",
           "description": ""
         },
         "master": {
           "isActive": false,
-          "action": "P",
+          "action": "A",
           "description": ""
         },
         "bonus": {
@@ -257,7 +257,7 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456699,
+        "createdTime": 1782971273094,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
@@ -319,427 +319,7 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456699,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "1OYiKmTw0t7K0ObM",
-      "name": "Imbue with Power",
-      "type": "trait",
-      "img": "icons/skills/social/diplomacy-handshake.webp",
-      "system": {
-        "description": "<p>Each target has a double advantage (second chance) on their next strike.</p>",
-        "reference": "alternativedamage",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>Each target has a double advantage (second chance) on their next strike.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456699,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "1NkdQPNOWwauJ3KP",
-      "name": "Calling the Shots",
-      "type": "ability",
-      "img": "icons/skills/social/diplomacy-handshake.webp",
-      "system": {
-        "description": "<p>Each rival regains  Until the end of the round, when ever a rival uses an ability against an enemy, each other rival adjacent to that enemy can make a Free Attack against them.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>Each rival regains  Until the end of the round, when ever a rival uses an ability against an enemy, each other rival adjacent to that enemy can make a Free Attack against them.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456699,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "17WwjsLpm5u897Vx",
-      "name": "Coordinated Takedown",
-      "type": "ability",
-      "img": "icons/magic/unholy/silhouette-robe-evil-power.webp",
-      "system": {
-        "description": "<p>Each rival moves up to their speed and uses a main action or free action that doesn’t cost Malice.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>Each rival moves up to their speed and uses a main action or free action that doesn’t cost Malice.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456699,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "1HQqI9J2BOUehopY",
-      "name": "We Just Do It Better",
-      "type": "ability",
-      "img": "icons/skills/social/diplomacy-handshake.webp",
-      "system": {
-        "description": "<p>Until the end of the round, whenever any rival makes a attribute test against the target of their Rivalry trait, they roll a  and add it to the attribute test.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>Until the end of the round, whenever any rival makes a attribute test against the target of their Rivalry trait, they roll a  and add it to the attribute test.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456699,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "2oIFWFh3IGOfBr98",
-      "name": "Work as One",
-      "type": "ability",
-      "img": "icons/skills/social/diplomacy-handshake.webp",
-      "system": {
-        "description": "<p>Until the end of the round, each rival can impose a disadvantage (second chance) on a strike made against an adjacent rival as a free triggered action.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>Until the end of the round, each rival can impose a disadvantage (second chance) on a strike made against an adjacent rival as a free triggered action.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456699,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "DHmBqSLhE56cPi2j",
-      "name": "Check Out Our Loot",
-      "type": "ability",
-      "img": "icons/skills/social/diplomacy-handshake.webp",
-      "system": {
-        "description": "<p>One rival pulls out a magic consumable and hurls it, targeting a 5 × 1 line within 1 meters (2 m) of them or a 3 cube within 10 meters of them. Each enemy in the area makes an <strong>Agility test</strong>. The rival chooses a damage type and a condition for the outcome of the test from one of the following pairs: sonic damage and dazed, corruption damage and weakened, or psychic damage and frightened.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>One rival pulls out a magic consumable and hurls it, targeting a 5 × 1 line within 1 meters (2 m) of them or a 3 cube within 10 meters of them. Each enemy in the area makes an <strong>Agility test</strong>. The rival chooses a damage type and a condition for the outcome of the test from one of the following pairs: sonic damage and dazed, corruption damage and weakened, or psychic damage and frightened.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456700,
+        "createdTime": 1782971273094,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
@@ -853,7 +433,7 @@
     "coreVersion": "13",
     "systemId": "symbaroum",
     "systemVersion": null,
-    "createdTime": 1782919456700,
+    "createdTime": 1782971273094,
     "modifiedTime": null,
     "lastModifiedBy": null
   }

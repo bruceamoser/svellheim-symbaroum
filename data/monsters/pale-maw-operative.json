@@ -86,7 +86,7 @@
       "race": "Humanoid",
       "occupation": "Brute",
       "quote": "",
-      "shadow": "A medium Humanoid of DS level 4 (platoon)",
+      "shadow": "Pale Maw operatives are the elite strike teams of the Entropy cult — fanatics trained in both martial and psychological warfare. Robed in purple and silver vestments of entropy, they move with coordinated purpose, using Heretic's Mark to designate targets for their companions to finish. Their Unshak",
       "manner": ""
     },
     "bonus": {
@@ -123,26 +123,26 @@
   },
   "items": [
     {
-      "_id": "1BeE438IKg0DXv3A",
-      "name": "Infernal Ichor",
-      "type": "trait",
-      "img": "icons/creatures/abilities/dragon-fire-breath-orange.webp",
+      "_id": "1DTabmVMEVjAj5oT",
+      "name": "Featofstrength",
+      "type": "ability",
+      "img": "systems/symbaroum/asset/image/ability.png",
       "system": {
-        "description": "<p>When the trooper is reduced to 0 Toughness, they spray burning blood. Each creature adjacent to the trooper takes  damage.</p>",
-        "reference": "",
+        "description": "",
+        "reference": "featofstrength",
         "novice": {
-          "isActive": false,
-          "action": "P",
-          "description": "<p>When the trooper is reduced to 0 Toughness, they spray burning blood. Each creature adjacent to the trooper takes  damage.</p>"
+          "isActive": true,
+          "action": "A",
+          "description": ""
         },
         "adept": {
           "isActive": false,
-          "action": "P",
+          "action": "A",
           "description": ""
         },
         "master": {
           "isActive": false,
-          "action": "P",
+          "action": "A",
           "description": ""
         },
         "bonus": {
@@ -187,7 +187,77 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456700,
+        "createdTime": 1782971273095,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "qF7LobvaZjeuNC4D",
+      "name": "Twohandedforce",
+      "type": "ability",
+      "img": "systems/symbaroum/asset/image/ability.png",
+      "system": {
+        "description": "",
+        "reference": "twohandedforce",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782971273095,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
@@ -200,7 +270,7 @@
       "system": {
         "description": "<p>Until the end of their turn, the trooper doesn't provoke opportunity attacks from any target.</p>",
         "attribute": "strong",
-        "reference": "1handed",
+        "reference": "unarmed",
         "baseDamage": "1d10",
         "bonusDamage": "",
         "alternativeDamage": "",
@@ -249,357 +319,7 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456700,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "nzOuYAKfihkoQ92g",
-      "name": "Fight Me, Coward!",
-      "type": "trait",
-      "img": "icons/skills/melee/strike-polearm-light-orange.webp",
-      "system": {
-        "description": "<p>If the target has [[potency P 2]], they are . While taunted this way, the target takes  damage whenever they use an ability or strike that doesn’t target the trooper.</p>",
-        "reference": "alternativedamage",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>If the target has [[potency P 2]], they are . While taunted this way, the target takes  damage whenever they use an ability or strike that doesn’t target the trooper.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456700,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "1zFuEKCncz5Go5c3",
-      "name": "Operation Earth Sear",
-      "type": "ability",
-      "img": "icons/magic/earth/stone-fist-strike-yellow.webp",
-      "system": {
-        "description": "<p>Until the end of the round, the ground throughout the encounter map becomes blazing hot. Any enemy takes  damage for each meters (2 m) of the ground they enter. Any enemy who ends their turn on the ground has psychic weakness 2 until the start of their next turn.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>Until the end of the round, the ground throughout the encounter map becomes blazing hot. Any enemy takes  damage for each meters (2 m) of the ground they enter. Any enemy who ends their turn on the ground has psychic weakness 2 until the start of their next turn.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456700,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "11YhL212WPdqqonM",
-      "name": "Operation Swift Strike",
-      "type": "ability",
-      "img": "icons/skills/social/diplomacy-handshake.webp",
-      "system": {
-        "description": "<p>each Pale Maw cultist in the encounter gains a +3 bonus to speed until the end of the round.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>each Pale Maw cultist in the encounter gains a +3 bonus to speed until the end of the round.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456700,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "EZypoaRHWfnQ1imA",
-      "name": "Operation Tactical Swarm",
-      "type": "ability",
-      "img": "icons/skills/social/diplomacy-handshake.webp",
-      "system": {
-        "description": "<p>Each hobgoblin in the encounter shifts up to their speed and can take the Defend main action.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>Each hobgoblin in the encounter shifts up to their speed and can take the Defend main action.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456701,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "Zhzq6VEbjhxtKj3W",
-      "name": "Robust",
-      "type": "trait",
-      "img": "systems/symbaroum/asset/image/trait.png",
-      "system": {
-        "description": "",
-        "reference": "robust",
-        "novice": {
-          "isActive": true,
-          "action": "P",
-          "description": ""
-        },
-        "adept": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456701,
+        "createdTime": 1782971273095,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
@@ -713,7 +433,7 @@
     "coreVersion": "13",
     "systemId": "symbaroum",
     "systemVersion": null,
-    "createdTime": 1782919456701,
+    "createdTime": 1782971273095,
     "modifiedTime": null,
     "lastModifiedBy": null
   }

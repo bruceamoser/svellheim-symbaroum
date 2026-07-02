@@ -85,8 +85,8 @@
     "bio": {
       "race": "Human",
       "occupation": "NPC",
-      "quote": "Sergeant Tormund is the senior Chainwarden at Stairwatch's small stone post near the Ever-Ember. Broad-shouldered, grey-bearded, and unmistakably bored. He has been stationed in Stairwatch long enough",
-      "shadow": "",
+      "quote": "",
+      "shadow": "Sergeant Tormund is the senior Chainwarden at Stairwatch's small stone post near the Ever-Ember. Broad-shouldered, grey-bearded, and unmistakably bored. He has been stationed in Stairwatch long enough that he knows every face, every regular lie, and exactly how watered the ale at the Broken Stair re",
       "manner": ""
     },
     "bonus": {
@@ -133,7 +133,7 @@
     "name": "Sergeant Tormund (Chainwarden)",
     "displayName": 20,
     "actorLink": false,
-    "disposition": -1,
+    "disposition": 0,
     "width": 1,
     "height": 1,
     "texture": {
@@ -230,7 +230,7 @@
     "coreVersion": "13",
     "systemId": "symbaroum",
     "systemVersion": null,
-    "createdTime": 1782919472248,
+    "createdTime": 1782971273177,
     "modifiedTime": null,
     "lastModifiedBy": null
   }

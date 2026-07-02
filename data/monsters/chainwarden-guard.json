@@ -86,7 +86,7 @@
       "race": "Humanoid",
       "occupation": "Brute",
       "quote": "",
-      "shadow": "A medium Humanoid of DS level 1 (minion)",
+      "shadow": "Chainwarden guards are the most expendable of the Chainwarden force — lightly armored shock troops deployed to probe enemy lines and pin down targets for the heavier infantry. They carry halberds and move in pairs, trained to exploit flanking positions. When cornered or flanked themselves, they resp",
       "manner": ""
     },
     "bonus": {
@@ -123,26 +123,26 @@
   },
   "items": [
     {
-      "_id": "EgGuxv6JDtDUc7Z1",
-      "name": "Call to the Wall",
-      "type": "trait",
-      "img": "icons/creatures/abilities/bull-head-horns-glowing.webp",
+      "_id": "1DTabmVMEVjAj5oT",
+      "name": "Featofstrength",
+      "type": "ability",
+      "img": "systems/symbaroum/asset/image/ability.png",
       "system": {
-        "description": "<p>Whenever a creature deals damage to or takes damage from the chainwarden guard, the guard can make that creature taunted until the end of the creature’s next turn.</p>",
-        "reference": "",
+        "description": "",
+        "reference": "featofstrength",
         "novice": {
-          "isActive": false,
-          "action": "P",
-          "description": "<p>Whenever a creature deals damage to or takes damage from the chainwarden guard, the guard can make that creature taunted until the end of the creature’s next turn.</p>"
+          "isActive": true,
+          "action": "A",
+          "description": ""
         },
         "adept": {
           "isActive": false,
-          "action": "P",
+          "action": "A",
           "description": ""
         },
         "master": {
           "isActive": false,
-          "action": "P",
+          "action": "A",
           "description": ""
         },
         "bonus": {
@@ -187,23 +187,23 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456670,
+        "createdTime": 1782971273065,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
     },
     {
-      "_id": "qjiKqHdFyoQVY6FO",
-      "name": "Breaching Charge",
+      "_id": "qF7LobvaZjeuNC4D",
+      "name": "Twohandedforce",
       "type": "ability",
-      "img": "icons/skills/movement/arrow-upward-yellow.webp",
+      "img": "systems/symbaroum/asset/image/ability.png",
       "system": {
-        "description": "<p>A dwarf can destroy one adjacent object or meters (2 m) of wall for each 3 Malice spent. Each enemy adjacent to the destroyed object or meters (2 m) takes the object’s Toughness in damage ( for wood,  for stone, or  for metal).</p>",
-        "reference": "",
+        "description": "",
+        "reference": "twohandedforce",
         "novice": {
           "isActive": true,
           "action": "A",
-          "description": "<p>A dwarf can destroy one adjacent object or meters (2 m) of wall for each 3 Malice spent. Each enemy adjacent to the destroyed object or meters (2 m) takes the object’s Toughness in damage ( for wood,  for stone, or  for metal).</p>"
+          "description": ""
         },
         "adept": {
           "isActive": false,
@@ -257,77 +257,7 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456670,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "1FvJU01k6QWGWSyC",
-      "name": "Rappelling Barrage",
-      "type": "ability",
-      "img": "icons/skills/ranged/projectile-spiral-gray.webp",
-      "system": {
-        "description": "<p>Each dwarf acting this turn can automatically climb at full speed while moving. At any point during this movement, they can make a Free Attack.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>Each dwarf acting this turn can automatically climb at full speed while moving. At any point during this movement, they can make a Free Attack.</p>"
-        },
-        "adept": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456670,
+        "createdTime": 1782971273065,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
@@ -340,7 +270,7 @@
       "system": {
         "description": "<p>If the target is restrained, they take an extra  damage.</p>",
         "attribute": "strong",
-        "reference": "1handed",
+        "reference": "unarmed",
         "baseDamage": "1d6",
         "bonusDamage": "",
         "alternativeDamage": "",
@@ -389,77 +319,7 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456671,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "ZRoK6L73WXQ9gZtI",
-      "name": "Robust",
-      "type": "trait",
-      "img": "systems/symbaroum/asset/image/trait.png",
-      "system": {
-        "description": "",
-        "reference": "robust",
-        "novice": {
-          "isActive": true,
-          "action": "P",
-          "description": ""
-        },
-        "adept": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456671,
+        "createdTime": 1782971273065,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
@@ -573,7 +433,7 @@
     "coreVersion": "13",
     "systemId": "symbaroum",
     "systemVersion": null,
-    "createdTime": 1782919456671,
+    "createdTime": 1782971273065,
     "modifiedTime": null,
     "lastModifiedBy": null
   }

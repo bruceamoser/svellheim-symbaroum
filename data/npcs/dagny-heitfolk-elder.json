@@ -85,8 +85,8 @@
     "bio": {
       "race": "Human",
       "occupation": "NPC",
-      "quote": "Dagný is an 87-year-old Heitfolk tunnel record keeper — third-generation, stationed at the Steam-Oasis branch of the Heitfolk deep network. She was born into the station and has never left it for long",
-      "shadow": "",
+      "quote": "",
+      "shadow": "Dagný is an 87-year-old Heitfolk tunnel record keeper — third-generation, stationed at the Steam-Oasis branch of the Heitfolk deep network. She was born into the station and has never left it for longer than a seasonal survey. The Steam-Oasis records stretch back six generations in her handwriting a",
       "manner": ""
     },
     "bonus": {
@@ -133,7 +133,7 @@
     "name": "DagnÃ½ (Heitfolk Record Keeper)",
     "displayName": 20,
     "actorLink": false,
-    "disposition": -1,
+    "disposition": 0,
     "width": 1,
     "height": 1,
     "texture": {
@@ -230,7 +230,7 @@
     "coreVersion": "13",
     "systemId": "symbaroum",
     "systemVersion": null,
-    "createdTime": 1782919472192,
+    "createdTime": 1782971273150,
     "modifiedTime": null,
     "lastModifiedBy": null
   }

@@ -85,8 +85,8 @@
     "bio": {
       "race": "Human",
       "occupation": "NPC",
-      "quote": "Úrn is a Bundingsteinn diver &mdash; one of the coastal kinship specialists who navigate the flooded reef-caves and drowned passages beneath the Singing Islands shelf. He is compact and strong-necked,",
-      "shadow": "",
+      "quote": "",
+      "shadow": "Úrn is a Bundingsteinn diver &mdash; one of the coastal kinship specialists who navigate the flooded reef-caves and drowned passages beneath the Singing Islands shelf. He is compact and strong-necked, with calluses on both palms from years of pulling through current. He smells of brine regardless of",
       "manner": ""
     },
     "bonus": {
@@ -133,7 +133,7 @@
     "name": "Ãšrn (Bundingsteinn Diver Guide)",
     "displayName": 20,
     "actorLink": false,
-    "disposition": -1,
+    "disposition": 0,
     "width": 1,
     "height": 1,
     "texture": {
@@ -230,7 +230,7 @@
     "coreVersion": "13",
     "systemId": "symbaroum",
     "systemVersion": null,
-    "createdTime": 1782919472248,
+    "createdTime": 1782971273177,
     "modifiedTime": null,
     "lastModifiedBy": null
   }

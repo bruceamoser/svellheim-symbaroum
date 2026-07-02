@@ -86,7 +86,7 @@
       "race": "Elemental",
       "occupation": "Brute",
       "quote": "",
-      "shadow": "A medium Elemental of DS level 4 (solo)",
+      "shadow": "The earth-wight of the Singing Islands, an ancient geothermal spirit corrupted by the Rot. Once a guardian that tended the volcanic vents warming the island gardens, now a territorial destroyer that cannot distinguish pilgrim from threat. Its stone-and-root body leaves craters with every step. Deep ",
       "manner": ""
     },
     "bonus": {
@@ -123,630 +123,8 @@
   },
   "items": [
     {
-      "_id": "11jjWe6JdpK0E6rc",
-      "name": "Solo Monster",
-      "type": "trait",
-      "img": "systems/draw-steel/assets/roles/solo.webp",
-      "system": {
-        "description": "<p>At the end of each of their turns, the Jar&eth;v&aelig;ttr can take  damage to end one effect on them that can be ended by a attribute test. This damage can't be reduced in any way.</p><p>The Jar&eth;v&aelig;ttr can take two turns each round. They can't take turns consecutively.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": false,
-          "action": "P",
-          "description": "<p>At the end of each of their turns, the Jar&eth;v&aelig;ttr can take  damage to end one effect on them that can be ended by a attribute test. This damage can't be reduced in any way.</p><p>The Jar&eth;v&aelig;ttr can take two turns each round. They can't take turns consecutively.</p>"
-        },
-        "adept": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456695,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "106Kceo3c3vcbHr3",
-      "name": "Rot-Bound Earth",
-      "type": "trait",
-      "img": "icons/creatures/abilities/dragon-fire-breath-orange.webp",
-      "system": {
-        "description": "<p>The Jar&eth;v&aelig;ttr cannot be forcibly moved more than 2 meters by any single effect. It ignores difficult terrain from stone or earth. When below 175 Toughness (Phase 2), its speed increases by 1 and all damage it deals increases by 3.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": false,
-          "action": "P",
-          "description": "<p>The Jar&eth;v&aelig;ttr cannot be forcibly moved more than 2 meters by any single effect. It ignores difficult terrain from stone or earth. When below 175 Toughness (Phase 2), its speed increases by 1 and all damage it deals increases by 3.</p>"
-        },
-        "adept": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456695,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "eOwjpRw2Rd3nFdtX",
-      "name": "Vent-Step",
-      "type": "trait",
-      "img": "icons/creatures/abilities/paw-print-pair-purple.webp",
-      "system": {
-        "description": "<p>Once per round as a free free action, the Jar&eth;v&aelig;ttr can sink into any adjacent geothermal vent and emerge from any other visible vent within 12 meters without provoking opportunity attacks.</p>",
-        "reference": "",
-        "novice": {
-          "isActive": false,
-          "action": "P",
-          "description": "<p>Once per round as a free free action, the Jar&eth;v&aelig;ttr can sink into any adjacent geothermal vent and emerge from any other visible vent within 12 meters without provoking opportunity attacks.</p>"
-        },
-        "adept": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "P",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456695,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "1UtC1bIG6bcoNa70",
-      "name": "Earthshaker Slam",
-      "type": "weapon",
-      "img": "icons/skills/melee/strike-polearm-light-orange.webp",
-      "system": {
-        "description": "<p>On a tier 2 or 3 result, the ground in a burst 1 around the target becomes difficult terrain until the end of the encounter.</p>",
-        "attribute": "strong",
-        "reference": "1handed",
-        "baseDamage": "1d10",
-        "bonusDamage": "",
-        "alternativeDamage": "",
-        "cost": "",
-        "number": 1,
-        "isArtifact": false,
-        "quality": "",
-        "qualities": {},
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "power": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456695,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "6ka7K12D3Tqv5ykn",
-      "name": "Vent Eruption",
-      "type": "trait",
-      "img": "icons/magic/fire/flame-burning-evocation-circle.webp",
-      "system": {
-        "description": "<p>A geothermal vent erupts at a point within 10 meters. Each creature within burst 2 of that point takes  fire damage and is pushed 2 meters. The eruption zone becomes difficult terrain until the end of the encounter.</p>",
-        "reference": "deadlybreath",
-        "novice": {
-          "isActive": true,
-          "action": "A",
-          "description": "<p>A geothermal vent erupts at a point within 10 meters. Each creature within burst 2 of that point takes  fire damage and is pushed 2 meters. The eruption zone becomes difficult terrain until the end of the encounter.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "A",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "A",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456695,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "1CLDuK6CSFmVulKl",
-      "name": "Reactive Tremor",
-      "type": "trait",
-      "img": "icons/magic/earth/stone-fist-strike-yellow.webp",
-      "system": {
-        "description": "<p>Creatures that fail are knocked prone.</p>",
-        "reference": "deadlybreath",
-        "novice": {
-          "isActive": true,
-          "action": "R",
-          "description": "<p>Creatures that fail are knocked prone.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "R",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "R",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456695,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "ineeVE2MZPTsqpmc",
-      "name": "Crumbling Advance",
-      "type": "trait",
-      "img": "icons/magic/earth/projectile-stone-boulder.webp",
-      "system": {
-        "description": "<p>The Jar\\u00f0v\\u00e6ttr moves up to its speed. This movement does not provoke opportunity attacks. Each meters (2 m) it moves through becomes difficult terrain. Each creature in a meters (2 m) it passes adjacent to takes  damage.</p>",
-        "reference": "deadlybreath",
-        "novice": {
-          "isActive": true,
-          "action": "S",
-          "description": "<p>The Jar\\u00f0v\\u00e6ttr moves up to its speed. This movement does not provoke opportunity attacks. Each meters (2 m) it moves through becomes difficult terrain. Each creature in a meters (2 m) it passes adjacent to takes  damage.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "S",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "S",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456695,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "13CxKdeRAsQDFipB",
-      "name": "Magma Surge",
-      "type": "trait",
-      "img": "icons/magic/fire/projectile-fireball-smoke-large.webp",
-      "system": {
-        "description": "<p>On a tier 3 result, targets are also on fire (save ends). Ground in the affected area counts as difficult terrain until the encounter ends.</p>",
-        "reference": "deadlybreath",
-        "novice": {
-          "isActive": true,
-          "action": "S",
-          "description": "<p>On a tier 3 result, targets are also on fire (save ends). Ground in the affected area counts as difficult terrain until the encounter ends.</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "S",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "S",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456695,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "1ElWnNF8iLjM9jdY",
-      "name": "Cataclysmic Upheaval",
-      "type": "trait",
-      "img": "icons/magic/earth/spike-protrusion-mountain-orange.webp",
-      "system": {
-        "description": "<p>The Jar\\u00f0v\\u00e6ttr slams both fists into the earth, triggering a cataclysmic upheaval. Each creature in burst 5 takes  damage and is knocked prone. Stone pillars erupt from the ground in up to 6 unoccupied meters within the burst, creating blocking terrain. The entire affected area becomes difficult terrain until the end of the encounter. Creatures that fail a Might attribute test are also slowed (save ends).</p>",
-        "reference": "deadlybreath",
-        "novice": {
-          "isActive": true,
-          "action": "S",
-          "description": "<p>The Jar\\u00f0v\\u00e6ttr slams both fists into the earth, triggering a cataclysmic upheaval. Each creature in burst 5 takes  damage and is knocked prone. Stone pillars erupt from the ground in up to 6 unoccupied meters within the burst, creating blocking terrain. The entire affected area becomes difficult terrain until the end of the encounter. Creatures that fail a Might attribute test are also slowed (save ends).</p>"
-        },
-        "adept": {
-          "isActive": true,
-          "action": "S",
-          "description": ""
-        },
-        "master": {
-          "isActive": false,
-          "action": "S",
-          "description": ""
-        },
-        "bonus": {
-          "defense": 0,
-          "accurate": 0,
-          "cunning": 0,
-          "discreet": 0,
-          "persuasive": 0,
-          "quick": 0,
-          "resolute": 0,
-          "strong": 0,
-          "vigilant": 0,
-          "toughness": {
-            "max": 0,
-            "threshold": 0
-          },
-          "corruption": {
-            "max": 0,
-            "threshold": 0
-          },
-          "experience": {
-            "value": 0,
-            "cost": 0
-          }
-        },
-        "isArtifact": false,
-        "power": {},
-        "qualities": {},
-        "marker": "",
-        "state": "active"
-      },
-      "effects": [],
-      "flags": {},
-      "sort": 0,
-      "ownership": {
-        "default": 0
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13",
-        "systemId": "symbaroum",
-        "systemVersion": null,
-        "createdTime": 1782919456695,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      }
-    },
-    {
-      "_id": "XIYteUWbhPFlv90I",
-      "name": "alternativedamage",
+      "_id": "16Ycg7nSKal7EMYw",
+      "name": "Alternativedamage",
       "type": "trait",
       "img": "systems/symbaroum/asset/image/trait.png",
       "system": {
@@ -809,14 +187,84 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456695,
+        "createdTime": 1782971273088,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
     },
     {
-      "_id": "12R4Y8QdruVVvTs1",
-      "name": "regeneration",
+      "_id": "ym6rZhLCMNzNLS00",
+      "name": "Deadlybreath",
+      "type": "trait",
+      "img": "systems/symbaroum/asset/image/trait.png",
+      "system": {
+        "description": "",
+        "reference": "deadlybreath",
+        "novice": {
+          "isActive": true,
+          "action": "P",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "P",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782971273088,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1QPr1FeWdZbgtran",
+      "name": "Regeneration",
       "type": "trait",
       "img": "systems/symbaroum/asset/image/trait.png",
       "system": {
@@ -879,14 +327,14 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456695,
+        "createdTime": 1782971273088,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
     },
     {
-      "_id": "13FpzsjgV72Dh2uZ",
-      "name": "rootwall",
+      "_id": "1Di8m3Fiyfp5B9LE",
+      "name": "Rootwall",
       "type": "trait",
       "img": "systems/symbaroum/asset/image/trait.png",
       "system": {
@@ -949,32 +397,32 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456695,
+        "createdTime": 1782971273088,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
     },
     {
-      "_id": "1dVqRTOdPrD9qJoy",
-      "name": "Robust",
-      "type": "trait",
-      "img": "systems/symbaroum/asset/image/trait.png",
+      "_id": "1DTabmVMEVjAj5oT",
+      "name": "Featofstrength",
+      "type": "ability",
+      "img": "systems/symbaroum/asset/image/ability.png",
       "system": {
         "description": "",
-        "reference": "robust",
+        "reference": "featofstrength",
         "novice": {
           "isActive": true,
-          "action": "P",
+          "action": "A",
           "description": ""
         },
         "adept": {
           "isActive": false,
-          "action": "P",
+          "action": "A",
           "description": ""
         },
         "master": {
           "isActive": false,
-          "action": "P",
+          "action": "A",
           "description": ""
         },
         "bonus": {
@@ -1019,7 +467,139 @@
         "coreVersion": "13",
         "systemId": "symbaroum",
         "systemVersion": null,
-        "createdTime": 1782919456695,
+        "createdTime": 1782971273088,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "qF7LobvaZjeuNC4D",
+      "name": "Twohandedforce",
+      "type": "ability",
+      "img": "systems/symbaroum/asset/image/ability.png",
+      "system": {
+        "description": "",
+        "reference": "twohandedforce",
+        "novice": {
+          "isActive": true,
+          "action": "A",
+          "description": ""
+        },
+        "adept": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "master": {
+          "isActive": false,
+          "action": "A",
+          "description": ""
+        },
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "isArtifact": false,
+        "power": {},
+        "qualities": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782971273088,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1UtC1bIG6bcoNa70",
+      "name": "Earthshaker Slam",
+      "type": "weapon",
+      "img": "icons/skills/melee/strike-polearm-light-orange.webp",
+      "system": {
+        "description": "<p>On a tier 2 or 3 result, the ground in a burst 1 around the target becomes difficult terrain until the end of the scene.</p>",
+        "attribute": "strong",
+        "reference": "unarmed",
+        "baseDamage": "1d10",
+        "bonusDamage": "",
+        "alternativeDamage": "",
+        "cost": "",
+        "number": 1,
+        "isArtifact": false,
+        "quality": "",
+        "qualities": {},
+        "bonus": {
+          "defense": 0,
+          "accurate": 0,
+          "cunning": 0,
+          "discreet": 0,
+          "persuasive": 0,
+          "quick": 0,
+          "resolute": 0,
+          "strong": 0,
+          "vigilant": 0,
+          "toughness": {
+            "max": 0,
+            "threshold": 0
+          },
+          "corruption": {
+            "max": 0,
+            "threshold": 0
+          },
+          "experience": {
+            "value": 0,
+            "cost": 0
+          }
+        },
+        "power": {},
+        "marker": "",
+        "state": "active"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13",
+        "systemId": "symbaroum",
+        "systemVersion": null,
+        "createdTime": 1782971273088,
         "modifiedTime": null,
         "lastModifiedBy": null
       }
@@ -1133,7 +713,7 @@
     "coreVersion": "13",
     "systemId": "symbaroum",
     "systemVersion": null,
-    "createdTime": 1782919456695,
+    "createdTime": 1782971273088,
     "modifiedTime": null,
     "lastModifiedBy": null
   }

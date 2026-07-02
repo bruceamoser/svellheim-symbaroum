@@ -85,8 +85,8 @@
     "bio": {
       "race": "Human",
       "occupation": "NPC",
-      "quote": "Rickety Frets is a spirit-shade — the anchored ghost of an ancient skald and historian who refused to leave their post in the Bioluminescent Library. They have remained here for centuries, cataloguing",
-      "shadow": "",
+      "quote": "",
+      "shadow": "Rickety Frets is a spirit-shade — the anchored ghost of an ancient skald and historian who refused to leave their post in the Bioluminescent Library. They have remained here for centuries, cataloguing Svellheim’s history even as everything they documented died. They are very tall, very thin, and cad",
       "manner": ""
     },
     "bonus": {
@@ -133,7 +133,7 @@
     "name": "Rickety Frets",
     "displayName": 20,
     "actorLink": false,
-    "disposition": -1,
+    "disposition": 0,
     "width": 1,
     "height": 1,
     "texture": {
@@ -230,7 +230,7 @@
     "coreVersion": "13",
     "systemId": "symbaroum",
     "systemVersion": null,
-    "createdTime": 1782919472229,
+    "createdTime": 1782971273167,
     "modifiedTime": null,
     "lastModifiedBy": null
   }

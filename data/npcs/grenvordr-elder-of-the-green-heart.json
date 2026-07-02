@@ -85,8 +85,8 @@
     "bio": {
       "race": "Human",
       "occupation": "NPC",
-      "quote": "Grénvörðr (meaning \"green guardian\") is the keeper of the Green Heart's threshold — an ancient elf-adjacent being whose skin has the color of deep bark and whose eyes are gold like the light in the ce",
-      "shadow": "",
+      "quote": "",
+      "shadow": "Grénvörðr (meaning \"green guardian\") is the keeper of the Green Heart's threshold — an ancient elf-adjacent being whose skin has the color of deep bark and whose eyes are gold like the light in the central tree. She has tended the grove since before human kingdoms had names. She is not hostile but i",
       "manner": ""
     },
     "bonus": {
@@ -133,7 +133,7 @@
     "name": "GrÃ©nvÃ¶rÃ°r (Elder of the Green Heart)",
     "displayName": 20,
     "actorLink": false,
-    "disposition": -1,
+    "disposition": 0,
     "width": 1,
     "height": 1,
     "texture": {
@@ -230,7 +230,7 @@
     "coreVersion": "13",
     "systemId": "symbaroum",
     "systemVersion": null,
-    "createdTime": 1782919472207,
+    "createdTime": 1782971273158,
     "modifiedTime": null,
     "lastModifiedBy": null
   }
